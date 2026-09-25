@@ -13,7 +13,7 @@ AT A GLANCE
 
 MARKETS
 {% for g in market_groups %}{% for r in g.rows %}
-{{ r.name }}: {{ r.value }} ({{ r.change }})
+{{ r.name }}: {{ r.value }} ({{ r.change }}) as of {{ r.as_of_label }}
 {% endfor %}{% endfor %}
 {% if briefing.stories %}
 

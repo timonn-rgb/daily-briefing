@@ -36,6 +36,15 @@ def test_email_files_written(rendered):
     assert "Read the full briefing: https://me.github.io/daily-briefing/2026-09-26/" in text
 
 
+def test_email_market_rows_show_as_of_date(rendered):
+    # sample edition is Saturday 26 Sep, markets as of Friday - the email must show that,
+    # since it hides the phone-only sparkline column and has no separate "as of" column.
+    html = (rendered / "email.html").read_text(encoding="utf-8")
+    text = (rendered / "email.txt").read_text(encoding="utf-8")
+    assert "Fri 25 Sep" in html
+    assert "Fri 25 Sep" in text
+
+
 def test_build_message_handles_non_ascii():
     msg = send_email.build_message("me@gmail.com", "me@gmail.com", "☀ Sep 26 · Zölle & Märkte",
                                    "<p>Hallo</p>", "Hallo")

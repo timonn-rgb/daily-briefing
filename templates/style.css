@@ -30,4 +30,4 @@ svg.chart .grid{stroke:var(--line)}svg.chart .axis{fill:var(--muted);font-size:1
 .section-title{text-transform:uppercase;letter-spacing:.05em;font-size:.85rem;color:var(--muted)}
 .archive li{padding:6px 0;border-bottom:1px solid var(--line);list-style:none}.archive{padding:0}
 footer{margin-top:3em;border-top:1px solid var(--line);font-size:.85rem}
-@media (max-width:560px){.movers{grid-template-columns:1fr}.markets th:nth-child(n+4),.markets td:nth-child(n+4){display:none}}
+@media (max-width:560px){.movers{grid-template-columns:1fr}.markets th:nth-child(4),.markets td:nth-child(4){display:none}}

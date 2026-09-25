@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from briefing.config import load_config
+from briefing.config import ROOT, load_config
 from briefing.render import render_edition
 
 
@@ -42,6 +42,14 @@ def test_full_edition_page(edition):
 def test_weekend_edition_shows_last_trading_day(edition):
     _, page, _ = edition()  # sample edition is Saturday 26 Sep, markets as of Friday
     assert "Fri 25 Sep" in page
+
+
+def test_phone_css_hides_sparkline_but_keeps_as_of_column():
+    css = (ROOT / "templates" / "style.css").read_text(encoding="utf-8")
+    # The markets table is Market, Value, Change, 30 days, As of - only the 4th (sparkline)
+    # column should be hidden on phones; "As of" (5th) must stay visible.
+    assert ".markets th:nth-child(4)" in css or ".markets td:nth-child(4)" in css
+    assert "nth-child(n+4)" not in css
 
 
 def test_missing_market_shows_dash(edition):
