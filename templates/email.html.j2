@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{{ subject }}</title></head>
+<body style="margin:0;padding:0;background:#f4f3ef;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f3ef;"><tr><td align="center" style="padding:16px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:#ffffff;border-radius:10px;font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#1d1d1f;">
+<tr><td style="padding:24px 24px 8px;">
+  <p style="margin:0;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#6b6b70;">Daily Briefing · {{ date_long }}</p>
+  <h1 style="margin:6px 0 0;font-size:22px;line-height:1.3;">{{ briefing.headline }}</h1>
+</td></tr>
+{% for b in banners %}
+<tr><td style="padding:8px 24px;"><p style="margin:0;padding:10px 12px;background:#fff4d6;color:#7a5200;border-radius:6px;font-size:14px;">{{ b }}</p></td></tr>
+{% endfor %}
+{% if briefing.at_a_glance %}
+<tr><td style="padding:12px 24px;">
+  <h2 style="font-size:16px;margin:0 0 6px;">At a glance</h2>
+  <ul style="margin:0;padding-left:20px;font-size:15px;line-height:1.5;">{% for item in briefing.at_a_glance %}<li style="margin-bottom:4px;">{{ item }}</li>{% endfor %}</ul>
+</td></tr>
+{% endif %}
+<tr><td style="padding:12px 24px;">
+  <h2 style="font-size:16px;margin:0 0 6px;">Markets</h2>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-size:14px;border-collapse:collapse;">
+  {% for g in market_groups %}{% for r in g.rows %}
+    <tr>
+      <td style="padding:4px 0;border-bottom:1px solid #eeeeee;">{{ r.name }}</td>
+      <td align="right" style="padding:4px 0;border-bottom:1px solid #eeeeee;">{{ r.value }}</td>
+      <td align="right" style="padding:4px 0 4px 10px;border-bottom:1px solid #eeeeee;color:{{ colors[r.dir] }};white-space:nowrap;">{{ r.change }}</td>
+      <td align="right" style="padding:4px 0 4px 10px;border-bottom:1px solid #eeeeee;color:#6b6b70;font-size:12px;white-space:nowrap;">{{ r.as_of_label }}</td>
+    </tr>
+  {% endfor %}{% endfor %}
+  </table>
+</td></tr>
+{% if briefing.stories %}
+<tr><td style="padding:12px 24px;">
+  <h2 style="font-size:16px;margin:0 0 6px;">Top stories</h2>
+  {% for st in briefing.stories %}<p style="margin:0 0 10px;font-size:15px;line-height:1.45;"><strong>{{ st.title }}</strong><br><span style="color:#444444;">{{ st.why_it_matters }}</span></p>
+  {% endfor %}
+</td></tr>
+{% endif %}
+{% if briefing.top_headlines %}
+<tr><td style="padding:12px 24px;">
+  <h2 style="font-size:16px;margin:0 0 6px;">Top headlines</h2>
+  {% for h in briefing.top_headlines %}<p style="margin:0 0 8px;font-size:15px;"><a href="{{ h.sources[0].url }}" style="color:#1f5eff;">{{ h.title }}</a></p>
+  {% endfor %}
+</td></tr>
+{% endif %}
+<tr><td align="center" style="padding:16px 24px 28px;">
+  <a href="{{ page_url }}" style="display:inline-block;background:#1f5eff;color:#ffffff;text-decoration:none;padding:12px 22px;border-radius:8px;font-weight:600;">Read the full briefing →</a>
+</td></tr>
+<tr><td style="padding:0 24px 20px;font-size:12px;color:#6b6b70;">Data as of {{ data_as_of }}. Not investment advice.</td></tr>
+</table>
+</td></tr></table>
+</body>
+</html>

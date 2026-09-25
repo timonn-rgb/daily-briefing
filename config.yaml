@@ -1,0 +1,69 @@
+# Daily Briefing settings. Change feeds, tickers or the model here, not in code.
+timezone: Europe/Berlin
+send_hour: 6                 # the briefing is produced in the 06:00–07:59 local window
+schedule_enabled: false      # set to true after the first manual runs look good (Task 13)
+model: claude-sonnet-5       # must match claude_args in .github/workflows/daily.yml
+site_base_url: https://timonn-rgb.github.io/daily-briefing   # set in Task 13
+lookback_hours: 24
+max_headlines: 300
+stories_max: 10
+
+# Order matters: when two feeds carry the same story, the earlier feed is listed first.
+feeds:
+  - {name: Reuters, url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en", region: world}
+  - {name: AP News, url: "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en", region: world}
+  - {name: BBC World, url: "https://feeds.bbci.co.uk/news/world/rss.xml", region: world}
+  - {name: BBC Business, url: "https://feeds.bbci.co.uk/news/business/rss.xml", region: business}
+  - {name: Guardian World, url: "https://www.theguardian.com/world/rss", region: world}
+  - {name: Guardian Business, url: "https://www.theguardian.com/uk/business/rss", region: business}
+  - {name: NYT World, url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", region: world}
+  - {name: NYT Business, url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", region: business}
+  - {name: Al Jazeera, url: "https://www.aljazeera.com/xml/rss/all.xml", region: world}
+  - {name: DW, url: "https://rss.dw.com/rdf/rss-en-all", region: world}
+  - {name: France 24, url: "https://www.france24.com/en/rss", region: world}
+  - {name: NPR World, url: "https://feeds.npr.org/1004/rss.xml", region: world}
+  - {name: Nikkei Asia, url: "https://asia.nikkei.com/rss/feed/nar", region: asia}
+  - {name: FT World, url: "https://www.ft.com/world?format=rss", region: world}
+  - {name: FT Markets, url: "https://www.ft.com/markets?format=rss", region: markets}
+  - {name: Bloomberg Markets, url: "https://feeds.bloomberg.com/markets/news.rss", region: markets}
+  - {name: Bloomberg Politics, url: "https://feeds.bloomberg.com/politics/news.rss", region: world}
+  - {name: CNBC Top News, url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", region: markets}
+  - {name: CNBC World, url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362", region: world}
+  - {name: MarketWatch, url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", region: markets}
+
+# unit: index (default) | yield (change shown in basis points) | fx
+markets:
+  us:
+    - {symbol: "^GSPC", name: "S&P 500"}
+    - {symbol: "^IXIC", name: "Nasdaq Composite"}
+    - {symbol: "^DJI", name: "Dow Jones"}
+    - {symbol: "ES=F", name: "S&P 500 futures"}
+    - {symbol: "NQ=F", name: "Nasdaq 100 futures"}
+    - {symbol: "^VIX", name: "VIX volatility"}
+    - {symbol: "^TNX", name: "US 10-year yield", unit: yield}
+  europe:
+    - {symbol: "^GDAXI", name: "DAX"}
+    - {symbol: "^FTSE", name: "FTSE 100"}
+    - {symbol: "^STOXX50E", name: "Euro Stoxx 50"}
+  asia:
+    - {symbol: "^N225", name: "Nikkei 225"}
+    - {symbol: "^HSI", name: "Hang Seng"}
+    - {symbol: "000001.SS", name: "Shanghai Composite"}
+  other:
+    - {symbol: "EURUSD=X", name: "EUR/USD", unit: fx}
+    - {symbol: "JPY=X", name: "USD/JPY", unit: fx}
+    - {symbol: "DX-Y.NYB", name: "US dollar index"}
+    - {symbol: "CL=F", name: "WTI crude oil"}
+    - {symbol: "BZ=F", name: "Brent crude oil"}
+    - {symbol: "GC=F", name: "Gold"}
+    - {symbol: "BTC-USD", name: "Bitcoin"}
+
+sp500_file: resources/sp500.csv
+movers_count: 5
+
+calendar_url: https://nfs.faireconomy.media/ff_calendar_thisweek.json
+calendar_countries: [USD, EUR, GBP, JPY, CNY]
+calendar_min_impact: High     # High | Medium | Low
+
+earnings_watch: [AAPL, MSFT, NVDA, AMZN, GOOGL, META, TSLA, AVGO, BRK-B, JPM, LLY, V, MA, WMT, XOM,
+                 UNH, ORCL, COST, NFLX, JNJ, HD, PG, BAC, ABBV, KO, CRM, AMD, ADBE, NKE, MU, FDX]
