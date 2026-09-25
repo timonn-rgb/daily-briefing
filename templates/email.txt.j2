@@ -1,0 +1,34 @@
+{{ briefing.headline }}
+Daily Briefing · {{ date_long }}
+{% for b in banners %}
+{{ b }}
+{% endfor %}
+{% if briefing.at_a_glance %}
+
+AT A GLANCE
+{% for item in briefing.at_a_glance %}
+- {{ item }}
+{% endfor %}
+{% endif %}
+
+MARKETS
+{% for g in market_groups %}{% for r in g.rows %}
+{{ r.name }}: {{ r.value }} ({{ r.change }})
+{% endfor %}{% endfor %}
+{% if briefing.stories %}
+
+TOP STORIES
+{% for st in briefing.stories %}
+- {{ st.title }}: {{ st.why_it_matters }}
+{% endfor %}
+{% endif %}
+{% if briefing.top_headlines %}
+
+TOP HEADLINES
+{% for h in briefing.top_headlines %}
+- {{ h.title }} ({{ h.sources[0].url }})
+{% endfor %}
+{% endif %}
+
+Read the full briefing: {{ page_url }}
+Data as of {{ data_as_of }}. Not investment advice.

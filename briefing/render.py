@@ -15,6 +15,7 @@ from briefing.formatting import GROUP_TITLES, direction, fmt_change, fmt_date_sh
 from briefing.validate import SECTIONS, load_briefing, validate_briefing
 
 WORDS_PER_MINUTE = 220
+EMAIL_COLORS = {"up": "#0a7f3f", "down": "#c0262d", "flat": "#6b6b70"}
 
 
 def make_env() -> Environment:
@@ -122,6 +123,18 @@ def write_index(site_dir: Path, latest: str) -> None:
     )
 
 
+def subject_for(date_iso: str, headline: str) -> str:
+    d = date.fromisoformat(date_iso)
+    return f"☀ {d:%b} {d.day} · {headline}"
+
+
+def render_email(ctx: dict, env: Environment) -> tuple[str, str, str]:
+    subject = subject_for(ctx["date"], ctx["briefing"]["headline"])
+    html = env.get_template("email.html.j2").render(subject=subject, colors=EMAIL_COLORS, **ctx)
+    text = env.get_template("email.txt.j2").render(**ctx)
+    return subject, html, text
+
+
 def render_edition(data_dir: Path, site_dir: Path, cfg: dict) -> dict:
     input_data = json.loads((data_dir / "input.json").read_text(encoding="utf-8"))
     briefing, problems = validate_briefing(load_briefing(data_dir / "briefing.json"), input_data,
@@ -139,6 +152,10 @@ def render_edition(data_dir: Path, site_dir: Path, cfg: dict) -> dict:
     (page_dir / "index.html").write_text(env.get_template("page.html.j2").render(**ctx), encoding="utf-8")
     editions = update_archive(site_dir, day, briefing["headline"], env)
     write_index(site_dir, editions[0]["date"])
+    subject, email_html, email_text = render_email(ctx, env)
+    (data_dir / "subject.txt").write_text(subject, encoding="utf-8")
+    (data_dir / "email.html").write_text(email_html, encoding="utf-8")
+    (data_dir / "email.txt").write_text(email_text, encoding="utf-8")
     return {"context": ctx, "is_raw": is_raw, "editions": editions}
 
 
