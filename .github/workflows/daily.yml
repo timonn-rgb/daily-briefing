@@ -32,6 +32,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
+          persist-credentials: false
 
       - uses: actions/setup-python@v5
         with:
@@ -67,7 +68,13 @@ jobs:
           claude_args: |
             --model claude-sonnet-5
             --max-turns 6
-            --allowedTools "Read,Write"
+            --allowedTools "Read,Edit(data/**)"
+
+      - name: Verify Claude only touched data/ (security tripwire)
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git diff --exit-code -- . ':!data'
+          test -z "$(git ls-files --others --exclude-standard -- . ':!data')"
 
       - name: Check Claude's output
         id: check
@@ -93,7 +100,13 @@ jobs:
           claude_args: |
             --model claude-sonnet-5
             --max-turns 6
-            --allowedTools "Read,Write"
+            --allowedTools "Read,Edit(data/**)"
+
+      - name: Verify Claude only touched data/ (security tripwire, retry)
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git diff --exit-code -- . ':!data'
+          test -z "$(git ls-files --others --exclude-standard -- . ':!data')"
 
       - name: Render page and email (raw edition if Claude's output is unusable)
         if: steps.gate.outputs.run == 'true'
@@ -101,9 +114,12 @@ jobs:
 
       - name: Commit edition
         if: steps.gate.outputs.run == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
           git add data site
           git commit -m "Briefing ${{ steps.gate.outputs.date }}" || echo "Nothing to commit"
           git pull --rebase

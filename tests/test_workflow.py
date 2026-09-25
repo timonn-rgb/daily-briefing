@@ -29,7 +29,9 @@ def test_claude_steps_use_subscription_and_config_model():
         assert s["with"]["claude_code_oauth_token"] == "${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}"
         assert "anthropic_api_key" not in s["with"]
         assert f"--model {model}" in s["with"]["claude_args"]
-        assert '--allowedTools "Read,Write"' in s["with"]["claude_args"]
+        # Write itself can't be path-scoped (Claude Code accepts a Write(path) rule but never
+        # consults it); Edit(path) is the documented, enforced way to scope the Write tool too.
+        assert '--allowedTools "Read,Edit(data/**)"' in s["with"]["claude_args"]
         assert "--max-turns 6" in s["with"]["claude_args"]
         assert s["timeout-minutes"] == 10 and s["continue-on-error"] is True
 
@@ -68,3 +70,33 @@ def test_commit_steps_rebase_before_pushing():
     for s in commit_steps:
         run = s["run"]
         assert run.index("git pull --rebase") < run.index("git push")
+
+
+def test_checkout_does_not_persist_credentials():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    checkout = next(s for s in steps if s.get("uses", "").startswith("actions/checkout"))
+    assert checkout["with"]["persist-credentials"] is False
+
+
+def test_commit_edition_step_grants_push_credentials_after_claude_ran():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    commit = next(s for s in steps if s.get("name") == "Commit edition")
+    assert "git remote set-url origin" in commit["run"]
+    assert "x-access-token" in commit["run"]
+    assert commit["env"]["GH_TOKEN"] == "${{ secrets.GITHUB_TOKEN }}"
+
+
+def test_guard_step_after_each_claude_step_and_before_render():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    claude_indices = [i for i, s in enumerate(steps) if s.get("uses", "").startswith("anthropics/claude-code-action")]
+    assert len(claude_indices) == 2
+    render_index = next(i for i, s in enumerate(steps) if "briefing.render" in s.get("run", ""))
+    for i in claude_indices:
+        guard = steps[i + 1]
+        assert guard["if"] == "steps.gate.outputs.run == 'true'"
+        assert "git diff --exit-code -- . ':!data'" in guard["run"]
+        assert "git ls-files --others --exclude-standard -- . ':!data'" in guard["run"]
+        assert i + 1 < render_index
