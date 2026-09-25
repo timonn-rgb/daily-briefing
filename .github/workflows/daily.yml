@@ -1,0 +1,129 @@
+name: Daily Briefing
+
+on:
+  schedule:
+    # 04:15 and 05:15 UTC. One of them is 06:15 in Berlin in both summer (CEST) and winter (CET).
+    # briefing.gate lets through only a run in the 06:00–07:59 Berlin window that hasn't been sent yet.
+    - cron: "15 4 * * *"
+    - cron: "15 5 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run now, even outside the send window, if already sent, or while the schedule is disabled"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check send window
+        id: gate
+        run: python -m briefing.gate ${{ inputs.force && '--force' || '' }}
+
+      - name: Collect news and market data
+        if: steps.gate.outputs.run == 'true'
+        run: python -m briefing.collect --date ${{ steps.gate.outputs.date }}
+
+      - name: Write briefing with Claude
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        timeout-minutes: 10
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: |
+            Follow the instructions in prompts/writer.md.
+            Input file: data/${{ steps.gate.outputs.date }}/writer_input.md
+            Output file: data/${{ steps.gate.outputs.date }}/briefing.json
+          claude_args: |
+            --model claude-sonnet-5
+            --max-turns 6
+            --allowedTools "Read,Write"
+
+      - name: Check Claude's output
+        id: check
+        if: steps.gate.outputs.run == 'true'
+        run: python -m briefing.validate --dir data/${{ steps.gate.outputs.date }}
+
+      - name: Remove invalid output before retry
+        if: steps.gate.outputs.run == 'true' && steps.check.outputs.valid != 'true'
+        run: rm -f data/${{ steps.gate.outputs.date }}/briefing.json
+
+      - name: Write briefing with Claude (retry)
+        if: steps.gate.outputs.run == 'true' && steps.check.outputs.valid != 'true'
+        continue-on-error: true
+        timeout-minutes: 10
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: |
+            Follow the instructions in prompts/writer.md.
+            Input file: data/${{ steps.gate.outputs.date }}/writer_input.md
+            Output file: data/${{ steps.gate.outputs.date }}/briefing.json
+          claude_args: |
+            --model claude-sonnet-5
+            --max-turns 6
+            --allowedTools "Read,Write"
+
+      - name: Render page and email (raw edition if Claude's output is unusable)
+        if: steps.gate.outputs.run == 'true'
+        run: python -m briefing.render --date ${{ steps.gate.outputs.date }}
+
+      - name: Commit edition
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site
+          git commit -m "Briefing ${{ steps.gate.outputs.date }}" || echo "Nothing to commit"
+          git push
+
+      - name: Upload site
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/deploy-pages@v4
+
+      - name: Send email
+        if: steps.gate.outputs.run == 'true'
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          BRIEFING_TO: ${{ secrets.BRIEFING_TO }}
+        run: python -m briefing.send_email --dir data/${{ steps.gate.outputs.date }}
+
+      - name: Record that the email was sent
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git add data/${{ steps.gate.outputs.date }}/sent
+          git commit -m "Sent briefing ${{ steps.gate.outputs.date }}"
+          git push
