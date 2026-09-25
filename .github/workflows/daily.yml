@@ -30,6 +30,8 @@ jobs:
       name: github-pages
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
@@ -38,6 +40,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Pull branch tip (catch up with an overlapping run)
+        run: git pull --ff-only
 
       - name: Check send window
         id: gate
@@ -101,6 +106,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data site
           git commit -m "Briefing ${{ steps.gate.outputs.date }}" || echo "Nothing to commit"
+          git pull --rebase
           git push
 
       - name: Upload site
@@ -126,4 +132,5 @@ jobs:
         run: |
           git add data/${{ steps.gate.outputs.date }}/sent
           git commit -m "Sent briefing ${{ steps.gate.outputs.date }}"
+          git pull --rebase
           git push

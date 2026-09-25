@@ -42,3 +42,29 @@ def test_only_site_is_published_and_secrets_are_referenced():
     email = next(s for s in steps if "briefing.send_email" in s.get("run", ""))
     assert set(email["env"]) == {"GMAIL_ADDRESS", "GMAIL_APP_PASSWORD", "BRIEFING_TO"}
     assert wf["concurrency"]["cancel-in-progress"] is False
+
+
+def test_checkout_uses_branch_tip():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    checkout = next(s for s in steps if s.get("uses", "").startswith("actions/checkout"))
+    assert checkout["with"]["ref"] == "${{ github.ref_name }}"
+
+
+def test_pulls_branch_tip_right_before_the_gate():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    gate_index = next(i for i, s in enumerate(steps) if s.get("id") == "gate")
+    checkout_index = next(i for i, s in enumerate(steps) if s.get("uses", "").startswith("actions/checkout"))
+    pull_steps = [s for s in steps[checkout_index:gate_index] if "git pull --ff-only" in s.get("run", "")]
+    assert len(pull_steps) == 1
+
+
+def test_commit_steps_rebase_before_pushing():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    commit_steps = [s for s in steps if "git commit" in s.get("run", "") and "git push" in s.get("run", "")]
+    assert len(commit_steps) == 2  # commit edition, record sent marker
+    for s in commit_steps:
+        run = s["run"]
+        assert run.index("git pull --rebase") < run.index("git push")
