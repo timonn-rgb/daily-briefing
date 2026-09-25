@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Daily Briefing · {{ date }}</title>
+<style>{% include "style.css" %}</style>
+</head>
+<body>
+<main>
+<header>
+  <p class="kicker">Daily Briefing · {{ date_long }}</p>
+  <h1>{{ briefing.headline }}</h1>
+  <p class="meta">{{ reading_minutes }} min read · data as of {{ data_as_of }}</p>
+</header>
+
+{% for b in banners %}<p class="banner">{{ b }}</p>
+{% endfor %}
+
+{% if briefing.at_a_glance %}
+<section>
+  <h2>At a glance</h2>
+  <ul>{% for item in briefing.at_a_glance %}<li>{{ item }}</li>{% endfor %}</ul>
+</section>
+{% endif %}
+
+<section>
+  <h2>Markets</h2>
+  {% if spx_chart %}<figure style="margin:0">{{ spx_chart | safe }}</figure>{% endif %}
+  {% for g in market_groups %}
+  <h3>{{ g.title }}</h3>
+  <table class="markets">
+    <thead><tr><th>Market</th><th class="num">Value</th><th class="num">Change</th><th>30 days</th><th>As of</th></tr></thead>
+    <tbody>
+    {% for r in g.rows %}
+      <tr><td>{{ r.name }}</td><td class="num">{{ r.value }}</td><td class="num {{ r.dir }}">{{ r.change }}</td><td>{{ r.spark | safe }}</td><td class="asof">{{ r.as_of_label }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% endfor %}
+
+  {% if movers.gainers or movers.losers %}
+  <h3>S&amp;P 500 movers{% if movers.as_of %} · {{ movers_as_of }}{% endif %}</h3>
+  <div class="movers">
+  {% for label, rows in [("Top gainers", movers.gainers), ("Top losers", movers.losers)] %}
+    <div>
+      <h4>{{ label }}</h4>
+      <ul>{% for m in rows %}<li><span class="sym">{{ m.symbol }}</span> {{ m.name }} <span class="{{ 'up' if m.change_pct > 0 else 'down' }}">{{ "%+.1f" | format(m.change_pct) }}%</span>{% if briefing.mover_notes.get(m.symbol) %}<br><small>{{ briefing.mover_notes[m.symbol] }}</small>{% endif %}</li>{% endfor %}</ul>
+    </div>
+  {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if analysis_paragraphs %}
+  <h3>Analysis</h3>
+  {% for para in analysis_paragraphs %}<p>{{ para }}</p>
+  {% endfor %}
+  {% endif %}
+</section>
+
+{% if sections %}
+<section>
+  <h2>World news</h2>
+  {% for s in sections %}
+  <h3 class="section-title">{{ s.title }}</h3>
+  {% for st in s.stories %}
+  <article class="story">
+    <h4>{{ st.title }}{% if st.single_source %} <span class="tag">single-source report</span>{% endif %}</h4>
+    <p>{{ st.summary }}</p>
+    <p class="why"><strong>Why it matters:</strong> {{ st.why_it_matters }}</p>
+    <p class="sources">Sources: {% for src in st.sources %}<a href="{{ src.url }}" rel="noopener">{{ src.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+  </article>
+  {% endfor %}
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if briefing.top_headlines %}
+<section>
+  <h2>Top headlines</h2>
+  <ul>{% for h in briefing.top_headlines %}<li><a href="{{ h.sources[0].url }}" rel="noopener">{{ h.title }}</a> <small>{{ h.sources | map(attribute="name") | join(", ") }}</small></li>{% endfor %}</ul>
+</section>
+{% endif %}
+
+<section>
+  <h2>Today's calendar</h2>
+  {% if calendar %}
+  <table>
+    <thead><tr><th>Time</th><th>Region</th><th>Event</th><th class="num">Forecast</th><th class="num">Previous</th></tr></thead>
+    <tbody>
+    {% for e in calendar %}<tr><td>{{ e.time }}</td><td>{{ e.country }}</td><td>{{ e.title }}</td><td class="num">{{ e.forecast or "–" }}</td><td class="num">{{ e.previous or "–" }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% else %}<p class="muted">No major economic releases found for today.</p>{% endif %}
+  {% if earnings %}<p><strong>Earnings today:</strong> {{ earnings | join(", ") }}</p>{% endif %}
+</section>
+
+{% if briefing.watch_today %}
+<section>
+  <h2>Watch today</h2>
+  <ol>{% for w in briefing.watch_today %}<li>{{ w }}</li>{% endfor %}</ol>
+</section>
+{% endif %}
+
+<footer>
+  <p><a href="../archive.html">Archive of past briefings</a></p>
+  <p class="muted">Market data from Yahoo Finance, calendar from ForexFactory, data as of {{ data_as_of }}. Story summaries written by Claude from the linked sources. Not investment advice.</p>
+</footer>
+</main>
+</body>
+</html>
