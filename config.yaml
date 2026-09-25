@@ -30,8 +30,6 @@ feeds:
   - {name: CNBC Top News, url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", region: markets}
   - {name: CNBC World, url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362", region: world}
   - {name: MarketWatch, url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", region: markets}
-  - {name: WSJ Markets, url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", region: markets}
-  - {name: Yahoo Finance, url: "https://finance.yahoo.com/news/rssindex", region: markets}
 
 # unit: index (default) | yield (change shown in basis points) | fx
 markets:
