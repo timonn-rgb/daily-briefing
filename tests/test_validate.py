@@ -40,6 +40,15 @@ def test_lists_are_trimmed_and_stories_capped(sample_input, sample_briefing):
     assert len(clean["stories"]) == 3
 
 
+def test_headline_internal_whitespace_is_collapsed(sample_input, sample_briefing):
+    # A newline inside the headline goes straight into the email Subject header and
+    # EmailMessage raises on it, so internal whitespace (not just leading/trailing) must go.
+    sample_briefing["headline"] = "Rates on hold\nas ceasefire   talks\tresume"
+    clean, problems = validate_briefing(sample_briefing, sample_input)
+    assert problems == []
+    assert clean["headline"] == "Rates on hold as ceasefire talks resume"
+
+
 def test_missing_headline_or_non_object_is_invalid(sample_input, sample_briefing):
     sample_briefing["headline"] = "  "
     assert validate_briefing(sample_briefing, sample_input)[0] is None

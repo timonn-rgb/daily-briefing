@@ -65,7 +65,9 @@ def _clean_story(i: int, story, by_id: dict) -> tuple[dict | None, str | None]:
 def validate_briefing(raw, input_data: dict, max_stories: int = 10) -> tuple[dict | None, list[str]]:
     if not isinstance(raw, dict):
         return None, ["briefing is not a JSON object"]
-    headline = _text(raw.get("headline"))
+    # Collapse internal whitespace too: the headline goes straight into the email Subject
+    # header, and a stray newline there makes EmailMessage raise.
+    headline = " ".join(_text(raw.get("headline")).split())
     if not headline:
         return None, ["missing headline"]
     by_id = {h["id"]: h for h in input_data["news"]}
