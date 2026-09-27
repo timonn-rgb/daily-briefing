@@ -1,7 +1,7 @@
 # Daily Briefing settings. Change feeds, tickers or the model here, not in code.
 timezone: Europe/Berlin
 send_hour: 6                 # the briefing is produced in the 06:00–07:59 local window
-schedule_enabled: false      # set to true after the first manual runs look good (Task 13)
+schedule_enabled: true       # daily run at ~06:15 Berlin time
 model: claude-sonnet-5       # must match claude_args in .github/workflows/daily.yml
 site_base_url: https://timonn-rgb.github.io/daily-briefing   # set in Task 13
 lookback_hours: 24
