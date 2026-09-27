@@ -54,6 +54,7 @@ jobs:
         run: python -m briefing.collect --date ${{ steps.gate.outputs.date }}
 
       - name: Write briefing with Claude
+        id: write
         if: steps.gate.outputs.run == 'true'
         continue-on-error: true
         timeout-minutes: 10
@@ -76,6 +77,14 @@ jobs:
           git diff --exit-code -- . ':!data'
           test -z "$(git ls-files --others --exclude-standard -- . ':!data')"
 
+      # The action hides Claude's output; surface its final result message so a failed
+      # Claude step shows *why* in the run summary instead of silently becoming a raw edition.
+      - name: Show Claude's error
+        if: steps.gate.outputs.run == 'true' && steps.write.outcome == 'failure'
+        env:
+          EXEC_FILE: ${{ steps.write.outputs.execution_file }}
+        run: python -m briefing.claude_error "$EXEC_FILE"
+
       - name: Check Claude's output
         id: check
         if: steps.gate.outputs.run == 'true'
@@ -86,6 +95,7 @@ jobs:
         run: rm -f data/${{ steps.gate.outputs.date }}/briefing.json
 
       - name: Write briefing with Claude (retry)
+        id: write_retry
         if: steps.gate.outputs.run == 'true' && steps.check.outputs.valid != 'true'
         continue-on-error: true
         timeout-minutes: 10
@@ -107,6 +117,12 @@ jobs:
         run: |
           git diff --exit-code -- . ':!data'
           test -z "$(git ls-files --others --exclude-standard -- . ':!data')"
+
+      - name: Show Claude's error (retry)
+        if: steps.gate.outputs.run == 'true' && steps.write_retry.outcome == 'failure'
+        env:
+          EXEC_FILE: ${{ steps.write_retry.outputs.execution_file }}
+        run: python -m briefing.claude_error "$EXEC_FILE"
 
       - name: Render page and email (raw edition if Claude's output is unusable)
         if: steps.gate.outputs.run == 'true'
