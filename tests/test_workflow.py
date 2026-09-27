@@ -100,3 +100,15 @@ def test_guard_step_after_each_claude_step_and_before_render():
         assert "git diff --exit-code -- . ':!data'" in guard["run"]
         assert "git ls-files --others --exclude-standard -- . ':!data'" in guard["run"]
         assert i + 1 < render_index
+
+
+def test_claude_failures_are_surfaced_after_each_claude_step():
+    wf, _ = load()
+    steps = wf["jobs"]["briefing"]["steps"]
+    claude_indices = [i for i, s in enumerate(steps) if s.get("uses", "").startswith("anthropics/claude-code-action")]
+    for i in claude_indices:
+        step_id = steps[i]["id"]
+        report = steps[i + 2]  # right after the security guard
+        assert report["if"] == f"steps.gate.outputs.run == 'true' && steps.{step_id}.outcome == 'failure'"
+        assert report["env"]["EXEC_FILE"] == f"${{{{ steps.{step_id}.outputs.execution_file }}}}"
+        assert report["run"] == 'python -m briefing.claude_error "$EXEC_FILE"'
