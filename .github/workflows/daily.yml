@@ -2,8 +2,9 @@ name: Daily Briefing
 
 on:
   schedule:
-    # 04:15 and 05:15 UTC. One of them is 06:15 in Berlin in both summer (CEST) and winter (CET).
-    # briefing.gate lets through only a run in the 06:00–07:59 Berlin window that hasn't been sent yet.
+    # Backup only: the main trigger is cron-job.org calling workflow_dispatch (force=false) at
+    # 06:10 Berlin time, because GitHub often starts scheduled runs hours late. briefing.gate lets
+    # through only a run in the 06:00–15:59 Berlin window that hasn't been sent yet.
     - cron: "15 4 * * *"
     - cron: "15 5 * * *"
   workflow_dispatch:

@@ -1,7 +1,9 @@
 """Decides whether this workflow run should produce today's edition.
 
-GitHub cron is UTC and often late, so the workflow fires at 04:15 and 05:15 UTC and this gate
-accepts any run between send_hour:00 and send_hour+2:00 local time that hasn't been sent yet.
+The main trigger is an external timer (cron-job.org) that starts the workflow at 06:10 local time.
+GitHub's own cron (04:15 and 05:15 UTC) stays as a backup, but GitHub often starts it hours late,
+so this gate accepts any run between send_hour:00 and send_until_hour:00 local time that hasn't
+been sent yet. The "sent" marker guarantees at most one briefing per day.
 """
 from __future__ import annotations
 
@@ -14,15 +16,15 @@ from briefing.config import ROOT, load_config
 from briefing.dates import edition_date, local_now
 
 
-def should_run(now_utc: datetime, tz: str, send_hour: int, data_dir: Path, enabled: bool,
-               force: bool = False) -> tuple[bool, str, str]:
+def should_run(now_utc: datetime, tz: str, send_hour: int, send_until_hour: int, data_dir: Path,
+               enabled: bool, force: bool = False) -> tuple[bool, str, str]:
     day = edition_date(now_utc, tz)
     if force:
         return True, day, "forced"
     if not enabled:
         return False, day, "schedule disabled in config.yaml (schedule_enabled: false)"
     hour = local_now(now_utc, tz).hour
-    if not send_hour <= hour < send_hour + 2:
+    if not send_hour <= hour < send_until_hour:
         return False, day, f"local hour {hour} is outside the send window"
     if (data_dir / day / "sent").exists():
         return False, day, "already sent today"
@@ -36,7 +38,7 @@ def main(argv: list[str] | None = None) -> None:
     args = parser.parse_args(argv)
     cfg = load_config()
     ok, day, reason = should_run(datetime.now(timezone.utc), cfg["timezone"], cfg["send_hour"],
-                                 Path(args.data_dir), cfg["schedule_enabled"], args.force)
+                                 cfg["send_until_hour"], Path(args.data_dir), cfg["schedule_enabled"], args.force)
     print(f"{'RUN' if ok else 'SKIP'} {day}: {reason}")
     github_output = os.environ.get("GITHUB_OUTPUT")
     if github_output:

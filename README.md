@@ -6,10 +6,15 @@ emails it out.
 
 ## How it runs
 
-A GitHub Actions workflow (`.github/workflows/daily.yml`) runs on a schedule and
-targets 06:15 Berlin time (it fires twice, at 04:15 and 05:15 UTC, so one of the two
-runs lands in the right local hour whether Berlin is on CEST or CET; `briefing.gate`
-decides which run, if either, actually produces an edition).
+A GitHub Actions workflow (`.github/workflows/daily.yml`) produces the briefing.
+
+- **Main trigger:** a cron-job.org job calls GitHub's API at **06:10 Berlin time** to start
+  the workflow (`workflow_dispatch` with `force=false`). It uses a fine-grained GitHub token
+  that can only run this repo's workflows (it expires; see Maintenance).
+- **Backup:** GitHub's own schedule (04:15 and 05:15 UTC). GitHub often starts these
+  hours late, so `briefing.gate` accepts any run from 06:00 to 15:59 Berlin time
+  (`send_hour` / `send_until_hour` in `config.yaml`) and skips once today's email was sent.
+  You get at most one briefing a day.
 
 Each run: collects news and market data, asks Claude to write the summary (with one
 retry if the first attempt is unusable), renders the web page and email, commits the
@@ -58,6 +63,11 @@ Set these in the repo's Settings → Secrets and variables → Actions:
 
 ## Maintenance
 
+- Before the cron-job.org token expires: create a new fine-grained GitHub token
+  (this repo only, permission Actions: read and write) and paste it into the
+  cron-job.org job's `Authorization: Bearer …` header. If briefings start arriving
+  around midday instead of ~06:15, the token or the cron-job.org job is the first
+  thing to check (the job's history shows GitHub's response; it should be 204).
 - Every few months: `python -m scripts.update_sp500` to refresh the list of S&P 500
   constituents used for the movers section.
 - If the page shows a "Limited sources today" banner regularly: run

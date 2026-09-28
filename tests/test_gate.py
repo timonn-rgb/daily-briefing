@@ -10,7 +10,7 @@ def utc(y, m, d, h, mi):
 
 
 def run(now, tmp_path, enabled=True, force=False):
-    return should_run(now, TZ, 6, tmp_path, enabled, force)
+    return should_run(now, TZ, 6, 16, tmp_path, enabled, force)
 
 
 def test_summer_first_cron_runs_second_skips_after_send(tmp_path):
@@ -44,7 +44,12 @@ def test_dst_switch_days(tmp_path):
 def test_late_run_still_sends(tmp_path):
     ok, _, _ = run(utc(2026, 9, 26, 5, 50), tmp_path)  # 07:50 CEST, GitHub ran very late
     assert ok
-    assert run(utc(2026, 9, 26, 6, 5), tmp_path)[0] is False  # 08:05 is too late
+    # GitHub's backup cron really started at 10:51 UTC (12:51 CEST) on 2026-09-28
+    assert run(utc(2026, 9, 28, 10, 51), tmp_path)[0] is True
+    assert run(utc(2026, 9, 28, 13, 59), tmp_path)[0] is True   # 15:59 CEST, last minute
+    ok, _, reason = run(utc(2026, 9, 28, 14, 0), tmp_path)       # 16:00 CEST is too late
+    assert not ok and "outside the send window" in reason
+    assert run(utc(2026, 9, 28, 3, 59), tmp_path)[0] is False    # 05:59 CEST is too early
 
 
 def test_disabled_schedule_and_force(tmp_path):
