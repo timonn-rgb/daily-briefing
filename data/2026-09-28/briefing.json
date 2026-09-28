@@ -1,0 +1,99 @@
+{
+  "headline": "Oil surges as Iran talks collapse; UK probes base bomb plot; Nvidia's $150bn buyback",
+  "at_a_glance": [
+    "Oil prices jumped and Treasury yields climbed after Trump rejected Iran's proposal to reopen the Strait of Hormuz, unsettling global markets.",
+    "UK counter-terror police are questioning five men arrested near RAF Fairford, a base used by the US in strikes on Iran.",
+    "The US and China unveiled tariff cuts on $60 billion of goods following last week's Trump-Xi summit in Washington.",
+    "Nvidia announced a record $150 billion share buyback and a new platform meant to stop AI agents from misbehaving.",
+    "Serbia's President Vucic resigned to run for prime minister at an early election, while France's far right made record Senate gains."
+  ],
+  "market_analysis": "US stocks closed higher on Friday, with the Dow leading (+0.93%), the S&P 500 up 0.51% and the Nasdaq up 0.48%; the 10-year Treasury yield stood at 5.18%. Chip and industrial names such as Bloom Energy, ON Semiconductor, Microchip Technology, Generac and Dell led gainers, while Gen Digital, Charter Communications, Palo Alto Networks, Devon Energy and GoDaddy lagged. Sentiment has since turned more cautious: S&P 500 futures are down 0.45% and Nasdaq 100 futures down 0.81% this morning, with the VIX up 9.41% to 16.27, after President Trump rejected Iran's proposal to reopen the Strait of Hormuz over the weekend.\n\nIn Asia, the Nikkei 225 fell 0.73% and the Shanghai Composite dropped 1.67%, while the Hang Seng gained 0.54%. European trading is mixed and largely flat: the DAX is roughly unchanged (-0.01%), the FTSE 100 is up 0.22% and the Euro Stoxx 50 up 0.06%, with UK housebuilders rallying on a new government first-time-buyer scheme. WTI crude rose 3.61% to $95.75 while gold fell 3.20% to $4,183.10 and bitcoin fell 1.75% to $82,980.10, as rising yields and Middle East tensions drove volatility across assets.\n\nNo economic data releases or watch-list earnings are scheduled for today. Nvidia's newly announced $150 billion share buyback is in focus for tech investors, and markets are looking ahead to a busy week of US economic data that officials say could strengthen the case for further Federal Reserve action.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Economy & Policy",
+      "title": "Oil jumps and bond yields climb as Iran talks stall",
+      "summary": "Oil prices jumped more than 4% and government bond yields rose after President Trump rejected an Iranian proposal to reopen the Strait of Hormuz over the weekend, with Tehran saying it has no plans to negotiate with the US. The renewed impasse pushed crude higher and deepened a sell-off in government bonds, with the 10-year Treasury yield pushing above 5.2%. US stock futures fell and the VIX volatility index jumped in response. Iran's foreign minister said Tehran was ready for a prolonged conflict but left diplomacy on the table.",
+      "why_it_matters": "A prolonged standoff over the Strait of Hormuz threatens a key oil shipping route and is already feeding through into higher energy costs and borrowing costs worldwide.",
+      "headline_ids": ["h008", "h004", "h120", "h164", "h007"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "UK questions five men over suspected bomb plot near US-linked air base",
+      "summary": "British counter-terrorism police are questioning five UK nationals arrested near RAF Fairford, an air base used by US forces for strikes on Iran, on suspicion of preparing a terrorist act. Investigators are examining a possible Iran link, and officials say security had already been raised at the base before the incident. President Trump said the US worked with Britain to help prevent an attack, while the UK defence secretary declined to directly tie the arrests to the Iran conflict.",
+      "why_it_matters": "A confirmed Iran-linked plot against a base used for US operations would mark a significant escalation of the conflict onto UK soil.",
+      "headline_ids": ["h003", "h009", "h036", "h108", "h115", "h140", "h191", "h230"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US and China unveil tariff cuts on $60bn of goods",
+      "summary": "The US and China published lists of goods that will see reduced tariffs on $60 billion of trade, covering items such as toys, sports equipment and Christmas decorations from the US side and Chinese purchases of US farm products, following last week's Trump-Xi summit in Washington. China's list excludes soybeans and LNG, prompting criticism that agricultural markets were left wanting more. The move is part of a broader effort to stabilize relations ahead of further negotiations.",
+      "why_it_matters": "Lower tariffs on a significant slice of bilateral trade could ease cost pressures for businesses, though the exclusion of major farm exports limits relief for US agriculture.",
+      "headline_ids": ["h013", "h049", "h194", "h239", "h275", "h298", "h065"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia announces $150bn buyback and new AI agent safety platform",
+      "summary": "Nvidia announced a $150 billion share buyback program, one of the largest in corporate history, to run through January 2028, as its share-price gains have slowed this year. Separately, Nvidia launched a new software platform designed to stop AI agents from misbehaving, which it says could have prevented the recent OpenAI Hugging Face incident. Nvidia shares were among the biggest premarket movers alongside Meta and United Airlines.",
+      "why_it_matters": "The buyback signals management confidence despite a slowing share-price trajectory, while the safety platform responds to growing scrutiny of autonomous AI agents after a high-profile security incident.",
+      "headline_ids": ["h005", "h057", "h002", "h088", "h139"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Serbia's Vucic resigns as president to run for prime minister",
+      "summary": "Serbia's populist President Aleksandar Vucic resigned in order to run for prime minister at an early parliamentary election. The move comes amid an ongoing student-led protest movement that has challenged his rule. Analysts say the snap vote is unlikely to resolve the country's political crisis or defuse the pressure Vucic faces.",
+      "why_it_matters": "The resignation reshapes the leadership of a Balkan state central to EU accession talks and regional stability.",
+      "headline_ids": ["h001", "h240"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France's far right makes record gains in Senate elections",
+      "summary": "France's far-right National Rally and its allies won a record 14 seats in Sunday's partial Senate elections, roughly quadrupling its presence in the 348-seat upper chamber. Party leader Marine Le Pen called it a historic victory and said it would boost her 2027 presidential bid. A separate poll showed Le Pen and hard-left leader Jean-Luc Melenchon as the likely finalists in a future presidential run-off.",
+      "why_it_matters": "Growing far-right and far-left strength in French institutions ahead of the 2027 presidential election points to a more polarized political landscape in the EU's second-largest economy.",
+      "headline_ids": ["h054", "h145", "h149", "h207"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Sweden left in political deadlock as coalition talks collapse",
+      "summary": "Swedish Social Democratic leader Magdalena Andersson abandoned her attempt to form a government after her election-winning center-left bloc failed to overcome internal divisions. The setback leaves Sweden in political deadlock several weeks after the vote. It underscores the difficulty of building a stable coalition in the country's fragmented parliament.",
+      "why_it_matters": "Continued deadlock in a major Nordic economy delays policy decisions and adds uncertainty for EU partners and investors.",
+      "headline_ids": ["h062", "h167", "h217"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK diesel prices hit record high amid supply crunch",
+      "summary": "UK diesel prices hit an all-time high of 199.18p a litre, according to the RAC, as the Iran conflict continues to disrupt fuel supply chains across Europe. In the US, President Trump is reportedly considering a diesel export ban to address a domestic supply crunch, though analysts including Goldman Sachs warn it could raise US gasoline prices while pushing global diesel prices even higher. Refinery disruptions and geopolitical tensions are cited as key drivers of the squeeze.",
+      "why_it_matters": "Sustained high diesel costs raise expenses for freight, farming and industry across Europe and could feed into broader inflation if a US export ban proceeds.",
+      "headline_ids": ["h032", "h096", "h135", "h014", "h154", "h107"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Two mass shootings in South Africa leave 28 dead",
+      "summary": "Two mass shootings in South Africa left at least 28 people dead, according to authorities, with the death toll from a tavern shooting rising after one more victim died. Police are hunting for the gunmen involved. The attacks occurred hours apart as the country continues to struggle with high levels of gang-related armed violence.",
+      "why_it_matters": "The violence underscores persistent security challenges in South Africa ahead of municipal elections in November.",
+      "headline_ids": ["h028", "h233", "h242"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Northern Star rejects $27bn takeover bid from Gold Fields",
+      "summary": "Northern Star Resources, Australia's biggest gold miner, rejected a $27 billion takeover proposal from South Africa's Gold Fields that would have created the world's second-largest gold producer. Northern Star's shares rose on the news. Activist investor Elliott Management has called on Northern Star to hold talks with Gold Fields regardless.",
+      "why_it_matters": "A deal of this size would reshape the global gold mining industry; its rejection leaves consolidation prospects and pressure from activist investors unresolved.",
+      "headline_ids": ["h017", "h226", "h297"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Investors will watch for any sign of renewed US-Iran diplomacy over the Strait of Hormuz, given oil's direct market impact.",
+    "Traders are looking ahead to a busy week of US economic data that officials say could bolster the case for further Federal Reserve action.",
+    "UK counter-terror investigators are expected to provide further updates on the men arrested near RAF Fairford as the probe into a possible Iran link continues."
+  ]
+}

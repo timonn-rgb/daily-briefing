@@ -1,0 +1,46 @@
+Oil surges as Iran talks collapse; UK probes base bomb plot; Nvidia's $150bn buyback
+Daily Briefing · Monday, 28 September 2026
+
+AT A GLANCE
+- Oil prices jumped and Treasury yields climbed after Trump rejected Iran's proposal to reopen the Strait of Hormuz, unsettling global markets.
+- UK counter-terror police are questioning five men arrested near RAF Fairford, a base used by the US in strikes on Iran.
+- The US and China unveiled tariff cuts on $60 billion of goods following last week's Trump-Xi summit in Washington.
+- Nvidia announced a record $150 billion share buyback and a new platform meant to stop AI agents from misbehaving.
+- Serbia's President Vucic resigned to run for prime minister at an early election, while France's far right made record Senate gains.
+
+MARKETS
+S&P 500: 7,743.41 (+0.51%) as of Fri 25 Sep
+Nasdaq Composite: 27,068.72 (+0.48%) as of Fri 25 Sep
+Dow Jones: 51,828.62 (+0.93%) as of Fri 25 Sep
+S&P 500 futures: 7,768.50 (-0.45%) as of Mon 28 Sep
+Nasdaq 100 futures: 30,639.00 (-0.81%) as of Mon 28 Sep
+VIX volatility: 16.27 (+9.41%) as of Mon 28 Sep
+US 10-year yield: 5.18% (+2 bp) as of Fri 25 Sep
+DAX: 25,405.17 (-0.01%) as of Mon 28 Sep
+FTSE 100: 10,719.30 (+0.22%) as of Mon 28 Sep
+Euro Stoxx 50: 6,306.43 (+0.06%) as of Mon 28 Sep
+Nikkei 225: 65,877.62 (-0.73%) as of Mon 28 Sep
+Hang Seng: 24,642.51 (+0.54%) as of Mon 28 Sep
+Shanghai Composite: 3,823.62 (-1.67%) as of Mon 28 Sep
+EUR/USD: 1.1375 (+0.00%) as of Mon 28 Sep
+USD/JPY: 156.99 (-1.15%) as of Mon 28 Sep
+US dollar index: 101.12 (+0.15%) as of Mon 28 Sep
+WTI crude oil: 95.75 (+3.61%) as of Mon 28 Sep
+Brent crude oil: 100.49 (-3.67%) as of Mon 28 Sep
+Gold: 4,183.10 (-3.20%) as of Mon 28 Sep
+Bitcoin: 82,980.10 (-1.75%) as of Mon 28 Sep
+
+TOP STORIES
+- Oil jumps and bond yields climb as Iran talks stall: A prolonged standoff over the Strait of Hormuz threatens a key oil shipping route and is already feeding through into higher energy costs and borrowing costs worldwide.
+- UK questions five men over suspected bomb plot near US-linked air base: A confirmed Iran-linked plot against a base used for US operations would mark a significant escalation of the conflict onto UK soil.
+- US and China unveil tariff cuts on $60bn of goods: Lower tariffs on a significant slice of bilateral trade could ease cost pressures for businesses, though the exclusion of major farm exports limits relief for US agriculture.
+- Nvidia announces $150bn buyback and new AI agent safety platform: The buyback signals management confidence despite a slowing share-price trajectory, while the safety platform responds to growing scrutiny of autonomous AI agents after a high-profile security incident.
+- Serbia's Vucic resigns as president to run for prime minister: The resignation reshapes the leadership of a Balkan state central to EU accession talks and regional stability.
+- France's far right makes record gains in Senate elections: Growing far-right and far-left strength in French institutions ahead of the 2027 presidential election points to a more polarized political landscape in the EU's second-largest economy.
+- Sweden left in political deadlock as coalition talks collapse: Continued deadlock in a major Nordic economy delays policy decisions and adds uncertainty for EU partners and investors.
+- UK diesel prices hit record high amid supply crunch: Sustained high diesel costs raise expenses for freight, farming and industry across Europe and could feed into broader inflation if a US export ban proceeds.
+- Two mass shootings in South Africa leave 28 dead: The violence underscores persistent security challenges in South Africa ahead of municipal elections in November.
+- Northern Star rejects $27bn takeover bid from Gold Fields: A deal of this size would reshape the global gold mining industry; its rejection leaves consolidation prospects and pressure from activist investors unresolved.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-09-28/
+Data as of 13:52 CEST. Not investment advice.
