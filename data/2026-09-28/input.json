@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T11:52:13.378596+00:00",
+ "generated_at": "2026-09-28T11:55:58.783381+00:00",
  "timezone": "Europe/Berlin",
  "news": [
   {
@@ -81,7 +81,7 @@
   },
   {
    "title": "Nvidia launches record $150bn share buyback",
-   "summary": "Chipmaker’s plan to repurchase stock comes as share-price gains have slowed this year",
+   "summary": "Chipmaker’s plan to repurchase stock comes as share price gains have slowed this year",
    "published": "2026-09-28T11:23:16+00:00",
    "region": "world",
    "sources": [
@@ -539,6 +539,32 @@
    "id": "h031"
   },
   {
+   "title": "Five men arrested over alleged RAF Fairford terror plot are all UK nationals",
+   "summary": "Suspects detained are in their twenties and residents of London",
+   "published": "2026-09-28T11:53:32+00:00",
+   "region": "world",
+   "sources": [
+    {
+     "name": "FT World",
+     "url": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1"
+    }
+   ],
+   "id": "h032"
+  },
+  {
+   "title": "Stock futures drop to start the week as oil prices and Treasury yields rise: Live updates",
+   "summary": "Stock futures fell early Monday, weighed down by a jump in oil prices and Treasury yields to start the week.",
+   "published": "2026-09-28T11:52:56+00:00",
+   "region": "markets",
+   "sources": [
+    {
+     "name": "CNBC Top News",
+     "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
+    }
+   ],
+   "id": "h033"
+  },
+  {
    "title": "Why UK diesel prices have hit an all-time high",
    "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
    "published": "2026-09-28T11:50:18+00:00",
@@ -549,7 +575,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h032"
+   "id": "h034"
   },
   {
    "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
@@ -562,7 +588,7 @@
      "url": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories"
     }
    ],
-   "id": "h033"
+   "id": "h035"
   },
   {
    "title": "Hungary lifts PM Peter Magyar’s immunity, clears way for probes into 2 former Orban ministers",
@@ -575,7 +601,7 @@
      "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h034"
+   "id": "h036"
   },
   {
    "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
@@ -588,20 +614,7 @@
      "url": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss"
     }
    ],
-   "id": "h035"
-  },
-  {
-   "title": "Five men arrested near RAF Fairford are all UK nationals",
-   "summary": "Donald Trump and Wes Streeting had suggested the UK authorities were already aware of men’s activities",
-   "published": "2026-09-28T11:42:07+00:00",
-   "region": "world",
-   "sources": [
-    {
-     "name": "FT World",
-     "url": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1"
-    }
-   ],
-   "id": "h036"
+   "id": "h037"
   },
   {
    "title": "Fighting between rival forces in Somalia’s Baidoa",
@@ -614,7 +627,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss"
     }
    ],
-   "id": "h037"
+   "id": "h038"
   },
   {
    "title": "John Healey addresses Labour conference in first speech as chancellor – UK politics live",
@@ -627,7 +640,7 @@
      "url": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates"
     }
    ],
-   "id": "h038"
+   "id": "h039"
   },
   {
    "title": "Fiscal Discipline to Be at Core of UK Budget, Healey Says",
@@ -638,19 +651,6 @@
     {
      "name": "Bloomberg Politics",
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/fiscal-discipline-to-be-at-core-of-uk-budget-healey-video"
-    }
-   ],
-   "id": "h039"
-  },
-  {
-   "title": "Stock futures drop to start the week as oil prices and Treasury yields rise: Live updates",
-   "summary": "Stock futures fell early Monday, weighed down by a jump in oil prices and Treasury yields to start the week.",
-   "published": "2026-09-28T11:38:27+00:00",
-   "region": "markets",
-   "sources": [
-    {
-     "name": "CNBC Top News",
-     "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
     }
    ],
    "id": "h040"
@@ -786,6 +786,19 @@
    "id": "h050"
   },
   {
+   "title": "South Korea summons Ukraine envoy in protest over North Korean POW transfer - Reuters",
+   "summary": "South Korea summons Ukraine envoy in protest over North Korean POW transfer Reuters",
+   "published": "2026-09-28T11:27:41+00:00",
+   "region": "world",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZEZZQkdQbzBWc2w2dnZyVW5mNkxSaThhLXdfLWlSczFtRHM1alR2bzd1a1pwM3FDQzliVGhKcUJRUWJua0xHTFUwdGZBRm95MlFlay1RSUo0NmRlbVR5enZtQW1PdW1RYy1ZSHJJa1BpU3dhWkNRRHN0VEFRZVdtZnVWSjdybkZCd29fWmtISlBwVGljMDRQeUw1WlBON19IRzFReFE3OUVqZ3NQRkxZRWctTjRzWUhFMVUzekVfdlNFOExrLXR6UnV2SExzUXcy?oc=5"
+    }
+   ],
+   "id": "h051"
+  },
+  {
    "title": "The history of this market’s bad-breadth signal points to risks ahead",
    "summary": "Not since the dot-com bubble have stocks thrown up this concerning metric.",
    "published": "2026-09-28T11:26:00+00:00",
@@ -796,7 +809,7 @@
      "url": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories"
     }
    ],
-   "id": "h051"
+   "id": "h052"
   },
   {
    "title": "Homebuilders just surged on a new UK government scheme. Analysts name the stocks that could benefit most",
@@ -809,7 +822,7 @@
      "url": "https://www.cnbc.com/2026/09/28/housebuilders-uk-labour-stocks.html"
     }
    ],
-   "id": "h052"
+   "id": "h053"
   },
   {
    "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
@@ -822,7 +835,7 @@
      "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates"
     }
    ],
-   "id": "h053"
+   "id": "h054"
   },
   {
    "title": "Le Pen hails 'victory' as French far right secures record 14 seats in Senate",
@@ -835,7 +848,7 @@
      "url": "https://www.france24.com/en/video/20260928-le-pen-hails-victory-as-french-far-right-secures-record-14-seats-in-senate"
     }
    ],
-   "id": "h054"
+   "id": "h055"
   },
   {
    "title": "Pope decries 'scourge' of sexual abuse during France visit",
@@ -848,7 +861,7 @@
      "url": "https://www.dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h055"
+   "id": "h056"
   },
   {
    "title": "Here’s What Fans Paid for Harry Styles Tickets at M.S.G.",
@@ -861,7 +874,7 @@
      "url": "https://www.nytimes.com/2026/09/28/arts/music/harry-styles-msg-ticket-prices-affordability.html"
     }
    ],
-   "id": "h056"
+   "id": "h057"
   },
   {
    "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
@@ -874,7 +887,7 @@
      "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories"
     }
    ],
-   "id": "h057"
+   "id": "h058"
   },
   {
    "title": "Pope wraps up 'hugely successful' France visit with Metz speech",
@@ -887,7 +900,7 @@
      "url": "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech"
     }
    ],
-   "id": "h058"
+   "id": "h059"
   },
   {
    "title": "Thailand floods: At least 8 die, thousands move to shelters",
@@ -900,7 +913,7 @@
      "url": "https://www.france24.com/en/video/20260928-thailand-floods-at-least-8-die-thousands-move-to-shelters"
     }
    ],
-   "id": "h059"
+   "id": "h060"
   },
   {
    "title": "UK housebuilder shares rally on help for first-time buyers - Reuters",
@@ -913,7 +926,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZms1S01qaFhFc2lHcXREZlV1blJKZzVRckxlaUhVTk1lTW8tb2pRQXRCLU9pRUthYmNOOU8yamtWNkJKUS1ZQWxzaUxlWTZHUTg5Tk93cFFOY1ZBSlptM3owYmh3OS1FRnBxWlZyRTF2ZnFSZmxKZFc1YUFjUDFpVjRjRlhZbVBWY0xEbUhKUnRRczZ6bm45MGozN1ByMEtRb3pwNmxVZU4?oc=5"
     }
    ],
-   "id": "h060"
+   "id": "h061"
   },
   {
    "title": "Saudi Arabia’s Key Oil Pipeline Starts Exports After Repairs",
@@ -926,7 +939,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/saudi-arabia-s-crucial-oil-pipeline-starts-exports-after-repairs"
     }
    ],
-   "id": "h061"
+   "id": "h062"
   },
   {
    "title": "Sweden faces political deadlock after Andersson gives up attempt to form government - Reuters",
@@ -939,7 +952,7 @@
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0xVd08xc25HQjlSNU5kWTVzZVJ0T2FkaWtIbnR5WFVuekJObFNTdzJ4Y3dKUEVoVmZHZUpzVkZwV050WVNDeDhMZ3hjQlZaRXJDVExYSURDUGh1RFBHZHZNMDlGTW1jOVdfQWh5YlNOWEtUYzlvck00RFctVWRMNnZVU3BMSThpZldNVmpnTHVuMk9kY3JpenVqNkFYb3NvbXZCRDRmZzNFRnpKRFUxTDkzMGZZV1p2cDVPa01OYmY?oc=5"
     }
    ],
-   "id": "h062"
+   "id": "h063"
   },
   {
    "title": "‘Counting window’ seen as high-risk time for Trump to cast doubt on midterm results | First Thing",
@@ -952,7 +965,7 @@
      "url": "https://www.theguardian.com/us-news/2026/sep/28/first-thing-counting-window-risk-trump-midterm-results"
     }
    ],
-   "id": "h063"
+   "id": "h064"
   },
   {
    "title": "US Stocks Decline as Middle East Stalemate Pushes Oil Higher",
@@ -965,7 +978,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/us-stocks-decline-as-middle-east-stalemate-pushes-oil-higher"
     }
    ],
-   "id": "h064"
+   "id": "h065"
   },
   {
    "title": "The Trump-Xi Summit Leaves Agricultural Markets Wanting More",
@@ -978,7 +991,7 @@
      "url": "https://www.bloomberg.com/news/newsletters/2026-09-28/the-trump-xi-summit-leaves-agricultural-markets-wanting-more"
     }
    ],
-   "id": "h065"
+   "id": "h066"
   },
   {
    "title": "Seoul demands an apology after Zelenskyy reveals North Korean POWs were sent to South Korea - AP News",
@@ -991,7 +1004,7 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWdVbEU2c0tSTW1sMVc0Zl9OYjNpY0M5MEJGVmF1aURiMTQ3R1ozNGhDS1F6bVBGclFwMVEyQmtTaUNRaHFoU290WU9iUllkbnZKTDYxYjNTWEJxLTNMLXNLb25UY3BzeGNxTUpPdnhpM0hfblNGLU5CQVA5M1VUb3dMenpFR3RrWTZFSmx2RHRXTDNPdjFXQ3Q2dkJUQmFEWEZLRmV3?oc=5"
     }
    ],
-   "id": "h066"
+   "id": "h067"
   },
   {
    "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
@@ -1004,7 +1017,7 @@
      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories"
     }
    ],
-   "id": "h067"
+   "id": "h068"
   },
   {
    "title": "Lord Mayor of London favourite pulls out over ‘criminal proceedings’ at former firm",
@@ -1017,7 +1030,7 @@
      "url": "https://www.ft.com/content/9d0437c4-e5ee-465d-92bc-9491c1baff93?syn-25a6b1a6=1"
     }
    ],
-   "id": "h068"
+   "id": "h069"
   },
   {
    "title": "Indian university suspends classes amid violent protests over alleged rape",
@@ -1030,7 +1043,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/indian-university-suspends-classes-amid-violent-protests-over-alleged-rape?traffic_source=rss"
     }
    ],
-   "id": "h069"
+   "id": "h070"
   },
   {
    "title": "Israeli football fans chant military slogans after defeat to Ireland",
@@ -1043,7 +1056,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss"
     }
    ],
-   "id": "h070"
+   "id": "h071"
   },
   {
    "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
@@ -1056,7 +1069,7 @@
      "url": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
     }
    ],
-   "id": "h071"
+   "id": "h072"
   },
   {
    "title": "German States Plot Moves to Stop Far-Right Holding Them Hostage",
@@ -1069,7 +1082,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/german-states-plot-moves-to-stop-far-right-holding-them-hostage"
     }
    ],
-   "id": "h072"
+   "id": "h073"
   },
   {
    "title": "What to know as trials over the assassination of Haiti’s president resume in Miami - AP News",
@@ -1082,7 +1095,7 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlFFc0dnUGNTdmI5ZUdwQzNDUWt5c280WWs0MUZCb3RxQmVXcVFuQ2swTVIzeEJGcmlVcWJrTm9qaHgtdmdlRE1CRkg1c1NQa0NFT1pDdmpweVBSbWZxX3ZZSHc3UXpOQ3VIZnh5VnNYV0ZaSEJ2TU9xQ1RtQW10VF9haDFVNmhLbVk3cVp1TjkxRjFFVnF1WXZLYTFtS2s0b0dN?oc=5"
     }
    ],
-   "id": "h073"
+   "id": "h074"
   },
   {
    "title": "Mexico's Pacific coast braces for Hurricane Polo",
@@ -1095,7 +1108,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h074"
+   "id": "h075"
   },
   {
    "title": "Prediction markets' push into US stocks raises regulatory alarm bells - Reuters",
@@ -1108,7 +1121,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0pOYnNmdEpnbENUb0xvWldjT19MWmZiMmNFSXJsMDgxTEM2d1ZaNXdKeVJ0X21ZaDc2TElGX3BGdlJJV1liclo0Y1RfRUM5LWRPd3h5NE5naHd1WWhzV3UzamdtSVUzWFVBOXBRN2JLQlk4a2Fkd2REZkJ5WWdqbF9LRkIyU3JaVDB1RzhPd3JuWGh0WkhtdHAtZnZueUptMDJ4Z1drMzZjZjFmTGNHd0N1amhLUWl5cUFnUnJn?oc=5"
     }
    ],
-   "id": "h075"
+   "id": "h076"
   },
   {
    "title": "How Trump is Using Federal Power to Try to Shape Who Votes",
@@ -1121,7 +1134,7 @@
      "url": "https://www.bloomberg.com/news/newsletters/2026-09-28/how-trump-is-using-federal-power-to-try-to-shape-who-votes"
     }
    ],
-   "id": "h076"
+   "id": "h077"
   },
   {
    "title": "Citi Recommends Buying China’s 30-Year Bonds on Weak Growth View",
@@ -1134,7 +1147,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/citi-recommends-buying-china-s-30-year-bonds-on-weak-growth-view"
     }
    ],
-   "id": "h077"
+   "id": "h078"
   },
   {
    "title": "A pullback is brewing, say these strategists who have examined every drawdown since 1956",
@@ -1147,7 +1160,7 @@
      "url": "https://www.marketwatch.com/story/a-pullback-is-brewing-say-these-strategists-who-have-examined-every-drawdown-since-1956-69e39d5f?mod=mw_rss_topstories"
     }
    ],
-   "id": "h078"
+   "id": "h079"
   },
   {
    "title": "Why Europe’s centre will hold",
@@ -1160,7 +1173,7 @@
      "url": "https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1"
     }
    ],
-   "id": "h079"
+   "id": "h080"
   },
   {
    "title": "Concern mounts over slow-moving, planetary-scale ‘kelvin’ wave heading for California",
@@ -1173,7 +1186,7 @@
      "url": "https://www.theguardian.com/us-news/2026/sep/28/california-kelvin-wave"
     }
    ],
-   "id": "h080"
+   "id": "h081"
   },
   {
    "title": "French Unions Plan Strikes to Pressure Government over Budget",
@@ -1186,7 +1199,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/french-unions-plan-strikes-to-pressure-government-over-budget"
     }
    ],
-   "id": "h081"
+   "id": "h082"
   },
   {
    "title": "‘Contract between humans and river’: Bristol Avon’s rights enshrined in charter",
@@ -1199,7 +1212,7 @@
      "url": "https://www.theguardian.com/environment/2026/sep/28/river-avon-charter-bristol"
     }
    ],
-   "id": "h082"
+   "id": "h083"
   },
   {
    "title": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters",
@@ -1212,7 +1225,7 @@
      "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections"
     }
    ],
-   "id": "h083"
+   "id": "h084"
   },
   {
    "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
@@ -1225,7 +1238,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss"
     }
    ],
-   "id": "h084"
+   "id": "h085"
   },
   {
    "title": "Whole Foods co-founder shares 3 tips for launching a successful second act: 'I'm relearning some lessons'",
@@ -1238,7 +1251,7 @@
      "url": "https://www.cnbc.com/2026/09/28/whole-foods-co-founders-3-tips-for-launching-a-successful-second-act.html"
     }
    ],
-   "id": "h085"
+   "id": "h086"
   },
   {
    "title": "Buffeted on All Sides, Chile Bond Traders Focus on the Fed",
@@ -1251,7 +1264,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/buffeted-on-all-sides-chile-bond-traders-focus-on-the-fed"
     }
    ],
-   "id": "h086"
+   "id": "h087"
   },
   {
    "title": "MLB | Latest News, Stats, and Scores - AP News",
@@ -1264,7 +1277,7 @@
      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5"
     }
    ],
-   "id": "h087"
+   "id": "h088"
   },
   {
    "title": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
@@ -1277,7 +1290,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5"
     }
    ],
-   "id": "h088"
+   "id": "h089"
   },
   {
    "title": "Turkey: Comedian on trial for 'insulting' Erdogan in show",
@@ -1290,7 +1303,7 @@
      "url": "https://www.dw.com/en/turkey-comedian-on-trial-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h089"
+   "id": "h090"
   },
   {
    "title": "Trump’s mail voting crackdown tests Postal Service leader who says he’s ‘not political’ - AP News",
@@ -1303,7 +1316,7 @@
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWFGb1ppa2QxOFFwMFRQbHpuNmtDSmJEVnItMGVWb2tHdmtyYVJScEU2TkNNMHI5aVJFU2JDOFBiN2pmQUJadXJuSmt1UnR6MXZONlhscGtkWVdPemFMbjJ6LTRfd05jVTVIYjdycW9pa0NkemlfYlV1ODRlSzRRX2tINUVCc3psRTFBRGpVSFhxSnNINWI0U2ttcXJ5cnplYnBiUjBtaw?oc=5"
     }
    ],
-   "id": "h090"
+   "id": "h091"
   },
   {
    "title": "Tourism tax needs to be more flexible in Wales, warns expert",
@@ -1316,7 +1329,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h091"
+   "id": "h092"
   },
   {
    "title": "REPLAY: Pope urges peace and unity in Europe on final day of France visit",
@@ -1329,7 +1342,7 @@
      "url": "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit"
     }
    ],
-   "id": "h092"
+   "id": "h093"
   },
   {
    "title": "Airbus probes A321neo flaw as repair plan eases disruption - Reuters",
@@ -1342,7 +1355,7 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVFKclQ2aVRUcTNockdpdHBNYWUzTERaNWxUU3plWl9LU3l4RFJMUWNGZUhyYkJjYl9mWllxTkNEWm9LRHNmNEI2MmNrcmc2TGdlWnpTRjJiX29wVlRiNjVBeWNGMTBWXzRHT09NQ1dCV0luVUpVck1ldlBhNEFJZTVUYzFtY2lqTmMxcXhiM2Vwa2EwMHBQazMtSVgtdkFOTS1kUDNmNXpZVXFyRVZUNWU2bmNVM2VtZ2c?oc=5"
     }
    ],
-   "id": "h093"
+   "id": "h094"
   },
   {
    "title": "Juniper Lattes? Pine Sodas? Food Is Taking Us Back to the Forest.",
@@ -1355,7 +1368,7 @@
      "url": "https://www.nytimes.com/2026/09/28/dining/forest-flavors-alpine-foraging.html"
     }
    ],
-   "id": "h094"
+   "id": "h095"
   },
   {
    "title": "How Muse and other AI agents could spark a bank run, according to an economist",
@@ -1368,7 +1381,7 @@
      "url": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories"
     }
    ],
-   "id": "h095"
+   "id": "h096"
   },
   {
    "title": "Price of diesel on UK forecourts reaches all-time high",
@@ -1381,7 +1394,7 @@
      "url": "https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high"
     }
    ],
-   "id": "h096"
+   "id": "h097"
   },
   {
    "title": "JPM’s Bob Michele Says Entire Yield Curve Is Oversold",
@@ -1394,7 +1407,7 @@
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/jpm-s-bob-michele-says-entire-yield-curve-is-oversold-video"
     }
    ],
-   "id": "h097"
+   "id": "h098"
   },
   {
    "title": "Vietnam and Panama to be Removed from EU’s Tax Haven Blacklist",
@@ -1405,19 +1418,6 @@
     {
      "name": "Bloomberg Politics",
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/vietnam-and-panama-to-be-removed-from-eu-s-tax-haven-blacklist"
-    }
-   ],
-   "id": "h098"
-  },
-  {
-   "title": "12 teens wounded in a shootout at a birthday party in Georgia park, sheriff says - AP News",
-   "summary": "12 teens wounded in a shootout at a birthday party in Georgia park, sheriff says AP News",
-   "published": "2026-09-28T10:43:00+00:00",
-   "region": "world",
-   "sources": [
-    {
-     "name": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVhwcGlWNW9yTGMyWEs0ZjJfTUxwaURTemxwN3VkQUZCVHVmbkd6TUxkOW1iOVV6ak1MMXhjWGJRalN4NFRsbGVZcUdpbmdBeVdMem1LRHZSQlUwWVZKQm1fZ1N2MlIzOURGQ3UtLTR1elprNC1XV0hGX0xZVVNWMHZDS2xxMExz?oc=5"
     }
    ],
    "id": "h099"
@@ -1501,19 +1501,6 @@
    "id": "h105"
   },
   {
-   "title": "Miami (FL) Hurricanes - AP News",
-   "summary": "Miami (FL) Hurricanes AP News",
-   "published": "2026-09-28T10:35:32+00:00",
-   "region": "world",
-   "sources": [
-    {
-     "name": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bel9xbEQxXzZPQUh1Q2lNcDNILVZTZ2ZaTXgwX1B2bVNLaHpDQzAtMmpvYmNMZ05SU2QxWUh4dFZ0ejlUZTRUMnAzY2N1MEV4cHVRSnpKU3JaU2hx?oc=5"
-    }
-   ],
-   "id": "h106"
-  },
-  {
    "title": "Diesel prices are surging. Ukraine is only part of the story",
    "summary": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse.",
    "published": "2026-09-28T10:35:00+00:00",
@@ -1524,7 +1511,7 @@
      "url": "https://www.dw.com/en/diesel-prices-are-surging-ukraine-is-only-part-of-the-story/a-79390992?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h107"
+   "id": "h106"
   },
   {
    "title": "Possible Foiled Terror Attack at U.K Air Base Used by U.S. Raises Questions Over Security",
@@ -1537,7 +1524,7 @@
      "url": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html"
     }
    ],
-   "id": "h108"
+   "id": "h107"
   },
   {
    "title": "Russian oil supply to India tightens on reduced exports, strong Chinese demand - Reuters",
@@ -1550,7 +1537,7 @@
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTlqcl9scHJnUzlYbUtkUnpIdDRZWUhiaUVRU0FTZ1hzTVNRVXZLRFZFUmdTc0s2LVNueDBpOHBVZTNIb2ZKei16c2c0VVhFMjd4UFdxclM0bjk0bGJWbHNrT2FpSlBZenVsanlUanZCVk05SHVsS0IyNU5FTno5aS1scFJKT3BUWnhBZjc4Rll2UUFTVEd4eWJRaEFUVzJMdDdMYkE1QVdKYXE4aUdWQ0ljRC14QTZDbURzSVJ4UzI?oc=5"
     }
    ],
-   "id": "h109"
+   "id": "h108"
   },
   {
    "title": "FirstFT: Oil price rise puts more pressure on government bonds",
@@ -1563,7 +1550,7 @@
      "url": "https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1"
     }
    ],
-   "id": "h110"
+   "id": "h109"
   },
   {
    "title": "UK counter-terror police question five men held at airbase used by US to attack Iran - Reuters",
@@ -1576,7 +1563,7 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXYwS1pBdDdVa1JYckZZdFNGeWpwdGRUR0hOX1NuMV9vOWFBYUlDbDAzdjFVbVZ1c2J1N0xrM0hPc2RvLVhlM2d5MlZ4WnJtOW9iSzJGNEw2UTJhR25tdWZKYzhucGVKZG1sRDYyZDZudmViaGRjMmdLNVdqS1NWZERRR3EyY1JxMG5tWUNDTTJpZFJxbHZkR0FqU3BPdFBpMTdGWmVWOGQzOEJq?oc=5"
     }
    ],
-   "id": "h111"
+   "id": "h110"
   },
   {
    "title": "EU imposes sanctions over deportation of Ukrainian children to Russia - Reuters",
@@ -1589,7 +1576,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1dmdFlnNnVwd3NndFlUZ0ZrcU9kSnRhMnJnYUFXalhpekx3LWVHazdLb1NMRWFrcTFqVVZDc2FIMDBQX1hxMXY4cng0ekJOeFpnU1NnQ1pwaW9JSUh6X1RPcjdlV1MyYnNlY253WUNHNkZqeUxPaUo1Z3lDSzZCRjZsTVpES2hjQzhpaHFrQ2lqX2lNRUdQWGk0ZGt5ZjNRMW5jMlg0V0Y?oc=5"
     }
    ],
-   "id": "h112"
+   "id": "h111"
   },
   {
    "title": "Shares in UK housebuilders surge on new Help to Buy scheme",
@@ -1602,7 +1589,7 @@
      "url": "https://www.ft.com/content/964a6d85-a6d9-4017-90ef-30ffcd8d7f8d?syn-25a6b1a6=1"
     }
    ],
-   "id": "h113"
+   "id": "h112"
   },
   {
    "title": "Submit a question: What’s next for the global economy?",
@@ -1615,7 +1602,7 @@
      "url": "https://www.ft.com/content/db266f36-c6d3-4368-8633-290e2c35e54d?syn-25a6b1a6=1"
     }
    ],
-   "id": "h114"
+   "id": "h113"
   },
   {
    "title": "UK Monitored Threats and Raised Security at Base Before Incident",
@@ -1628,7 +1615,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/uk-monitored-threats-and-raised-security-at-base-before-incident"
     }
    ],
-   "id": "h115"
+   "id": "h114"
   },
   {
    "title": "Pound Options Bets Turn More Negative as UK Budget Comes Into View",
@@ -1641,7 +1628,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/pound-options-bets-turn-more-negative-as-uk-budget-comes-into-view"
     }
    ],
-   "id": "h116"
+   "id": "h115"
   },
   {
    "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
@@ -1654,7 +1641,7 @@
      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories"
     }
    ],
-   "id": "h117"
+   "id": "h116"
   },
   {
    "title": "Larissa Waters steps down as Greens leader due to ill health",
@@ -1667,7 +1654,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb"
     }
    ],
-   "id": "h118"
+   "id": "h117"
   },
   {
    "title": "Democrats to probe lucrative Trump family business deals if they win midterms - Reuters",
@@ -1680,7 +1667,7 @@
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVEyT3VyN0paVEEwS1hrNVlLYk13T2ZKZHB0aGFnRW5HVngtNXI0OGhWVmJCR0o4TXJTRGpfMmFxQ1I4ZkNMQzQ3ZDczd0xQNHhBWHhGZDY5TEQzWmhPTHlHLVlFaGZXTFlNeUt4cjQ0c1V0dkRCSWRMOThJbW9scmVXZTN4MWRiMXpVQTdBZEtZUDU3U2d4NllpT3ZaenpFQXBJMFFVcjRoeFNrSVE4czNjQV8tRjNzVGJHN2FUbUMwM19qNEE?oc=5"
     }
    ],
-   "id": "h119"
+   "id": "h118"
   },
   {
    "title": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks",
@@ -1693,7 +1680,7 @@
      "url": "https://www.nytimes.com/2026/09/28/business/oil-stocks-gas-prices.html"
     }
    ],
-   "id": "h120"
+   "id": "h119"
   },
   {
    "title": "Agentic AI will drive Micron to new heights, says Baird",
@@ -1706,7 +1693,7 @@
      "url": "https://www.cnbc.com/2026/09/28/agentic-ai-will-drive-micron-to-new-heights-says-baird.html"
     }
    ],
-   "id": "h121"
+   "id": "h120"
   },
   {
    "title": "Palestinians denounce Israeli minister Ben-Gvir’s threats against prisoner",
@@ -1719,7 +1706,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/palestinians-denounce-israeli-minister-ben-gvirs-threats-against-prisoner?traffic_source=rss"
     }
    ],
-   "id": "h122"
+   "id": "h121"
   },
   {
    "title": "Iran Holds Firm on Hormuz, US-China Tariff Cuts Take Shape",
@@ -1732,7 +1719,7 @@
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/the-pulse-9-28-2026-video"
     }
    ],
-   "id": "h123"
+   "id": "h122"
   },
   {
    "title": "Burford Capital to gain up to $1.4bn from Apple patent defeat",
@@ -1745,7 +1732,7 @@
      "url": "https://www.ft.com/content/13051aaf-3e1e-41ff-9e0d-b48ff9a0249e?syn-25a6b1a6=1"
     }
    ],
-   "id": "h124"
+   "id": "h123"
   },
   {
    "title": "Russian drones pound civilian areas as Ukraine claims battlefield breakthroughs - AP News",
@@ -1758,7 +1745,7 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjk0U3FuQWFGX2IzNTZVSUYzV3Z1LW1Ha0pxeEpCS19CSWE5X0xobG1tLWxuQ0k0M213N21rZ3pvajUxMlJwaVdkQ2lMU0hscHJwSDhRdXYySEJHNEJpa2VsV2xLT0JJQ0pQcVVEYlBQUTlCcHBuRk03T1lpaGhJcmVjUkRlQ1hzM2RLdTI3UUV0MnlNOXpDVTVXdmU?oc=5"
     }
    ],
-   "id": "h125"
+   "id": "h124"
   },
   {
    "title": "3 people are killed and 4 are injured in shooting at Detroit after-hours strip club, police say - AP News",
@@ -1771,7 +1758,7 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeC16UU8yb0tuclZUS3Z2dEtHZ2dVZWVrTWxleGw3YUYxWVlweWlMOHlLWlF6NjdZSWtiakVWb3k5WmlUazZrY2R1aTA5QnYwLVpKM1VwV2NzXzRTZjBFWVJMSGVFN0pwMFJfcnRUS1FucW9sWEdXUGlCMVhtSGhGZklhYlFWbmY2RXc?oc=5"
     }
    ],
-   "id": "h126"
+   "id": "h125"
   },
   {
    "title": "Ukraine airlifts aid to Russian-occupied city",
@@ -1784,7 +1771,7 @@
      "url": "https://www.ft.com/content/b6be8bb9-a0df-4e3d-ab93-57b1aa65aa95?syn-25a6b1a6=1"
     }
    ],
-   "id": "h127"
+   "id": "h126"
   },
   {
    "title": "Economic boom enjoyed by New Labour ‘simply not there now’, Healey says",
@@ -1797,7 +1784,7 @@
      "url": "https://www.ft.com/content/7761f1ee-0310-4f8d-bac1-f3e5f2354d45"
     }
    ],
-   "id": "h128"
+   "id": "h127"
   },
   {
    "title": "Reverse mortgage vs. annuity: Which is the best for retirement?",
@@ -1810,7 +1797,7 @@
      "url": "https://www.cnbc.com/select/reverse-mortgage-or-an-annuity-which-is-best-for-retirement/"
     }
    ],
-   "id": "h129"
+   "id": "h128"
   },
   {
    "title": "Mexico’s journalists have long faced bullets. Now lawsuits against them are rising - AP News",
@@ -1823,7 +1810,7 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEdncGtDSTFkb0pTZUpfZTU5U0ttNVI0VDRFRXZLbllmdHFSSmpaQ2JNaEFoNGJNcU5ZVklmSVcwb0JOT3FRNFVfSWM4aXVUcGIzbWozTmIwcWZ5YmRJeXJaM3N1VVk5YUJZdjFRYWtmaU9IVEFiNE9ZbUE5M25YRjdqWHV5ZzBjUGJta09HOTVudFQxSUpBR0psaS1WWDJsM0E?oc=5"
     }
    ],
-   "id": "h130"
+   "id": "h129"
   },
   {
    "title": "Bonds Are on the Cusp of Sending a Distress Signal on Economy",
@@ -1836,7 +1823,7 @@
      "url": "https://www.bloomberg.com/news/newsletters/2026-09-28/bonds-are-on-the-cusp-of-sending-a-distress-signal-on-economy"
     }
    ],
-   "id": "h131"
+   "id": "h130"
   },
   {
    "title": "AI leaders have known about the extinction threat for decades | Judith Levine",
@@ -1849,7 +1836,7 @@
      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/ai-extinction-threats"
     }
    ],
-   "id": "h132"
+   "id": "h131"
   },
   {
    "title": "Job interviews are a weird business – but what’s the alternative? | Emma Beddington",
@@ -1862,7 +1849,7 @@
      "url": "https://www.theguardian.com/commentisfree/2026/sep/28/job-interviews-are-a-weird-business-but-whats-the-alternative"
     }
    ],
-   "id": "h133"
+   "id": "h132"
   },
   {
    "title": "John Fetterman accidentally calls himself ‘a lifelong Republican’",
@@ -1875,7 +1862,7 @@
      "url": "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican"
     }
    ],
-   "id": "h134"
+   "id": "h133"
   },
   {
    "title": "UK diesel price hits all-time high, RAC says",
@@ -1888,7 +1875,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h135"
+   "id": "h134"
   },
   {
    "title": "Key US Data This Week Seen Bolstering Case for October Rate Hike",
@@ -1901,7 +1888,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/key-us-data-this-week-seen-bolstering-case-for-october-rate-hike"
     }
    ],
-   "id": "h136"
+   "id": "h135"
   },
   {
    "title": "Shifting Senate Map Is Fueling Most Expensive US Election Ever",
@@ -1914,7 +1901,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/shifting-senate-map-is-fueling-most-expensive-us-election-ever"
     }
    ],
-   "id": "h137"
+   "id": "h136"
   },
   {
    "title": "South African Murders Are Ramaphosa’s Problem",
@@ -1927,7 +1914,7 @@
      "url": "https://www.bloomberg.com/news/newsletters/2026-09-28/south-african-murders-are-ramaphosa-s-problem"
     }
    ],
-   "id": "h138"
+   "id": "h137"
   },
   {
    "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
@@ -1940,7 +1927,7 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5"
     }
    ],
-   "id": "h139"
+   "id": "h138"
   },
   {
    "title": "Trump Praises Arrest of Suspects Near UK-US Base",
@@ -1953,7 +1940,7 @@
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/trump-praises-arrest-of-suspects-near-uk-us-base-video"
     }
    ],
-   "id": "h140"
+   "id": "h139"
   },
   {
    "title": "Kremlin says Ukraine is now 'paying the price' for its own attacks on Russia - Reuters",
@@ -1966,7 +1953,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUt0SWx3RGRrd1Z3ZU5CaGNNMk1kanFUWGZaMXFwR0dLUHMyVHk4cGhiUnR3VTYwTkVIVHgxeW1zMzVHQURIVTZkTFJZc2R1cnBOdlpfVUdJSWFuMFZfald1ZkEyZTZwN25oQVR3blNpcHpocVRwUlVRUjZUMVdxU3Z1SVpTeUNtSVREcjBUMFVyN2lVLXpya2hRQ3BHM29vaFNSVnBrVDBXYTJWd2RoQjVB?oc=5"
     }
    ],
-   "id": "h141"
+   "id": "h140"
   },
   {
    "title": "Plan for controversial $1.2bn datacentre in Sydney scrapped due to ‘emerging’ regulations",
@@ -1979,7 +1966,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/sep/28/plan-for-controversial-12bn-datacentre-in-sydney-scrapped-due-to-emerging-regulations"
     }
    ],
-   "id": "h142"
+   "id": "h141"
   },
   {
    "title": "Streeting Says 'No Doubt' Iran Poses Threat to the UK",
@@ -1992,7 +1979,7 @@
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/streeting-says-no-doubt-iran-poses-threat-to-the-uk-video"
     }
    ],
-   "id": "h143"
+   "id": "h142"
   },
   {
    "title": "People with Down syndrome and other disabilities find their rhythm in Indiana dance program - AP News",
@@ -2005,7 +1992,7 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFJIMUdodno3ZWRjOUZWSnN3VjNudzBuWll5c1JRck1melRsb1J0U2xEU0xwbUt5RjJ2VlRyaUxBWE5KYlhIbkt3dzBmQUk2UHVnUWVfUjdkSnBIVFNudFI0UWtlM1BORW8zQUh4RlJULUJrNkRmaWJrR3NJWWlOeGhJYkRkbksxWDlQYmtOYlJtSUNoZVlZbkNIcGp1YTB5MGFPNFNRUnh6NlY2Vmc?oc=5"
     }
    ],
-   "id": "h144"
+   "id": "h143"
   },
   {
    "title": "France’s far-right National Rally surges in partial Senate elections",
@@ -2018,7 +2005,7 @@
      "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections"
     }
    ],
-   "id": "h145"
+   "id": "h144"
   },
   {
    "title": "Congo Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - AP News",
@@ -2031,7 +2018,7 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHhqY2sxMy1CdFpVTmd5SFBWTWx2eEozaFl6NFZBR01jZjY3NWdxZzlBbzVVeW05VHJUcGI1b2ZDNGgwTXBMc2VUckNfSkhsMjdweUR0a25yNmsyeTdXZXpHZXFKOG9vMVBKcnYyNGFZUmcxa0w5LUd5Mm9iVEdZWGRfd2l2WVpVVk9kZUhBRQ?oc=5"
     }
    ],
-   "id": "h146"
+   "id": "h145"
   },
   {
    "title": "PODCAST: Fresh tremors - Reuters",
@@ -2044,7 +2031,7 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWllVmNXcV9OTTdadTVmX2ZZZjBIWlhhMGREQks0VnpXN2hUNnRhWjMwaEVaX1lXd1hOckd3eURuQ1NwUEhKSXdFMFNHa2F0cFpKV29hUm9nQXkzUDVxZ2ZwamJiOVh1WnItMnZNbndsMDZLYUN4bnFzTnpoOEdoWnNvaHU?oc=5"
     }
    ],
-   "id": "h147"
+   "id": "h146"
   },
   {
    "title": "Al Jazeera reports from near front line in Ethiopia’s Afar region",
@@ -2057,7 +2044,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region?traffic_source=rss"
     }
    ],
-   "id": "h148"
+   "id": "h147"
   },
   {
    "title": "Far-right Le Pen and hard-left Melenchon seen reaching French presidential run-off, poll shows - Reuters",
@@ -2070,7 +2057,7 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUxaTzc2QkZCVVRRY1E3SnllUVBFNFZTdnZfU3FYNmEyOVB3eklVQjROOG9FcHY1MW0zaDhOeXY2OWxnQ2tpQXpMUW5USzBVRVg3bGRLUVduWGUwMHRZcUN6MVE1REoyQnFIa1FrR1ZWTm8yRDlFRGFjbHBUOHlSdGk2THplV21Zbnp1SEpXR0wyMGxDMzBjck5paGp4NEdGQTE2dE9ZMXBlU05sVVlaZVNOUXgycTUta056bw?oc=5"
     }
    ],
-   "id": "h149"
+   "id": "h148"
   },
   {
    "title": "Will Jürgen Klopp's charisma be enough for Germany?",
@@ -2083,7 +2070,7 @@
      "url": "https://www.dw.com/en/will-jürgen-klopp-s-charisma-be-enough-for-germany/a-79455266?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h150"
+   "id": "h149"
   },
   {
    "title": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
@@ -2096,7 +2083,7 @@
      "url": "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
     }
    ],
-   "id": "h151"
+   "id": "h150"
   },
   {
    "title": "Saudi schools adopt remote learning amid mounting Gulf tensions",
@@ -2109,7 +2096,7 @@
      "url": "https://www.france24.com/en/video/20260928-saudi-schools-adopt-remote-learning-amid-mounting-gulf-tensions"
     }
    ],
-   "id": "h152"
+   "id": "h151"
   },
   {
    "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News",
@@ -2122,7 +2109,7 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEOXNVSFlsb2xMS3dPWklqX1UwMEpMa1dzLXFFQWlZUHlTc0YxNy02eVJoakRuNjNMMzN3NWN0Y0p1WGlIVzZ0NWdWd2Y0dUs1TmI1bVVENmtUOGFpZUdSeVFxMzZQWmxtYm9mZk85alZ0aGtMRFh4bkkzOFQzM2lDM2ZCem9rU0o1eGpBRXhvR2VubHpqN3RjT3pyMG5uVVEyOFRGZEU0WGhy?oc=5"
     }
    ],
-   "id": "h153"
+   "id": "h152"
   },
   {
    "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
@@ -2135,7 +2122,7 @@
      "url": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories"
     }
    ],
-   "id": "h154"
+   "id": "h153"
   },
   {
    "title": "Trump and Xi's 'stalemate' summit was a glitzy gift to China - Reuters",
@@ -2148,7 +2135,7 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckdOZFJWeUkyYVpXMlEteUpGeVhGLThlZ1FvVExvTGFxTlZiU1hIOGwtQXlGRVBjVC1Gb3E5LXlkaWxxb2M5RDlmcEpaRGsyUHlCd3B6cERqZTQzU1JPS04xc0h2QXlhN3RiYy03elUyUXZpeVljdzV0YWhxR014bU8tWG1QR2pPQnk5MWxYT3FJZFpMSjNHcjB1UTA?oc=5"
     }
    ],
-   "id": "h155"
+   "id": "h154"
   },
   {
    "title": "PB Fintech’s $3.3 Billion Rout Fuels Rush to Leveraged Bets",
@@ -2161,7 +2148,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/pb-fintech-s-3-3-billion-rout-fuels-rush-into-leveraged-bets"
     }
    ],
-   "id": "h156"
+   "id": "h155"
   },
   {
    "title": "TotalEnergies boosts buybacks and dividends as oil prices surge",
@@ -2174,7 +2161,7 @@
      "url": "https://www.ft.com/content/1cd3310e-da01-49da-9a3c-8029d59f5761?syn-25a6b1a6=1"
     }
    ],
-   "id": "h157"
+   "id": "h156"
   },
   {
    "title": "London's Bridge Troubles Spread with Waterloo at Risk of Closure",
@@ -2187,7 +2174,7 @@
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/london-s-bridge-troubles-spread-with-waterloo-at-risk-video"
     }
    ],
-   "id": "h158"
+   "id": "h157"
   },
   {
    "title": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
@@ -2200,7 +2187,7 @@
      "url": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h159"
+   "id": "h158"
   },
   {
    "title": "Streeting Declines to Link US-Iran War With RAF Fairford Arrests",
@@ -2213,7 +2200,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/streeting-declines-to-link-us-iran-war-with-raf-fairford-arrests"
     }
    ],
-   "id": "h160"
+   "id": "h159"
   },
   {
    "title": "UK's Streeting on Iran Threat, Defense Budget",
@@ -2226,7 +2213,7 @@
      "url": "https://www.bloomberg.com/news/videos/2026-09-28/uk-s-streeting-on-iran-threat-defense-budget-video"
     }
    ],
-   "id": "h161"
+   "id": "h160"
   },
   {
    "title": "Takaichi Launches Intelligence Panel, Eyeing Japan’s Own CIA",
@@ -2239,7 +2226,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/takaichi-launches-intelligence-panel-eyeing-japan-s-own-cia"
     }
    ],
-   "id": "h162"
+   "id": "h161"
   },
   {
    "title": "Married people who practice their religion have more sex, study shows",
@@ -2252,7 +2239,7 @@
      "url": "https://www.france24.com/en/tv-shows/press-review/20260928-married-people-who-practice-their-religion-have-more-sex-study-shows"
     }
    ],
-   "id": "h163"
+   "id": "h162"
   },
   {
    "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
@@ -2265,7 +2252,7 @@
      "url": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss"
     }
    ],
-   "id": "h164"
+   "id": "h163"
   },
   {
    "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
@@ -2278,20 +2265,7 @@
      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories"
     }
    ],
-   "id": "h165"
-  },
-  {
-   "title": "College football | Latest News & Updates - AP News",
-   "summary": "College football | Latest News & Updates AP News",
-   "published": "2026-09-28T09:13:48+00:00",
-   "region": "world",
-   "sources": [
-    {
-     "name": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5"
-    }
-   ],
-   "id": "h166"
+   "id": "h164"
   },
   {
    "title": "Sweden faces political deadlock after election-winning center-left bloc fails to form government",
@@ -2304,7 +2278,7 @@
      "url": "https://www.dw.com/en/sweden-faces-political-deadlock-after-election-winning-center-left-bloc-fails-to-form-government/a-79455295?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h167"
+   "id": "h165"
   },
   {
    "title": "Azeez Al-Shaair honours slain Palestinian sisters despite NFL sanctions",
@@ -2317,7 +2291,7 @@
      "url": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss"
     }
    ],
-   "id": "h168"
+   "id": "h166"
   },
   {
    "title": "After a dead whale washed up at a Perth beach, some took selfies. Others held their nose from the stench",
@@ -2330,7 +2304,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/sep/28/after-a-dead-whale-washed-up-at-a-perth-beach-some-took-selfies-others-held-their-nose-from-the-stench"
     }
    ],
-   "id": "h169"
+   "id": "h167"
   },
   {
    "title": "EXCLUSIVE: Japan's currency diplomat Mimura urges markets to heed 'very clear' warning on yen - Reuters",
@@ -2343,7 +2317,7 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzFRTndpRkJHX2FfcTFFdHFvNVVrQU5MZVAxM0Z1T1p3TjRyaUtyNFRaNjRQQjQwYjJaVW5ocTlGYU1iU0w4WGNISjhWb0ZsWHpTYkZ5aEhPX1B1blRyak40X0FHMDdWdnUzSGFYczRrXzd1bXBPODRNbDdnN2NPcTZLZFpIaWhTRkQ0bVZIMGxGcFo0S1B1M3RrV0pWU1h6d0d6NC1SMkhwdl9ESGJiZFVXLWl4Mll4bUE?oc=5"
     }
    ],
-   "id": "h170"
+   "id": "h168"
   },
   {
    "title": "Avanti West Coast services to be nationalised from March",
@@ -2356,7 +2330,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h171"
+   "id": "h169"
   },
   {
    "title": "How Scientists Can Shape Public Opinion Over A.I. Risks",
@@ -2369,7 +2343,7 @@
      "url": "https://www.nytimes.com/2026/09/28/business/ai-scientists-protests.html"
     }
    ],
-   "id": "h172"
+   "id": "h170"
   },
   {
    "title": "Trump’s Tariffs Push Canadian Companies to Look Past American Links",
@@ -2382,7 +2356,7 @@
      "url": "https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html"
     }
    ],
-   "id": "h173"
+   "id": "h171"
   },
   {
    "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
@@ -2395,7 +2369,7 @@
      "url": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html"
     }
    ],
-   "id": "h174"
+   "id": "h172"
   },
   {
    "title": "What We Saw in One Venezuelan Gold Town",
@@ -2408,7 +2382,7 @@
      "url": "https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html"
     }
    ],
-   "id": "h175"
+   "id": "h173"
   },
   {
    "title": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
@@ -2421,7 +2395,7 @@
      "url": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html"
     }
    ],
-   "id": "h176"
+   "id": "h174"
   },
   {
    "title": "Simone Biles and Jonathan Owens list a $1.2 million Texas home near Houston",
@@ -2434,7 +2408,7 @@
      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories"
     }
    ],
-   "id": "h177"
+   "id": "h175"
   },
   {
    "title": "Childminder facing 'severe financial burden' as heating oil costs rise",
@@ -2447,7 +2421,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cq07ly2232pzo?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h178"
+   "id": "h176"
   },
   {
    "title": "Turkey Cabinet to Review Fund Crisis as Officials Mull New Steps",
@@ -2460,7 +2434,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/turkey-cabinet-to-review-fund-crisis-as-officials-mull-new-steps"
     }
    ],
-   "id": "h179"
+   "id": "h177"
   },
   {
    "title": "Smart Headlights Finally Trickle Down to Cars in the U.S.",
@@ -2473,7 +2447,7 @@
      "url": "https://www.nytimes.com/2026/09/28/business/smart-headlights-adaptive.html"
     }
    ],
-   "id": "h180"
+   "id": "h178"
   },
   {
    "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
@@ -2486,7 +2460,7 @@
      "url": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html"
     }
    ],
-   "id": "h181"
+   "id": "h179"
   },
   {
    "title": "Northern Ireland’s political parties agree on one thing: £1.5bn is not enough",
@@ -2499,7 +2473,7 @@
      "url": "https://www.ft.com/content/f4e078f7-4aab-43f5-8eb5-2dbd7142a752?syn-25a6b1a6=1"
     }
    ],
-   "id": "h182"
+   "id": "h180"
   },
   {
    "title": "Brazil Elections: Lula Battles for Brazil’s Northeast Against Flavio Bolsonaro",
@@ -2512,7 +2486,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/brazil-elections-lula-battles-for-brazil-s-northeast-against-flavio-bolsonaro"
     }
    ],
-   "id": "h183"
+   "id": "h181"
   },
   {
    "title": "Powerful storm batters US northeast",
@@ -2525,7 +2499,7 @@
      "url": "https://www.france24.com/en/video/20260928-powerful-storm-batters-us-northeast"
     }
    ],
-   "id": "h184"
+   "id": "h182"
   },
   {
    "title": "CNBC Daily Open: A tale of two truces",
@@ -2538,7 +2512,7 @@
      "url": "https://www.cnbc.com/2026/09/28/daily-open-iran-war-trump-xi-summit.html"
     }
    ],
-   "id": "h185"
+   "id": "h183"
   },
   {
    "title": "'The last thing you expect': Locals near UK airbase react to 'terrorist act' arrests",
@@ -2551,7 +2525,7 @@
      "url": "https://www.france24.com/en/video/20260928-the-last-thing-you-expect-locals-near-uk-airbase-react-to-terrorist-act-arrests"
     }
    ],
-   "id": "h186"
+   "id": "h184"
   },
   {
    "title": "EU’s Kallas Says Two Countries May Send Ships to Counter Houthis",
@@ -2564,7 +2538,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/kallas-pushes-eu-to-send-pledged-hormuz-ships-to-counter-houthis"
     }
    ],
-   "id": "h187"
+   "id": "h185"
   },
   {
    "title": "Pope to speak on European unity on last day of France visit",
@@ -2577,7 +2551,7 @@
      "url": "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit"
     }
    ],
-   "id": "h188"
+   "id": "h186"
   },
   {
    "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
@@ -2590,7 +2564,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss"
     }
    ],
-   "id": "h189"
+   "id": "h187"
   },
   {
    "title": "Thai Premier Anutin Survives Court Ruling on Election Ballots",
@@ -2603,7 +2577,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/thai-premier-anutin-survives-court-ruling-on-election-ballots"
     }
    ],
-   "id": "h190"
+   "id": "h188"
   },
   {
    "title": "UK security forces were aware of RAF Fairford suspected bomb plot, hints defence secretary",
@@ -2616,7 +2590,7 @@
      "url": "https://www.theguardian.com/uk-news/2026/sep/28/uk-security-forces-raf-fairford-suspected-bomb-plot-wes-streeting-defence-secretary"
     }
    ],
-   "id": "h191"
+   "id": "h189"
   },
   {
    "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
@@ -2629,7 +2603,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss"
     }
    ],
-   "id": "h192"
+   "id": "h190"
   },
   {
    "title": "Trump asked China’s president if he wants to buy US arms, ambassador says - AP News",
@@ -2642,7 +2616,7 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0RpWWZ5VnRieXhDRkcyTE9ieGRNTkFCc1gxZzBiMkQ5LTZ5cUdwT1BLbTdSSGtGc042MWxUbXVzanZwTUJJcmpWN1JQTEpWOUdsNFdQdm8wTjZOUlU4eUNyMGdic3NXZG9fUV9pcHVwRi13Z3I0ZDNpdG1yWG9qUFVxczFoRlNCNEdUOE45VVM4TEEzU3Q5dQ?oc=5"
     }
    ],
-   "id": "h193"
+   "id": "h191"
   },
   {
    "title": "US and China detail list of products agreed under $30 billion tariff cut deal after Trump-Xi meeting - AP News",
@@ -2655,7 +2629,7 @@
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUVZNUtHcDRGeGtQS0xXMUtlSE9IaEhHRk5jaHp0ekFCTWU3aVRsbTA1VjF3YkhkTGtGUW80TTd4VFRiN09IQ05vQlcwOE93N08xVjVkNWdySGc1UWJZYmt1MmhoWmR6cU1nVllwRWhEak9uTVRvRnFBVFNwanJzSW9fb0xrOWNfNlRUckMwc1VpeDNDZWRDSmh3Mmk?oc=5"
     }
    ],
-   "id": "h194"
+   "id": "h192"
   },
   {
    "title": "Associated Press News: Breaking News | Latest News Today - AP News",
@@ -2668,7 +2642,20 @@
      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5"
     }
    ],
-   "id": "h195"
+   "id": "h193"
+  },
+  {
+   "title": "Miami (FL) Hurricanes - AP News",
+   "summary": "Miami (FL) Hurricanes AP News",
+   "published": "2026-09-28T08:35:19+00:00",
+   "region": "world",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Bel9xbEQxXzZPQUh1Q2lNcDNILVZTZ2ZaTXgwX1B2bVNLaHpDQzAtMmpvYmNMZ05SU2QxWUh4dFZ0ejlUZTRUMnAzY2N1MEV4cHVRSnpKU3JaU2hx?oc=5"
+    }
+   ],
+   "id": "h194"
   },
   {
    "title": "Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war - AP News",
@@ -2681,7 +2668,7 @@
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjhYVGhzMUdRMGZFOEZQRmFESTdhM3daZkVuQS1oZnROdnNPTGxEU3hkem80LUJsVFlQT2hOcm9HTUJKY2drb3kteFNOc2haSV95UjNCUFZIRUJ0WXpxcmQ0TWtPVUZQS3diUDhicUJjamVaNkdMQlgwRGcxWlkxZjZwZXNIMEVlRTRWRjhPZE5jbmhJU1RLQU9zcHB5RGc?oc=5"
     }
    ],
-   "id": "h196"
+   "id": "h195"
   },
   {
    "title": "A faintly hopeful mood at Labour conference",
@@ -2694,7 +2681,7 @@
      "url": "https://www.ft.com/content/6ad5a550-adb6-4c56-85ec-2f2bacff059b?syn-25a6b1a6=1"
     }
    ],
-   "id": "h197"
+   "id": "h196"
   },
   {
    "title": "Iran’s children return to school under the shadow of war",
@@ -2707,7 +2694,7 @@
      "url": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss"
     }
    ],
-   "id": "h198"
+   "id": "h197"
   },
   {
    "title": "You need £17,000 for a first home - here's how to save it",
@@ -2720,7 +2707,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h199"
+   "id": "h198"
   },
   {
    "title": "China's refined copper output on track for lowest growth in decades this year, analysts say - Reuters",
@@ -2733,7 +2720,7 @@
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2lGWkVRTlprU2llNUN4LWFHNTdVNHVYYjhWcDZxM1h1cGhGUS14d3VVYWtaOWxRWi1hOGVkcm81SlJqZzVvZWxmdHhuUEhDLXNhenFuRmtsZnFmdmk3MjFUT2IwOFg5eE1hc3hYWHZycGkyMEV6OTc5Y3FMVnllVnlPX2J4eTNjeWpXbWx3NVA5X1F4anhJbXhEZG9EV0RqUE0wSFNHdDFnZGl5amJCekFtODVMR3Z5VGtfcy0zbzVEQWEtZ2hpLXdhQ0F2Rkk?oc=5"
     }
    ],
-   "id": "h200"
+   "id": "h199"
   },
   {
    "title": "Seoul accuses Ukraine of violating secrecy pact on North Korean soldiers",
@@ -2746,7 +2733,7 @@
      "url": "https://www.ft.com/content/8a45576f-ff89-449c-82e5-6c9976e91537?syn-25a6b1a6=1"
     }
    ],
-   "id": "h201"
+   "id": "h200"
   },
   {
    "title": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
@@ -2759,7 +2746,7 @@
      "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone"
     }
    ],
-   "id": "h202"
+   "id": "h201"
   },
   {
    "title": "India: LPU suspends classes after violent protests over alleged campus rape",
@@ -2772,7 +2759,7 @@
      "url": "https://www.dw.com/en/india-lpu-suspends-classes-after-violent-protests-over-alleged-campus-rape/live-79454038?maca=en-rss-en-all-1573-rdf"
     }
    ],
-   "id": "h203"
+   "id": "h202"
   },
   {
    "title": "Residents brace for a possible Russian hybrid attack on Poland’s border with Ukraine - AP News",
@@ -2785,7 +2772,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWZBd1d4bTJVOVhwNzZxTHRqUE1lV3F3a1dRWnN1aEFGNUs5Um8yX3BzQlFpdTBDSk1DOVFXN012dkNMeENwd3ZDTHdFNWxTOVNlOEZ2X3JWT29fd3M0QmJRSkRXNmxVV0FtRmNfMzNzN0xIbTRSa1FUOHRKZjFXTWxkVDRIcEdQdHlPQmF1OUZwbmg4NHFfSGU2eGpDZU15dnVoUndYRjVWREtka0hiS0dB?oc=5"
     }
    ],
-   "id": "h204"
+   "id": "h203"
   },
   {
    "title": "Nations League: With France's Mbappé away, Dembélé steps into new role",
@@ -2798,7 +2785,7 @@
      "url": "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role"
     }
    ],
-   "id": "h205"
+   "id": "h204"
   },
   {
    "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
@@ -2811,7 +2798,7 @@
      "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
     }
    ],
-   "id": "h206"
+   "id": "h205"
   },
   {
    "title": "France’s far-right National Rally gains ground in Senate vote",
@@ -2824,7 +2811,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote?traffic_source=rss"
     }
    ],
-   "id": "h207"
+   "id": "h206"
   },
   {
    "title": "India's top court says need to fix accountability over Delhi rape cases, media reports - Reuters",
@@ -2837,7 +2824,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEMxeHlKVzNZaFNHcy0ybGR6aTdLaTI1Tm1KVm9mN1FzamgxLTMwVlhHS19BQVhydFZFN0NrYmpIQ3dEZzNpZEtYMGotdUJDRHQtWkZCRWhQdVFMcW1iNTRkaDlfMEpkOEhXOXpBeUo2WXNwR0hSN3NQSnRIWDg2Q05FRmlQWXlRYVRCamkxNVduUl85QVd0VGhQUXBjWm00eG1nd0R0VHZ5aFowTS1GTDA4YUltWDhleGtvZzRB?oc=5"
     }
    ],
-   "id": "h208"
+   "id": "h207"
   },
   {
    "title": "Live: 'One cannot speak of Europe without mentioning Christianity,' Pope Leo says in Metz",
@@ -2850,7 +2837,7 @@
      "url": "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
     }
    ],
-   "id": "h209"
+   "id": "h208"
   },
   {
    "title": "Britain seeks compromise over blocked Orange Order march in Northern Ireland - Reuters",
@@ -2863,7 +2850,7 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUtGcUhhZmFES1V1WGttdjdBWW14Yk5tdUNTTzVqRVRhVUx0clFrdWwtSjlUS2JFRjlNcHBSYkpKM2lGbnBFRnV0dVdoT1RNRGFkeTNqdTZCaVBrMGZtSGR2MzYxdlMxcXhEdk5WM2x2MjRNUzBtN0VVVVF4V05KeEo3U1FMMUxyQVY2MDR4RWpzUnhkaGlUT09heGxKTDA4NmV2UVE4UzBqVE1Ld3poQnItRVhXV3JQUnc?oc=5"
     }
    ],
-   "id": "h210"
+   "id": "h209"
   },
   {
    "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
@@ -2876,7 +2863,7 @@
      "url": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
     }
    ],
-   "id": "h211"
+   "id": "h210"
   },
   {
    "title": "Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack",
@@ -2889,7 +2876,7 @@
      "url": "https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb"
     }
    ],
-   "id": "h212"
+   "id": "h211"
   },
   {
    "title": "Volcanic ash halts Italy's Catania airport for third day in a row - Reuters",
@@ -2902,7 +2889,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFhLcTVvVE5CMXVYb1l2U3dXanVBcmpYVnNnd3M4TWd5eFdlNDFaWEhOUTVCS2Y3Um1WazJvcWxCTHRWTVlkSzdIYlRvWFdCc1dyR0h6dWxDM2RNSl8teU5lZ1R2MGxRVnk5TzVacWVyOUxjMkZVVHFjMUt6bG53Q3lYWlVrTkE5SzlSVVZqRDN6dFZ1bmxtMU9tcWk5Z3pqLVMtX1JyU0dVV0VWRFRBMFNB?oc=5"
     }
    ],
-   "id": "h213"
+   "id": "h212"
   },
   {
    "title": "Madrid housing protests enter third day after pensioner's eviction - Reuters",
@@ -2915,7 +2902,7 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNVRVdoR0lmSmFhcTNjd0FUZDRtSTluNG5OMXJDLXVmTk4yWGw0WHVfQ001dS1IeHlvQmEtZXp4QW9KcU84WE1uRVEwdVdMQTJ4NGJxQTByd0ZRaWVTQ2c4RFI2dGpSVjhTalVncmpuOUxETzFBSl9BUldfeGZLZHFMbmczUzU3VVk1NldCSG01bmdOOUpCdV9mRWVQZm56aU5JcmEtZFd4NElnYnNJb29FR2k?oc=5"
     }
    ],
-   "id": "h214"
+   "id": "h213"
   },
   {
    "title": "Trump-Xi summit: What wasn't said might matter the most",
@@ -2928,7 +2915,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h215"
+   "id": "h214"
   },
   {
    "title": "Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England - AP News",
@@ -2941,7 +2928,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSm8yTVN4Z0tmWTVURVhPYTdqVWRYOXVqXzllQkJ1ZzRGZ040SXdRQjJ1ZlFLRDNYTlN6aWFyeXBQQXBsSUZ0UmtSWEdHVWtzZTJsVGFaZW9DSmd5ZXpUejdkSldwSHdiN3ZtYUJLNEJ2aFRQX05DVl80NVI1dzhlcUZtNHFDUm1NazZKT2Ryd0xJT1JoT0E?oc=5"
     }
    ],
-   "id": "h216"
+   "id": "h215"
   },
   {
    "title": "Sweden’s Andersson Ends Government-Formation Talks Without Result",
@@ -2952,6 +2939,19 @@
     {
      "name": "Bloomberg Politics",
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/sweden-s-andersson-ends-government-formation-talks-without-result"
+    }
+   ],
+   "id": "h216"
+  },
+  {
+   "title": "College football | Latest News & Updates - AP News",
+   "summary": "College football | Latest News & Updates AP News",
+   "published": "2026-09-28T07:47:13+00:00",
+   "region": "world",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5"
     }
    ],
    "id": "h217"
@@ -3477,19 +3477,6 @@
    "id": "h257"
   },
   {
-   "title": "Fashion News | Fashion Industry & World News - AP News",
-   "summary": "Fashion News | Fashion Industry & World News AP News",
-   "published": "2026-09-28T05:15:46+00:00",
-   "region": "world",
-   "sources": [
-    {
-     "name": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4za3dSRWpnLWFPbUJOMmpjdm9mdV9NUWNpVnhVb2xvYVRlWXJVUkR0QjZYU2ZqUFE0bmRzRGdKQ2gxOFMz?oc=5"
-    }
-   ],
-   "id": "h258"
-  },
-  {
    "title": "How waste food helps families through the week",
    "summary": "The scheme runs in schools across the West Midlands, including Birmingham and Walsall.",
    "published": "2026-09-28T05:15:22+00:00",
@@ -3500,7 +3487,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cjqlw1p4pvxgo?at_medium=RSS&at_campaign=rss"
     }
    ],
-   "id": "h259"
+   "id": "h258"
   },
   {
    "title": "Why OCBC sees an undervalued yen nearing a turning point",
@@ -3513,7 +3500,7 @@
      "url": "https://www.cnbc.com/2026/09/28/yen-undervalued-turning-point-ocbc.html"
     }
    ],
-   "id": "h260"
+   "id": "h259"
   },
   {
    "title": "Russian strikes kill eight, injure dozens across Ukraine",
@@ -3526,7 +3513,7 @@
      "url": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss"
     }
    ],
-   "id": "h261"
+   "id": "h260"
   },
   {
    "title": "India's top court rebukes government over timeline for food warning labels - Reuters",
@@ -3539,7 +3526,7 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVzdWWmp0YW5lV0ExdDcxZ0t1MFZxMlB1UkZ5Qk9VMGhyVnlaLTZKYU5aRDlYYUxQaXIwc2stQ2NKdmRPSVhmSDU2Y0o0Y0ZkU0RnVkotZnZ0ZUJBWmJqX2hhc2RFeDBkN1NiMVNpbzZNcXlOMFZjbXlKTDFhNzk5X05qREhHc3htaXR5TW05WGdjeWN2UDVOSW1nS21RRmxuR1NyRXV4UlZuaFA4WFFB?oc=5"
     }
    ],
-   "id": "h262"
+   "id": "h261"
   },
   {
    "title": "A Growing North Korea Problem",
@@ -3552,7 +3539,7 @@
      "url": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html"
     }
    ],
-   "id": "h263"
+   "id": "h262"
   },
   {
    "title": "German security agencies face dilemma after victories for far right and far left - Reuters",
@@ -3565,7 +3552,7 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEpad2w2bDYycWhxM0M0STNPT0xtRGJhSlk4Wjl4UG1jSzR3MV9oMjVuTUlRa1BXVXZib0VxeUx5bWlIYWN5MmdSS2FoQjRwWmk2bHZIS0ZpTTE3N3lXbkNyNUh1Z2F0eHpKVWFfNDJybzNobExTdUJxdmg4Ri1TSG1mc0JWdElnbTcxT3hjTXFSX2kxNXNxUnZwZGN3aWlQUE5qMlg2QXVOY05xZUJEaEdJelQ?oc=5"
     }
    ],
-   "id": "h264"
+   "id": "h263"
   },
   {
    "title": "Should you lock into a fixed-rate savings account paying 5.25%?",
@@ -3578,7 +3565,7 @@
      "url": "https://www.theguardian.com/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years"
     }
    ],
-   "id": "h265"
+   "id": "h264"
   },
   {
    "title": "Can the EU help to build a ‘hybrid defence’ against Russia?",
@@ -3591,7 +3578,7 @@
      "url": "https://www.ft.com/content/1bc39466-bd7c-4c42-a89b-fd81646705e2?syn-25a6b1a6=1"
     }
    ],
-   "id": "h266"
+   "id": "h265"
   },
   {
    "title": "Malaysians’ efforts to elevate durian industry, in photos - AP News",
@@ -3604,7 +3591,7 @@
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnVNb1lQNlFMZGMtVmpRZS1rd0xIT2h4S1lWLUF0MlROeTRmc3hHbmRQaUc5OEZ3LS10SWxfY05zdDhqb09oRnhiQVRfeHlkVWlvTHVTMm9sVVBUanVQRmdLNk5kUkpvcFRqb09XVXB4emIzM0tmejhCcnNvaFZCNEt5XzNNVFNSWkJnVkhVMmthZw?oc=5"
     }
    ],
-   "id": "h267"
+   "id": "h266"
   },
   {
    "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
@@ -3617,7 +3604,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss"
     }
    ],
-   "id": "h268"
+   "id": "h267"
   },
   {
    "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
@@ -3630,7 +3617,7 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss"
     }
    ],
-   "id": "h269"
+   "id": "h268"
   },
   {
    "title": "Saudi foreign minister arrives in Washington for talks with Rubio - Reuters",
@@ -3643,7 +3630,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVJqTlphdG95ZW84dGEzcXFwZTNrcVZWeS04TEQ5THdTNHg4UnE5NWlxbUVqRlF3ZHVvNnVpTEhMOTV2MVhMNEMxRk9DNTFXMGQ5ZUhiXy11RzZqSUFnVUc2LVhyRF9Ia2lBM3dJT1F5LTBEUlFyV21QYmtob0pTX09hb3VTVW9hTXF3cG5pVWhfYmdESHIzREZlMmcxSEVlQ0VUNHYyVU45bDRyc3lqNVVR?oc=5"
     }
    ],
-   "id": "h270"
+   "id": "h269"
   },
   {
    "title": "Morning Bid: A new neutral rate, much like a decades-old one - Reuters",
@@ -3656,7 +3643,7 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWxFSDhMT05mek9pUVAtTGpNTExJVmQ3MHYxWlE2R3h6VU9rX3JKSFJGcnRwSmJiQ2h5WDBadVNOWmYzVmtRWlYxQ2pWcGlZaFlvVTBRNTZHOXZTaTVkaTZmNW5NMXpOaW9ISHNzb0x4N3puWEZUX0RVQzJRdGFERm91dw?oc=5"
     }
    ],
-   "id": "h271"
+   "id": "h270"
   },
   {
    "title": "Pope blasts assisted dying as 'false compassion' at French shrine known for miraculous cures - AP News",
@@ -3669,7 +3656,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGNkWi1oNWFZak1oTmlybWllMDVHMXlMMzhCYUxGMGhJeWNqbHBFaHV6eHNBZGdhaUNlWjVpcFdTdXNtTDZVLWR3bTRJcHlXR1VZV3JqLWpXbS15WXduWmdjdThmeFQ1Qkh4eVZaZ3BrdzZGRWxEaGJOaU1vWHI4VVREbThpM0V6OV9uZ2Y1WTNya0toZVZzblB4YTN1NGR1Y2hqcHd5Szg?oc=5"
     }
    ],
-   "id": "h272"
+   "id": "h271"
   },
   {
    "title": "Kazakh race walker's gold medal stripped at Asian Games for footwear breach - Reuters",
@@ -3682,7 +3669,7 @@
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUxXV29GRkFxTVgwLVJ3d0s4S1RzRWVoQ2l0aXJCWDd6M3Q3SUJSRlhpS1VZdndkMVV1M19mTEtQajd3cGJxRl9UVDlteUJmd3NiS1Foa3ZoRzZtYWYxNGh1bXR0LU92VXgtallMRG5UUEpUM0c0eXd1Sk5VdjFESjZsV2dDd1FfZ0pfT01DMV8wajBUT1JRQ01R?oc=5"
     }
    ],
-   "id": "h273"
+   "id": "h272"
   },
   {
    "title": "Analysts’ views: forecasters see further insurance increases in 2026",
@@ -3695,7 +3682,7 @@
      "url": "https://www.ft.com/content/c3cebf7d-43fd-4962-b4ec-b55bcbce4c2a"
     }
    ],
-   "id": "h274"
+   "id": "h273"
   },
   {
    "title": "China to cut tariffs on US farm goods, but list excludes soybeans - Reuters",
@@ -3708,7 +3695,7 @@
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcS1oNDFMWG5pMzdiVDYzYlpoWmx2dXh2Z3FDbUJ5T09CbEFBV251Rkc2cFZTcnlPTDZ6N2hJbThrNTRrc255d0NZUWJhendkbXBNc3M4cWRWV1RaVkg3ZXg5Q2ZQVEZxWW1hX1V3UjJUOEJMZGlCRXJEdUpvZzUtQzdreVY5azNfSGxwakVfZFJOa0F0Y1NDWVllMHhaZEQybjRTdg?oc=5"
     }
    ],
-   "id": "h275"
+   "id": "h274"
   },
   {
    "title": "Indonesia ferry death toll hits 66 as search enters 16th day - Reuters",
@@ -3721,7 +3708,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWVYSVdHYzFrLS1mZWtBblk3WFI4N244WnpRejBpMjF1bm5LUHNOU2Rrd1Q1WHQwZ0h4MldzWGM0eVJCeEdXRTQ0djBBNzdSS1VKWEYzVzVVOFZYdWFmN2pqSm93NG5YZ3Q5R0FpNFVoVXhDT19CcEczUXAwN2V6MkpWcG0wNVRCcU5aZjg2MnlOLXdkeUlqT2tJdkluNWMtc1JfMGZXZkpDbXNjQnhtWEtR?oc=5"
     }
    ],
-   "id": "h276"
+   "id": "h275"
   },
   {
    "title": "EM Assets Retreat as Oil Gains on Renewed Mideast Tensions",
@@ -3734,7 +3721,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-09-28/emerging-stocks-slide-as-oil-gains-on-renewed-mideast-tensions"
     }
    ],
-   "id": "h277"
+   "id": "h276"
   },
   {
    "title": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
@@ -3747,7 +3734,7 @@
      "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1"
     }
    ],
-   "id": "h278"
+   "id": "h277"
   },
   {
    "title": "Assault and kidnapping retrial for Word of Faith religious group leader set in North Carolina - AP News",
@@ -3760,7 +3747,7 @@
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTJTSzNmUUZqSDRwLWdXZkY0SzFxbENoYVlRdDBNNHBWQWxvQlhaQ0YzWnI5d3F0eFlBZkFFTnVVOGxmRnRRX3JPMHpSSEgtaTVSVllsTzRJc0x3TjhuWUJRM0lockFQVFRrUElfM3B4NGpmM1c1cFhkbXo1SlJBS3dHSXVZS0RlRGFWUUxRcElWZW11NzdqTllDZTAwMWc2SDhV?oc=5"
     }
    ],
-   "id": "h279"
+   "id": "h278"
   },
   {
    "title": "Trump administration set to roll out lower fuel economy standards for cars, light trucks - AP News",
@@ -3773,7 +3760,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVTU01hNzViNXJveldRd3hrQkoycFhOTTdrWGJ3MjcxRkU2UkdsU01zZEhySjFMbmRLWDkzTlBqQmxpQ1ZKTVNBYXNhV0pwaHJCVk5raEVLdk5LZlpRSlpKNjg3VkJrQWdxQlBvcjRMWDJwUzQ0M0tVaUZ0cm5SX2Qwd1F0b2IwV0E3RmgtM3EwZHBiX1ZSdnhFSDNuUVVBN1JMcnp3S0E?oc=5"
     }
    ],
-   "id": "h280"
+   "id": "h279"
   },
   {
    "title": "‘The same struggles as 100 years ago’: exhibition highlights lives of Sami people in Sweden",
@@ -3786,7 +3773,7 @@
      "url": "https://www.theguardian.com/world/2026/sep/28/same-struggles-exhibition-highlights-lives-sami-people-sweden"
     }
    ],
-   "id": "h281"
+   "id": "h280"
   },
   {
    "title": "‘You were right’: Ed Miliband tells critics Labour was wrong on Gaza",
@@ -3799,7 +3786,7 @@
      "url": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short"
     }
    ],
-   "id": "h282"
+   "id": "h281"
   },
   {
    "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
@@ -3812,7 +3799,7 @@
      "url": "https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1"
     }
    ],
-   "id": "h283"
+   "id": "h282"
   },
   {
    "title": "A message for the chancellor: the time is now ripe for tax reform",
@@ -3825,7 +3812,7 @@
      "url": "https://www.ft.com/content/aa0a3458-b69d-423d-9654-9ad45c8432d9?syn-25a6b1a6=1"
     }
    ],
-   "id": "h284"
+   "id": "h283"
   },
   {
    "title": "The bargain between shareholders and companies is being eroded",
@@ -3838,7 +3825,7 @@
      "url": "https://www.ft.com/content/8b7f5c50-7ab5-46e1-96c7-e48c010f615b"
     }
    ],
-   "id": "h285"
+   "id": "h284"
   },
   {
    "title": "Foreign investors bet Panama can shrug off social unrest and Trump threats",
@@ -3851,7 +3838,7 @@
      "url": "https://www.ft.com/content/b782f295-c8d7-4e72-9987-a24ede2b1fd4?syn-25a6b1a6=1"
     }
    ],
-   "id": "h286"
+   "id": "h285"
   },
   {
    "title": "AI hyperscalers are transforming debt",
@@ -3864,7 +3851,7 @@
      "url": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1"
     }
    ],
-   "id": "h287"
+   "id": "h286"
   },
   {
    "title": "The post-Enron auditor reforms are being rolled back",
@@ -3877,7 +3864,7 @@
      "url": "https://www.ft.com/content/2ef0c2fa-9626-4785-94cd-65fbf5be5741?syn-25a6b1a6=1"
     }
    ],
-   "id": "h288"
+   "id": "h287"
   },
   {
    "title": "Rich turn to borrowing against private equity holdings as payouts slow",
@@ -3890,7 +3877,7 @@
      "url": "https://www.ft.com/content/4838f5d1-44e4-414e-a092-c738db47d7b9?syn-25a6b1a6=1"
     }
    ],
-   "id": "h289"
+   "id": "h288"
   },
   {
    "title": "Nissan to launch hybrid Rogue in US in November, Americas chairman says - Reuters",
@@ -3901,6 +3888,19 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT09OUk9UclhBeXY2ZzJHUUxjNHVKeUpoMkw3d1lXUTVxWGI2RTlhaVZaQVpkUDBURnRFWTVpZk1SUEtTRFlDMFVpakJjV2IxdG9vY3JQanVPVTVZMjRGUEV6Y2E1ekRTeDRtVEhZcFg5TmwxTEttOGpuVnJlZF9ZLW9UWmpvWTVVTmc5T2RwR2VjYXBMOHFUM0JuUHVOeGk1S2VtaVdyaGQ2RGtscFE?oc=5"
+    }
+   ],
+   "id": "h289"
+  },
+  {
+   "title": "Fashion News | Fashion Industry & World News - AP News",
+   "summary": "Fashion News | Fashion Industry & World News AP News",
+   "published": "2026-09-28T03:45:44+00:00",
+   "region": "world",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4za3dSRWpnLWFPbUJOMmpjdm9mdV9NUWNpVnhVb2xvYVRlWXJVUkR0QjZYU2ZqUFE0bmRzRGdKQ2gxOFMz?oc=5"
     }
    ],
    "id": "h290"
@@ -4441,10 +4441,10 @@
     "symbol": "ES=F",
     "name": "S&P 500 futures",
     "unit": "index",
-    "last": 7768.5,
+    "last": 7769.5,
     "prev": 7803.75,
-    "change": -35.25,
-    "change_pct": -0.45170591061989435,
+    "change": -34.25,
+    "change_pct": -0.438891558545571,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -4565,7 +4565,7 @@
      ],
      [
       "2026-09-28",
-      7768.5
+      7769.5
      ]
     ],
     "missing": false
@@ -4574,10 +4574,10 @@
     "symbol": "NQ=F",
     "name": "Nasdaq 100 futures",
     "unit": "index",
-    "last": 30639.0,
+    "last": 30644.0,
     "prev": 30889.25,
-    "change": -250.25,
-    "change_pct": -0.8101523992974903,
+    "change": -245.25,
+    "change_pct": -0.7939655381726652,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -4698,7 +4698,7 @@
      ],
      [
       "2026-09-28",
-      30639.0
+      30644.0
      ]
     ],
     "missing": false
@@ -4975,10 +4975,10 @@
     "symbol": "^GDAXI",
     "name": "DAX",
     "unit": "index",
-    "last": 25405.169921875,
+    "last": 25407.5,
     "prev": 25408.640625,
-    "change": -3.470703125,
-    "change_pct": -0.013659538801084524,
+    "change": -1.140625,
+    "change_pct": -0.004489122487244435,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -5099,7 +5099,7 @@
      ],
      [
       "2026-09-28",
-      25405.169921875
+      25407.5
      ]
     ],
     "missing": false
@@ -5108,10 +5108,10 @@
     "symbol": "^FTSE",
     "name": "FTSE 100",
     "unit": "index",
-    "last": 10719.2998046875,
+    "last": 10724.6298828125,
     "prev": 10695.2998046875,
-    "change": 24.0,
-    "change_pct": 0.2243976367028193,
+    "change": 29.330078125,
+    "change_pct": 0.2742333423149607,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -5232,7 +5232,7 @@
      ],
      [
       "2026-09-28",
-      10719.2998046875
+      10724.6298828125
      ]
     ],
     "missing": false
@@ -5241,10 +5241,10 @@
     "symbol": "^STOXX50E",
     "name": "Euro Stoxx 50",
     "unit": "index",
-    "last": 6306.43017578125,
+    "last": 6307.5,
     "prev": 6302.81982421875,
-    "change": 3.6103515625,
-    "change_pct": 0.05728152895355075,
+    "change": 4.68017578125,
+    "change_pct": 0.07425526846358993,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -5365,7 +5365,7 @@
      ],
      [
       "2026-09-28",
-      6306.43017578125
+      6307.5
      ]
     ],
     "missing": false
@@ -5777,10 +5777,10 @@
     "symbol": "EURUSD=X",
     "name": "EUR/USD",
     "unit": "fx",
-    "last": 1.1375269889831543,
+    "last": 1.1376564502716064,
     "prev": 1.1374752521514893,
-    "change": 5.173683166503906e-05,
-    "change_pct": 0.004548391850036376,
+    "change": 0.0001811981201171875,
+    "change_pct": 0.015929851640680396,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -5901,7 +5901,7 @@
      ],
      [
       "2026-09-28",
-      1.1375269889831543
+      1.1376564502716064
      ]
     ],
     "missing": false
@@ -5910,10 +5910,10 @@
     "symbol": "JPY=X",
     "name": "USD/JPY",
     "unit": "fx",
-    "last": 156.99000549316406,
+    "last": 157.0,
     "prev": 158.81100463867188,
-    "change": -1.8209991455078125,
-    "change_pct": -1.1466454416373506,
+    "change": -1.811004638671875,
+    "change_pct": -1.1403521077095935,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -6034,7 +6034,7 @@
      ],
      [
       "2026-09-28",
-      156.99000549316406
+      157.0
      ]
     ],
     "missing": false
@@ -6043,10 +6043,10 @@
     "symbol": "DX-Y.NYB",
     "name": "US dollar index",
     "unit": "index",
-    "last": 101.11900329589844,
+    "last": 101.12000274658203,
     "prev": 100.97000122070312,
-    "change": 0.1490020751953125,
-    "change_pct": 0.1475706382033407,
+    "change": 0.15000152587890625,
+    "change_pct": 0.14856048733824279,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -6167,7 +6167,7 @@
      ],
      [
       "2026-09-28",
-      101.11900329589844
+      101.12000274658203
      ]
     ],
     "missing": false
@@ -6176,10 +6176,10 @@
     "symbol": "CL=F",
     "name": "WTI crude oil",
     "unit": "index",
-    "last": 95.75,
+    "last": 95.62999725341797,
     "prev": 92.41000366210938,
-    "change": 3.339996337890625,
-    "change_pct": 3.6143233476140577,
+    "change": 3.2199935913085938,
+    "change_pct": 3.4844643044082892,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -6300,7 +6300,7 @@
      ],
      [
       "2026-09-28",
-      95.75
+      95.62999725341797
      ]
     ],
     "missing": false
@@ -6309,10 +6309,10 @@
     "symbol": "BZ=F",
     "name": "Brent crude oil",
     "unit": "index",
-    "last": 100.48999786376953,
+    "last": 100.44999694824219,
     "prev": 104.31999969482422,
-    "change": -3.8300018310546875,
-    "change_pct": -3.671397471490513,
+    "change": -3.8700027465820312,
+    "change_pct": -3.7097419074992954,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -6433,7 +6433,7 @@
      ],
      [
       "2026-09-28",
-      100.48999786376953
+      100.44999694824219
      ]
     ],
     "missing": false
@@ -6442,10 +6442,10 @@
     "symbol": "GC=F",
     "name": "Gold",
     "unit": "index",
-    "last": 4183.10009765625,
+    "last": 4183.89990234375,
     "prev": 4321.2001953125,
-    "change": -138.10009765625,
-    "change_pct": -3.1958736326554966,
+    "change": -137.30029296875,
+    "change_pct": -3.177364777445141,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -6566,7 +6566,7 @@
      ],
      [
       "2026-09-28",
-      4183.10009765625
+      4183.89990234375
      ]
     ],
     "missing": false
@@ -6575,10 +6575,10 @@
     "symbol": "BTC-USD",
     "name": "Bitcoin",
     "unit": "index",
-    "last": 82980.1015625,
+    "last": 82986.0078125,
     "prev": 84458.0859375,
-    "change": -1477.984375,
-    "change_pct": -1.7499619587563544,
+    "change": -1472.078125,
+    "change_pct": -1.7429688450308425,
     "as_of": "2026-09-28",
     "history": [
      [
@@ -6699,7 +6699,7 @@
      ],
      [
       "2026-09-28",
-      82980.1015625
+      82986.0078125
      ]
     ],
     "missing": false
