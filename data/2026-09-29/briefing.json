@@ -1,0 +1,101 @@
+{
+  "headline": "Iran war drives oil and bond selloff as Anthropic files for IPO amid AI safety pause",
+  "at_a_glance": [
+    "Stalled US-Iran talks pushed oil higher and Wall Street lower, with the S&P 500 down 0.77% and the 10-year yield up to 5.24%.",
+    "Anthropic's IPO filing disclosed an $8bn loss on $4.6bn revenue and warned its AI could pose existential risks to humanity.",
+    "OpenAI shelved a new model over safety concerns, extending an industry-wide pause also seen at Anthropic and in new AI legislation.",
+    "Nvidia announced a record $150 billion share buyback and a new platform meant to stop AI agents from acting unsafely.",
+    "AMD agreed to buy Fei-Fei Li's World Labs for $8.2 billion, betting on AI applied to robotics and the physical world."
+  ],
+  "market_analysis": "US stocks fell Monday as oil prices and Treasury yields climbed and US-Iran mediation talks stalled. The S&P 500 dropped 0.77% to 7,683.69, the Nasdaq Composite fell 0.92% and the Dow Jones lost 0.67%. The VIX jumped 8.07% to 16.07, and the US 10-year yield rose 6 basis points to 5.24% as bonds extended a monthly loss.\n\nAsian markets were mixed Tuesday, with the Nikkei 225 down 1.36% and the Hang Seng off 0.63%, while the Shanghai Composite edged up 0.08%. European benchmarks were little changed in Monday's session: the DAX fell 0.13%, the FTSE 100 slipped 0.10% and the Euro Stoxx 50 was roughly flat at -0.02%. Oil diverged, with WTI crude up 1.85% and Brent down 5.16%, while gold fell 3.78% and bitcoin slipped 1.47%.\n\nNo major economic data or watch-list earnings are scheduled in Europe today. US futures point to further weakness, with S&P 500 futures down 0.27% and Nasdaq 100 futures down 0.47%. Traders are watching for progress in US-Iran mediation talks, upcoming Fed data after the dollar held near a two-month peak, and a Tuesday meeting between tech executives, including Meta's Zuckerberg and Anthropic's Amodei, and President Trump.",
+  "mover_notes": {
+    "BA": "Boeing shares fell after the FAA delayed 737 MAX 10 certification over a software issue."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "US-Iran talks stall as oil and bond yields climb",
+      "summary": "US and Iranian officials held separate talks with mediators on Monday without an apparent breakthrough, and Iranian officials have privately expressed pessimism about a deal before the US midterm elections. President Trump rejected Iran's latest proposal to reopen the Strait of Hormuz and said the US would win the war 'very soon.' Middle East crude exports have rebounded to a war-time high, and oil rose for a second straight session. The bond selloff deepened, pushing the US 10-year Treasury yield above 5.2% and global stocks to a one-week low.",
+      "why_it_matters": "A prolonged conflict keeps upward pressure on oil prices and government borrowing costs, weighing on equity markets worldwide.",
+      "headline_ids": ["h008", "h033", "h067", "h086", "h122", "h169", "h203", "h240", "h246", "h255", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "UK investigates suspected bomb plot near US airbase",
+      "summary": "Five British men arrested near RAF Fairford, a UK base used by US forces for strikes on Iran, were released on bail as a police investigation continues. US Secretary of State Marco Rubio said a foreign actor was 'clearly' behind the plot, though he offered no evidence, while UK Defence Minister Wes Streeting said it was too soon to blame a foreign state. Local MPs and councillors have questioned how the suspects were able to enter residential areas near the base. AI-enhanced images purporting to show the suspects' faces have also circulated online, fueling false claims about their religion.",
+      "why_it_matters": "A confirmed state-linked plot against a base used in the Iran conflict would mark a significant escalation reaching into the UK.",
+      "headline_ids": ["h072", "h076", "h101", "h152", "h180", "h182", "h191", "h195", "h204", "h212", "h223", "h256", "h276", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US bans some Canadian dairy and alcohol as trade war deepens",
+      "summary": "A US ban on certain Canadian alcohol and dairy products took effect Tuesday, the latest escalation in the Canada-US trade war after negotiations collapsed in late August. There is no word on when talks might resume.",
+      "why_it_matters": "Further escalation between the two North American allies raises costs for affected producers and consumers on both sides of the border.",
+      "headline_ids": ["h007", "h043"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Australia's central bank raises rates to 15-year high",
+      "summary": "The Reserve Bank of Australia raised its official cash rate by 25 basis points to 4.6%, its highest level since 2011 and the fourth increase this year, in line with economists' expectations. The central bank said further hikes are not off the table. The decision comes as Australian household spending was flat in August, suggesting weakening demand.",
+      "why_it_matters": "Continued rate rises add pressure on mortgage holders and show a central bank still focused on inflation despite softening demand.",
+      "headline_ids": ["h006", "h031", "h038", "h100"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US and China agree to cut tariffs on $60 billion in goods",
+      "summary": "The US and China pledged to cut tariffs on $60 billion of goods, unveiling separate lists covering thousands of products as they seek to ease trade tensions and stabilize relations. The move follows a Trump-Xi summit described by Reuters as ending in a 'stalemate.' Trump also disputed his ambassador's account that he had asked China's president whether he wanted to buy US arms.",
+      "why_it_matters": "Tariff relief on tens of billions of dollars in trade could ease cost pressures for businesses and consumers in both countries.",
+      "headline_ids": ["h019", "h088", "h148", "h162", "h170"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic's IPO filing warns of AI's 'existential risks'",
+      "summary": "Anthropic's long-awaited IPO prospectus disclosed that the Claude maker lost $8 billion last year on $4.6 billion in revenue, even as revenue grew more than tenfold in 2025. The filing warned that AI may pose 'existential risks to humanity' and detailed a 'Founder LLC' structure meant to let Anthropic's leaders control the company to promote public good over market forces. Reporting on the filing put Anthropic's potential IPO valuation as high as $2 trillion.",
+      "why_it_matters": "The filing offers a rare, detailed look at the finances and governance of a leading AI lab ahead of one of the largest tech listings on record.",
+      "headline_ids": ["h002", "h003", "h004", "h015", "h037", "h107", "h140", "h145"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "OpenAI shelves new model as AI industry pauses on safety",
+      "summary": "OpenAI abandoned plans to release its upcoming model, reported as GPT-6.1 Astra, saying it failed to meet alignment standards during internal testing. The heads of OpenAI and Anthropic have both indicated recently that top AI labs should slow the pace of model development, and Pope Leo said concerns about AI doom scenarios are not 'fake news.' In Washington, Representative Ro Khanna plans to introduce an AI safety bill that would ban 'recursive' technology until safeguards exist, and tech executives including Meta's Zuckerberg and Anthropic's Amodei are set to meet President Trump on AI policy Tuesday.",
+      "why_it_matters": "A coordinated pause among leading AI developers, combined with new legislative proposals, could slow the pace of frontier AI deployment industry-wide.",
+      "headline_ids": ["h001", "h018", "h098", "h102", "h113", "h123", "h176", "h201", "h224", "h260"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia adds $150 billion to buyback, unveils AI agent security tool",
+      "summary": "Nvidia's board increased its share buyback program by $150 billion, the largest ever, bringing the total remaining authorized amount to $235 billion, with repurchases to run through January 2028. The company also unveiled a new security platform designed to prevent AI agents from 'going rogue.'",
+      "why_it_matters": "As the world's largest listed company, Nvidia's capital-return and safety decisions carry significant weight for AI-linked markets.",
+      "headline_ids": ["h012", "h041", "h179", "h210", "h253", "h273", "h283"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AMD buys Fei-Fei Li's World Labs for $8.2 billion",
+      "summary": "AMD agreed to acquire Fei-Fei Li's startup World Labs for $8.2 billion, its second-biggest deal on record, betting on 'physical AI.' Li will join AMD as chief scientist, and AMD had previously invested in World Labs before the acquisition. CNBC's Jim Cramer said AMD's rally isn't over, citing demand from agentic AI for the company's high-end chips.",
+      "why_it_matters": "The deal signals intensifying competition among chipmakers to expand beyond core hardware into AI applications such as robotics.",
+      "headline_ids": ["h133", "h156", "h177", "h178"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Boeing 737 MAX 10 certification delayed by software issue",
+      "summary": "The FAA said certification of Boeing's 737 MAX 10 will be delayed until it can assess a software issue on the aircraft. Boeing shares fell about 7% following the announcement.",
+      "why_it_matters": "The delay pushes back a key aircraft program for Boeing and adds to a string of setbacks facing the planemaker.",
+      "headline_ids": ["h024", "h220"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Mediators continue trying to broker a US-Iran deal amid stalled talks, with oil markets sensitive to any progress.",
+    "Tech executives including Meta's Zuckerberg and Anthropic's Amodei are due to meet President Trump on AI policy.",
+    "Markets watch for upcoming Fed data after the dollar held near a two-month peak and Treasury yields kept rising."
+  ]
+}

@@ -1,0 +1,46 @@
+Iran war drives oil and bond selloff as Anthropic files for IPO amid AI safety pause
+Daily Briefing · Tuesday, 29 September 2026
+
+AT A GLANCE
+- Stalled US-Iran talks pushed oil higher and Wall Street lower, with the S&P 500 down 0.77% and the 10-year yield up to 5.24%.
+- Anthropic's IPO filing disclosed an $8bn loss on $4.6bn revenue and warned its AI could pose existential risks to humanity.
+- OpenAI shelved a new model over safety concerns, extending an industry-wide pause also seen at Anthropic and in new AI legislation.
+- Nvidia announced a record $150 billion share buyback and a new platform meant to stop AI agents from acting unsafely.
+- AMD agreed to buy Fei-Fei Li's World Labs for $8.2 billion, betting on AI applied to robotics and the physical world.
+
+MARKETS
+S&P 500: 7,683.69 (-0.77%) as of Mon 28 Sep
+Nasdaq Composite: 26,820.38 (-0.92%) as of Mon 28 Sep
+Dow Jones: 51,481.51 (-0.67%) as of Mon 28 Sep
+S&P 500 futures: 7,726.00 (-0.27%) as of Tue 29 Sep
+Nasdaq 100 futures: 30,423.50 (-0.47%) as of Tue 29 Sep
+VIX volatility: 16.07 (+8.07%) as of Mon 28 Sep
+US 10-year yield: 5.24% (+6 bp) as of Mon 28 Sep
+DAX: 25,374.42 (-0.13%) as of Mon 28 Sep
+FTSE 100: 10,684.90 (-0.10%) as of Mon 28 Sep
+Euro Stoxx 50: 6,301.28 (-0.02%) as of Mon 28 Sep
+Nikkei 225: 64,983.91 (-1.36%) as of Tue 29 Sep
+Hang Seng: 24,486.52 (-0.63%) as of Tue 29 Sep
+Shanghai Composite: 3,826.51 (+0.08%) as of Tue 29 Sep
+EUR/USD: 1.1364 (-0.13%) as of Tue 29 Sep
+USD/JPY: 157.51 (+0.03%) as of Tue 29 Sep
+US dollar index: 101.28 (+0.08%) as of Tue 29 Sep
+WTI crude oil: 94.31 (+1.85%) as of Tue 29 Sep
+Brent crude oil: 99.85 (-5.16%) as of Tue 29 Sep
+Gold: 4,157.80 (-3.78%) as of Tue 29 Sep
+Bitcoin: 83,218.44 (-1.47%) as of Tue 29 Sep
+
+TOP STORIES
+- US-Iran talks stall as oil and bond yields climb: A prolonged conflict keeps upward pressure on oil prices and government borrowing costs, weighing on equity markets worldwide.
+- UK investigates suspected bomb plot near US airbase: A confirmed state-linked plot against a base used in the Iran conflict would mark a significant escalation reaching into the UK.
+- US bans some Canadian dairy and alcohol as trade war deepens: Further escalation between the two North American allies raises costs for affected producers and consumers on both sides of the border.
+- Australia's central bank raises rates to 15-year high: Continued rate rises add pressure on mortgage holders and show a central bank still focused on inflation despite softening demand.
+- US and China agree to cut tariffs on $60 billion in goods: Tariff relief on tens of billions of dollars in trade could ease cost pressures for businesses and consumers in both countries.
+- Anthropic's IPO filing warns of AI's 'existential risks': The filing offers a rare, detailed look at the finances and governance of a leading AI lab ahead of one of the largest tech listings on record.
+- OpenAI shelves new model as AI industry pauses on safety: A coordinated pause among leading AI developers, combined with new legislative proposals, could slow the pace of frontier AI deployment industry-wide.
+- Nvidia adds $150 billion to buyback, unveils AI agent security tool: As the world's largest listed company, Nvidia's capital-return and safety decisions carry significant weight for AI-linked markets.
+- AMD buys Fei-Fei Li's World Labs for $8.2 billion: The deal signals intensifying competition among chipmakers to expand beyond core hardware into AI applications such as robotics.
+- Boeing 737 MAX 10 certification delayed by software issue: The delay pushes back a key aircraft program for Boeing and adds to a string of setbacks facing the planemaker.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-09-29/
+Data as of 07:01 CEST. Not investment advice.
