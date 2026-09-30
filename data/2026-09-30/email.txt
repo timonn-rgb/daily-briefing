@@ -1,46 +1,45 @@
-Treasury yields near 24-year highs as Trump seals AI safety pact with tech CEOs
+Cooler US inflation lifts stocks as FlyDubai attack and Iraq troop exit dominate news
 Daily Briefing · Wednesday, 30 September 2026
 
 AT A GLANCE
-- US stocks slipped Tuesday as the 30-year Treasury yield hit its highest level since 2002, though S&P 500 futures point higher ahead of Wednesday's open.
-- Trump and tech CEOs from Anthropic, Nvidia and Meta signed a voluntary "morally binding" AI safety pact, favoring self-regulation over new rules.
-- The US Supreme Court let the Trump administration resume deporting migrants to third countries while it considers the policy's legality.
-- China's factory activity returned to growth in September and Beijing unveiled a "mini stimulus" package to counter its economic slowdown.
-- Morocco's king appointed Fatima Ezzahra El Mansouri as the country's first woman prime minister following elections.
+- Wall Street rallied after core PCE inflation rose less than forecast in August; S&P 500 +0.65%, Nasdaq +1.09%, and traders pared October rate-hike bets.
+- A FlyDubai pilot stabbed his co-pilot and allegedly tried to crash a Tel Aviv-bound flight, which made an emergency landing in Saudi Arabia.
+- The last US troops left Iraq after 23 years, ending the coalition mission as Iran-backed factions vie for regional influence.
+- Russia launched its largest strike on Ukraine's energy grid since spring and threatened NATO with nuclear consequences over Kaliningrad.
+- Eurozone inflation accelerated and bond markets remained on edge after a French credit warning, adding pressure on the ECB.
 
 MARKETS
-S&P 500: 7,670.84 (-0.17%) as of Tue 29 Sep
-Nasdaq Composite: 26,797.54 (-0.09%) as of Tue 29 Sep
-Dow Jones: 51,349.92 (-0.26%) as of Tue 29 Sep
-S&P 500 futures: 7,749.25 (+0.22%) as of Wed 30 Sep
-Nasdaq 100 futures: 30,648.00 (+0.11%) as of Wed 30 Sep
-VIX volatility: 16.04 (-0.19%) as of Tue 29 Sep
-US 10-year yield: 5.26% (+2 bp) as of Tue 29 Sep
-DAX: 25,399.21 (+0.10%) as of Tue 29 Sep
-FTSE 100: 10,636.70 (-0.45%) as of Tue 29 Sep
-Euro Stoxx 50: 6,320.26 (+0.30%) as of Tue 29 Sep
-Nikkei 225: 66,811.84 (+2.03%) as of Wed 30 Sep
-Hang Seng: 24,513.14 (-0.04%) as of Wed 30 Sep
-Shanghai Composite: 3,840.83 (+0.27%) as of Wed 30 Sep
-EUR/USD: 1.1335 (-0.33%) as of Wed 30 Sep
-USD/JPY: 157.13 (-0.15%) as of Wed 30 Sep
-US dollar index: 101.46 (+0.09%) as of Wed 30 Sep
-WTI crude oil: 89.51 (+0.15%) as of Wed 30 Sep
-Brent crude oil: 96.31 (-6.12%) as of Wed 30 Sep
-Gold: 4,210.00 (+0.72%) as of Wed 30 Sep
-Bitcoin: 83,291.89 (-0.25%) as of Wed 30 Sep
+S&P 500: 7,720.40 (+0.65%) as of Wed 30 Sep
+Nasdaq Composite: 27,090.24 (+1.09%) as of Wed 30 Sep
+Dow Jones: 51,443.95 (+0.18%) as of Wed 30 Sep
+S&P 500 futures: 7,760.75 (+0.37%) as of Wed 30 Sep
+Nasdaq 100 futures: 30,792.50 (+0.59%) as of Wed 30 Sep
+VIX volatility: 15.74 (-1.87%) as of Wed 30 Sep
+US 10-year yield: 5.24% (-1 bp) as of Wed 30 Sep
+DAX: 25,261.53 (-0.54%) as of Wed 30 Sep
+FTSE 100: 10,614.48 (-0.21%) as of Wed 30 Sep
+Euro Stoxx 50: 6,285.69 (-0.55%) as of Wed 30 Sep
+Nikkei 225: 66,753.72 (+1.94%) as of Wed 30 Sep
+Hang Seng: 24,613.27 (+0.37%) as of Wed 30 Sep
+Shanghai Composite: 3,842.19 (+0.31%) as of Wed 30 Sep
+EUR/USD: 1.1366 (-0.06%) as of Wed 30 Sep
+USD/JPY: 156.84 (-0.33%) as of Wed 30 Sep
+US dollar index: 101.21 (-0.16%) as of Wed 30 Sep
+WTI crude oil: 90.84 (+1.63%) as of Wed 30 Sep
+Brent crude oil: 98.43 (-4.05%) as of Wed 30 Sep
+Gold: 4,211.40 (+0.76%) as of Wed 30 Sep
+Bitcoin: 84,568.99 (+1.13%) as of Wed 30 Sep
 
 TOP STORIES
-- Trump and tech CEOs sign voluntary AI safety accord: The self-regulation approach shapes how AI risk is governed ahead of the US midterms and could influence how markets price regulatory risk for AI-linked stocks.
-- Treasury yields hit multi-decade highs ahead of key inflation data: Elevated long-term borrowing costs raise financing pressure across the economy and keep markets focused on Wednesday's inflation data for signals on the Fed's rate path.
-- Supreme Court lets Trump resume third-country deportations: The ruling immediately expands the administration's deportation authority and signals how the court may ultimately rule on the underlying policy.
-- Saudi oil flows resume as Middle East supply risk stays in focus: Middle East supply risk remains a key swing factor for oil prices and global inflation even as near-term flows recover.
-- US completes troop withdrawal from Iraq: A security vacuum in Iraq could reshape the regional balance of power and complicate US efforts to contain Iranian influence.
-- China's factory activity returns to growth as Beijing adds stimulus: Chinese policymakers' response to a deepening economic slowdown affects a key driver of global demand and commodity markets.
-- Morocco's king names first woman prime minister: The appointment marks a notable shift in Moroccan politics and regional gender representation in government leadership.
-- Leaked Anthropic IPO prospectus highlights Big Tech dependence: As one of the most closely watched AI IPOs, Anthropic's financial disclosures will shape investor appetite for AI-sector listings.
-- China warns EU against imposing trade curbs: An escalation between the EU and China over trade curbs could disrupt supply chains and add to global trade tensions.
-- North Korea denies DMZ mine blast as UN Command cites armistice breach: The dispute adds to tension on the Korean peninsula and tests the armistice framework that has held since 1953.
+- Cooler US inflation lifts Wall Street, eases rate-hike bets: Weaker-than-expected inflation reduces the likelihood of a near-term Fed rate hike, a key driver of Wednesday's equity rally and lower Treasury yields.
+- FlyDubai flight diverted after pilot allegedly stabs co-pilot: The incident raises fresh security concerns for air travel to and from Israel and comes as Netanyahu's government faces renewed scrutiny over attack preparedness.
+- Last US troops leave Iraq after 23-year mission: The withdrawal removes a long-standing US military presence from a country positioned between Washington and Tehran, with implications for regional stability and Iran's influence.
+- Russia hits Ukraine's energy grid, warns NATO over Kaliningrad: Escalating attacks on Ukrainian infrastructure alongside direct nuclear threats against NATO members mark a sharp rise in tensions between Russia and the Western alliance.
+- Eurozone inflation accelerates, bond markets stay on edge after French warning: Rising eurozone inflation and deteriorating fiscal signals from France add pressure on European bond markets and the ECB's policy path just as US inflation data eased.
+- AI safety remains unresolved after Trump's White House summit: Continued uncertainty over AI oversight, paired with explicit central-bank warnings about financial-stability risk, leaves regulatory and systemic-risk questions open for a sector attracting enormous investment.
+- MI5 accuses Chinese institute of spying on UK AI research: The warning highlights growing UK concern about Chinese access to sensitive AI research through academic funding, at a time when universities rely heavily on international grants.
+- Iran's nuclear program enters uncertain phase amid US diplomacy: A potential Iranian exit from the Non-Proliferation Treaty and stalled US-Iran diplomacy keep alive risks to regional stability and oil-shipping routes through the Strait of Hormuz.
+- Manchester City found guilty of financial rule breaches: The verdict is one of the largest financial governance cases in English soccer history and could bring significant sporting and financial sanctions against one of the league's dominant clubs.
 
 Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-09-30/
-Data as of 07:01 CEST. Not investment advice.
+Data as of 16:06 CEST. Not investment advice.

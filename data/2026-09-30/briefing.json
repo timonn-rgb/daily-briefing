@@ -1,99 +1,93 @@
 {
-  "headline": "Treasury yields near 24-year highs as Trump seals AI safety pact with tech CEOs",
+  "headline": "Cooler US inflation lifts stocks as FlyDubai attack and Iraq troop exit dominate news",
   "at_a_glance": [
-    "US stocks slipped Tuesday as the 30-year Treasury yield hit its highest level since 2002, though S&P 500 futures point higher ahead of Wednesday's open.",
-    "Trump and tech CEOs from Anthropic, Nvidia and Meta signed a voluntary \"morally binding\" AI safety pact, favoring self-regulation over new rules.",
-    "The US Supreme Court let the Trump administration resume deporting migrants to third countries while it considers the policy's legality.",
-    "China's factory activity returned to growth in September and Beijing unveiled a \"mini stimulus\" package to counter its economic slowdown.",
-    "Morocco's king appointed Fatima Ezzahra El Mansouri as the country's first woman prime minister following elections."
+    "Wall Street rallied after core PCE inflation rose less than forecast in August; S&P 500 +0.65%, Nasdaq +1.09%, and traders pared October rate-hike bets.",
+    "A FlyDubai pilot stabbed his co-pilot and allegedly tried to crash a Tel Aviv-bound flight, which made an emergency landing in Saudi Arabia.",
+    "The last US troops left Iraq after 23 years, ending the coalition mission as Iran-backed factions vie for regional influence.",
+    "Russia launched its largest strike on Ukraine's energy grid since spring and threatened NATO with nuclear consequences over Kaliningrad.",
+    "Eurozone inflation accelerated and bond markets remained on edge after a French credit warning, adding pressure on the ECB."
   ],
-  "market_analysis": "Wall Street closed lower on Tuesday, with the S&P 500 down 0.17%, the Dow down 0.26% and the Nasdaq down 0.09%, as the 30-year Treasury yield climbed to its highest level since 2002 and the 10-year yield rose to 5.26%. Brent crude fell 6.12% after Saudi Arabia resumed tanker loadings from a pipeline that had been offline following a drone attack, while equities pared some losses after Trump and tech executives signed a voluntary AI safety accord at the White House.\n\nIn Asia on Wednesday, Japan's Nikkei 225 jumped 2.03%, Hong Kong's Hang Seng was roughly flat and Shanghai edged up 0.27% after Chinese factory activity returned to growth and Beijing announced a modest stimulus package. European markets were mixed on Tuesday, with the DAX up 0.10% and the Euro Stoxx 50 up 0.30%, while the FTSE 100 fell 0.45%.\n\nS&P 500 and Nasdaq 100 futures point to a higher open, up 0.22% and 0.11% respectively. The day's focus is the US Core PCE price index and final GDP figures, both due at 14:30 Berlin time, along with Micron's earnings after the close. Gold rose 0.72% to $4,210, while the euro slipped 0.33% against the dollar.",
-  "mover_notes": {},
+  "market_analysis": "US stocks rose Wednesday after data showed core PCE inflation, the Fed's preferred gauge, rose 0.2% in August, with the annual core rate at 3.0%, both below the roughly 3.3% forecast, while consumer spending picked up sharply. Separate ADP data showed private payrolls up 90,000 in September, better than expected. The S&P 500 climbed 0.65% to 7,720.40 and the Nasdaq Composite gained 1.09%, while the Dow rose 0.18%. Treasury yields eased, with the 10-year at 5.24%, retreating from the near-25-year high hit earlier in the week, and the VIX fell to 15.74. Traders trimmed bets on a Fed rate hike in October.\n\nAsian markets ended higher, led by the Nikkei 225's 1.94% jump, with the Hang Seng and Shanghai Composite also advancing. European bourses traded lower, with the DAX down 0.54%, the Euro Stoxx 50 down 0.55% and the FTSE 100 down 0.21%, as accelerating inflation across the eurozone's biggest economies added pressure on the ECB and bond investors continued digesting warnings over French creditworthiness. WTI crude rose 1.63% while Brent fell 4.05%; gold gained 0.76% and bitcoin rose 1.13%.\n\nLater Wednesday, Micron reports quarterly earnings after the close, the main US corporate event on an otherwise quiet calendar for central-bank decisions.",
+  "mover_notes": {
+    "NOC": "Shares fell after the U.S. Navy chose Boeing, not Northrop Grumman, to develop its next-generation fighter jet."
+  },
   "stories": [
     {
-      "section": "Business & Tech",
-      "title": "Trump and tech CEOs sign voluntary AI safety accord",
-      "summary": "President Trump and technology executives, including Anthropic's Dario Amodei, Nvidia's Jensen Huang and Meta's Mark Zuckerberg, signed a voluntary agreement at a White House summit pledging internal AI safety controls, independent audits and board oversight. Trump described the pact as \"morally binding\" and said the companies agreed to \"self-police\" AI development rather than accept new government regulation. The agreement also included commitments from an AI infrastructure coalition, whose members include Google, Meta and Microsoft, to cover data-centre energy costs and limit water use. Republican Senator Rand Paul said Congress was moving too quickly toward mandates, while some critics argued the approach could entrench leading US AI firms.",
-      "why_it_matters": "The self-regulation approach shapes how AI risk is governed ahead of the US midterms and could influence how markets price regulatory risk for AI-linked stocks.",
-      "headline_ids": ["h004", "h018", "h019", "h060", "h076", "h104", "h115", "h116", "h133", "h145", "h150", "h151", "h167", "h173", "h181", "h197", "h241", "h244"],
+      "section": "Economy & Policy",
+      "title": "Cooler US inflation lifts Wall Street, eases rate-hike bets",
+      "summary": "The core PCE price index, the Fed's preferred inflation gauge, rose 0.2% in August, and annual core inflation came in at 3.0%, well below the roughly 3.3% forecast economists had expected. US consumer spending rose in August at its fastest pace in over a year. Separate ADP data showed private-sector employment increased by 90,000 in September, better than expected. Traders pared back bets on a Federal Reserve rate hike in October, and the S&P 500 and Nasdaq Composite advanced.",
+      "why_it_matters": "Weaker-than-expected inflation reduces the likelihood of a near-term Fed rate hike, a key driver of Wednesday's equity rally and lower Treasury yields.",
+      "headline_ids": ["h004", "h006", "h056", "h096", "h101", "h138"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "FlyDubai flight diverted after pilot allegedly stabs co-pilot",
+      "summary": "A FlyDubai flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia after one pilot stabbed the other and allegedly attempted to crash the aircraft, according to Israeli officials and passenger accounts. Both pilots were hospitalized, and a passenger described chaos and blood in the cockpit. Israeli Prime Minister Benjamin Netanyahu said the incident is being investigated as a possible attempted terror attack and that Israel is preparing for other potential threats. The motive has not been established.",
+      "why_it_matters": "The incident raises fresh security concerns for air travel to and from Israel and comes as Netanyahu's government faces renewed scrutiny over attack preparedness.",
+      "headline_ids": ["h001", "h037", "h043", "h054", "h055", "h080", "h144", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Last US troops leave Iraq after 23-year mission",
+      "summary": "The United States completed the withdrawal of its remaining troops from Iraq, ending a military presence that began with the 2003 invasion and continued through a 12-year coalition mission against the Islamic State group. Iraqi forces held parades in Baghdad and Najaf to mark what the government called 'Sovereignty Day.' A retired US general who commanded troops in Iraq warned the exit could give Iran and the Islamic State more room to operate. Reactions inside Iraq were mixed, with some celebrating the end of the American presence and others voicing concern about what follows.",
+      "why_it_matters": "The withdrawal removes a long-standing US military presence from a country positioned between Washington and Tehran, with implications for regional stability and Iran's influence.",
+      "headline_ids": ["h093", "h119", "h146", "h157", "h164", "h167", "h266", "h267"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia hits Ukraine's energy grid, warns NATO over Kaliningrad",
+      "summary": "Russia launched its largest attack on Ukraine's energy infrastructure since spring, striking 11 regions overnight and hitting Kyiv's data centers, communications infrastructure and power grid; Ukrainian officials said at least four people were killed. Separately, the Kremlin threatened nuclear strikes against NATO countries, accusing the alliance of preparing to blockade Kaliningrad, Russia's Baltic exclave. NATO condemned what it called Moscow's 'irresponsible nuclear rhetoric.' Russia also extended its ban on most diesel exports through the end of October.",
+      "why_it_matters": "Escalating attacks on Ukrainian infrastructure alongside direct nuclear threats against NATO members mark a sharp rise in tensions between Russia and the Western alliance.",
+      "headline_ids": ["h018", "h108", "h116", "h147", "h156", "h019", "h300"],
       "single_source": false
     },
     {
       "section": "Economy & Policy",
-      "title": "Treasury yields hit multi-decade highs ahead of key inflation data",
-      "summary": "The US 30-year Treasury yield rose to its highest level since 2002 and the 10-year yield reached 5.26%, pressuring US stocks lower on Tuesday with the Dow falling more than 100 points intraday. Hedge funds now hold a record share of the $30 trillion Treasury market, a concentration analysts say could boost liquidity but also risk financial instability if positioning unwinds. US consumer confidence fell to its lowest level since 2014 ahead of the midterm elections, with respondents citing rising goods and fuel costs. Asian bonds steadied ahead of Wednesday's US Core PCE report, the Fed's preferred inflation gauge, which is expected to show ongoing price pressures.",
-      "why_it_matters": "Elevated long-term borrowing costs raise financing pressure across the economy and keep markets focused on Wednesday's inflation data for signals on the Fed's rate path.",
-      "headline_ids": ["h003", "h023", "h164", "h240", "h092", "h186", "h016", "h022"],
-      "single_source": false
-    },
-    {
-      "section": "Geopolitics",
-      "title": "Supreme Court lets Trump resume third-country deportations",
-      "summary": "The US Supreme Court granted an emergency request allowing the Trump administration to resume deporting migrants to third countries while it considers the policy's legality, with arguments expected in December. The court's conservative majority temporarily lifted lower-court safeguards that had required deportees receive notice and a chance to contest removal to a country other than their own. The court is separately weighing cases on immigrant detention, gambling and a Ten Commandments dispute.",
-      "why_it_matters": "The ruling immediately expands the administration's deportation authority and signals how the court may ultimately rule on the underlying policy.",
-      "headline_ids": ["h001", "h093", "h147", "h198", "h264", "h292"],
-      "single_source": false
-    },
-    {
-      "section": "Geopolitics",
-      "title": "Saudi oil flows resume as Middle East supply risk stays in focus",
-      "summary": "Tankers resumed loading oil from a Saudi pipeline that had been taken offline earlier this month after a drone attack blamed on an Iranian-backed Iraqi militia, easing fears of a Middle East supply disruption. Oil steadied after its biggest drop in more than a week, with Brent crude down 6.12% as Gulf supply appeared to recover toward pre-war levels. An IIF economist argued that dwindling oil and diesel inventories around the Strait of Hormuz now pose a bigger risk to the global economy than US-China tensions, warning that elevated crack spreads are feeding cost-push inflation.",
-      "why_it_matters": "Middle East supply risk remains a key swing factor for oil prices and global inflation even as near-term flows recover.",
-      "headline_ids": ["h024", "h067", "h193", "h237", "h098"],
-      "single_source": false
-    },
-    {
-      "section": "Geopolitics",
-      "title": "US completes troop withdrawal from Iraq",
-      "summary": "US forces completed their withdrawal from remaining bases in Iraq on Wednesday, finishing a pullout agreed under the previous administration. Iraqi officials and analysts warned the departure could leave a security vacuum that emboldens Iran-backed militias and remnants of the Islamic State. Iraq marked the moment with official \"Sovereignty Days\" events as it begins what analysts call a high-stakes security balancing act.",
-      "why_it_matters": "A security vacuum in Iraq could reshape the regional balance of power and complicate US efforts to contain Iranian influence.",
-      "headline_ids": ["h107", "h126", "h153", "h080"],
-      "single_source": false
-    },
-    {
-      "section": "Economy & Policy",
-      "title": "China's factory activity returns to growth as Beijing adds stimulus",
-      "summary": "Chinese factory activity returned to growth in September, snapping a two-month contraction, while a separate private survey showed services growth at a three-month high. Beijing unveiled a \"mini stimulus\" package aimed at keeping growth on target rather than delivering a broad revival, leaving underlying demand weakness largely unaddressed. China's stocks and bond yields have fallen to more than one-year lows this month even as the yuan strengthens, a divergence analysts describe as a \"two-speed economy.\"",
-      "why_it_matters": "Chinese policymakers' response to a deepening economic slowdown affects a key driver of global demand and commodity markets.",
-      "headline_ids": ["h011", "h088", "h094", "h106", "h082"],
-      "single_source": false
-    },
-    {
-      "section": "Geopolitics",
-      "title": "Morocco's king names first woman prime minister",
-      "summary": "Morocco's king appointed Fatima Ezzahra El Mansouri, a lawyer and politician from the centrist Authenticity and Modernity Party, as the country's first woman prime minister following elections. She becomes only the second woman to lead the government of a North African country.",
-      "why_it_matters": "The appointment marks a notable shift in Moroccan politics and regional gender representation in government leadership.",
-      "headline_ids": ["h002", "h253"],
+      "title": "Eurozone inflation accelerates, bond markets stay on edge after French warning",
+      "summary": "Inflation jumped across the eurozone's biggest economies in September, adding pressure on the European Central Bank to consider raising rates. Vanguard warned that France is 'degrading credit' as its borrowing costs surge, with fiscal pressures compounded by the recent Iran conflict and an ongoing budget standoff. Global government bonds are on track for their worst quarter since 2024 as elevated oil prices revive inflation concerns. German unemployment and state-level inflation both rose in September.",
+      "why_it_matters": "Rising eurozone inflation and deteriorating fiscal signals from France add pressure on European bond markets and the ECB's policy path just as US inflation data eased.",
+      "headline_ids": ["h068", "h106", "h017", "h074", "h237", "h015"],
       "single_source": false
     },
     {
       "section": "Business & Tech",
-      "title": "Leaked Anthropic IPO prospectus highlights Big Tech dependence",
-      "summary": "Anthropic's leaked IPO prospectus shows the AI lab has deep dependence on its Big Tech partners, raising questions for prospective investors about its path to profitability. The Financial Times noted the prospectus's extensive risk-factor disclosures don't resolve the core question of whether the stock will make money, and that Anthropic faces a narrowing window to list before the end of the year.",
-      "why_it_matters": "As one of the most closely watched AI IPOs, Anthropic's financial disclosures will shape investor appetite for AI-sector listings.",
-      "headline_ids": ["h005", "h050", "h245"],
+      "title": "AI safety remains unresolved after Trump's White House summit",
+      "summary": "Following President Trump's meeting with AI industry leaders at the White House, the sector remains largely unsettled on questions of safety, with tech bosses signing a 'morally binding' but non-regulatory commitment to self-police. Trump has pushed to rename artificial intelligence 'Super Intelligence' even as researchers and companies question the shift. Bank of England Governor Andrew Bailey said authorities need the 'right to intervene' in the AI industry given growing risks, though he said regulation is 'not the right place to start.' The central bank separately flagged AI and debt as growing risks to financial stability.",
+      "why_it_matters": "Continued uncertainty over AI oversight, paired with explicit central-bank warnings about financial-stability risk, leaves regulatory and systemic-risk questions open for a sector attracting enormous investment.",
+      "headline_ids": ["h003", "h020", "h268", "h031", "h190", "h204"],
       "single_source": false
     },
     {
       "section": "Geopolitics",
-      "title": "China warns EU against imposing trade curbs",
-      "summary": "China's Commerce Ministry warned it would \"respond firmly\" if the European Union introduces restrictions on Chinese businesses or products, and separately cautioned that broad EU tariffs modeled on US measures could disrupt ongoing trade negotiations. The warnings come as Brussels considers curbs on Chinese firms.",
-      "why_it_matters": "An escalation between the EU and China over trade curbs could disrupt supply chains and add to global trade tensions.",
-      "headline_ids": ["h012", "h085", "h138"],
+      "title": "MI5 accuses Chinese institute of spying on UK AI research",
+      "summary": "Britain's domestic security service MI5 issued an alert accusing a Chinese state-owned conglomerate, the China General Technology Research Institute, of using a front company to fund and access British university research on artificial intelligence. MI5 said the institute has 'very strong ties' to Chinese intelligence and urged universities to cut ties with it. The alert is among the more unusual public espionage warnings the agency has issued.",
+      "why_it_matters": "The warning highlights growing UK concern about Chinese access to sensitive AI research through academic funding, at a time when universities rely heavily on international grants.",
+      "headline_ids": ["h088", "h089", "h090", "h052"],
       "single_source": false
     },
     {
       "section": "Geopolitics",
-      "title": "North Korea denies DMZ mine blast as UN Command cites armistice breach",
-      "summary": "North Korea denied South Korea's claim that it planted landmines that injured three South Korean soldiers in the Demilitarized Zone, calling Seoul's account a \"farce.\" The UN Command said its investigators found an active North Korean landmine south of the inter-Korean border and concluded Pyongyang had violated the armistice, a finding likely to bolster Seoul's calls for an apology. South Korea has demanded an apology over the blasts.",
-      "why_it_matters": "The dispute adds to tension on the Korean peninsula and tests the armistice framework that has held since 1953.",
-      "headline_ids": ["h042", "h066", "h095", "h113", "h190"],
+      "title": "Iran's nuclear program enters uncertain phase amid US diplomacy",
+      "summary": "Iran received a US response to its proposal following recent talks in Qatar, though President Trump denied reports that the US had offered sanctions relief in exchange for nuclear concessions. Iran's nuclear program remains opaque as Tehran debates withdrawing from the nuclear Non-Proliferation Treaty, with satellite imagery showing activity at known nuclear sites. Iran also told its public that Trump's war has failed. Crude flows through the Strait of Hormuz have recovered, though tanker insurance costs and geopolitical risk remain elevated.",
+      "why_it_matters": "A potential Iranian exit from the Non-Proliferation Treaty and stalled US-Iran diplomacy keep alive risks to regional stability and oil-shipping routes through the Strait of Hormuz.",
+      "headline_ids": ["h030", "h016", "h162", "h291", "h283", "h133"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Manchester City found guilty of financial rule breaches",
+      "summary": "The Premier League found Manchester City guilty of breaching financial rules over nearly a decade, ruling that the club used 'sham' commercial contracts to inflate revenue and understate costs by more than £900 million. The club was found guilty of virtually all of the 115 charges brought against it. Manchester City called the case a 'conspiracy theory' and denies wrongdoing. The club could also be ordered to pay the Premier League up to £50 million in legal costs.",
+      "why_it_matters": "The verdict is one of the largest financial governance cases in English soccer history and could bring significant sporting and financial sanctions against one of the league's dominant clubs.",
+      "headline_ids": ["h012", "h046", "h126", "h180", "h201", "h243"],
       "single_source": false
     }
   ],
   "watch_today": [
-    "US Core PCE inflation and final Q2 GDP data are due at 14:30 Berlin time, the Fed's preferred inflation gauge for the rate path.",
-    "Micron reports earnings after the close, an early read on AI-linked chip demand this earnings season.",
-    "Markets will watch for follow-through on Tuesday's Trump-AI industry safety accord and any regulatory response ahead of the US midterms."
+    "Micron reports quarterly earnings after Wednesday's close, the session's key US corporate event.",
+    "Markets continue to digest eurozone inflation data and French fiscal warnings for signs of ECB pressure.",
+    "Diplomatic follow-up on Iran's nuclear program continues after Tehran received a new US proposal."
   ]
 }
