@@ -1,0 +1,99 @@
+{
+  "headline": "Treasury yields near 24-year highs as Trump seals AI safety pact with tech CEOs",
+  "at_a_glance": [
+    "US stocks slipped Tuesday as the 30-year Treasury yield hit its highest level since 2002, though S&P 500 futures point higher ahead of Wednesday's open.",
+    "Trump and tech CEOs from Anthropic, Nvidia and Meta signed a voluntary \"morally binding\" AI safety pact, favoring self-regulation over new rules.",
+    "The US Supreme Court let the Trump administration resume deporting migrants to third countries while it considers the policy's legality.",
+    "China's factory activity returned to growth in September and Beijing unveiled a \"mini stimulus\" package to counter its economic slowdown.",
+    "Morocco's king appointed Fatima Ezzahra El Mansouri as the country's first woman prime minister following elections."
+  ],
+  "market_analysis": "Wall Street closed lower on Tuesday, with the S&P 500 down 0.17%, the Dow down 0.26% and the Nasdaq down 0.09%, as the 30-year Treasury yield climbed to its highest level since 2002 and the 10-year yield rose to 5.26%. Brent crude fell 6.12% after Saudi Arabia resumed tanker loadings from a pipeline that had been offline following a drone attack, while equities pared some losses after Trump and tech executives signed a voluntary AI safety accord at the White House.\n\nIn Asia on Wednesday, Japan's Nikkei 225 jumped 2.03%, Hong Kong's Hang Seng was roughly flat and Shanghai edged up 0.27% after Chinese factory activity returned to growth and Beijing announced a modest stimulus package. European markets were mixed on Tuesday, with the DAX up 0.10% and the Euro Stoxx 50 up 0.30%, while the FTSE 100 fell 0.45%.\n\nS&P 500 and Nasdaq 100 futures point to a higher open, up 0.22% and 0.11% respectively. The day's focus is the US Core PCE price index and final GDP figures, both due at 14:30 Berlin time, along with Micron's earnings after the close. Gold rose 0.72% to $4,210, while the euro slipped 0.33% against the dollar.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Trump and tech CEOs sign voluntary AI safety accord",
+      "summary": "President Trump and technology executives, including Anthropic's Dario Amodei, Nvidia's Jensen Huang and Meta's Mark Zuckerberg, signed a voluntary agreement at a White House summit pledging internal AI safety controls, independent audits and board oversight. Trump described the pact as \"morally binding\" and said the companies agreed to \"self-police\" AI development rather than accept new government regulation. The agreement also included commitments from an AI infrastructure coalition, whose members include Google, Meta and Microsoft, to cover data-centre energy costs and limit water use. Republican Senator Rand Paul said Congress was moving too quickly toward mandates, while some critics argued the approach could entrench leading US AI firms.",
+      "why_it_matters": "The self-regulation approach shapes how AI risk is governed ahead of the US midterms and could influence how markets price regulatory risk for AI-linked stocks.",
+      "headline_ids": ["h004", "h018", "h019", "h060", "h076", "h104", "h115", "h116", "h133", "h145", "h150", "h151", "h167", "h173", "h181", "h197", "h241", "h244"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Treasury yields hit multi-decade highs ahead of key inflation data",
+      "summary": "The US 30-year Treasury yield rose to its highest level since 2002 and the 10-year yield reached 5.26%, pressuring US stocks lower on Tuesday with the Dow falling more than 100 points intraday. Hedge funds now hold a record share of the $30 trillion Treasury market, a concentration analysts say could boost liquidity but also risk financial instability if positioning unwinds. US consumer confidence fell to its lowest level since 2014 ahead of the midterm elections, with respondents citing rising goods and fuel costs. Asian bonds steadied ahead of Wednesday's US Core PCE report, the Fed's preferred inflation gauge, which is expected to show ongoing price pressures.",
+      "why_it_matters": "Elevated long-term borrowing costs raise financing pressure across the economy and keep markets focused on Wednesday's inflation data for signals on the Fed's rate path.",
+      "headline_ids": ["h003", "h023", "h164", "h240", "h092", "h186", "h016", "h022"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Supreme Court lets Trump resume third-country deportations",
+      "summary": "The US Supreme Court granted an emergency request allowing the Trump administration to resume deporting migrants to third countries while it considers the policy's legality, with arguments expected in December. The court's conservative majority temporarily lifted lower-court safeguards that had required deportees receive notice and a chance to contest removal to a country other than their own. The court is separately weighing cases on immigrant detention, gambling and a Ten Commandments dispute.",
+      "why_it_matters": "The ruling immediately expands the administration's deportation authority and signals how the court may ultimately rule on the underlying policy.",
+      "headline_ids": ["h001", "h093", "h147", "h198", "h264", "h292"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Saudi oil flows resume as Middle East supply risk stays in focus",
+      "summary": "Tankers resumed loading oil from a Saudi pipeline that had been taken offline earlier this month after a drone attack blamed on an Iranian-backed Iraqi militia, easing fears of a Middle East supply disruption. Oil steadied after its biggest drop in more than a week, with Brent crude down 6.12% as Gulf supply appeared to recover toward pre-war levels. An IIF economist argued that dwindling oil and diesel inventories around the Strait of Hormuz now pose a bigger risk to the global economy than US-China tensions, warning that elevated crack spreads are feeding cost-push inflation.",
+      "why_it_matters": "Middle East supply risk remains a key swing factor for oil prices and global inflation even as near-term flows recover.",
+      "headline_ids": ["h024", "h067", "h193", "h237", "h098"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US completes troop withdrawal from Iraq",
+      "summary": "US forces completed their withdrawal from remaining bases in Iraq on Wednesday, finishing a pullout agreed under the previous administration. Iraqi officials and analysts warned the departure could leave a security vacuum that emboldens Iran-backed militias and remnants of the Islamic State. Iraq marked the moment with official \"Sovereignty Days\" events as it begins what analysts call a high-stakes security balancing act.",
+      "why_it_matters": "A security vacuum in Iraq could reshape the regional balance of power and complicate US efforts to contain Iranian influence.",
+      "headline_ids": ["h107", "h126", "h153", "h080"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China's factory activity returns to growth as Beijing adds stimulus",
+      "summary": "Chinese factory activity returned to growth in September, snapping a two-month contraction, while a separate private survey showed services growth at a three-month high. Beijing unveiled a \"mini stimulus\" package aimed at keeping growth on target rather than delivering a broad revival, leaving underlying demand weakness largely unaddressed. China's stocks and bond yields have fallen to more than one-year lows this month even as the yuan strengthens, a divergence analysts describe as a \"two-speed economy.\"",
+      "why_it_matters": "Chinese policymakers' response to a deepening economic slowdown affects a key driver of global demand and commodity markets.",
+      "headline_ids": ["h011", "h088", "h094", "h106", "h082"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Morocco's king names first woman prime minister",
+      "summary": "Morocco's king appointed Fatima Ezzahra El Mansouri, a lawyer and politician from the centrist Authenticity and Modernity Party, as the country's first woman prime minister following elections. She becomes only the second woman to lead the government of a North African country.",
+      "why_it_matters": "The appointment marks a notable shift in Moroccan politics and regional gender representation in government leadership.",
+      "headline_ids": ["h002", "h253"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Leaked Anthropic IPO prospectus highlights Big Tech dependence",
+      "summary": "Anthropic's leaked IPO prospectus shows the AI lab has deep dependence on its Big Tech partners, raising questions for prospective investors about its path to profitability. The Financial Times noted the prospectus's extensive risk-factor disclosures don't resolve the core question of whether the stock will make money, and that Anthropic faces a narrowing window to list before the end of the year.",
+      "why_it_matters": "As one of the most closely watched AI IPOs, Anthropic's financial disclosures will shape investor appetite for AI-sector listings.",
+      "headline_ids": ["h005", "h050", "h245"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "China warns EU against imposing trade curbs",
+      "summary": "China's Commerce Ministry warned it would \"respond firmly\" if the European Union introduces restrictions on Chinese businesses or products, and separately cautioned that broad EU tariffs modeled on US measures could disrupt ongoing trade negotiations. The warnings come as Brussels considers curbs on Chinese firms.",
+      "why_it_matters": "An escalation between the EU and China over trade curbs could disrupt supply chains and add to global trade tensions.",
+      "headline_ids": ["h012", "h085", "h138"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea denies DMZ mine blast as UN Command cites armistice breach",
+      "summary": "North Korea denied South Korea's claim that it planted landmines that injured three South Korean soldiers in the Demilitarized Zone, calling Seoul's account a \"farce.\" The UN Command said its investigators found an active North Korean landmine south of the inter-Korean border and concluded Pyongyang had violated the armistice, a finding likely to bolster Seoul's calls for an apology. South Korea has demanded an apology over the blasts.",
+      "why_it_matters": "The dispute adds to tension on the Korean peninsula and tests the armistice framework that has held since 1953.",
+      "headline_ids": ["h042", "h066", "h095", "h113", "h190"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US Core PCE inflation and final Q2 GDP data are due at 14:30 Berlin time, the Fed's preferred inflation gauge for the rate path.",
+    "Micron reports earnings after the close, an early read on AI-linked chip demand this earnings season.",
+    "Markets will watch for follow-through on Tuesday's Trump-AI industry safety accord and any regulatory response ahead of the US midterms."
+  ]
+}

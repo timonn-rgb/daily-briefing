@@ -1,0 +1,46 @@
+Treasury yields near 24-year highs as Trump seals AI safety pact with tech CEOs
+Daily Briefing · Wednesday, 30 September 2026
+
+AT A GLANCE
+- US stocks slipped Tuesday as the 30-year Treasury yield hit its highest level since 2002, though S&P 500 futures point higher ahead of Wednesday's open.
+- Trump and tech CEOs from Anthropic, Nvidia and Meta signed a voluntary "morally binding" AI safety pact, favoring self-regulation over new rules.
+- The US Supreme Court let the Trump administration resume deporting migrants to third countries while it considers the policy's legality.
+- China's factory activity returned to growth in September and Beijing unveiled a "mini stimulus" package to counter its economic slowdown.
+- Morocco's king appointed Fatima Ezzahra El Mansouri as the country's first woman prime minister following elections.
+
+MARKETS
+S&P 500: 7,670.84 (-0.17%) as of Tue 29 Sep
+Nasdaq Composite: 26,797.54 (-0.09%) as of Tue 29 Sep
+Dow Jones: 51,349.92 (-0.26%) as of Tue 29 Sep
+S&P 500 futures: 7,749.25 (+0.22%) as of Wed 30 Sep
+Nasdaq 100 futures: 30,648.00 (+0.11%) as of Wed 30 Sep
+VIX volatility: 16.04 (-0.19%) as of Tue 29 Sep
+US 10-year yield: 5.26% (+2 bp) as of Tue 29 Sep
+DAX: 25,399.21 (+0.10%) as of Tue 29 Sep
+FTSE 100: 10,636.70 (-0.45%) as of Tue 29 Sep
+Euro Stoxx 50: 6,320.26 (+0.30%) as of Tue 29 Sep
+Nikkei 225: 66,811.84 (+2.03%) as of Wed 30 Sep
+Hang Seng: 24,513.14 (-0.04%) as of Wed 30 Sep
+Shanghai Composite: 3,840.83 (+0.27%) as of Wed 30 Sep
+EUR/USD: 1.1335 (-0.33%) as of Wed 30 Sep
+USD/JPY: 157.13 (-0.15%) as of Wed 30 Sep
+US dollar index: 101.46 (+0.09%) as of Wed 30 Sep
+WTI crude oil: 89.51 (+0.15%) as of Wed 30 Sep
+Brent crude oil: 96.31 (-6.12%) as of Wed 30 Sep
+Gold: 4,210.00 (+0.72%) as of Wed 30 Sep
+Bitcoin: 83,291.89 (-0.25%) as of Wed 30 Sep
+
+TOP STORIES
+- Trump and tech CEOs sign voluntary AI safety accord: The self-regulation approach shapes how AI risk is governed ahead of the US midterms and could influence how markets price regulatory risk for AI-linked stocks.
+- Treasury yields hit multi-decade highs ahead of key inflation data: Elevated long-term borrowing costs raise financing pressure across the economy and keep markets focused on Wednesday's inflation data for signals on the Fed's rate path.
+- Supreme Court lets Trump resume third-country deportations: The ruling immediately expands the administration's deportation authority and signals how the court may ultimately rule on the underlying policy.
+- Saudi oil flows resume as Middle East supply risk stays in focus: Middle East supply risk remains a key swing factor for oil prices and global inflation even as near-term flows recover.
+- US completes troop withdrawal from Iraq: A security vacuum in Iraq could reshape the regional balance of power and complicate US efforts to contain Iranian influence.
+- China's factory activity returns to growth as Beijing adds stimulus: Chinese policymakers' response to a deepening economic slowdown affects a key driver of global demand and commodity markets.
+- Morocco's king names first woman prime minister: The appointment marks a notable shift in Moroccan politics and regional gender representation in government leadership.
+- Leaked Anthropic IPO prospectus highlights Big Tech dependence: As one of the most closely watched AI IPOs, Anthropic's financial disclosures will shape investor appetite for AI-sector listings.
+- China warns EU against imposing trade curbs: An escalation between the EU and China over trade curbs could disrupt supply chains and add to global trade tensions.
+- North Korea denies DMZ mine blast as UN Command cites armistice breach: The dispute adds to tension on the Korean peninsula and tests the armistice framework that has held since 1953.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-09-30/
+Data as of 07:01 CEST. Not investment advice.
