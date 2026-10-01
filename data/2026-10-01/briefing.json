@@ -1,0 +1,101 @@
+{
+  "headline": "Treasury rout deepens as Iraq withdrawal completes and FlyDubai attack is probed",
+  "at_a_glance": [
+    "Treasury yields hit fresh highs, deepening a global bond sell-off and weighing on US and European stocks while Asia rallied on AI optimism.",
+    "Fed's inspector general found no criminal wrongdoing in building renovations, but Trump renewed calls for Jerome Powell to resign from the board.",
+    "US military forces formally withdrew from Iraq after two decades, ending the American military presence there.",
+    "Russia launched its heaviest attack in months on Ukraine's energy grid, killing seven and triggering emergency power cuts in Kyiv.",
+    "A FlyDubai pilot stabbed his co-pilot and may have tried to crash a flight to Israel before passengers subdued him."
+  ],
+  "market_analysis": "US stocks were mixed in Wednesday's session as Treasury yields extended their climb: the S&P 500 fell 0.25% to 7,651.54 and the Dow dropped 0.86%, while the Nasdaq Composite edged up 0.24%. The move followed softer-than-expected PCE inflation data, though Fed's Neel Kashkari said inflation is 'still too high' even as the labor market remains 'pretty good.' Micron's strong earnings and AI-driven guidance helped support tech sentiment, with the 10-year Treasury yield rising to 5.29% and the VIX up to 16.34.\n\nAsian markets rallied on Thursday, led by the Nikkei 225's 2.88% jump to 68,678.89, with the Hang Seng up 0.37% and the Shanghai Composite up 0.31%. European benchmarks closed lower Wednesday as the global bond sell-off weighed on sentiment, with the DAX down 0.79%, the FTSE 100 down 0.29% and the Euro Stoxx 50 down 0.81%. US stock futures point to a higher open, with S&P 500 futures up 0.49% and Nasdaq 100 futures up 0.87%.\n\nNo major economic data releases are scheduled for Europe today, though Nike reports earnings and investors continue to watch for this week's US jobs report. Oil prices eased, with WTI down 1.39% and Brent down 6.40%, while gold rose to $4,207.30 and the dollar index firmed 0.17%. The yen weakened to 158.30 per dollar after a Bank of Japan summary of opinions dampened bets for a near-term rate hike.",
+  "mover_notes": {
+    "SNPS": "Synopsys signed a chip design licensing deal with Amazon Web Services worth more than $1 billion."
+  },
+  "stories": [
+    {
+      "section": "Other",
+      "title": "FlyDubai pilot stabbing: co-pilot subdued before plane could be downed",
+      "summary": "A FlyDubai flight from Dubai to Tel Aviv was diverted after one pilot stabbed the other in the cockpit; Israeli Prime Minister Benjamin Netanyahu said the attacker may have tried to crash the plane. The wounded pilot, Captain Smit Machchhar of India, was praised as a hero by Netanyahu and Indian Prime Minister Narendra Modi for saving the roughly 174 people on board; the plane landed safely in Saudi Arabia and all passengers were reported safe. US President Donald Trump called the attacking pilot 'perhaps a terrorist.' FlyDubai halted flights to Israel after the incident, and Israel said it would step up pilot screening.",
+      "why_it_matters": "The incident raises new security concerns for aviation on routes to Israel and could affect flight schedules and screening procedures across the region.",
+      "headline_ids": ["h013", "h266", "h221", "h034", "h160", "h296", "h261"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Global bond sell-off deepens, pressuring stocks",
+      "summary": "A global sell-off in government bonds intensified, with US Treasury yields posting their biggest jump in a generation and the 10-year yield rising to 5.29%. The Financial Times reported the rout has triggered a 'vicious loop' of selling, with 10-year Treasury yields up roughly half a percentage point in their worst month in four years. Rising yields pressured US equities, contributing to most US stocks falling on the session. Japanese and Australian government bond yields also jumped as the sell-off spread to Asia.",
+      "why_it_matters": "Higher borrowing costs ripple through corporate financing, mortgages and government budgets, and have become a key risk investors are watching heading into the fourth quarter.",
+      "headline_ids": ["h041", "h230", "h268", "h254"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed watchdog clears renovation of wrongdoing; Trump renews Powell resignation call",
+      "summary": "The Federal Reserve's inspector general released its long-awaited report on the costly renovation of the central bank's Washington buildings, finding poor project management but no grounds for a criminal referral. President Trump seized on the findings to renew his call for former Fed Chair Jerome Powell to resign from the Fed's Board of Governors over the cost overrun. The episode adds to the Trump administration's ongoing friction with the Fed over its leadership.",
+      "why_it_matters": "Renewed political pressure on the Fed comes as investors watch for signs of interference with the central bank's independence on interest-rate policy.",
+      "headline_ids": ["h026", "h144", "h291", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US completes troop withdrawal from Iraq after two decades",
+      "summary": "American military forces formally withdrew from Iraq after two decades, ending the US military presence in the country. Iraq marked Sovereignty Day with nighttime celebrations as it began a four-day holiday. President Trump hailed the exit as the end of a 12-year US mission against Islamic State. Reactions inside Iraq were mixed, with some Iraqis celebrating the end of the American military presence while others expressed concern about what comes next for a country caught between Washington and Tehran.",
+      "why_it_matters": "The withdrawal closes a major chapter of US military engagement in the Middle East and leaves open questions about Iraq's security and its balance between US and Iranian influence.",
+      "headline_ids": ["h038", "h115", "h148", "h167"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia launches heaviest attack in months on Ukraine's energy grid",
+      "summary": "Russia carried out its heaviest combined assault on Ukraine's energy infrastructure in months, killing seven people and triggering emergency power cuts in Kyiv and nearby regions, officials said. A separate Russian attack drone crashed into a playground in Kyiv without exploding. Officials warned of a difficult winter ahead as Russian forces continue to target Ukraine's power grid, and Russian President Vladimir Putin has shown no sign of ending the war.",
+      "why_it_matters": "Continued strikes on Ukraine's energy grid ahead of winter raise humanitarian concerns and keep pressure on Western allies over further sanctions and support.",
+      "headline_ids": ["h102", "h208", "h165"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "UK says Iran likely involved in RAF Fairford incident",
+      "summary": "UK Prime Minister Andy Burnham said there are 'strong indications' that Iran played a part in a security incident at RAF Fairford, an air base used by the US Air Force as a command outpost for European operations and strikes on Iranian missile sites. Burnham said the UK is working closely with the US administration following the incident, which occurred on Sunday and led to the release of five suspects on bail. Iran issued an angry denial of involvement.",
+      "why_it_matters": "An accusation of Iranian involvement in an incident at a base used for US operations risks further escalating tensions between the West and Iran.",
+      "headline_ids": ["h001", "h094", "h207", "h232"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Micron's blowout earnings underscore AI-driven chip demand",
+      "summary": "Micron beat earnings expectations and issued strong guidance as data center revenue jumped 11-fold, with the stock up more than 500% over the past year on soaring AI demand. Reuters reported Micron's AI-fueled revenue forecast blew past estimates and its backlog swelled. The upbeat forecast boosted sentiment toward US tech shares and Asian technology stocks and helped lift US stock futures.",
+      "why_it_matters": "Micron's results reinforce the view that AI-related demand continues to drive a large share of recent market gains, keeping investor attention on chipmakers heading into earnings season.",
+      "headline_ids": ["h024", "h169", "h136", "h197"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "summary": "Google released Gemini 4 Argon, which it describes as Alphabet's most advanced AI model yet, with improvements in coding, cybersecurity and complex professional work. The launch came after months of delays, Reuters reported. Commentators said the release shows Google remains competitive in the AI model race alongside rivals.",
+      "why_it_matters": "A stronger flagship model keeps Alphabet competitive in the AI race that has been a major driver of technology-sector valuations this year.",
+      "headline_ids": ["h020", "h201", "h186"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Paramount's takeover of Warner Bros. Discovery clears legal hurdle",
+      "summary": "A federal judge approved a settlement clearing Paramount's takeover of Warner Bros. Discovery after 12 US states had challenged the deal on antitrust grounds, with safeguards included for CNN's editorial independence. Paramount CEO David Ellison named outgoing Mattel chief Ynon Kreiz as co-CEO of the combined company. The Financial Times reported investors piled into a record-breaking $52 billion financing package for the deal, with yields nearing 9%.",
+      "why_it_matters": "The deal's close reshapes the media and entertainment landscape and tests investor appetite for large, high-yield deal financing amid rising borrowing costs.",
+      "headline_ids": ["h161", "h162", "h198", "h227", "h173"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran says it received US response on war-ending proposal as Trump warns of possible strikes",
+      "summary": "Iran indicated it has received an official US response to its latest proposal to end the war, though details remain unclear, according to the Associated Press. President Trump said the US could 'blow up' Iran or reach a deal, insisting the standoff would end 'very soon one way or the other.' The exchange comes during a tense week for Iran, which also paraded Shahed drones through Tehran as crowds cheered.",
+      "why_it_matters": "Progress or failure in these talks could determine whether tensions between the US and Iran escalate toward military conflict or ease toward a negotiated settlement, with implications for Middle East oil flows.",
+      "headline_ids": ["h075", "h097", "h139", "h126"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Nike reports quarterly earnings today, the only scheduled release on the earnings watch list.",
+    "No economic data releases are listed on today's calendar for Europe.",
+    "Investors continue to watch for the US jobs report due later this week and further signals on the Fed's next rate decision."
+  ]
+}
