@@ -1,0 +1,102 @@
+{
+  "headline": "US jobs report, bond rout and Iran military buildup set tone as diesel threat roils Europe",
+  "at_a_glance": [
+    "US stocks closed slightly higher Thursday as Treasury yields retreated from their highest level since 2002; European and Asian markets fell.",
+    "The Pentagon is sending a third aircraft carrier and thousands more troops toward the Middle East, raising the risk of wider conflict with Iran.",
+    "Trump is threatening to ban US diesel exports to lower domestic prices; Europe calls an emergency meeting Friday over the threat to its fuel reserves.",
+    "A flyDubai co-pilot allegedly attacked the captain on a Dubai-Tel Aviv flight; passengers and the captain subdued him and the plane landed safely.",
+    "Today's US jobs report, forecast to show payroll growth slowing sharply to 89,000, is the last major data point before November's midterm elections."
+  ],
+  "market_analysis": "US equities closed modestly higher on Thursday, with the S&P 500 up 0.19%, the Nasdaq Composite up 0.04% and the Dow up 0.04%, as a sharp earlier rise in Treasury yields eased. The 10-year yield had touched its highest level since 2002 during the session before settling at 5.24%, down 6 basis points on the day. The VIX ticked up 0.31% to 16.39.\n\nEuropean markets closed lower on Thursday, with the DAX down 1.03%, the FTSE 100 down 1.68% and the Euro Stoxx 50 down 1.49% amid the global bond sell-off and France's deepening fiscal and political troubles. In Asia on Friday, the Nikkei 225 fell 1.06%, Hong Kong's Hang Seng dropped 2.64% as trading resumed after a holiday, and the Shanghai Composite edged up 0.31%. US futures point to a higher open, with S&P 500 futures up 0.28% and Nasdaq 100 futures up 0.46%.\n\nThe main event today is the US September jobs report at 14:30 CET, with non-farm payrolls forecast to slow to 89,000 from 162,000 and unemployment seen holding at 4.1%. The report is the last major US data release before the November midterms. The EU holds an emergency meeting Friday on releasing diesel reserves after Trump's export-ban threat, and the Pentagon's Middle East troop buildup continues to weigh on sentiment. No companies on the watch list report earnings today.",
+  "mover_notes": {
+    "CTVA": "Shares fell sharply after a corporate spinoff; several US states are challenging the move as an attempt by Corteva to evade PFAS liabilities.",
+    "PSKY": "Shares fell after the company's $110bn leveraged buyout, which was funded with $52bn in new debt and received only the lowest investment-grade credit rating."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "US sends third aircraft carrier and thousands more troops toward Iran",
+      "summary": "The Pentagon is deploying an additional aircraft carrier and roughly 10,000 sailors and Marines to the Persian Gulf region, a US official said, on top of forces already moving toward the Middle East. Reports describe a buildup that could eventually include up to 50,000 troops, F-35s and the Roosevelt strike group. The move gives US commanders more options if President Trump chooses to escalate strikes on Iran. Oil prices rose on news of the expanded deployment.",
+      "why_it_matters": "A larger US military presence near Iran raises the risk of a wider regional conflict and has already pushed up oil prices, a key input for global inflation.",
+      "headline_ids": ["h002", "h091", "h123", "h154", "h191", "h199", "h193", "h269", "h250", "h211"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "FlyDubai cockpit attack under investigation",
+      "summary": "A co-pilot allegedly attacked the captain of a flyDubai flight from Dubai to Tel Aviv carrying around 170 people, officials said. The captain, Smit Machchhar, and several passengers subdued the attacker and the plane landed safely; investigators are examining how a weapon, possibly a cockpit crash axe, entered the cockpit. Israeli Prime Minister Benjamin Netanyahu said the attacker had undergone \"Islamist radical indoctrination,\" though he gave no further detail. The UAE is leading the investigation, including into possible terrorism links, and flyDubai has suspended the Dubai-Tel Aviv route.",
+      "why_it_matters": "The incident has heightened security concerns around flights linked to Israel and fed into wider regional tensions following the Iran conflict.",
+      "headline_ids": ["h044", "h045", "h169", "h217", "h258", "h271", "h277", "h279", "h280", "h281", "h285", "h293", "h297", "h299", "h159"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "South Korea and Ukraine clash over North Korean POW transfer",
+      "summary": "South Korea and Ukraine are in a diplomatic row after Kyiv disclosed a transfer involving two North Korean prisoners of war. South Korean President Lee Jae Myung accused Ukraine of undermining him and of \"attempting to provoke a war on the Korean Peninsula,\" and Seoul is demanding an apology. A Ukrainian minister said he hopes to heal the \"misunderstanding,\" according to media reports. Seoul has warned of \"further action\" if Ukraine does not apologize.",
+      "why_it_matters": "The dispute strains ties between two US allies at a time when South Korea is also weighing deeper economic and military cooperation with Washington.",
+      "headline_ids": ["h042", "h092", "h094", "h096", "h156"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Brazil heads into tight presidential election",
+      "summary": "Brazil votes this Sunday with President Luiz Inácio Lula da Silva and Flávio Bolsonaro, son of the jailed former president, running neck and neck according to a new poll. The Brazilian government has called for a probe into reports that US funding was directed toward far-right causes ahead of the vote. Separately, speculation about the status of the country's patron saint has become entangled in the campaign.",
+      "why_it_matters": "The outcome will shape policy direction in Latin America's largest economy and is being watched for signs of foreign interference in the vote.",
+      "headline_ids": ["h110", "h112", "h176", "h183", "h075"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Trump threatens US diesel export ban, pressures Europe",
+      "summary": "President Trump has threatened to ban US diesel exports to lower domestic fuel prices ahead of the November elections, after reduced refining capacity pushed diesel prices to record highs. Washington is pressuring European allies, particularly Germany and France, to release strategic diesel reserves immediately. The EU will hold an emergency meeting on Friday to decide on a coordinated response. A former US energy secretary said an export ban would be a \"bad idea\" that could eventually force refiners to cut production and raise gasoline prices.",
+      "why_it_matters": "An export ban or reserve drawdown would ripple through global fuel markets and could raise costs for European consumers and businesses already facing high energy prices.",
+      "headline_ids": ["h019", "h030", "h081", "h129", "h192", "h210", "h172", "h204", "h248"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Global bond sell-off pushes US yields to highest since 2002",
+      "summary": "US Treasury yields climbed to their highest level since 2002 this week before easing back on Thursday, as a global sell-off in government bonds continued. The move pressured stocks and credit markets, with trend-following quant hedge funds profiting from the rise in yields while some investors pulled back from riskier debt. Emerging-market bonds have outperformed developed-market debt through the rout, which has been fueled partly by inflation fears tied to the Iran war and strong US economic data. Equities rebounded to close higher on Thursday as the surge in yields receded.",
+      "why_it_matters": "Persistently higher borrowing costs raise financing costs for governments and companies worldwide and have been a key swing factor for stocks in recent sessions.",
+      "headline_ids": ["h028", "h023", "h168", "h175", "h207", "h225", "h083", "h263", "h242", "h009", "h012", "h121"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "France's political and fiscal crisis deepens",
+      "summary": "Investors are pulling back from French assets as concerns mount over the country's fiscal situation, with French bonds, stocks and the euro all under pressure. Japan's Sumitomo Mitsui DS Asset Management sold its entire holding of French government bonds, shifting funds into German bunds and short-term Japanese debt. Separately, French high schools have seen unrest, with schools set on fire as student protests spread; the French prime minister and Marine Le Pen have blamed the far-left for stoking the violence.",
+      "why_it_matters": "France is the eurozone's second-largest economy, and sustained investor flight from its debt could add to broader pressure on European bond and currency markets.",
+      "headline_ids": ["h055", "h093", "h066", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US September jobs report due today",
+      "summary": "The US Labor Department releases its September jobs report today, with economists forecasting non-farm payrolls grew by just 89,000, down sharply from 162,000 the prior month. The unemployment rate is expected to hold at 4.1% and average hourly earnings growth at 0.3%. The report is expected to show a steady labor market but with continued inflation, and it is the last such release before the November midterm elections.",
+      "why_it_matters": "The jobs data will inform the Federal Reserve's next policy moves and is a key political data point heading into the midterms.",
+      "headline_ids": ["h004", "h213"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nike posts disappointing sales, announces more layoffs",
+      "summary": "Nike reported another quarter of declining sales and announced additional layoffs as part of its restructuring effort, sending its shares lower. The company forecast a steep revenue drop and continues to struggle with its turnaround, particularly in China and its sneaker business. Analysts say several self-inflicted missteps have cost the world's biggest sportswear brand market position in recent years, with some expecting this could be the company's worst year yet for its stock.",
+      "why_it_matters": "Nike's struggles are a bellwether for consumer discretionary spending and for the broader sporting-goods and footwear sector's exposure to China.",
+      "headline_ids": ["h016", "h020", "h146", "h177"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI infrastructure financing comes under scrutiny",
+      "summary": "Amazon is seeking to offload $8 billion of Nvidia chips to investors in a move aimed at improving its balance sheet as AI spending soars. Separately, Nvidia's bet that its chips can help finance the broader AI buildout is facing a Wall Street reality check. The scrutiny comes as the borrowing binge tied to the AI data-center boom draws wider attention from credit markets.",
+      "why_it_matters": "Questions about how AI infrastructure spending is financed could affect valuations across the technology sector and the credit markets funding the buildout.",
+      "headline_ids": ["h007", "h289", "h270"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "The US September jobs report lands at 14:30 CET, with forecasts pointing to a sharp slowdown in hiring to 89,000 jobs.",
+    "EU ministers hold an emergency meeting to discuss releasing diesel reserves after Trump's export-ban threat.",
+    "Markets continue to watch US military movements toward the Middle East for signs of an Iran escalation."
+  ]
+}
