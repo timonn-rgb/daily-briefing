@@ -1,0 +1,102 @@
+{
+  "headline": "G7 releases oil reserves after Trump threat; weak US jobs data lifts stocks",
+  "at_a_glance": [
+    "G7 nations agreed to release up to 100 million barrels of oil and diesel reserves after Trump's export-ban threat; he later dropped the ban.",
+    "US employers added just 29,000 jobs in September, far below forecasts, lifting unemployment to 4.2% and easing bets on a Fed rate hike this month.",
+    "A FlyDubai co-pilot stabbed the captain mid-flight; passengers and crew subdued him and the plane landed safely in Saudi Arabia.",
+    "North Korea fired a ballistic missile toward the sea as tensions rise with South Korea over border incidents.",
+    "Two Iranian nationals were charged in the UK over an alleged terror plot targeting Manchester's Jewish community."
+  ],
+  "market_analysis": "US stocks rose Friday after a weaker-than-expected September jobs report eased concerns about another Federal Reserve rate hike this month. The S&P 500 gained 0.73%, the Nasdaq Composite rose 1.19% to an intraday record led by Nvidia, and the Dow added 0.49%. Nonfarm payrolls increased by just 29,000, versus a forecast of 84,000, and the unemployment rate rose to 4.2%. Even so, the 10-year Treasury yield rose 4 basis points to 5.28%, extending this week's bond selloff, while the VIX fell 6.59% to 15.31.\n\nIn Asia, the Nikkei fell 0.94% and the Hang Seng dropped 2.60%, while the Shanghai Composite edged up 0.31%. European markets were higher, with the DAX up 1.17%, the Euro Stoxx 50 up 1.02% and the FTSE 100 up 0.32%. Oil fell after G7 nations agreed to release up to 100 million barrels of diesel and crude reserves over four months, with WTI down 1.90% and Brent down 0.06%; Trump said he would not impose a threatened ban on US diesel exports.\n\nNo economic data releases or watch-list earnings are scheduled today. Markets will watch Brazil's presidential election on Sunday and Bosnia's vote on October 4, along with ongoing tensions following North Korea's latest missile test and the US military buildup in the Middle East.",
+  "mover_notes": {
+    "WDC": "Shares fell on worries that Toshiba will boost production of a key AI storage product, threatening Western Digital's pricing power.",
+    "STX": "Seagate shares dropped alongside Western Digital on the same concern over rising Toshiba AI-storage production."
+  },
+  "stories": [
+    {
+      "section": "Economy & Policy",
+      "title": "G7 agrees to release 100 million barrels of oil and diesel reserves",
+      "summary": "G7 nations agreed to release up to 100 million barrels of oil and diesel from emergency reserves over the next four months through the IEA, after President Trump threatened to ban US diesel exports amid record fuel prices in Europe. Trump later said he would not go ahead with the export ban following the coordinated release. Oil prices fell after the announcement, with WTI crude down 1.90% and Brent down 0.06%. UK diesel prices had climbed to a record £2 a litre before the announcement.",
+      "why_it_matters": "The release aims to head off further fuel-price spikes that have been squeezing European economies and adding to inflation pressure ahead of the US midterms.",
+      "headline_ids": ["h006", "h014", "h015", "h017", "h031", "h066", "h122", "h142", "h143", "h176", "h203", "h216", "h220", "h223", "h239", "h277", "h295"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US jobs growth stalls sharply in September",
+      "summary": "US nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said. The weak report reduced the odds traders see of a Federal Reserve rate hike this month, though one report said the Fed may skip October but still hike in December. US stocks rose on the data, with the S&P 500 up 0.73% and the Nasdaq up 1.19% to an intraday record. The 10-year Treasury yield still rose 4 basis points to 5.28%, extending a weekly bond selloff.",
+      "why_it_matters": "The jobs slowdown feeds into the debate over whether the Fed will raise rates again this year, a central question for bond and equity markets.",
+      "headline_ids": ["h012", "h013", "h028", "h030", "h161", "h167", "h174", "h211", "h229", "h238", "h261", "h285", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "FlyDubai co-pilot stabs captain mid-flight; plane lands safely",
+      "summary": "A co-pilot stabbed the captain of FlyDubai flight 1073, bound for Tel Aviv, before passengers and two off-duty pilots overpowered him and the plane landed safely in Saudi Arabia. The attacker had reportedly been barred from flying in his native Oman over extremism concerns. The wounded captain, hailed as a hero, described the incident to India's prime minister, and Israeli officials say they plan to question the co-pilot. The attack has raised questions about airline pilot background checks and mental-health screening.",
+      "why_it_matters": "The incident highlights gaps in international aviation security screening and could prompt new scrutiny of pilot vetting standards industry-wide.",
+      "headline_ids": ["h025", "h033", "h068", "h090", "h098", "h106", "h129", "h196", "h197", "h224", "h225", "h253", "h284", "h292"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea fires ballistic missile amid rising tension with South Korea",
+      "summary": "North Korea fired a ballistic missile toward the sea off its east coast on Saturday, which flew more than 700km according to South Korea's military. The launch adds to tension with South Korea following border landmine blasts last month. Japan also confirmed the missile.",
+      "why_it_matters": "Repeated missile tests keep regional security risk elevated for South Korea, Japan and the US.",
+      "headline_ids": ["h097", "h101", "h110", "h145", "h150"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US sends third carrier group as Iran tensions and Yemen fighting intensify",
+      "summary": "The US is sending a third aircraft carrier strike group to the Middle East as Trump weighs resuming strikes on Iran after the midterms. Separately, Iran jailed a hard-line lawmaker who had publicly opposed a diplomatic deal with the US to end the war, exposing rifts within Iran's leadership. Fighting has also intensified in Yemen, with Yemen's army reporting 474 attacks in 24 hours that killed or wounded 1,540 Houthi fighters, and Sanaa was bombarded overnight.",
+      "why_it_matters": "An escalation involving Iran, Yemen and a larger US military presence raises the risk of wider regional conflict and could affect oil shipping routes and prices.",
+      "headline_ids": ["h037", "h094", "h108", "h269"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Two Iranians charged in UK over alleged plot targeting Jewish community",
+      "summary": "Two Iranian nationals were charged in the UK with terrorism offenses over an alleged plot to target Manchester's Jewish community, with police saying a third man, likely in Iran, was in contact with them around Yom Kippur. Separately, Joshua Kerry, the man accused of murdering former UK lawmaker Ann Widdecombe, was charged with preparing terrorist acts, including a plot against Reform UK's Nigel Farage. A local police chief said the case shows the need for reform to help small forces handle such threats.",
+      "why_it_matters": "The charges point to continued domestic terrorism risk in the UK tied to foreign state actors and add pressure on UK counter-terrorism policing resources.",
+      "headline_ids": ["h007", "h010", "h011", "h049", "h154", "h156", "h209", "h247", "h252"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Brazil heads to the polls Sunday in Lula-Bolsonaro rematch",
+      "summary": "Brazil holds a presidential election Sunday, a rematch between President Lula da Silva and Jair Bolsonaro's son Flavio, four years after Lula narrowly defeated the elder Bolsonaro. Lula held his final campaign rally in Rio, saying he is the only thing standing between Brazil and a \"fascist\" resurgence, while crime has emerged as a top concern for voters. The US and Australia suspended consular and diplomatic operations in Brazil ahead of the vote, citing security concerns, and Brazilian police served warrants over an alleged threat to US diplomatic sites.",
+      "why_it_matters": "The outcome will shape Latin America's largest economy and its foreign policy alignment at a time of broader rightward political shifts across the region.",
+      "headline_ids": ["h040", "h074", "h083", "h102", "h123", "h183", "h184", "h193", "h232"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Paramount-Warner Bros. merger to be named Skydance",
+      "summary": "David Ellison, who will run the combined company, said the merged Paramount and Warner Bros. Discovery will be named Skydance. The name borrows from Ellison's original entertainment company, a reference to his interest in aviation. Warner Bros.' chief executives were told on Friday that they would not stay on once the merger completes.",
+      "why_it_matters": "The renaming signals how Ellison intends to reshape leadership and branding across one of the media industry's largest mergers.",
+      "headline_ids": ["h003", "h243"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic IPO filing flags government-relations risk; firm invests in AI training",
+      "summary": "Anthropic's IPO prospectus, reported exclusively by Reuters, said government attitudes toward artificial intelligence may hurt the company's ties with customers. Separately, Anthropic said it will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
+      "why_it_matters": "As a major AI company approaches a public listing, its risk disclosures and hiring investments offer insight into the political and talent dynamics shaping a sector that has driven much of this year's stock market gains.",
+      "headline_ids": ["h005", "h186"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Student protests spread across France",
+      "summary": "Student protests have spread across France, with students setting fires at some schools and clashing with police for over two weeks. Reports put the number of affected schools at around 735 to more than 1,000, with roughly 2,000 arrests and dozens injured. Students are protesting overloaded timetables, staffing shortages and poor facilities, and have called for further strikes despite a government-proposed \"day of dialogue.\"",
+      "why_it_matters": "Sustained, large-scale unrest in France's school system adds to broader political pressure on the government and could spill into wider social tension.",
+      "headline_ids": ["h038", "h089", "h182", "h201", "h258", "h275"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Brazil holds a presidential election on Sunday between Lula and Bolsonaro's son Flavio, with no US or Australian consular presence as a security precaution.",
+    "Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock.",
+    "No major economic data releases or watch-list earnings are scheduled today, leaving markets to digest Friday's jobs report and the G7 reserve release."
+  ]
+}
