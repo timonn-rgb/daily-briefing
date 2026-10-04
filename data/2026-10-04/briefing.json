@@ -1,0 +1,99 @@
+{
+  "headline": "Brazil votes, Russia hits Kyiv bridges, Houthis strike near Riyadh, stocks gain",
+  "at_a_glance": [
+    "Brazil votes Sunday in a tight first-round presidential election between Lula and Flávio Bolsonaro, with a runoff likely.",
+    "Russia struck a second bridge in Kyiv; Zelenskiy vowed Ukraine will retaliate against Russian oil refineries.",
+    "Houthi forces claimed a strike on a Saudi Aramco facility near Riyadh as Yemen fighting intensifies.",
+    "A FlyDubai co-pilot used a crash axe in what UAE officials called an attempted terrorist attack on an Israel-bound flight.",
+    "US stocks rose Friday, led by chip and hardware names, while Western Digital and Seagate each fell over 10%."
+  ],
+  "market_analysis": "The S&P 500 rose 0.73% and the Nasdaq Composite gained 1.19% on Friday, while the Dow Jones added 0.49%; the VIX fell 6.59% to 15.31 as the US 10-year yield rose 4 basis points to 5.28%. Gains were led by Teradyne (+8.0%), Hewlett Packard Enterprise (+7.4%), EchoStar (+6.8%), ON Semiconductor (+6.0%) and Monolithic Power Systems (+5.8%), while Western Digital and Seagate Technology each fell 10.2% and Accenture, Corteva and AppLovin also declined.\n\nIn Europe, the DAX rose 1.17%, the Euro Stoxx 50 gained 1.02% and the FTSE 100 added 0.32%. Asian markets were mixed: the Nikkei 225 fell 0.94% and the Hang Seng dropped 2.60%, while the Shanghai Composite edged up 0.31%. US index futures point higher, with S&P 500 futures up 0.69% and Nasdaq 100 futures up 0.98%.\n\nNo economic data releases or earnings from the watch list are scheduled in Germany today. WTI crude fell 1.90% to 91.11 and Brent was little changed at 102.25, with oil markets watching the Houthi strike claim on Saudi energy infrastructure and the G7's coordinated fuel release. Gold slipped 0.95% to 4,162.30, the euro fell 0.62% to 1.1257 against the dollar, and bitcoin rose 0.37% to 84,813.57, as Brazil's election and ongoing Middle East and Ukraine tensions keep markets attentive to geopolitical risk.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Brazil heads into tense first-round presidential vote",
+      "summary": "Brazilians vote Sunday in the first round of a presidential election pitting incumbent Luiz Inácio Lula da Silva against right-wing challenger Flávio Bolsonaro, son of former president Jair Bolsonaro. Polls show the race nearly tied, with most surveys pointing to a runoff rather than an outright winner. Wall Street is preparing for sharply different market scenarios depending on the outcome, and the campaign has drawn accusations from Brazil of US election interference. Ballots have also reached remote Indigenous communities by boat, with Amazon conservation among the issues at stake.",
+      "why_it_matters": "The outcome will shape economic policy in Latin America's largest economy and feeds into market positioning in Brazilian assets; US-Brazil relations are also in focus after mutual accusations over the campaign.",
+      "headline_ids": ["h008", "h056", "h076", "h096", "h105", "h110", "h113", "h137", "h235", "h245", "h265", "h293", "h035"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia steps up strikes on Kyiv's bridges as Ukraine vows retaliation",
+      "summary": "Russia struck a second major bridge in Kyiv, the Pivnichnyi (Northern) Bridge, after repeated attacks on another crossing used by commuters in the Ukrainian capital. Russian attacks elsewhere killed six people in Ukraine, and Moscow said it would continue massive strikes on Kyiv while urging foreign diplomats to leave the city. President Volodymyr Zelenskiy said Ukraine would respond by hitting Russian oil refineries and stepping up attacks on Russian energy infrastructure. Russia also struck a Liberian-flagged ship in Ukraine's Odesa port, killing one person.",
+      "why_it_matters": "Attacks on energy and transport infrastructure on both sides raise the risk of disruption to European energy supply and transit routes as the war escalates.",
+      "headline_ids": ["h001", "h135", "h180", "h199", "h203", "h208", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthi strike near Riyadh and Iran tensions keep oil markets on edge",
+      "summary": "Yemen's Houthi movement claimed a missile and drone strike on a Saudi Aramco facility near Riyadh as fighting in Yemen intensified; Saudi-backed Yemeni government forces said they killed 700 Houthi fighters in 24 hours. The escalation comes alongside a broader US-Iran standoff, with a US military buildup in the region raising the risk of further confrontation and the G7 releasing up to 100 million barrels of emergency oil and fuel stocks to ease prices. Iraq said it transported 2 million barrels of crude through the Strait of Hormuz, while Iran's rial hit a new low as its central bank sold dollars to defend the currency.",
+      "why_it_matters": "Continued attacks near major Saudi energy infrastructure and the wider Iran standoff are key risks for oil supply and prices, already reflected in this session's crude moves.",
+      "headline_ids": ["h030", "h234", "h283", "h021", "h080", "h214", "h246", "h134", "h142"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "FlyDubai co-pilot's axe attack labeled a terrorist act by UAE",
+      "summary": "A FlyDubai co-pilot attacked the captain with a crash axe in the cockpit of flight FZ1073, bound for Tel Aviv, in what the UAE's attorney general called an attempted terrorist act. The co-pilot, named by several outlets as Hamam al-Hammami, had reportedly been barred from flying by Oman over extremist views and had previously been flagged for extremism concerns. The wounded pilot managed to unlock the cockpit door, and passengers, including four Israeli men, overwhelmed the attacker to avert a crash. Australian security agencies are also investigating time the co-pilot spent in Australia before the attack.",
+      "why_it_matters": "The incident has intensified concerns about aviation security screening and the safety of flights to and from Israel.",
+      "headline_ids": ["h010", "h015", "h017", "h055", "h061", "h072", "h095", "h178", "h219", "h225", "h229", "h260", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea confirms intermediate-range missile drill",
+      "summary": "North Korea said leader Kim Jong Un oversaw a hypersonic missile drill involving an intermediate-range strategic weapon, according to state media KCNA. Kim Yo Jong, the leader's sister, separately confirmed the test had been conducted. The launch comes amid heightened regional tensions, which North Korean state media linked to recent mine blasts.",
+      "why_it_matters": "The test underscores North Korea's continued development of its missile and nuclear deterrent, adding to regional security concerns in East Asia.",
+      "headline_ids": ["h088", "h090", "h271", "h291"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Trump names intelligence chief Clayton as AI czar",
+      "summary": "President Trump has tapped Director of National Intelligence Jay Clayton to lead the administration's AI policy as a newly designated 'AI czar,' heading a task force, the Wall Street Journal reported. The appointment comes days after Trump signed a voluntary safety pact with AI companies, even as public concern about AI risks grows.",
+      "why_it_matters": "Clayton's appointment centralizes US AI policy leadership at a time of rapid AI investment and regulatory debate, which is relevant for AI-exposed stocks and global AI governance.",
+      "headline_ids": ["h002", "h103", "h266"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "OpenAI safety leader quits, calls industry culture 'broken'",
+      "summary": "A safety leader at OpenAI resigned and warned that the company's culture was 'broken' and that AI firms are 'not being nearly careful enough.' The departing employee said the time for 'trial and error is over' and called for safeguards similar to those used in nuclear power or aviation. The resignation follows Trump's voluntary AI safety pact with industry days earlier.",
+      "why_it_matters": "The departure adds to scrutiny of safety practices at leading AI labs as the industry scales rapidly with limited binding regulation.",
+      "headline_ids": ["h115", "h144", "h146"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Latvia's pro-Ukraine party leads election amid Russia security fears",
+      "summary": "Partial results from Latvia's parliamentary election show Prime Minister Andris Kulbergs' pro-Ukraine, pro-Europe United List winning by a wider margin than expected, with exit polls putting it around 35.6% of the vote. Coalition partners underperformed, meaning Kulbergs will likely need to find new partners to form a government. The vote took place amid growing concern about Russian hybrid threats in the Baltic region.",
+      "why_it_matters": "The result signals continued public support in Latvia for pro-Ukraine, pro-EU policy even as Russian security threats to the Baltic states intensify.",
+      "headline_ids": ["h124", "h168", "h181", "h183", "h228"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Ethiopian forces retake Tigray capital Mekelle",
+      "summary": "Ethiopian government forces say they have seized Mekelle, the capital of the Tigray region, from Tigrayan fighters after a week of intense battles, also retaking the city's airport. The advance follows renewed fighting between federal forces and a northern rebel group.",
+      "why_it_matters": "Renewed conflict in Tigray raises fears it could spill over into the wider Horn of Africa region, an area already strained by instability.",
+      "headline_ids": ["h026", "h042", "h050", "h114"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Hundreds of thousands protest Spain's housing crisis",
+      "summary": "Tens of thousands of people, with organizers estimating around 500,000, protested in Madrid and roughly 50 other Spanish cities over the housing crisis after parliament narrowly rejected tenant-protection measures proposed by Prime Minister Pedro Sánchez's government. The protests were partly sparked by the eviction of an 87-year-old woman, Maricarmen. The demonstrations have fueled speculation that pressure could build on Sánchez to call a snap election.",
+      "why_it_matters": "Sustained housing protests add political pressure on Spain's government and highlight affordability strains echoed in other European housing markets.",
+      "headline_ids": ["h003", "h236", "h237", "h242", "h254", "h267", "h154"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Brazil holds the first round of its presidential election Sunday, with a Lula-Bolsonaro runoff looking likely.",
+    "Oil markets watch for further fallout from the Houthi strike claim on a Saudi Aramco facility near Riyadh.",
+    "Latvia's pro-Ukraine United List begins coalition talks after leading Saturday's parliamentary election."
+  ]
+}
