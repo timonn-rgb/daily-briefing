@@ -1,0 +1,99 @@
+{
+  "headline": "Brazil heads to runoff, Yemen launches Houthi offensive, Treasury yields stay elevated",
+  "at_a_glance": [
+    "Brazil's election goes to an October 25 runoff between Lula and Flávio Bolsonaro, after Bolsonaro topped the first round and allies gained Senate seats.",
+    "Yemen's Saudi-backed government launched a full-scale offensive to retake all territory held by the Iran-backed Houthis.",
+    "The US abruptly withdrew all bombers from RAF Fairford in the UK after arrests tied to a suspected Iran-linked terror plot.",
+    "US stock futures are flat as investors await Fed minutes following a week of surging Treasury yields and a weak jobs report.",
+    "OPEC+ held November output steady while Saudi Arabia cut oil prices to Asia to a six-year low; the euro fell to a 17-month low."
+  ],
+  "market_analysis": "US stocks rallied in Friday's session, with the S&P 500 up 0.73%, the Nasdaq Composite up 1.19% and the Dow up 0.49%, as a weaker-than-expected jobs report eased concerns about another Federal Reserve rate hike. Treasury yields nonetheless kept climbing, with the 10-year yield at 5.28% (+4bp), while the VIX fell to 15.31.\n\nIn Asia today, Japan's Nikkei 225 jumped 2.07% while Hong Kong's Hang Seng was little changed and Shanghai held modest gains from its last session. European markets, last closed Friday, finished broadly higher, with the DAX up 1.17%, the Euro Stoxx 50 up 1.02% and the FTSE 100 up 0.32%. The euro slid to its weakest level since May 2025 against the dollar amid concerns over political and fiscal risk in the region, including France, pushing the dollar index up 0.48%.\n\nUS futures are little changed today (S&P 500 futures -0.10%, Nasdaq 100 futures +0.02%) as investors await Federal Reserve minutes. No economic data releases or watch-list earnings are scheduled for today. Oil slipped, with WTI down 0.95% and Brent down 0.56%, after OPEC+ held November output steady and Saudi Arabia cut prices for Asia-bound crude to a six-year low, even as Yemen's government launched a major offensive against the Houthis. Gold was little changed and bitcoin rose 0.84%.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Brazil's election heads to an October 25 runoff",
+      "summary": "Brazil's presidential election went to a runoff after neither incumbent Luiz Inácio Lula da Silva nor Flávio Bolsonaro, son of jailed former president Jair Bolsonaro, won a majority in the first round. Bolsonaro outperformed polling expectations and his allies gained ground in Senate elections, moving conservatives closer to the votes needed to challenge the Supreme Court. Lula called the result 'unexpected.' The runoff is set for October 25.",
+      "why_it_matters": "A Bolsonaro win would mark a sharp rightward shift in Latin America's largest economy and investors are positioning for Brazilian assets to move sharply on the result, while tension with the Supreme Court could intensify.",
+      "headline_ids": ["h004", "h013", "h076", "h095", "h099", "h105", "h114", "h117", "h150", "h197"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Yemen's government launches major offensive against Houthis",
+      "summary": "Yemen's Saudi-backed government launched a full-scale military offensive to retake all territory held by the Iran-backed Houthis, following weeks of escalating conflict. The announcement came after the Houthis reportedly cut a supply route to the besieged city of Taiz. The Houthis claimed an attack on Saudi Aramco infrastructure as the conflict widened. Iran said it is ready to defend itself if the US attacks.",
+      "why_it_matters": "Escalation in Yemen risks wider disruption to Middle East shipping and energy infrastructure, adding a new source of regional instability alongside the ongoing US-Iran standoff.",
+      "headline_ids": ["h001", "h005", "h077", "h107", "h137", "h140", "h158", "h220", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US pulls all bombers from UK base after suspected Iran-linked terror plot",
+      "summary": "The US Air Force abruptly withdrew all bombers from RAF Fairford in the UK, redeploying them to their home stations, after arrests tied to a suspected Iran-linked terror plot near the base. UK and US officials said British men were arrested in connection with the plot. The withdrawal came with unusual speed following threats against the installation. The incident comes amid continuing tension between the US and Iran, including tanker attacks near Iran.",
+      "why_it_matters": "The episode shows how the US-Iran confrontation is spilling into Europe through smaller-scale, hard-to-attribute attacks, raising security concerns at Western military installations.",
+      "headline_ids": ["h003", "h016", "h104", "h177", "h185", "h190", "h191", "h211"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "OPEC+ holds output steady as Saudi Arabia cuts Asia oil prices to six-year low",
+      "summary": "OPEC+ agreed to keep November oil output targets steady. Separately, Saudi Arabia cut prices for its benchmark crude grade to Asia to a six-year low, as Gulf producers compete for market share while flows through the Strait of Hormuz increase. Oil prices slipped on the news, with WTI down 0.95% and Brent down 0.56%, even as fighting intensified in Yemen.",
+      "why_it_matters": "Falling oil prices ease inflation pressure for consumers but point to intensifying competition among major producers for market share.",
+      "headline_ids": ["h002", "h081", "h125", "h162", "h196", "h201"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Treasury yields stay elevated as markets await Fed minutes",
+      "summary": "US stock futures were flat as investors awaited Federal Reserve minutes following a week marked by surging Treasury yields and a weaker-than-expected jobs report. The 10-year Treasury yield stood at 5.28%, up 4 basis points. Treasury Secretary Bessent said in an interview that he cannot control bond markets but expects yields to ease over time, after being challenged by the bond market.",
+      "why_it_matters": "Elevated borrowing costs raise questions about fiscal sustainability and could pressure equity valuations if yields keep climbing.",
+      "headline_ids": ["h006", "h009", "h260"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Euro falls to 17-month low on political and fiscal risk",
+      "summary": "The euro fell to its weakest level since May 2025 against the dollar, as investors grew more concerned about political and fiscal risks in the region, including French fiscal troubles. The US dollar index rose 0.48% as a result. Broader risk appetite remained upbeat even as the dollar gained at the euro's expense.",
+      "why_it_matters": "A weaker euro reflects deepening concern over European political and fiscal stability and raises import costs for the eurozone.",
+      "headline_ids": ["h071", "h108", "h121"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Trump names intelligence chief to lead new AI task force",
+      "summary": "President Trump unveiled a new task force to oversee AI policy, naming Director of National Intelligence Jay Clayton as its head. Clayton, who leads the US's intelligence agencies, had previously said AI was a 'gamechanger' but also posed a threat during his confirmation hearing. The move comes amid growing concern over AI risks and regulation.",
+      "why_it_matters": "Placing AI oversight under the intelligence chief signals the administration is approaching AI primarily as a national security issue, which could shape future regulation.",
+      "headline_ids": ["h008", "h021", "h265", "h269"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "FBI arrests woman accused of spying for China on Taiwan leader's son",
+      "summary": "The FBI arrested a California woman accused of spying for China by surveilling Taiwanese President Lai's son and his family. Officials said she allegedly sent photos and videos of the family to Chinese officials and was detained at Los Angeles International Airport before she could board a flight to Shanghai. The arrest comes amid continuing tension between the US and China over Taiwan.",
+      "why_it_matters": "The case highlights ongoing espionage concerns tied to Taiwan and is likely to add friction to US-China relations.",
+      "headline_ids": ["h034", "h038", "h068", "h106"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Nationalist Dodik claims victory in Bosnia election",
+      "summary": "Bosnian Serb nationalist Milorad Dodik claimed victory for his party in Bosnia's elections, despite being disqualified from the ballot himself. Nationalists from the country's three main ethnic groups are set to dominate the tripartite presidency. Dodik, a pro-Russia politician, said he would aim for Republika Srpska to break away from the rest of Bosnia and credited President Trump's influence for the outcome.",
+      "why_it_matters": "A strengthened secessionist movement in Bosnia could reignite ethnic and political tensions in the Balkans and complicate the region's path toward EU integration.",
+      "headline_ids": ["h069", "h174", "h180", "h229", "h231", "h239"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Pension funds trim US equities over AI concentration risk",
+      "summary": "Global pension funds are reducing their allocations to US equities due to concerns about concentration risk from AI-related stocks. The move reflects a push toward diversification amid concerns that valuations in AI-exposed stocks have become stretched.",
+      "why_it_matters": "Reduced pension fund demand for US equities, if it spreads, could weigh on a market that has been heavily reliant on AI-related gains.",
+      "headline_ids": ["h052"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "Federal Reserve minutes are due, which markets will parse for signals on the path of interest rates after last week's weak jobs report and rising yields.",
+    "Brazilian asset markets are expected to react to Flávio Bolsonaro's stronger-than-expected first-round showing ahead of the October 25 runoff.",
+    "Oil markets will continue digesting OPEC+'s steady output decision and Saudi Arabia's price cuts to Asia alongside the Yemen offensive."
+  ]
+}
