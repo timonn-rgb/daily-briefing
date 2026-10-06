@@ -1,0 +1,46 @@
+Stocks notch records as bond yields surge; France and Brazil rattled by turmoil
+Daily Briefing · Tuesday, 06 October 2026
+
+AT A GLANCE
+- Wall Street closed at fresh records Monday as an AI-led tech rally offset Treasury yields hitting their highest since 2002.
+- Brazil's Flávio Bolsonaro leads after Sunday's first-round vote; stocks surged on bets he'll beat Lula in the October 25 runoff.
+- Quebec's separatist Parti Québécois won provincial elections, reviving an independence push that complicates relations with Ottawa.
+- Saudi-backed Yemeni forces recaptured areas near the Bab al-Mandab strait from Houthi rebels, a key chokepoint for global shipping.
+- France faces nationwide strikes and a bond sell-off tied to pre-election fiscal strain that some fear could spill into the wider eurozone.
+
+MARKETS
+S&P 500: 7,773.95 (+0.66%) as of Mon 5 Oct
+Nasdaq Composite: 27,477.31 (+1.05%) as of Mon 5 Oct
+Dow Jones: 51,267.90 (+0.18%) as of Mon 5 Oct
+S&P 500 futures: 7,833.75 (+0.10%) as of Tue 6 Oct
+Nasdaq 100 futures: 31,344.25 (+0.08%) as of Tue 6 Oct
+VIX volatility: 15.52 (+1.37%) as of Mon 5 Oct
+US 10-year yield: 5.31% (+3 bp) as of Mon 5 Oct
+DAX: 25,254.21 (+0.09%) as of Mon 5 Oct
+FTSE 100: 10,497.90 (+0.34%) as of Mon 5 Oct
+Euro Stoxx 50: 6,242.14 (+0.06%) as of Mon 5 Oct
+Nikkei 225: 70,493.03 (+0.78%) as of Tue 6 Oct
+Hang Seng: 24,228.47 (+0.78%) as of Tue 6 Oct
+Shanghai Composite: 3,842.20 (+0.31%) as of Wed 30 Sep
+EUR/USD: 1.1221 (-0.30%) as of Tue 6 Oct
+USD/JPY: 158.13 (+0.25%) as of Tue 6 Oct
+US dollar index: 102.17 (+0.00%) as of Tue 6 Oct
+WTI crude oil: 90.00 (+0.64%) as of Tue 6 Oct
+Brent crude oil: 100.96 (+0.64%) as of Tue 6 Oct
+Gold: 4,147.70 (-0.22%) as of Tue 6 Oct
+Bitcoin: 85,612.79 (-1.00%) as of Tue 6 Oct
+
+TOP STORIES
+- Treasury yields hit 2002 highs as bond sell-off deepens: Higher borrowing costs raise financing risks for heavily indebted companies and governments and could pressure equity valuations if yields keep climbing.
+- France's debt sell-off and school protests deepen before election: Persistent French fiscal and political instability is a source of contagion risk for eurozone bond markets and the euro.
+- Bolsonaro surge sets up Brazil runoff, boosts markets: A rightward shift in Latin America's largest economy would reshape the region's politics and is already driving a sharp rally in Brazilian markets.
+- Quebec separatists win election, reviving independence push: A renewed independence push in Quebec adds a new source of political uncertainty for Canada as it navigates economic pressure from the US.
+- Saudi-backed forces push Houthis back from key Red Sea strait: Fighting around the Bab al-Mandab strait threatens a critical corridor for global oil and shipping traffic.
+- US pulls B-1 bombers from UK base over threat concerns: Unexplained military repositioning and gaps in congressional briefings raise questions about transparency around an active US-Iran conflict.
+- AI-led tech rally pushes Wall Street to fresh records: Markets are increasingly dependent on a narrow set of AI-related stocks to offset the drag from rising bond yields.
+- AI safety concerns intensify after Australia hacking incident: Real-world hacking incidents tied to AI agents are accelerating calls for binding safety regulation of the industry.
+- Banks launch record $60bn financing for Broadcom-Anthropic chip deal: A financing package of this size highlights both the capital intensity of the AI buildout and growing concerns about AI-related debt risk.
+- Russia downplays plague death as Trump offers US help: A disease outbreak at a Russian research institute, even if contained, is being watched for signs of wider public health risk.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-06/
+Data as of 07:01 CEST. Not investment advice.
