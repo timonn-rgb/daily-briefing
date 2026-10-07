@@ -1,0 +1,101 @@
+{
+  "headline": "Hormuz attacks lift oil as Wall St's AI rally hits record amid bubble warnings",
+  "at_a_glance": [
+    "Iran intensified attacks on tankers in the Strait of Hormuz while Houthi-Saudi fighting widened, pushing oil prices higher.",
+    "Trump said he will speak with Putin soon about a Russian lab worker's plague death; WHO called the epidemic risk low.",
+    "France's student-led protests spread to more than 40 cities and turned violent, adding pressure on an already fragile government.",
+    "Germany's former BND intelligence chief was arrested on suspicion of treason and espionage.",
+    "The S&P 500 hit a fresh record on an AI-driven tech rally, even as Temasek and others warned of a bubble."
+  ],
+  "market_analysis": "A rally in tech stocks and cooling Treasury yields lifted the S&P 500 to a record close on Tuesday, up 0.58%, with the Nasdaq Composite gaining 0.45% and the Dow Jones 0.49%. The VIX fell 3.29% to 15.01 and the US 10-year yield eased 4 bp to 5.27%, as investors bet on strong earnings and continued AI spending even as some, including Singapore's Temasek, warned of risks from an unwinding of the AI trade.\n\nEuropean benchmarks closed higher on Tuesday, with the DAX up 0.77%, the FTSE 100 up 0.42% and the Euro Stoxx 50 up 0.48%. Asian markets were softer on Wednesday, with the Nikkei 225 down 0.79% and the Hang Seng down 0.53%, as gains on Wall Street failed to carry over to the region; US stock futures were little changed, with S&P 500 futures up 0.08% and Nasdaq 100 futures flat.\n\nThe main event today is the FOMC meeting minutes, due at 20:00 Berlin time and flagged as high impact, with no earnings from the watch list scheduled. Oil continued to climb (WTI up 0.83%, Brent up 1.00%) on escalating Iran-Houthi attacks in the Strait of Hormuz and Saudi Arabia, while gold slipped 0.53% and bitcoin fell 1.98%; the dollar index rose 0.23% and the euro gained against it to 1.1236.",
+  "mover_notes": {
+    "CEG": "Shares rose after a deal with Google tied to data-center power that equates to the output of a new nuclear reactor."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Iran escalates Hormuz attacks as Houthi-Saudi fighting intensifies, lifting oil",
+      "summary": "Iran has increased the pace of attacks on tankers in the Strait of Hormuz even as oil shipments through the waterway approach prewar levels. Yemen's Houthis fired missiles at Aden International Airport, Saudi Arabia reported two of its airports were struck, and Saudi-led forces claimed counter-strikes. Oman evacuated injured crew from an attacked tanker, most of them Indian nationals. Oil prices rose as the attacks outweighed a recovery in supply, and ship captains are now paid up to $100,000 a month to transit the strait.",
+      "why_it_matters": "Continued attacks on a key energy corridor threaten to keep oil prices elevated and raise shipping costs, with potential knock-on effects for global inflation and growth.",
+      "headline_ids": ["h003", "h035", "h074", "h086", "h103", "h130", "h151", "h205", "h269", "h288"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI-driven rally pushes S&P 500 to fresh record amid growing bubble warnings",
+      "summary": "A rally in tech stocks and cooling Treasury yields lifted the S&P 500 to an all-time high and record close, with the index up more than 14% this year; analysts forecast S&P 500 earnings will rise 27% in the coming season. SpaceX is separately seeking $40bn in financing, led by Apollo, to buy Nvidia chips, underscoring the scale of AI infrastructure spending. Singapore's Temasek warned that an unwinding of the AI trade is the biggest risk facing markets, and former BitMEX CEO Arthur Hayes said trillions are being \"wasted\" on an overbuilt AI boom.",
+      "why_it_matters": "Markets have become increasingly concentrated in AI-related bets, so a reversal in sentiment toward the trade could trigger broader volatility.",
+      "headline_ids": ["h006", "h013", "h045", "h070", "h002", "h011", "h189", "h192", "h270", "h209", "h226"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump to call Putin over Russian plague death as WHO says risk is low",
+      "summary": "A 28-year-old lab worker at Siberia's Irkutsk Anti-Plague Institute died last week, and unverified claims about the cause have spread online. President Trump said he will speak with Vladimir Putin \"very soon\" about the incident, as Washington presses Moscow for more transparency. The World Health Organization said the epidemic risk in Russia is low, with no reports of secondary cases, and Russian authorities describe the situation as stable.",
+      "why_it_matters": "A high-profile call between Trump and Putin over a disease incident adds a new, unpredictable thread to an already tense US-Russia relationship.",
+      "headline_ids": ["h004", "h026", "h128", "h167", "h168", "h185", "h237"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Student protests widen across France, turning violent",
+      "summary": "Protests that began among high-school students over classroom conditions have spread to more than 40 French cities, now joined by union members, parents and teachers. Hundreds of thousands have taken part, and clashes with riot police using tear gas have injured demonstrators, including a teenager reported to have lost a hand. A French mayor was tear-gassed while shielding protesters, and a policeman was charged for firing a tear-gas grenade at a 14-year-old. The unrest comes with France's government weakened ahead of a presidential election.",
+      "why_it_matters": "The scale of the unrest adds pressure on an already fragile French government ahead of next year's presidential election, with implications for the country's budget and political stability.",
+      "headline_ids": ["h030", "h076", "h077", "h222", "h231", "h145", "h292"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Paramount completes $110bn Warner Bros takeover, forming Skydance",
+      "summary": "Paramount has completed its takeover of Warner Bros Discovery, creating a new entertainment conglomerate called Skydance after a lengthy legal battle contested by several state attorneys general. The combined company, now encompassing HBO Max, CNN, CBS News and franchises including Harry Potter, begins trading on Wall Street carrying a heavy debt load. CEO David Ellison said the company will target $6bn in cost savings and denied that close ties to the Trump administration have politicized the company.",
+      "why_it_matters": "The merger reshapes the media and streaming landscape and will influence content, pricing and news coverage decisions across several major outlets.",
+      "headline_ids": ["h044", "h123", "h132", "h134", "h142", "h215", "h257", "h065"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Germany's former intelligence chief arrested for treason",
+      "summary": "August Hanning, who led Germany's BND foreign intelligence service, was arrested on suspicion of espionage and attempted treason. Prosecutors accuse him of paying for classified documents and using them to prepare an analysis for a foreign intelligence service. The case is a fresh scandal for the BND, which had been seeking to rebuild its standing.",
+      "why_it_matters": "The arrest of a former spy chief risks straining Berlin's intelligence relationships and raises questions about internal security vetting in one of Europe's largest countries.",
+      "headline_ids": ["h029", "h053", "h113", "h214", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "India's central bank hikes rates for first time since 2023",
+      "summary": "The Reserve Bank of India raised interest rates as inflation risks build, its first hike since 2023. HSBC and Goldman Sachs expect the RBI to raise rates again in December. Indian shares opened lower ahead of the decision, and traders are watching for additional liquidity-draining measures and commentary on the rupee.",
+      "why_it_matters": "A tightening cycle in one of the world's largest emerging economies can affect capital flows and borrowing costs across Asia.",
+      "headline_ids": ["h001", "h088", "h094"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Brussels explores a levy on Big Tech revenue",
+      "summary": "The European Commission is exploring a broad levy targeting revenue from US technology companies, and is also considering a wider tax on large corporations generally to avoid singling out US digital-services groups. The move comes as Brussels separately pleads with EU capitals not to slash the bloc's next shared budget.",
+      "why_it_matters": "A new EU levy on large tech firms could reignite trade tension with the United States and affect the profitability of major US tech companies operating in Europe.",
+      "headline_ids": ["h043", "h058", "h033"],
+      "single_source": true
+    },
+    {
+      "section": "Other",
+      "title": "Bolsonaro family resurges in Brazil's elections",
+      "summary": "The Bolsonaro family emerged triumphant in Brazil's elections, a political resurrection in Latin America's largest nation.",
+      "why_it_matters": "A political comeback for the Bolsonaro family could reshape Brazil's policy direction and its relations with trading partners.",
+      "headline_ids": ["h171"],
+      "single_source": true
+    },
+    {
+      "section": "Business & Tech",
+      "title": "DeepSeek considers doubling funding round to up to $15 billion",
+      "summary": "China's DeepSeek is weighing upsizing its latest funding round to as much as $14.9 billion, according to people familiar with the matter, though the final amount could still change in talks.",
+      "why_it_matters": "A funding round of this size would mark one of the largest bets yet on a Chinese AI company, intensifying competition with US AI developers.",
+      "headline_ids": ["h027"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "The FOMC meeting minutes are due at 20:00 Berlin time and are rated high impact for markets.",
+    "Further developments in the Strait of Hormuz and Saudi Arabia could keep oil prices volatile.",
+    "No earnings from the watch list are scheduled, so attention stays on Fed commentary and the AI-trade debate."
+  ]
+}
