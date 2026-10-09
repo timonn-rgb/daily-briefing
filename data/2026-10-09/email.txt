@@ -1,0 +1,46 @@
+OpenAI revenue miss rattles AI stocks; Iran tensions keep oil, yields in focus
+Daily Briefing · Friday, 09 October 2026
+
+AT A GLANCE
+- OpenAI's ~$50bn annualized revenue, below prior signals, triggered the Nasdaq's worst one-day drop since mid-August and hit Nvidia, Oracle and CoreWeave.
+- Trump said the US will not attack Iran before November's midterms, even as Houthi missiles hit Riyadh airport and Hormuz tanker attacks continued.
+- Russian strikes killed more than 30 people on Ukrainian buses this week; US, European and Ukrainian officials meet in Miami to discuss new peace proposals.
+- The US suspended Microsoft, Adobe and several Indian IT firms from a green-card labor program amid a visa-abuse crackdown.
+- Nvidia-backed Firmus withdrew its $5bn Australian IPO, citing market volatility, as SoftBank seeks $100bn from Gulf investors to fund its AI ambitions.
+
+MARKETS
+S&P 500: 7,765.36 (-0.47%) as of Thu 8 Oct
+Nasdaq Composite: 27,193.34 (-1.25%) as of Thu 8 Oct
+Dow Jones: 51,231.64 (+0.10%) as of Thu 8 Oct
+S&P 500 futures: 7,835.50 (+0.25%) as of Fri 9 Oct
+Nasdaq 100 futures: 31,098.00 (+0.41%) as of Fri 9 Oct
+VIX volatility: 15.41 (+2.19%) as of Thu 8 Oct
+US 10-year yield: 5.23% (-5 bp) as of Thu 8 Oct
+DAX: 24,806.97 (-1.18%) as of Thu 8 Oct
+FTSE 100: 10,441.60 (-0.16%) as of Thu 8 Oct
+Euro Stoxx 50: 6,126.73 (-0.87%) as of Thu 8 Oct
+Nikkei 225: 68,914.04 (-0.19%) as of Fri 9 Oct
+Hang Seng: 24,045.71 (+1.09%) as of Fri 9 Oct
+Shanghai Composite: 3,765.71 (-1.21%) as of Fri 9 Oct
+EUR/USD: 1.1235 (+0.30%) as of Fri 9 Oct
+USD/JPY: 158.09 (+0.02%) as of Fri 9 Oct
+US dollar index: 102.03 (-0.11%) as of Fri 9 Oct
+WTI crude oil: 90.41 (-1.18%) as of Fri 9 Oct
+Brent crude oil: 102.93 (-1.29%) as of Fri 9 Oct
+Gold: 4,202.00 (+1.08%) as of Fri 9 Oct
+Bitcoin: 82,177.13 (-1.32%) as of Fri 9 Oct
+
+TOP STORIES
+- Trump rules out Iran strikes before midterms as Gulf tensions escalate: Continued attacks on shipping and airports in the Gulf region keep energy markets exposed to supply disruption even as Washington signals it wants to avoid a wider war before the midterms.
+- Russian strikes kill dozens in Ukraine as US, Europe meet for new peace push: A new round of talks, paired with continued deadly strikes, could shape whether the war moves toward a negotiated settlement or further escalation.
+- OpenAI revenue disclosure triggers worst Nasdaq day since August: The reaction shows how sensitive markets have become to any sign that AI spending or revenue growth is slowing, after months of heavy investment in the sector.
+- Bond market jitters ease after strong 30-year auction, but Pimco warns on 6% yields: Sustained high US borrowing costs affect global financing conditions and have already been cited as a factor in recent bank-stock weakness and tech-sector selling.
+- Gaza violence continues one year into US-backed ceasefire: Continued casualties despite the formal ceasefire raise questions about the truce's durability and its humanitarian toll.
+- US suspends Microsoft, Adobe and Indian IT firms from green-card program: The crackdown directly affects major Indian IT outsourcers and large US tech employers, with implications for their US staffing costs and operations.
+- SoftBank seeks $100bn from Gulf investors to fund AI bet: A deal of this size would mark one of the largest AI-related capital raises to date and deepen Gulf sovereign wealth involvement in the AI buildout.
+- Nvidia-backed Firmus scraps $5bn Australian AI data-centre IPO: The scrapped IPO is one of the clearest market signals yet that investor appetite for AI infrastructure bets has cooled, following the OpenAI revenue news and the wider tech-sector selloff.
+- Starbucks weighs takeover approach for Chipotle: A deal of this size would be one of the largest restaurant-sector mergers in years, though analysts have raised doubts about the financial and strategic rationale.
+- ICE shooting of man with child in car sparks New York backlash: The shooting intensifies political tension over federal immigration enforcement tactics in US cities ahead of the midterm elections.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-09/
+Data as of 07:01 CEST. Not investment advice.

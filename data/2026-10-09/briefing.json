@@ -1,0 +1,101 @@
+{
+  "headline": "OpenAI revenue miss rattles AI stocks; Iran tensions keep oil, yields in focus",
+  "at_a_glance": [
+    "OpenAI's ~$50bn annualized revenue, below prior signals, triggered the Nasdaq's worst one-day drop since mid-August and hit Nvidia, Oracle and CoreWeave.",
+    "Trump said the US will not attack Iran before November's midterms, even as Houthi missiles hit Riyadh airport and Hormuz tanker attacks continued.",
+    "Russian strikes killed more than 30 people on Ukrainian buses this week; US, European and Ukrainian officials meet in Miami to discuss new peace proposals.",
+    "The US suspended Microsoft, Adobe and several Indian IT firms from a green-card labor program amid a visa-abuse crackdown.",
+    "Nvidia-backed Firmus withdrew its $5bn Australian IPO, citing market volatility, as SoftBank seeks $100bn from Gulf investors to fund its AI ambitions."
+  ],
+  "market_analysis": "The S&P 500 fell 0.47% to 7,765.36 and the Nasdaq Composite dropped 1.25% to 27,193.34 on Thursday, its biggest one-day loss since mid-August, after OpenAI disclosed annualized revenue of roughly $50 billion — below levels previously signaled — pulling down AI-linked names including Nvidia, Oracle and CoreWeave. The Dow Jones rose 0.10% to 51,231.64. Oil jumped as Iran stepped up tanker attacks in the Strait of Hormuz and Hurricane Isaias threatened US Gulf production, while the 10-year Treasury yield eased to 5.23% (-5bp) after a well-received 30-year bond auction pulled yields back from multiyear highs. The VIX rose 2.19% to 15.41.\n\nAsian markets were mixed Friday: the Nikkei 225 slipped 0.19% to 68,914.04, the Hang Seng gained 1.09% to 24,045.71, and the Shanghai Composite fell 1.21% to 3,765.71. European benchmarks closed lower Thursday, with the DAX down 1.18%, the Euro Stoxx 50 down 0.87% and the FTSE 100 down 0.16%, also weighed by the tech selloff and rising oil. US futures point higher Friday, with S&P 500 futures up 0.25% and Nasdaq 100 futures up 0.41%, after Trump said the US would not attack Iran before the midterms, helping pull WTI down 1.18% and Brent down 1.29%.\n\nNo economic data releases or watch-list earnings are scheduled today, but markets will track further reaction to OpenAI's revenue disclosure, Hurricane Isaias's advance on the US Gulf Coast, and the debut of Airtel Money on the London Stock Exchange, set to be London's largest IPO in five years.",
+  "mover_notes": {
+    "CMG": "Rose on a CNBC report that Starbucks is exploring a takeover, though Starbucks declined to comment."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Trump rules out Iran strikes before midterms as Gulf tensions escalate",
+      "summary": "President Trump said on social media that the US would not attack Iran before November's midterm elections, even as Iran stepped up tanker attacks in the Strait of Hormuz. Iran-aligned Houthi forces in Yemen said they struck Riyadh's airport with a ballistic missile, damaging a plane and prompting some airlines to suspend flights to the Saudi capital; Saudi Arabia confirmed three people were killed in airport strikes earlier this week. The US imposed fresh sanctions on Iran's \"shadow fleet\" of tankers. Oil prices initially jumped on the tanker attacks and a hurricane threat to US Gulf production before easing after Trump's comments.",
+      "why_it_matters": "Continued attacks on shipping and airports in the Gulf region keep energy markets exposed to supply disruption even as Washington signals it wants to avoid a wider war before the midterms.",
+      "headline_ids": ["h001", "h043", "h169", "h298", "h033", "h100", "h124", "h290", "h299", "h101", "h198", "h044", "h265", "h293", "h152", "h262", "h231"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russian strikes kill dozens in Ukraine as US, Europe meet for new peace push",
+      "summary": "A Russian strike on public buses killed 30 people in Ukraine this week, as blackouts worsened in Kyiv, according to AP. The Kremlin said it agrees with US Secretary of State Rubio's assessment that the conflict is in a stalemate. US envoys Steve Witkoff and Jared Kushner are due to meet Ukrainian negotiators and European officials in Miami on Friday to present new proposals aimed at breaking the deadlock.",
+      "why_it_matters": "A new round of talks, paired with continued deadly strikes, could shape whether the war moves toward a negotiated settlement or further escalation.",
+      "headline_ids": ["h138", "h233", "h221", "h269", "h086", "h242"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "OpenAI revenue disclosure triggers worst Nasdaq day since August",
+      "summary": "OpenAI told investors its annualized revenue reached roughly $50 billion at the end of September, below the figure previously signaled to the market, according to Reuters and CNBC. The news hit AI-linked stocks including Nvidia, Oracle and CoreWeave, dragging the Nasdaq Composite down more than 1% for its biggest one-day loss since mid-August. Some analysts said the drop reflected differences in how the revenue figure is reported rather than weaker AI demand. US futures pointed to a partial rebound in AI shares on Friday.",
+      "why_it_matters": "The reaction shows how sensitive markets have become to any sign that AI spending or revenue growth is slowing, after months of heavy investment in the sector.",
+      "headline_ids": ["h006", "h021", "h026", "h193", "h227", "h115", "h194", "h195", "h008"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bond market jitters ease after strong 30-year auction, but Pimco warns on 6% yields",
+      "summary": "The US 10-year Treasury yield fell 5 basis points to 5.23% after a 30-year bond auction drew solid demand, pulling long-dated yields back from their highest levels in more than two decades, per Reuters and Bloomberg. Pimco's investment chief nonetheless warned that a further sharp rise in borrowing costs toward 6% is \"feasible\" as investors unwind losing bets, according to the FT. A new advisor to Treasury Secretary Bessent said yields are \"really, really high\" but could come down soon.",
+      "why_it_matters": "Sustained high US borrowing costs affect global financing conditions and have already been cited as a factor in recent bank-stock weakness and tech-sector selling.",
+      "headline_ids": ["h011", "h030", "h238", "h150", "h260", "h066", "h264"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Gaza violence continues one year into US-backed ceasefire",
+      "summary": "A year after the US-backed truce in Gaza began, Israeli forces have kept up what the FT describes as a \"scorched-earth\" military campaign in the enclave. Islamic Relief said Israel kills or wounds a Palestinian every 90 minutes in Gaza since the ceasefire. Al Jazeera reported that an Israeli air strike on an apartment building in Gaza City's al-Sabra neighbourhood killed several people, including children.",
+      "why_it_matters": "Continued casualties despite the formal ceasefire raise questions about the truce's durability and its humanitarian toll.",
+      "headline_ids": ["h067", "h143", "h179"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US suspends Microsoft, Adobe and Indian IT firms from green-card program",
+      "summary": "The Trump administration indefinitely suspended Microsoft and Adobe's ability to file for green cards for foreign workers, citing active federal investigations, and separately accused Infosys, Tata, Wipro and HCL Technologies of visa abuse, per Bloomberg and Reuters. Labor Secretary Keith Sonderling cited multiple active federal investigations into the companies' use of the program. TCS said it sees no impact on its workforce strategy from the suspension. The move is the latest in a series of Trump administration actions restricting opportunities for non-Americans to work in the US.",
+      "why_it_matters": "The crackdown directly affects major Indian IT outsourcers and large US tech employers, with implications for their US staffing costs and operations.",
+      "headline_ids": ["h147", "h207", "h213", "h220", "h249", "h253", "h261", "h285", "h090", "h091", "h127"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "SoftBank seeks $100bn from Gulf investors to fund AI bet",
+      "summary": "SoftBank founder Masayoshi Son has held talks with senior figures in the UAE in recent weeks as the company seeks $100 billion from Gulf investors to expand its AI investments, the FT reported.",
+      "why_it_matters": "A deal of this size would mark one of the largest AI-related capital raises to date and deepen Gulf sovereign wealth involvement in the AI buildout.",
+      "headline_ids": ["h049", "h050", "h079"],
+      "single_source": true
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia-backed Firmus scraps $5bn Australian AI data-centre IPO",
+      "summary": "Firmus Technologies withdrew what would have been Australia's biggest stock listing since Telstra's 1997 debut, citing \"recent market volatility and prevailing market conditions,\" according to Reuters, the BBC and the Guardian. The Nvidia-backed AI data-centre operator had been seeking to raise roughly $5 billion through the Sydney listing at $11 a share. Bloomberg said the withdrawal comes amid global concerns over frothy AI valuations.",
+      "why_it_matters": "The scrapped IPO is one of the clearest market signals yet that investor appetite for AI infrastructure bets has cooled, following the OpenAI revenue news and the wider tech-sector selloff.",
+      "headline_ids": ["h014", "h025", "h048", "h057", "h085", "h096"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Starbucks weighs takeover approach for Chipotle",
+      "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, CNBC reported, though Starbucks declined to comment and said it remains \"laser focused\" on its own turnaround, per Reuters. Commentators including the FT and MarketWatch questioned the logic of a deal, noting the brand overlap between the two companies and Starbucks' already high debt load. CMG shares rose 6.2% in the session.",
+      "why_it_matters": "A deal of this size would be one of the largest restaurant-sector mergers in years, though analysts have raised doubts about the financial and strategic rationale.",
+      "headline_ids": ["h029", "h060", "h065", "h157", "h168"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "ICE shooting of man with child in car sparks New York backlash",
+      "summary": "A US Immigration and Customs Enforcement agent shot and injured a man during an enforcement operation in New York City on Thursday, with a five-year-old child reportedly in the car, according to Reuters and the Guardian. NYC Mayor Zohran Mamdani called the shooting \"unconscionable\" and urged Trump to end ICE operations in the city; police said the child was physically unharmed and the man was hospitalized. The incident prompted protests in New York.",
+      "why_it_matters": "The shooting intensifies political tension over federal immigration enforcement tactics in US cities ahead of the midterm elections.",
+      "headline_ids": ["h002", "h017", "h052", "h055", "h141", "h205", "h219"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Airtel Money is set to debut on the London Stock Exchange today, in what would be London's biggest IPO in five years.",
+    "Hurricane Isaias, strengthening toward the US Gulf Coast, could further disrupt oil production and shipping.",
+    "Markets will watch for further reaction to OpenAI's revenue disclosure as investors reassess AI-sector valuations."
+  ]
+}
