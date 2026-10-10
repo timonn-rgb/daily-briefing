@@ -1,0 +1,104 @@
+{
+  "headline": "Russia diesel deal, Hurricane Isaias and Panama quake overshadow record Wall Street week",
+  "at_a_glance": [
+    "Trump struck a deal for Russia to supply diesel to global markets, easing sanctions pressure and angering Ukraine's Zelensky.",
+    "Hurricane Isaias made landfall on the US Gulf Coast, disrupting oil and gas production and prompting emergency declarations in three states.",
+    "A 7.7-magnitude earthquake struck southern Panama, damaging buildings and triggering tsunami warnings across Central and South America.",
+    "South African jurist Navi Pillay won the Nobel Peace Prize hours after the US sanctioned the International Criminal Court she once served.",
+    "Thousands of police sealed off New Delhi ahead of a mass protest demanding India's election chief resign over voter-roll changes."
+  ],
+  "market_analysis": "US stocks closed out a record-setting week on Friday, with the Dow Jones up 0.83%, the S&P 500 up 0.59% and the Nasdaq Composite up 0.64%; the VIX volatility index fell 3.70% to 14.84. Telecom stocks were the session's worst performers after SpaceX announced a wireless spectrum deal, with Verizon, AT&T and T-Mobile all falling sharply, while Humana jumped after topping Medicare star ratings. Delta Air Lines cut its 2026 profit forecast, citing fuel costs tied to the Iran conflict.\n\nEuropean markets extended gains into the weekend, with the DAX up 1.13%, the FTSE 100 up 1.06% and the Euro Stoxx 50 up 0.76%. Asian trading was mixed: the Hang Seng rose 1.79% and the Shanghai Composite edged up 0.05%, while the Nikkei 225 was roughly flat. US futures point to a higher open (S&P 500 futures +0.56%, Nasdaq 100 futures +0.45%). Oil ticked higher (WTI +0.39%, Brent +0.42%) even after Trump's Russia diesel deal, as Hurricane Isaias curbed Gulf of Mexico output; gold rose 1.43% to 4,216.30 and the US 10-year yield edged up to 5.24%.\n\nNo economic data releases or watch-list earnings are scheduled today. Next week's calendar turns to bank and chipmaker earnings, while rising French bond yields and the EU-China deal on hybrid car exports remain in focus for European markets, alongside continued questions about the Federal Reserve's independence.",
+  "mover_notes": {
+    "HUM": "Shares rose after Humana topped 2027 Medicare star ratings.",
+    "T": "AT&T fell as SpaceX's new wireless spectrum deal raised fears of competition for carriers.",
+    "VZ": "Verizon posted its worst day since 2002 after SpaceX's spectrum deal raised a competitive threat.",
+    "TMUS": "T-Mobile dropped on investor concern over SpaceX's expanding wireless ambitions."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Trump strikes diesel deal with Putin, angering Ukraine",
+      "summary": "President Trump announced that Russia will immediately supply 300,000 tonnes of diesel to US and global markets, with 1.5 million more tonnes to follow, reversing years of US pressure on Moscow over the Ukraine war. The move is aimed at easing US fuel prices ahead of November's midterm elections. Ukrainian President Volodymyr Zelenskyy called the deal \"an investment in war that must be ended, not prolonged,\" and hours later Ukraine struck a Russian fuel site. Experts cited in the coverage say the diesel is unlikely to have much impact on prices, and the Kremlin said Putin told Trump a resumption of Ukraine peace talks is unlikely.",
+      "why_it_matters": "The deal eases Western sanctions pressure on Russia's energy sector and threatens to split Washington from Kyiv and European allies weeks before US midterm elections.",
+      "headline_ids": ["h004", "h011", "h040", "h066", "h073", "h083", "h098", "h157", "h176", "h197", "h292"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US sanctions the International Criminal Court",
+      "summary": "The US imposed sweeping sanctions on the International Criminal Court, hours after the Nobel Peace Prize committee honored Navi Pillay, a former judge linked to the court. The move is part of a wider administration effort to dismantle the tribunal. The ICC condemned the sanctions as an \"assault on the rule of law,\" and the UK said it \"strongly disagreed\" with the move. Several US allies, including Japan and Canada, voiced support for the ICC against the sanctions.",
+      "why_it_matters": "The sanctions deepen a rift between Washington and European allies over international justice institutions and could complicate transatlantic cooperation elsewhere.",
+      "headline_ids": ["h030", "h207", "h230", "h232", "h249", "h260"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Navi Pillay wins Nobel Peace Prize, Israel objects",
+      "summary": "South African jurist Navi Pillay, a former UN human rights chief, was awarded the Nobel Peace Prize for her work promoting international law and human rights. Pillay previously chaired a UN commission that found Israel had committed genocide against Palestinians in Gaza, a finding Israel rejects, and she has served as a judge on international war-crimes courts. Israel denounced the committee's choice shortly after the announcement.",
+      "why_it_matters": "The award keeps unresolved disputes over accountability for the Gaza war in the international spotlight just as the US moves to sanction the ICC.",
+      "headline_ids": ["h003", "h009", "h023", "h123", "h245", "h280", "h285", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Delhi locked down ahead of mass election protest",
+      "summary": "Indian authorities deployed thousands of police and paramilitary personnel, cancelled trains and shut metro stations across New Delhi ahead of a planned protest by the \"Cockroach Janta Party\" against Chief Election Commissioner Gyanesh Kumar. Protesters are demanding Kumar's resignation over contentious revisions to India's voter rolls. India's highest court intervened in the dispute, and the demonstration comes amid growing youth anger directed at the election commission and Prime Minister Modi's government.",
+      "why_it_matters": "The standoff tests the independence of India's election machinery ahead of future votes in the world's most populous democracy.",
+      "headline_ids": ["h042", "h045", "h046", "h050", "h051", "h055", "h060", "h080"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Hurricane Isaias slams US Gulf Coast",
+      "summary": "Hurricane Isaias made landfall near Destin, Florida, as the first Atlantic hurricane of the season, bringing a life-threatening storm surge and powerful winds to the Gulf Coast. Florida, Alabama and Mississippi declared states of emergency, and millions were placed under evacuation orders. The storm disrupted oil and gas production and threatened refineries in the Gulf of Mexico, adding to a fuel market already strained by conflicts in Eastern Europe and the Middle East.",
+      "why_it_matters": "The disruption to Gulf refining and production capacity adds fresh upward pressure on fuel prices just as Washington tries to bring them down.",
+      "headline_ids": ["h005", "h007", "h019", "h039", "h044", "h071", "h082", "h240", "h263", "h268"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "7.7-magnitude earthquake strikes Panama",
+      "summary": "A magnitude 7.7 earthquake hit southern Panama, damaging buildings and roads and sending residents into the streets, though the country appears to have avoided widespread destruction or deaths. Panama's president declared a major disaster, and tsunami warnings were issued for Colombia, Ecuador, Nicaragua, Guatemala and Chile. Multiple aftershocks followed the initial quake.",
+      "why_it_matters": "The quake underscores seismic risk across Central and South America and prompted a regional tsunami alert affecting several neighboring countries.",
+      "headline_ids": ["h057", "h064", "h079", "h085", "h154", "h195", "h213", "h221", "h231", "h243"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "EU and China agree to halve hybrid car exports",
+      "summary": "The European Union and China reached an interim deal to cut China's hybrid vehicle exports to the bloc by up to half over four years, following two days of talks between Europe's trade chief Maroš Šefčovič and China's commerce minister in Beijing. Brussels says the move addresses fears that surging low-cost Chinese imports could cost European jobs. The deal could also push Chinese automakers to strengthen their domestic industry further.",
+      "why_it_matters": "The agreement eases a trade flashpoint that threatened European, including German, carmakers, while potentially reshaping competitive pressure in the auto industry.",
+      "headline_ids": ["h027", "h028", "h069", "h226", "h264", "h273"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Trump sets up new inquiry into Fed's Lisa Cook",
+      "summary": "President Trump established a committee to investigate Federal Reserve Governor Lisa Cook over unsubstantiated mortgage fraud allegations, renewing his effort to remove her after the Supreme Court previously ruled his earlier firing attempt unconstitutional. A hearing is planned for next month. Cook was nominated to the Fed by former President Biden.",
+      "why_it_matters": "The renewed push against Cook keeps the Federal Reserve's independence in question, a factor markets watch closely for its bearing on future interest-rate decisions.",
+      "headline_ids": ["h016", "h017", "h124", "h216", "h248", "h276"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "SpaceX spectrum deal hits telecom stocks",
+      "summary": "Shares of AT&T, Verizon and T-Mobile fell sharply, with US telecom stocks losing a combined $60bn in value, after SpaceX announced a deal to acquire wireless spectrum to expand Starlink into direct mobile competition. Verizon had its worst trading day since 2002. The announcement pushed SpaceX's own valuation higher as investors priced in its growing wireless ambitions.",
+      "why_it_matters": "A credible new entrant into US mobile service could pressure pricing and margins across the telecom sector for years.",
+      "headline_ids": ["h013", "h155", "h165", "h183"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Delta cuts 2026 forecast on fuel costs",
+      "summary": "Delta Air Lines lowered its 2026 profit outlook, citing a surge in fuel prices linked to the Iran conflict that is set to add about $6bn to its annual fuel expenses. The airline missed Wall Street's third-quarter earnings estimate for the first time in two years, even as its chief executive said passenger demand remains strong. Delta signaled it may need further capacity restraint.",
+      "why_it_matters": "As the first major carrier to report, Delta's warning signals that elevated fuel costs are squeezing airline profitability industry-wide heading into earnings season.",
+      "headline_ids": ["h026", "h182", "h188", "h256"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Next week's earnings season kicks off with major bank and chipmaker results that investors expect to clarify the strength of the AI trade.",
+    "The aftermath of Hurricane Isaias, including Gulf refinery outages and storm damage assessments, will be watched for further fuel-price effects.",
+    "Delhi's protest and India's new rupee-support measures, including the central bank's special oil dollar window, remain in focus for emerging-market watchers."
+  ]
+}
