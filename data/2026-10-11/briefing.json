@@ -1,0 +1,99 @@
+{
+  "headline": "Riyadh airport attack and Trump-Zelenskyy clash over Russian diesel dominate weekend",
+  "at_a_glance": [
+    "A strike on Riyadh's airport killed 12 and injured over 300; Trump is weighing whether the US joins Saudi strikes on Yemen's Houthis.",
+    "Trump said Ukraine needs a new president after Zelenskyy criticized his Russian diesel deal; a Russian strike on Zaporizhzhia killed 15, including children.",
+    "Indian police detained over 2,000 protesters and locked down Delhi to block a youth-led rally against the election commissioner.",
+    "Hurricane Isaias killed four, cut power to over 650,000 people and disrupted US Gulf Coast oil and gas production.",
+    "Nvidia is in talks to invest in or acquire AI start-up Reflection AI as AI-linked corporate debt issuance keeps rising."
+  ],
+  "market_analysis": "US stocks closed higher Friday, with the S&P 500 up 0.59%, the Nasdaq Composite up 0.64% and the Dow Jones up 0.83%. The VIX volatility index fell 3.70% to 14.84 and the 10-year Treasury yield edged up 1 basis point to 5.24%. Gold rose 1.43% to 4,216.30 against a weekend backdrop of escalating conflicts in Yemen, Ukraine and Saudi Arabia.\n\nEuropean markets also advanced Friday, with the DAX up 1.13%, the FTSE 100 up 1.06% and the Euro Stoxx 50 up 0.76%. Asian trading was mixed: the Nikkei 225 was roughly flat (-0.02%), the Hang Seng rose 1.79% and the Shanghai Composite added 0.05%. Oil held steady, with WTI up 0.39% and Brent up 0.42%, even as Hurricane Isaias disrupted US Gulf Coast production and the Yemen conflict escalated near Saudi energy infrastructure.\n\nNo economic calendar items or watch-list earnings are scheduled for today, but S&P 500 futures point 0.56% higher and Nasdaq 100 futures 0.45% higher. The coming week brings US inflation reports, retail sales data and major bank earnings as third-quarter earnings season gets under way.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Deadly strike on Riyadh airport deepens Yemen conflict",
+      "summary": "A missile strike on Riyadh's King Khalid International Airport killed 12 people and injured more than 300, Saudi authorities said, the third attack on the airport in a week and the deadliest incident since the US-Israeli war with Iran began in February. Saudi-backed Yemeni government forces say they have killed 1,150 Houthi fighters in an offensive launched this week, while Houthi forces say they are advancing around the Bab al-Mandab strait. President Trump said the US is evaluating whether to join Saudi strikes against the Houthis. Hospitals in Yemen's Taiz are reportedly near collapse due to a Houthi blockade limiting fuel and medical supplies.",
+      "why_it_matters": "An escalating conflict near the Bab al-Mandab strait and Saudi energy infrastructure raises the risk of further disruption to Gulf shipping and oil markets, and could draw the US directly into the fighting.",
+      "headline_ids": ["h003", "h004", "h035", "h075", "h107", "h207", "h057", "h109", "h038"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump says Ukraine needs new leader after diesel deal angers Zelenskyy",
+      "summary": "President Trump said Ukraine should get a \"new president\" after Volodymyr Zelenskyy criticized Trump's deal to buy Russian diesel, saying it would help fund Moscow's war. Trump also warned Kyiv against further strikes on Russian oil refineries that are to supply the diesel. Germany said it is maintaining its Russia sanctions despite Trump's announcement. Separately, a Russian strike using guided bombs on Zaporizhzhia killed at least 15 people, including children, which Zelenskyy called Russia's \"thanks\" for the diesel deal.",
+      "why_it_matters": "The rift exposes a split between Washington and Kyiv and European allies over Russia policy, with potential consequences for sanctions and transatlantic cooperation on Ukraine.",
+      "headline_ids": ["h001", "h022", "h063", "h131", "h187", "h188", "h236", "h019"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "India locks down Delhi to block protests against election chief",
+      "summary": "Indian police detained more than 2,000 protesters, including leaders of the youth-led \"Cockroach\" movement, and locked down parts of Delhi to prevent a rally demanding the resignation of the country's election commissioner. The protests stem from anger over sweeping revisions to voter rolls. Movement founder Abhijeet Dipke was among those detained after being escorted off a flight in New Delhi.",
+      "why_it_matters": "The scale of the crackdown in the world's largest democracy, ahead of state elections, highlights rising political tension around India's electoral process.",
+      "headline_ids": ["h009", "h013", "h118", "h166", "h204", "h217", "h231", "h246"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Hurricane Isaias kills four, cuts power to 650,000 and disrupts US oil output",
+      "summary": "Hurricane Isaias made landfall near Destin, Florida as a Category 2 storm before weakening to a post-tropical cyclone, killing at least four people. More than 650,000 customers lost power across Florida, Alabama, Georgia and Mississippi. The storm disrupted US oil and gas production along the Gulf Coast. Bloomberg Intelligence estimated insured losses could reach the single-digit billions of dollars.",
+      "why_it_matters": "Storm-related disruption to Gulf Coast oil and gas output and the scale of insured losses could have knock-on effects for energy supply and insurers.",
+      "headline_ids": ["h006", "h008", "h026", "h089", "h090", "h092", "h212"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US opens antitrust probe into networks that halted Trump pool coverage",
+      "summary": "The Department of Justice is investigating whether ABC, CBS, CNN, NBC and Fox News violated antitrust laws by jointly suspending pooled coverage of President Trump after the White House barred several news organizations from press pool access. The networks were notified of the probe on Friday.",
+      "why_it_matters": "The investigation raises questions about press access and coordination among major US broadcasters and could affect how the White House press pool operates going forward.",
+      "headline_ids": ["h025", "h034", "h047", "h058", "h074", "h091"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "RBI ramps up defense of rupee as it nears record lows",
+      "summary": "India's central bank is broadening its measures to steady the rupee, deploying some of its strongest defenses since the 2013 \"taper tantrum,\" as the currency nears record lows. The pressure stems in part from rising energy costs linked to the US-Israel war on Iran.",
+      "why_it_matters": "How far the RBI is willing to go to defend the rupee is a focus for trading this week, given India's status as the world's fastest-growing major economy.",
+      "headline_ids": ["h018", "h042"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia weighs deeper investment in or acquisition of Reflection AI",
+      "summary": "Nvidia is in talks to invest further in US \"open\" model start-up Reflection AI or to acquire it outright, according to a Financial Times report. The Trump administration reportedly hopes the company can rival cheap Chinese alternatives such as DeepSeek.",
+      "why_it_matters": "A deal would deepen Nvidia's reach into AI model development and is framed by officials as part of US efforts to compete with Chinese AI offerings.",
+      "headline_ids": ["h147", "h175"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI debt issuance defies rising yields as SpaceX, Broadcom plan deals",
+      "summary": "Technology companies have been increasing bond sales this year even as financing costs rise, departing from the usual pattern of slowing issuance when yields climb. Talk of potential major financings from SpaceX and Broadcom has amplified investor concern about the wave of coming debt tied to AI infrastructure spending.",
+      "why_it_matters": "A continued surge in AI-related corporate debt even as yields rise is a factor markets are watching for signs of stretched credit conditions in the sector.",
+      "headline_ids": ["h158"],
+      "single_source": true
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Apple cuts iPhone 18 Pro orders on soft demand",
+      "summary": "Apple has cut orders for its iPhone 18 Pro due to soft demand, according to a Nikkei Asia report.",
+      "why_it_matters": "Reduced iPhone order volumes can signal weaker demand for Apple's latest device lineup, a watch point for its supply chain and sales outlook.",
+      "headline_ids": ["h023"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Abbas postpones Palestinian elections to late 2027",
+      "summary": "Palestinian President Mahmoud Abbas postponed planned legislative elections, previously set for November 2026, pushing the vote to a presidential poll in September 2027. The Palestinian Authority blamed Israeli \"obstacles\" for the delay. Abbas, in office for 21 years, has not held major elections for the Palestinians in about two decades.",
+      "why_it_matters": "The repeated postponement prolongs the absence of an electoral mandate for Palestinian leadership at a sensitive time for the region.",
+      "headline_ids": ["h011", "h096", "h173", "h203", "h213"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Markets watch for further developments in the Yemen conflict after the Riyadh airport attack, including whether the US joins Saudi strikes against the Houthis.",
+    "Investors assess fallout from the Trump-Zelenskyy clash over the Russian diesel deal and its effect on Ukraine-related sanctions.",
+    "The coming week brings US inflation reports, retail sales data and big bank earnings as third-quarter earnings season gets under way."
+  ]
+}
