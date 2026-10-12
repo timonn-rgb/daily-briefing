@@ -1,0 +1,99 @@
+{
+  "headline": "Houthi attacks and Trump's Ukraine 'ceasefire' claim rattle markets as oil slides",
+  "at_a_glance": [
+    "Trump says Russia and Ukraine agreed to an \"energy ceasefire\"; Zelensky says he learned of it from the announcement, not consulted beforehand.",
+    "Houthi rebels struck Riyadh's airport again, killing at least one; BP withdrew from a Saudi energy conference in response.",
+    "Pakistan suspended the provincial government led by Imran Khan's party days before planned protest marches, prompting Khan's party to call it a \"coup.\"",
+    "North Korea fired multiple ballistic missiles off its east coast, days after South Korea tested a hypersonic weapon.",
+    "Oil prices fell and global stock futures rose as traders weighed hopes for a Russia-Ukraine ceasefire against ongoing Middle East tensions."
+  ],
+  "market_analysis": "US stocks closed higher Friday, with the S&P 500 up 0.59% to 7,811.54, the Nasdaq Composite up 0.64% and the Dow Jones up 0.83%. The VIX volatility index fell 3.70% to 14.84 and the 10-year Treasury yield edged up 1 basis point to 5.24%.\n\nEuropean markets also rose on Friday, led by the DAX (+1.13%), FTSE 100 (+1.06%) and Euro Stoxx 50 (+0.76%). In Asia on Monday, trading was mixed: the Nikkei 225 was little changed (-0.02%), the Hang Seng rose 0.17% and the Shanghai Composite slipped 0.12%. Oil fell sharply, with WTI down 1.59% and Brent down 1.20%, as traders weighed hopes for a Russia-Ukraine energy ceasefire against escalating Houthi attacks on Saudi Arabia. Gold rose 0.10%, bitcoin gained 1.36%, and the dollar index was little changed near an 18-month high.\n\nUS index futures point to a higher open today, with S&P 500 futures up 0.33% and Nasdaq 100 futures up 0.44%. No economic data releases or watch-list earnings are scheduled locally today, but big US banks begin reporting third-quarter earnings this week alongside closely watched inflation data, and the IMF and World Bank hold annual meetings.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Trump claims Russia-Ukraine 'energy ceasefire'; Zelensky says he was blindsided",
+      "summary": "President Trump announced on social media that Russia and Ukraine had agreed to an 'energy ceasefire,' but Ukrainian President Volodymyr Zelensky said the announcement came as a surprise and that he was still waiting for details from Washington, while Russia did not immediately comment. The claim followed a US-Russia deal for Russia to supply diesel to the US, which drew bipartisan criticism in Congress, including from six senators who urged the administration to reverse course. Separately, the US reportedly threatened to block arms shipments to Ukraine over Kyiv's strikes on Russian refineries. Oil prices fell on hopes the ceasefire could ease Black Sea disruptions.",
+      "why_it_matters": "Any de-escalation or confusion around a Russia-Ukraine energy truce directly affects global oil and gas supply expectations, and the rift over Ukraine's refinery strikes could reshape US military support for Kyiv.",
+      "headline_ids": ["h001", "h018", "h022", "h023", "h027", "h088", "h136", "h174", "h182", "h216", "h230", "h257", "h294"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthi strikes on Riyadh airport escalate, drawing in oil executives and US caution",
+      "summary": "Yemen's Houthi rebels struck Riyadh's King Khalid International Airport again on Sunday, killing at least one person and wounding others, after an initial attack killed 12 on Saturday. The US Federal Aviation Administration told US airlines to exercise caution flying to Saudi Arabia, and BP and other oil executives withdrew from a Riyadh energy conference in response. Saudi authorities said the strikes also hit Dammam airport, and the Houthis warned travelers to avoid Saudi airspace. Analysts said the escalation raises the risk of a wider conflict that could draw in the United States.",
+      "why_it_matters": "Repeated strikes on Saudi Arabia's aviation and energy infrastructure threaten oil supply security and could pull the US deeper into the Middle East conflict.",
+      "headline_ids": ["h034", "h061", "h081", "h109", "h154", "h157", "h161", "h168", "h185", "h206", "h266", "h295"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Pakistan suspends Khan-led provincial government ahead of planned march",
+      "summary": "Pakistan's federal government suspended the provincial government of Khyber Pakhtunkhwa, led by Imran Khan's PTI party, days before supporters of the jailed former prime minister planned to march demanding his release. The government cited a 'severe breakdown in law and order' amid militant violence and named a politically allied official to take charge. PTI called the move a 'coup' and said it escalates the standoff with Islamabad.",
+      "why_it_matters": "The suspension deepens Pakistan's political crisis and raises the risk of further unrest in a nuclear-armed state already facing militant violence.",
+      "headline_ids": ["h013", "h236", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea fires ballistic missiles after South Korea's hypersonic test",
+      "summary": "North Korea fired multiple ballistic missiles off its east coast on Monday, days after South Korea test-fired a hypersonic missile. South Korea's military said it increased surveillance following the launch. Bloomberg reported the move came after North Korea had warned of retaliation if its territory were violated, following border landmine explosions that injured three South Korean soldiers last month.",
+      "why_it_matters": "The launches add to rising military tension on the Korean peninsula following recent border incidents.",
+      "headline_ids": ["h011", "h070", "h090", "h117", "h118"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "India's capital sees third day of tension over election chief protests",
+      "summary": "India's capital saw a third straight day of tension as opposition parties planned a march to the Supreme Court and a youth-led movement continued protests over a contentious revision of voter rolls. Leaders of the youth-led 'Cockroach' party were released after being detained over the weekend, but the group vowed to keep protesting and demanded the resignation of the chief election commissioner. India's chief justice reportedly renewed calls for the election body's chief to quit.",
+      "why_it_matters": "The protests represent one of the most significant challenges to Prime Minister Narendra Modi's government in recent years and could affect confidence in India's electoral institutions.",
+      "headline_ids": ["h031", "h036", "h069", "h105", "h213", "h255", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Airstrike on Sudan-Egypt border gold mine kills at least 72",
+      "summary": "An airstrike hit an artisanal gold mining camp on the Sudan-Egypt border on Saturday, killing at least 72 people, according to a Sudanese rights monitor. The Emergency Lawyers organization accused Egypt's air force of carrying out the strike, though neither Egypt nor Sudan has commented and the account could not be independently verified. The area is known for illegal gold mining in a remote, disputed border region.",
+      "why_it_matters": "The mass-casualty event risks adding a new front to regional instability along the Sudan-Egypt border amid Sudan's ongoing conflict.",
+      "headline_ids": ["h021", "h097", "h191", "h212", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "India's central bank moves to defend rupee as bond selloff deepens",
+      "summary": "India's central bank took some of its strongest measures since the 2013 'taper tantrum' to defend the rupee, which jumped about 1% on Monday, its biggest gain in six months, after a selloff driven by high oil prices and foreign outflows. Indian debt funds are nonetheless expected to extend a $4.5 billion bond selloff following the RBI's policy shift, and the new curbs are also set to temper companies' rush to hedge against rupee weakness. Indian shares opened higher as oil prices eased.",
+      "why_it_matters": "Currency stress and central bank intervention in India, a major global economy, can ripple into broader emerging-market risk sentiment and capital flows.",
+      "headline_ids": ["h041", "h047", "h079", "h080", "h094", "h100"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "EU and China reach understanding on hybrid-car and inverter trade curbs",
+      "summary": "The European Union and China agreed to discuss curbs on Chinese-made inverters, a key clean-technology component, after a trade meeting, potentially offering relief to Chinese firms facing restrictions on sales to Europe. Separately, the EU said China had agreed to sharply cut hybrid-car exports to the bloc following talks spanning trade, investment and intellectual property. The auto sector welcomed the 'understanding,' though other industries warned China's trade surplus would persist without further action.",
+      "why_it_matters": "The agreements ease some trade friction between two of the world's largest economic blocs and could affect Europe's clean-energy and auto supply chains.",
+      "headline_ids": ["h038", "h085", "h203"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Wall Street earnings season opens as banks and inflation data loom",
+      "summary": "S&P 500 futures rose as big US banks prepare to kick off third-quarter earnings season this week alongside closely watched inflation data. The Financial Times reported that analysts expect a sharp slowdown in Wall Street's trading results after a bumper start to the year. The IMF and World Bank's annual meetings are also set to warn central bankers of a 'gathering storm' in the global economy.",
+      "why_it_matters": "Bank earnings and inflation data are key inputs for market expectations on interest rates and growth heading into the rest of the year.",
+      "headline_ids": ["h044", "h054", "h258"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "TSMC expected to post sixth straight quarter of record profit",
+      "summary": "TSMC is expected to report its sixth consecutive quarter of record profit, Reuters reported, with results driven by continued demand tied to the AI boom.",
+      "why_it_matters": "As the world's largest contract chipmaker, TSMC's results are closely tied to the health of AI-related chip demand.",
+      "headline_ids": ["h086"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "US inflation data and the start of big bank earnings are due this week, key inputs for interest-rate expectations.",
+    "Washington has yet to provide further details of the claimed Russia-Ukraine 'energy ceasefire,' which Kyiv and Moscow have not confirmed.",
+    "The IMF and World Bank's annual meetings continue this week, with central bankers set to be warned about risks to the global economy."
+  ]
+}
