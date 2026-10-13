@@ -1,0 +1,103 @@
+{
+  "headline": "AI chip selloff hits Asia markets; IMF warns on bond yields, debt and AI valuations",
+  "at_a_glance": [
+    "A global tech selloff deepened after Broadcom's CEO called AI spending a \"casino,\" sending Korea's Kospi down 7% and dragging Samsung and SK Hynix lower.",
+    "The IMF warned government bond yields could spike \"disorderly\" and that an AI-driven stock crash could threaten global financial stability.",
+    "Houthi forces struck Riyadh's airport for a third day, prompting an FAA warning to U.S. airlines and a Delta flight delay.",
+    "Trump's sanctions relief for Russian diesel exports drew bipartisan criticism as Ukraine reported continued Russian strikes despite a declared \"energy ceasefire.\"",
+    "A cyberattack disabled refrigeration at hundreds of French supermarkets overnight, spoiling food worth millions of euros in an \"unprecedented\" breach."
+  ],
+  "market_analysis": "U.S. stocks closed mixed on Monday, with the S&P 500 little changed (-0.06%) and the Dow Jones up 0.38%, while the Nasdaq fell 0.44% as optical-networking and memory-chip stocks sold off on cautious commentary about AI spending. Oil prices rallied during the session on Middle East supply concerns, the VIX ticked up to 15.21, and the US 10-year yield held steady at 5.24%.\n\nAsian markets extended the tech-led selloff on Tuesday after Broadcom's CEO likened some AI spending to a \"casino\" bet, sending South Korea's Kospi down 7% and dragging Samsung, SK Hynix and Japan's Nikkei (-2.17%) lower; Hong Kong and Shanghai also fell. European benchmarks had closed higher Monday (DAX +0.76%, FTSE 100 +0.99%, Euro Stoxx 50 +0.45%), but US futures point to a weaker open (S&P 500 futures -0.21%, Nasdaq 100 futures -0.81%) as the Asian weakness spills over.\n\nIn play today: JPMorgan, UnitedHealth and Johnson & Johnson report earnings, kicking off the season ahead of Goldman Sachs and Morgan Stanley later this week. No major German economic data is scheduled. Cleveland Fed President Hammack said higher rates may be needed to prevent an \"inflationary mindset\" from taking hold, while the IMF-World Bank meetings in Bangkok continue to generate warnings on debt, bond yields and AI valuations.",
+  "mover_notes": {
+    "CIEN": "Fell along with other optical-networking stocks on cautious commentary about AI infrastructure spending.",
+    "LITE": "Fell along with other optical-networking stocks on cautious commentary about AI infrastructure spending.",
+    "COHR": "Fell along with other optical-networking stocks on cautious commentary about AI infrastructure spending."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "AI-driven selloff slams Asian chip and tech stocks",
+      "summary": "Shares of memory-chip makers Samsung and SK Hynix tumbled after Broadcom's CEO described some AI infrastructure spending as a \"casino\" bet, dragging South Korea's Kospi down 7%. The selloff spread across the region, pulling down Japan's tech-heavy shares and spilling into Wall Street futures overnight. Nvidia and AMD also fell after new AI chip announcements failed to reassure investors about near-term revenue. Copper and aluminum prices slid too on concerns the AI investment boom may be overheating.",
+      "why_it_matters": "A sustained reversal in AI-related stocks could ripple through broader equity markets and economies that have leaned heavily on tech investment for growth.",
+      "headline_ids": ["h008", "h010", "h123", "h136", "h208", "h084"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "IMF warns of 'disorderly' bond-yield spike and AI-driven financial risk",
+      "summary": "At its annual meetings in Bangkok, the IMF said risks in government bond markets have worsened and that yields could jump sharply and \"disorderly\" amid high debt and inflation. The fund separately warned that a crash in richly valued AI stocks could threaten global financial stability, and that advanced economies are heading for their largest budget deficits since the Covid pandemic. The IMF also said the global economy is splitting into a \"K-shape,\" with countries exposed to AI demand and insulated from oil shocks pulling ahead of others.",
+      "why_it_matters": "The warnings point to compounding risks — rising borrowing costs, swollen deficits and an AI valuation bubble — that could jointly destabilize markets if any one of them breaks.",
+      "headline_ids": ["h003", "h088", "h089", "h079", "h113", "h013"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthi missile attacks on Riyadh airport escalate for a third day",
+      "summary": "Yemen's Houthi forces struck Saudi Arabia's King Khalid International Airport in Riyadh for a third consecutive day, with the Saudi-led coalition saying it intercepted a ballistic missile. The attacks have killed 13 people and prompted Saudi Arabia to vow a \"serious response,\" while an investigation is underway into why warning systems failed to alert on earlier strikes. The US FAA warned American airlines of safety risks over Saudi airspace, and Delta pushed back the planned October 23 launch of its first nonstop US-Saudi route to March.",
+      "why_it_matters": "Continued attacks near a major Gulf transit hub raise the risk of wider regional conflict and could affect oil supply routes and airline operations.",
+      "headline_ids": ["h042", "h147", "h152", "h167", "h024", "h026"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump's Russian diesel deal draws bipartisan fire as Ukraine reports strikes continue",
+      "summary": "President Trump defended his decision to temporarily ease sanctions on Russian diesel exports, calling it \"the right choice,\" despite criticism from both Democrats and Republicans. Ukrainian President Zelenskyy said Russia continues to strike Ukrainian energy infrastructure even after Trump announced an \"energy ceasefire,\" and said it is \"increasingly evident\" Moscow will not honor it. US officials said they hope the diesel deal can help soften Russia's stance ahead of future peace talks.",
+      "why_it_matters": "The dispute exposes friction between Washington and its allies over Russia policy weeks before US midterm elections, and could affect the prospects for ending the war.",
+      "headline_ids": ["h021", "h080", "h091", "h128", "h207", "h178"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Cyberattack disables fridges at hundreds of French supermarkets",
+      "summary": "A cyberattack overnight hit refrigeration systems at hundreds of Intermarché and Coopérative U stores across France, pushing fridge temperatures as high as 50C and spoiling fresh and frozen food estimated at millions of euros. French officials called the attack \"unprecedented\" in scale, and there are concerns Dutch supermarket chains may also have been affected. The incident reportedly caused fires at some locations.",
+      "why_it_matters": "The attack highlights the vulnerability of food-retail infrastructure to cyberattacks and raises fresh questions about food-supply security in Europe.",
+      "headline_ids": ["h022", "h025", "h098", "h102", "h198", "h202"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "India widens currency defense as inflation jumps and rupee weakens",
+      "summary": "India's central bank widened currency curbs to support the rupee, which has weakened against the dollar despite the country's fast growth, pressured by high oil prices and foreign outflows. Separately, India's retail inflation rose to 5.54% in September, an eleventh straight monthly increase and above estimates, raising the prospect of a further interest-rate hike. Indian government bond yields jumped to their highest level since March 2023.",
+      "why_it_matters": "A weakening rupee combined with rising inflation complicates policy choices for one of the world's fastest-growing major economies.",
+      "headline_ids": ["h031", "h076", "h078", "h095", "h103"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Congo's ex-president Kabila allies with M23 rebels to form new front",
+      "summary": "Former Democratic Republic of Congo President Joseph Kabila announced a new political-military alliance incorporating the Rwanda-backed M23 rebel movement, which occupies part of the country's east. Kabila, who was sentenced to death in absentia over alleged complicity with the group, said the new front opposes the current government of President Félix Tshisekedi. The move comes amid debate over constitutional changes ahead of elections.",
+      "why_it_matters": "The alliance deepens an already serious security crisis in eastern Congo and could complicate regional efforts to end the M23 insurgency.",
+      "headline_ids": ["h120", "h127", "h204", "h257"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Nobel Economics Prize goes to Hall and Woodford for work on economic shocks",
+      "summary": "Economists Robert E. Hall and Michael Woodford were awarded the 2026 Nobel Memorial Prize in Economic Sciences for insights that help policymakers better manage shocks to the economy, the awarding committee said.",
+      "why_it_matters": "Their research underpins the tools central banks and governments use to respond to crises, relevant as the IMF warns of mounting global economic risks.",
+      "headline_ids": ["h020", "h270"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Bank earnings season opens as JPMorgan, UnitedHealth and Johnson & Johnson report",
+      "summary": "JPMorgan, UnitedHealth and Johnson & Johnson report third-quarter results today, with Goldman Sachs and Morgan Stanley following later this week. Analysts have been raising estimates for the big banks heading into the results. US stock indexes closed mixed near record levels on Monday as investors awaited the start of earnings season and upcoming inflation data.",
+      "why_it_matters": "Bank earnings will offer an early read on corporate health and could help determine whether the four-year-old bull market can extend its run.",
+      "headline_ids": ["h240", "h156", "h182", "h226"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Federal agents search Rep. Ilhan Omar's home in criminal probe",
+      "summary": "Federal agents searched the Washington home of Democratic Representative Ilhan Omar as part of an undisclosed criminal investigation. Omar, a frequent critic of President Trump, said the search was an attempt to \"target political enemies\" and that she \"will not be silenced.\" Democratic colleagues condemned the raid as a \"rogue abuse of power.\"",
+      "why_it_matters": "The search intensifies tensions between the Trump administration and congressional Democrats ahead of the midterm elections.",
+      "headline_ids": ["h027", "h126", "h183", "h185", "h189", "h255", "h280", "h289"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "JPMorgan, UnitedHealth and Johnson & Johnson report third-quarter earnings today, the first major test of the US earnings season.",
+    "US stock futures point to a weaker open after the AI-driven tech selloff deepened across Asia overnight.",
+    "Investors will watch for further escalation or de-escalation in Houthi attacks on Saudi Arabia, given the potential impact on oil markets."
+  ]
+}
