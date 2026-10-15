@@ -1,0 +1,101 @@
+{
+  "headline": "US inflation shock triggers global AI stock sell-off as Gulf tensions rise",
+  "at_a_glance": [
+    "Hotter-than-expected US inflation data stoked Fed rate-hike fears, pulling the S&P 500 down 1.11% and the Nasdaq down 1.88% in their worst session since July.",
+    "Chip-stock rout spread to Asia overnight: Japan's Nikkei fell 4.52%, Hang Seng dropped 1.47%, and headlines reported South Korea's Kospi sinking more than 7%.",
+    "Iran escalated attacks in the Strait of Hormuz, sinking a container ship and striking Saudi Aramco's facilities overnight.",
+    "Anthropic told investors third-quarter revenue hit $16.8 billion, up 50%, ahead of its IPO, though growth appears to be slowing.",
+    "Student protests in Albania turned violent for a second night, with government buildings and banks set on fire in Tirana."
+  ],
+  "market_analysis": "Wall Street fell sharply on Wednesday after hotter-than-expected US inflation data revived fears the Federal Reserve may need to raise rates, triggering a sell-off concentrated in AI- and chip-linked names. The S&P 500 dropped 1.11% to 7,718.94 and the Nasdaq Composite fell 1.88% to 26,692.87, while the Dow Jones was nearly flat at -0.09%. Dell tumbled 11% after a Barclays downgrade tied to concerns about enterprise AI adoption, CoreWeave's bonds and shares came under pressure, and the VIX jumped 10.48% to 16.87. The US 10-year yield eased 3 basis points to 5.19% as Treasuries drew haven demand.\n\nThe sell-off spread to Asia on Thursday, with Japan's Nikkei 225 sinking 4.52% and headlines reporting South Korea's Kospi plunging more than 7% on a rout in chip stocks such as SK Hynix. Hong Kong's Hang Seng fell 1.47% and Shanghai dropped 1.98%. Europe had closed higher on Wednesday (DAX +0.15%, FTSE 100 +0.70%, Euro Stoxx 50 +0.38%), but US futures point to a weaker open, with S&P 500 futures down 0.32% and Nasdaq 100 futures down 0.76%. Gold rose 1.41% to $4,165.90 and the dollar index slipped 0.47% as investors sought safety, while oil eased amid mixed signals on Middle East supply risks.\n\nToday's calendar brings UK GDP data at 08:00 CET, followed by a cluster of high-impact US releases at 14:30 CET: PPI, core PPI, retail sales and core retail sales, all likely to feed into Fed rate expectations. No earnings are due from the watch list.",
+  "mover_notes": {
+    "DELL": "Shares fell 11% after Barclays downgraded Dell, HPE and NetApp on concerns that enterprise AI adoption is lagging."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Chip-stock rout sends Asian markets tumbling",
+      "summary": "A global sell-off in AI- and chip-related stocks deepened after Wednesday's hot US inflation report, with Dell shares plunging 11% following a Barclays downgrade on enterprise AI adoption concerns. CoreWeave's shares and bonds came under renewed pressure, with bond yields nearing 15%. The rout spread to Asia on Thursday, with headlines reporting South Korea's Kospi sinking more than 7% and triggering a trading halt, as SK Hynix shares plunged 10%. Taiwan's dollar and South Korea's won also weakened as the chip sell-off hit regional currencies.",
+      "why_it_matters": "A sustained unwind of the AI trade would ripple through global equity indices, tech-sector financing and currency markets well beyond the US and Asia.",
+      "headline_ids": ["h001", "h005", "h012", "h116", "h153", "h142", "h212", "h268", "h020", "h096"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US inflation accelerates, reviving Fed rate-hike bets",
+      "summary": "US consumer prices rose 3.7% in the year to September, a faster pace than forecast and driven partly by higher motor fuel costs. The data triggered the S&P 500's worst session in more than two months and revived expectations that the Federal Reserve could raise rates again this month. A Fed survey separately pointed to intensifying price pressures tied to rising fuel costs, and the Fed's Daly said hikes are likely needed, though not urgently.",
+      "why_it_matters": "Firmer inflation complicates the Fed's policy path and adds a political dimension ahead of the US midterm elections, where affordability has become a central issue.",
+      "headline_ids": ["h030", "h223", "h264", "h187", "h227", "h286"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran escalates attacks on shipping and Saudi oil facilities",
+      "summary": "Iran stepped up attacks on commercial shipping in the Strait of Hormuz, with a container ship sinking in the waterway and a Singapore-registered vessel also reported sunk. Saudi Arabia's Aramco came under fresh attack, which officials attributed to Iran-backed Houthi forces. The US said it destroyed an Iran-affiliated boat suspected of surveillance in the Gulf of Oman. Iran said it is 'counting the moments' until it can strike US warships.",
+      "why_it_matters": "Escalation around Hormuz, a critical route for global oil shipments, raises the risk of supply disruption and higher energy prices worldwide.",
+      "headline_ids": ["h021", "h023", "h144", "h127", "h157", "h158", "h004"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Ukraine says Starlink restrictions are hampering its war effort",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said he feels 'betrayed' by Donald Trump after Ukraine's military access to Elon Musk's Starlink was squeezed, slowing drone speeds used on the battlefield. Musk said any limits on Starshield, the military version of Starlink, are decided by the US military and ultimately the president. Ukraine said it will resume strikes on Russian oil refineries in response to continued Russian attacks.",
+      "why_it_matters": "Starlink is described as the backbone of Ukraine's military communications, so reduced access could affect its ability to defend against and strike back at Russia.",
+      "headline_ids": ["h183", "h039", "h003", "h242", "h045", "h166"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic reveals $16.8 billion quarterly revenue ahead of IPO",
+      "summary": "Anthropic told investors its third-quarter revenue reached $16.8 billion, up 50% from the prior quarter, ahead of its planned stock market listing. Analysts said the results may support the case for the IPO, but growth appears to be slowing from earlier rates and the figures are unlikely to dispel broader doubts about the AI trade. The disclosure comes as some investors have grown concerned about the scale of spending on AI infrastructure.",
+      "why_it_matters": "As one of the most closely watched upcoming listings, Anthropic's numbers are a bellwether for investor appetite toward AI companies more broadly.",
+      "headline_ids": ["h010", "h002", "h141", "h138", "h087"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea tests submarine-launched cruise missiles",
+      "summary": "North Korea said it test-fired two types of submarine-launched strategic cruise missiles, according to state media KCNA. Pyongyang said the launches, which come as tensions with South Korea remain heightened following a September landmine incident, posed no threat to neighboring countries. The tests followed recent overtures from Donald Trump for a possible meeting with Kim Jong Un.",
+      "why_it_matters": "The tests underline North Korea's continued development of its naval deterrent capabilities even as diplomatic contact with Washington is floated.",
+      "headline_ids": ["h085", "h171", "h137", "h234"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Netflix to cut about 1,000 jobs",
+      "summary": "Netflix will lay off roughly 1,000 employees, or about 6% of its global workforce, according to an internal memo. The cuts are the steepest the streaming company has made since 2022.",
+      "why_it_matters": "The layoffs signal belt-tightening at one of the largest streaming platforms even as it continues to compete for content and subscribers globally.",
+      "headline_ids": ["h025", "h031"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Bank of America fined $1.2 billion over money-laundering oversight",
+      "summary": "US federal regulators fined Bank of America $1.2 billion, saying the bank had waved through suspicious transactions without proper care. The penalty weighed on Bank of America shares, which also fell after the bank reported weaker-than-expected trading revenue for the third quarter.",
+      "why_it_matters": "The fine adds to regulatory scrutiny of major banks' compliance practices and comes alongside signs of softer trading revenue at one of the largest US lenders.",
+      "headline_ids": ["h118", "h266"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "French debt worries drag down stocks",
+      "summary": "Concerns over France's public finances spilled into its stock market, driving the country's biggest underperformance against regional peers since 2010. Investors are demanding bigger discounts on French assets to reflect troubled public finances and an upcoming presidential election. The situation reflects a deeper crisis combining political anger, mounting debt and nervous bond markets.",
+      "why_it_matters": "As the eurozone's second-largest economy, sustained fiscal strain in France could spread pressure to European bond and equity markets more broadly.",
+      "headline_ids": ["h009", "h244"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Student protests in Albania turn violent",
+      "summary": "Anti-government protests in Albania's capital, Tirana, turned violent for a second consecutive night, with the Ministry of Justice and other government buildings as well as two banks set on fire. Thousands of students demanded improved university conditions and the resignation of Prime Minister Edi Rama. Several people were detained amid the unrest.",
+      "why_it_matters": "The escalating unrest poses a political crisis for Albania's government and adds to a wider pattern of student-led protest movements in the region.",
+      "headline_ids": ["h081", "h168", "h192", "h259", "h260", "h146"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US core PPI, PPI, retail sales and core retail sales data at 14:30 CET will shape expectations for a Fed rate hike.",
+    "UK GDP figures at 08:00 CET set an early tone for European markets already rattled by French debt concerns.",
+    "Markets will watch whether Thursday's chip-stock rout in Asia, including the Kospi's sharp fall, extends into European and US trading."
+  ]
+}

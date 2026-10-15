@@ -1,0 +1,46 @@
+US inflation shock triggers global AI stock sell-off as Gulf tensions rise
+Daily Briefing · Thursday, 15 October 2026
+
+AT A GLANCE
+- Hotter-than-expected US inflation data stoked Fed rate-hike fears, pulling the S&P 500 down 1.11% and the Nasdaq down 1.88% in their worst session since July.
+- Chip-stock rout spread to Asia overnight: Japan's Nikkei fell 4.52%, Hang Seng dropped 1.47%, and headlines reported South Korea's Kospi sinking more than 7%.
+- Iran escalated attacks in the Strait of Hormuz, sinking a container ship and striking Saudi Aramco's facilities overnight.
+- Anthropic told investors third-quarter revenue hit $16.8 billion, up 50%, ahead of its IPO, though growth appears to be slowing.
+- Student protests in Albania turned violent for a second night, with government buildings and banks set on fire in Tirana.
+
+MARKETS
+S&P 500: 7,718.94 (-1.11%) as of Wed 14 Oct
+Nasdaq Composite: 26,692.87 (-1.88%) as of Wed 14 Oct
+Dow Jones: 51,621.48 (-0.09%) as of Wed 14 Oct
+S&P 500 futures: 7,745.50 (-0.32%) as of Thu 15 Oct
+Nasdaq 100 futures: 29,952.00 (-0.76%) as of Thu 15 Oct
+VIX volatility: 16.87 (+10.48%) as of Wed 14 Oct
+US 10-year yield: 5.19% (-3 bp) as of Wed 14 Oct
+DAX: 25,298.61 (+0.15%) as of Wed 14 Oct
+FTSE 100: 10,724.90 (+0.70%) as of Wed 14 Oct
+Euro Stoxx 50: 6,190.37 (+0.38%) as of Wed 14 Oct
+Nikkei 225: 64,683.72 (-4.52%) as of Thu 15 Oct
+Hang Seng: 23,955.58 (-1.47%) as of Thu 15 Oct
+Shanghai Composite: 3,692.65 (-1.98%) as of Thu 15 Oct
+EUR/USD: 1.1217 (+0.11%) as of Thu 15 Oct
+USD/JPY: 158.32 (-0.12%) as of Wed 14 Oct
+US dollar index: 102.07 (-0.47%) as of Thu 15 Oct
+WTI crude oil: 94.12 (-1.02%) as of Thu 15 Oct
+Brent crude oil: 104.40 (-1.57%) as of Thu 15 Oct
+Gold: 4,165.90 (+1.41%) as of Thu 15 Oct
+Bitcoin: 81,562.17 (-1.84%) as of Thu 15 Oct
+
+TOP STORIES
+- Chip-stock rout sends Asian markets tumbling: A sustained unwind of the AI trade would ripple through global equity indices, tech-sector financing and currency markets well beyond the US and Asia.
+- US inflation accelerates, reviving Fed rate-hike bets: Firmer inflation complicates the Fed's policy path and adds a political dimension ahead of the US midterm elections, where affordability has become a central issue.
+- Iran escalates attacks on shipping and Saudi oil facilities: Escalation around Hormuz, a critical route for global oil shipments, raises the risk of supply disruption and higher energy prices worldwide.
+- Ukraine says Starlink restrictions are hampering its war effort: Starlink is described as the backbone of Ukraine's military communications, so reduced access could affect its ability to defend against and strike back at Russia.
+- Anthropic reveals $16.8 billion quarterly revenue ahead of IPO: As one of the most closely watched upcoming listings, Anthropic's numbers are a bellwether for investor appetite toward AI companies more broadly.
+- North Korea tests submarine-launched cruise missiles: The tests underline North Korea's continued development of its naval deterrent capabilities even as diplomatic contact with Washington is floated.
+- Netflix to cut about 1,000 jobs: The layoffs signal belt-tightening at one of the largest streaming platforms even as it continues to compete for content and subscribers globally.
+- Bank of America fined $1.2 billion over money-laundering oversight: The fine adds to regulatory scrutiny of major banks' compliance practices and comes alongside signs of softer trading revenue at one of the largest US lenders.
+- French debt worries drag down stocks: As the eurozone's second-largest economy, sustained fiscal strain in France could spread pressure to European bond and equity markets more broadly.
+- Student protests in Albania turn violent: The escalating unrest poses a political crisis for Albania's government and adds to a wider pattern of student-led protest movements in the region.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-15/
+Data as of 07:01 CEST. Not investment advice.
