@@ -1,0 +1,99 @@
+{
+  "headline": "Ukraine resumes refinery strikes as AI stock selloff, Indonesia slide rattle markets",
+  "at_a_glance": [
+    "Zelensky says Ukraine will resume strikes on Russian refineries, defying Trump, as a US-brokered energy ceasefire collapses and a Starshield dispute roils ties with Washington.",
+    "Houthi missiles struck Yemen's presidential palace in Aden, killing five, while drone attacks on Black Sea and Hormuz tankers add to oil supply risk.",
+    "A gunman killed three children and a teacher at an Oregon elementary school; a school roof collapse in Pakistan killed at least 35 children.",
+    "A selloff in AI-linked stocks deepened on debt and spending worries, even as Wall Street's main indexes rose Thursday on a rotation into healthcare stocks.",
+    "Indonesian stocks plunged after an MSCI downgrade warning, while Fed Chair Warsh and Bank of England Governor Bailey gave mixed signals on rates and inflation."
+  ],
+  "market_analysis": "Wall Street closed higher on Thursday, with the Dow up 1.08%, the S&P 500 up 0.33% and the Nasdaq nearly flat at +0.08%, as traders rotated out of AI-exposed tech names and into healthcare and pharmaceutical stocks. Fed Chairman Kevin Warsh said AI investment is one of the economy's most important positive developments but gave no hint on the October rate decision; his comments eased rate-hike bets, with the VIX falling to 16.46 and the 10-year Treasury yield down 10 basis points to 5.09%.\n\nAsian markets are mostly higher on Friday as calm returns after this week's CoreWeave-driven tech shock, with the Nikkei up 1.87%, the Hang Seng up 1.21% and the Shanghai Composite up 0.95%. Indonesia is the exception: Jakarta stocks plunged as much as 11% after MSCI warned the country may lose its emerging-market status. European benchmarks closed mixed Thursday, with the FTSE 100 up 1.08% and the DAX up 0.33%, while the Euro Stoxx 50 slipped 0.36%.\n\nS&P 500 futures are little changed as the index heads for a losing week. Bank of England Governor Bailey speaks on energy-driven inflation risks at 04:00 Berlin time, followed by Fed Chairman Warsh at 05:30. Oil is on track for a second weekly gain on Middle East and Black Sea supply risks, gold and bitcoin are both higher, and no earnings are due today from the watch list.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Ukraine to resume refinery strikes as US-brokered energy ceasefire collapses",
+      "summary": "A Reuters exclusive reported the order to limit Ukraine's access to the Starshield satellite system came from inside the White House, intensifying a dispute between Washington and Kyiv. President Zelensky said Ukraine will resume strikes on Russian oil refineries, defying a push by President Trump for an \"energy ceasefire,\" prompting Trump to call the renewed strikes \"a disgrace.\" A senior US official denied Trump had ordered any restriction on Ukraine's Starshield access. Russia responded with a new wave of drone strikes on Ukrainian infrastructure as Zelensky sought backing from European allies in Brussels.",
+      "why_it_matters": "A rupture between Washington and Kyiv over satellite support and energy-strike policy could reshape the war's trajectory and test the US-Europe alliance on Ukraine.",
+      "headline_ids": ["h001", "h038", "h077", "h097", "h100", "h105", "h111", "h131", "h157", "h179", "h258"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthi missiles strike Yemen presidential palace, killing five",
+      "summary": "Yemen's Houthi movement fired missiles and drones at the Al-Maashiq presidential palace complex in Aden, killing five people and wounding more than a dozen, the government said. It was the first such strike on the palace and marks an escalation in the Iran-aligned group's campaign against the Saudi-backed Yemeni government. The country's prime minister and other ministers were unhurt, a minister said.",
+      "why_it_matters": "Escalating Houthi attacks threaten regional stability and the security of a government already under military pressure from the group.",
+      "headline_ids": ["h123", "h127", "h140", "h214", "h272"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Shipping attacks in the Strait of Hormuz and Black Sea keep oil supply risk elevated",
+      "summary": "Maritime experts say Singapore-flagged vessels will keep transiting the Strait of Hormuz despite one ship being sunk and attacks on container vessels, though shipping costs have risen sharply. Separately, seven crew members remain missing after drone attacks on two chemical tankers in the Black Sea off Romania's coast, the latest in a series of strikes linked to the Ukraine war. Oil is on track for a second weekly gain as these supply risks outweigh a fresh release of emergency reserves.",
+      "why_it_matters": "Repeated attacks on tankers in two major energy corridors sustain a geopolitical risk premium in oil prices and raise shipping and insurance costs globally.",
+      "headline_ids": ["h002", "h247", "h251", "h268", "h290", "h113"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Gunman kills three children and a teacher at Oregon elementary school",
+      "summary": "A 16-year-old gunman opened fire at an elementary school in Bend, Oregon, killing three children aged 5, 8 and 11 and a teacher, before being shot dead by a community member who pursued him into the building. Two other people were wounded in the attack, police said. The suspect's motive was not given in available reports.",
+      "why_it_matters": "The shooting renews pressure on US policymakers over school safety and gun violence ahead of the midterm elections.",
+      "headline_ids": ["h008", "h070", "h102", "h112", "h168", "h192", "h193", "h196"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "School roof collapse in Pakistan kills at least 35 children",
+      "summary": "A school roof collapsed in Pakistan, killing at least 35 children and a teacher and injuring more than 50 others, hospital officials said. Thousands gathered in Peshawar for funeral prayers for the victims. The cause of the collapse was not detailed in available reports.",
+      "why_it_matters": "The disaster raises questions about building safety and infrastructure standards in Pakistan's public schools.",
+      "headline_ids": ["h026", "h089", "h249"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI-linked stock selloff deepens on debt and spending concerns",
+      "summary": "A selloff in AI-related stocks deepened this week, with CoreWeave's credit default swaps reaching distress levels as investors soured on debt tied to AI data centres. Chip makers and tech investors including Samsung and SoftBank fell on fears over US inflation and the sustainability of AI spending, while reports on Anthropic's financial progress added to the unease. Investors rotated into Treasuries, healthcare and pharmaceutical stocks instead, helping the Dow gain more than 550 points on Thursday.",
+      "why_it_matters": "Strains in AI financing and data-centre debt could spill into broader credit markets and test the equity rally that AI spending has driven this year.",
+      "headline_ids": ["h016", "h024", "h045", "h137", "h212", "h234", "h242", "h273", "h287", "h148"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed's Warsh and BOE's Bailey offer mixed signals on rates and inflation",
+      "summary": "Federal Reserve Chairman Kevin Warsh said AI will make the economy more productive and wealthier over time but warned the transition will be \"very bumpy,\" while declining to signal the Fed's October rate decision. His remarks on a US investment surge eased market bets on a rate hike and lifted futures and Asian shares. Bank of England Governor Andrew Bailey said Middle East-driven energy shocks have pushed back the path to the 2% inflation target and effectively tightened financial conditions without raising rates, while cautioning against reading too much into the bank's next move.",
+      "why_it_matters": "Signals from the Fed and BOE on inflation and rates will shape borrowing costs and currency moves while energy prices and AI spending both remain in focus.",
+      "headline_ids": ["h004", "h039", "h056", "h133", "h187", "h068", "h069"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Indonesia faces MSCI emerging-market downgrade, triggering capital flight",
+      "summary": "Indonesian stocks plunged as much as 11% after MSCI said the country no longer merits emerging-market status, risking its removal from global indexes. The move could trigger roughly $4.9 billion in capital outflows as foreign investors react to the potential ejection, according to Bloomberg. Indonesia's market fell to a six-year low even as most other Asian markets rose as calm returned following this week's tech-driven shock.",
+      "why_it_matters": "A possible MSCI downgrade and resulting capital flight would raise Indonesia's borrowing costs and signal wider investor caution toward emerging markets.",
+      "headline_ids": ["h060", "h061", "h081", "h116", "h217", "h235", "h075"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Alberta independence referendum tests Canadian unity amid US pressure",
+      "summary": "Canadian Prime Minister Mark Carney accused the United States of trying \"to break Canada\" as the oil-rich province of Alberta prepares to vote on a referendum that could start the legal process toward separation. Carney urged Albertans to reject separatism and called for national unity. The vote is scheduled for next week.",
+      "why_it_matters": "A move toward independence in Canada's energy-producing heartland would have significant implications for North American energy supply and Canadian political stability.",
+      "headline_ids": ["h035", "h064", "h087"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Netflix replaces chief content officer amid declining share price",
+      "summary": "Netflix said Chief Content Officer Bela Bajaria is leaving and will be replaced by Peter Rice, a former Disney and Fox executive. The move comes as Netflix grapples with slowing viewer engagement and investor pressure over its declining share price. Bajaria had held the content chief role since 2023.",
+      "why_it_matters": "A leadership change at the world's largest streaming service reflects investor pressure over slowing growth in a highly competitive media market.",
+      "headline_ids": ["h014", "h124", "h151", "h165"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Bank of England Governor Bailey speaks on energy-driven inflation risks at 04:00 Berlin time.",
+    "Fed Chairman Kevin Warsh speaks again at 05:30 Berlin time after Thursday's comments eased rate-hike bets.",
+    "Oil markets track a second straight weekly gain on Middle East and Black Sea supply risks."
+  ]
+}
