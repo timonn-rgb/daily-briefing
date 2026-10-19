@@ -1,0 +1,91 @@
+{
+  "headline": "France riots, Putin's Ukraine summit bid and China's 4.5% growth lead a busy Monday",
+  "at_a_glance": [
+    "Weekend riots and looting across France, Albania and Italy intensify pressure on European governments ahead of elections across Europe next year.",
+    "Putin proposed a Ukraine summit with Trump and Xi as Washington waived new Russia sanctions, drawing UK and Ukrainian pushback.",
+    "China's economy grew 4.5% in the third quarter as exports surged, offsetting weak domestic demand.",
+    "A grass fire at a Canadian military base in Alberta killed four soldiers and critically injured 19 others.",
+    "Anthropic will commit 5% of its shares to a new public benefit fund ahead of a planned stock listing."
+  ],
+  "market_analysis": "Wall Street closed last week under pressure, with the S&P 500 down 1.09% and the Nasdaq Composite down 2.15% on Friday (2026-10-16), capping the Nasdaq's worst weekly loss since June as its four-week winning streak snapped amid renewed doubts about AI-related spending. The Dow Jones fell a smaller 0.34%, while the VIX volatility index jumped 21.45% to 19.99 and the US 10-year Treasury yield ticked up to 5.10%.\n\nIn Asia, Chinese data released Monday showed third-quarter GDP growth accelerating to 4.5% as exports surged, though the Shanghai Composite (+0.16%) and Hang Seng were little changed and Asian chip stocks extended last week's losses on renewed AI-financing worries. Indonesian stocks slid to a six-year low on fears of an MSCI downgrade, and the Nikkei 225 slipped 0.75%. European markets had closed higher Friday, with the DAX up 0.95%, the Euro Stoxx 50 up 0.58% and the FTSE 100 up 0.38%.\n\nUS futures point to a rebound Monday, with S&P 500 futures up 0.79% and Nasdaq 100 futures up 1.32% as investors buy the dip in AI names. Oil fell sharply (WTI -3.95%, Brent -1.88%) after Washington waived new sanctions on Russian energy exports, while gold edged up 0.5% to $4,201.80. No major economic data or watch-list earnings are scheduled in Europe today, leaving Federal Reserve rate expectations, China-US trade comments from the Bund Summit, and Indonesia's talks with MSCI as the main things to watch.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Weekend riots rock France as unrest spreads across Europe",
+      "summary": "Nationwide protests over the cost of living and public services turned violent across France over the weekend, with nearly 2,400 arrests, looted shops and the historic town hall in Limoges set ablaze. President Macron condemned the \"shocking\" scenes of violence and promised accountability, but stopped short of declaring a state of emergency or curfew. Similar unrest flared elsewhere in Europe: protesters set fire to Albania's Supreme Court in Tirana, and police clashed with demonstrators over living costs in Italy.",
+      "why_it_matters": "The unrest adds political pressure on Macron ahead of a critical budget vote and comes as several European countries prepare for elections next year, raising concerns about wider social instability tied to living costs.",
+      "headline_ids": ["h009", "h021", "h042", "h043", "h059", "h063", "h161", "h195", "h206", "h208", "h214", "h216", "h231", "h283", "h291", "h207", "h217", "h294"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Putin proposes Trump-Xi summit on Ukraine as Washington-Kyiv rift deepens",
+      "summary": "Putin reportedly proposed a summit next month with Trump and Xi to discuss ending the war in Ukraine, according to the Wall Street Journal. The move comes as Trump waived new sanctions on Russian energy exports and accused Zelenskyy of \"prolonging\" the war, a claim Zelenskyy disputes, saying the war \"must be brought to an end.\" The UK signaled disagreement with Washington's sanctions approach. Over the weekend, Ukraine launched more than 1,000 drones at Russian targets including oil facilities and a data center in St Petersburg, while a Russian strike hit a Kyiv subway station, killing a woman.",
+      "why_it_matters": "A split between Washington and its European allies over Russia policy, combined with intensifying strikes on energy infrastructure, adds uncertainty for oil markets and the diplomatic path to ending the war.",
+      "headline_ids": ["h002", "h082", "h144", "h075", "h120", "h148", "h191", "h203", "h235", "h247", "h279", "h180", "h019", "h096", "h108", "h277", "h298", "h224", "h244"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China's economy accelerates to 4.5% growth in third quarter",
+      "summary": "China's GDP growth quickened to 4.5% in the third quarter, beating estimates, as exports of technology goods surged and offset weak domestic consumption and a prolonged housing downturn. Home prices fell at a slower pace in September. The export-led rebound comes as coal output drops and concerns mount over winter energy supply.",
+      "why_it_matters": "Stronger-than-expected Chinese growth driven mainly by exports underlines Beijing's reliance on overseas demand while domestic spending stays weak, with implications for global trade and goods prices.",
+      "headline_ids": ["h006", "h041", "h047", "h069", "h071", "h077", "h087", "h093", "h154", "h090"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Indonesian stocks slump to six-year low on MSCI downgrade threat",
+      "summary": "Indonesia's benchmark stock index fell to its lowest level in six years, with losses spreading to bonds and the rupiah, after MSCI warned the country could face a two-step downgrade to standalone-market status. Indonesian officials said they were blindsided by the warning and planned to meet MSCI executives on Monday to discuss the threat.",
+      "why_it_matters": "A downgrade would likely trigger further outflows from passive funds tracking emerging-market indexes, adding pressure on Indonesia's currency and borrowing costs.",
+      "headline_ids": ["h010", "h034", "h070", "h097", "h117"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI trade wobbles again as Asian chip stocks extend losses",
+      "summary": "Asian semiconductor stocks fell further on Monday as a new DeepSeek model stoked fresh concerns about chip demand, compounding worries over how AI investment is being financed. The S&P 500 had its worst week since June, falling nearly 2%, while the Nasdaq dropped 4.5% and snapped a four-week winning streak. BTIG warned investors to use any rebound in semiconductor stocks to cut exposure, citing a potential downturn stretching into 2027. US futures nonetheless pointed to a Monday rebound as investors bought the dip.",
+      "why_it_matters": "Renewed doubts about AI financing and chip demand threaten to extend recent volatility in global tech and semiconductor stocks, a sector that has driven much of this year's market gains.",
+      "headline_ids": ["h007", "h008", "h038", "h124", "h176", "h230"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic commits 5% of its shares to a public benefit fund",
+      "summary": "Anthropic said it will commit 5% of its shares to a new \"public benefit fund,\" structured as an LLC to allow flexibility in how the money is used, including potentially addressing AI-related job disruption. The announcement comes ahead of a planned stock market listing for the Claude maker.",
+      "why_it_matters": "The move signals how a major AI developer plans to address public concerns about AI's economic disruption ahead of what would be a closely watched market debut.",
+      "headline_ids": ["h001", "h140", "h143", "h248"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Fire at Canadian military base kills four, injures dozens",
+      "summary": "A fast-moving grass fire fueled by strong winds swept through Canadian Forces Base Wainwright in Alberta during a training exercise, killing four soldiers and critically injuring at least 19 of dozens hospitalized. Prime Minister Mark Carney called it one of the worst peacetime tragedies for Canada's armed forces on home soil. Emergency crews fought the blaze through the night in what officials described as some of the worst conditions imaginable.",
+      "why_it_matters": "The tragedy is among the deadliest peacetime incidents for Canada's military and is likely to prompt scrutiny of training safety protocols.",
+      "headline_ids": ["h011", "h023", "h076", "h100", "h133", "h137", "h152", "h173", "h251", "h265", "h288", "h289"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump endorses Netanyahu as West Bank settler violence draws US condemnation",
+      "summary": "Trump endorsed Israeli Prime Minister Netanyahu ahead of Israel's October 27 election, even as polls suggest his coalition currently lacks a majority. Separately, US officials condemned recent settler attacks on Palestinians and on a visiting European delegation in the West Bank, including the beating of a French mayor and a Washington Post photojournalist; Netanyahu has cast doubt on the accounts. US Ambassador Mike Huckabee called the attack on the photojournalist \"terror.\"",
+      "why_it_matters": "The endorsement and the condemnation of settler violence highlight tensions within the US-Israel relationship just a week before a closely watched election.",
+      "headline_ids": ["h022", "h085", "h151", "h229", "h237", "h268", "h273", "h286"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Lula and Bolsonaro clash in bitter Brazil runoff debate",
+      "summary": "Brazilian President Lula and right-wing senator Flavio Bolsonaro traded personal attacks over the economy and corruption in a heated first debate ahead of the October 25 presidential runoff. Supporters of both candidates held mass rallies over the weekend.",
+      "why_it_matters": "The outcome will shape the direction of Latin America's largest economy and its relations with the US and other trading partners.",
+      "headline_ids": ["h039", "h064", "h102", "h270"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Indonesian officials meet MSCI on Monday to discuss the index provider's threat to downgrade the country's equity market status.",
+    "Federal Reserve rate-hike expectations remain in focus after Chair Kevin Warsh's weekend comments eased some bets.",
+    "Traders will watch whether Monday's AI-driven futures rebound holds through the US cash session after last week's tech-led selloff."
+  ]
+}
