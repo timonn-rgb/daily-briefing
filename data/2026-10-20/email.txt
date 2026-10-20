@@ -1,0 +1,46 @@
+AI debt jitters rattle markets as France imposes curfews and Ukraine tensions escalate
+Daily Briefing · Tuesday, 20 October 2026
+
+AT A GLANCE
+- Wall Street rebounded Monday as AI and chip stocks bounced back, but European and Asian markets fell on unrest and AI-debt jitters.
+- Violent riots and looting over the weekend forced France to impose curfews in Paris and other cities; Macron faces mounting political pressure.
+- Zelenskyy accused the US of delaying promised Patriot missiles as Trump pushes Kyiv toward concessions and floats a Putin-Xi summit without Ukraine.
+- Indonesian stocks rebounded after a historic rout triggered by MSCI's threat to downgrade the market over investability concerns.
+- China's economy grew 4.5% in the third quarter, beating forecasts as AI-driven electronics exports boosted factory output.
+
+MARKETS
+S&P 500: 7,690.73 (+0.41%) as of Mon 19 Oct
+Nasdaq Composite: 26,430.89 (+1.11%) as of Mon 19 Oct
+Dow Jones: 51,966.03 (-0.07%) as of Mon 19 Oct
+S&P 500 futures: 7,739.25 (+0.06%) as of Tue 20 Oct
+Nasdaq 100 futures: 29,660.25 (-0.21%) as of Tue 20 Oct
+VIX volatility: 18.44 (-7.75%) as of Mon 19 Oct
+US 10-year yield: 5.14% (+4 bp) as of Mon 19 Oct
+DAX: 25,319.77 (-1.18%) as of Mon 19 Oct
+FTSE 100: 10,764.70 (-1.08%) as of Mon 19 Oct
+Euro Stoxx 50: 6,144.81 (-0.96%) as of Mon 19 Oct
+Nikkei 225: 64,172.69 (-1.15%) as of Tue 20 Oct
+Hang Seng: 23,956.93 (-0.95%) as of Tue 20 Oct
+Shanghai Composite: 3,727.75 (-0.08%) as of Tue 20 Oct
+EUR/USD: 1.1237 (+0.10%) as of Tue 20 Oct
+USD/JPY: 158.20 (+0.25%) as of Tue 20 Oct
+US dollar index: 101.77 (-0.21%) as of Tue 20 Oct
+WTI crude oil: 98.70 (-4.78%) as of Tue 20 Oct
+Brent crude oil: 109.83 (+0.26%) as of Tue 20 Oct
+Gold: 4,163.20 (+0.07%) as of Tue 20 Oct
+Bitcoin: 81,988.45 (-0.04%) as of Tue 20 Oct
+
+TOP STORIES
+- Credit markets flash warning signs over AI debt: Rising hedging activity and credit stress around AI infrastructure financing suggest investors are increasingly pricing in default risk tied to the AI investment boom.
+- France imposes curfews after worst rioting in years: The unrest adds to political pressure on President Macron's weakened government and is weighing on European markets, which fell broadly on Monday.
+- Zelenskyy accuses US of delaying missiles as Trump pushes for concessions: Fraying US support and a possible Trump-Putin-Xi summit without Ukraine's involvement could reshape the war's trajectory and test Western unity.
+- Indonesian stocks rebound after historic rout over MSCI downgrade threat: A potential MSCI downgrade could trigger passive-fund outflows from one of Southeast Asia's largest markets, with knock-on effects for regional risk sentiment.
+- China's economy grows faster than expected on AI-driven exports: Resilient Chinese growth and potential monetary easing could support global demand even as other emerging markets face stress.
+- Jio Platforms targets India's biggest-ever IPO: A successful listing would be a milestone for India's capital markets and a test of investor appetite amid a broader Asian market downturn.
+- Saudi Arabia postpones investor conference as Houthi attacks escalate: Escalating Houthi attacks threaten regional stability and could deter the foreign investment Saudi Arabia is courting for its economic diversification plans.
+- Australian MP critically injured in car attack outside office: The incident has raised alarm about political violence against elected officials in Australia and prompted lawmakers to reassess their personal security.
+- Trump's approval falls to record low as midterms near: Weak approval ratings and the president's rhetoric are heightening Republican concerns about losing seats in the midterms, which could reshape the policy outlook for the rest of Trump's term.
+- Alberta votes on path toward separating from Canada: A strong separatist showing, even in defeat, would signal deepening regional discontent and complicate Carney's push to maintain national unity.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-20/
+Data as of 07:01 CEST. Not investment advice.

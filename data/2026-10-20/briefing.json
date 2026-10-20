@@ -1,0 +1,105 @@
+{
+  "headline": "AI debt jitters rattle markets as France imposes curfews and Ukraine tensions escalate",
+  "at_a_glance": [
+    "Wall Street rebounded Monday as AI and chip stocks bounced back, but European and Asian markets fell on unrest and AI-debt jitters.",
+    "Violent riots and looting over the weekend forced France to impose curfews in Paris and other cities; Macron faces mounting political pressure.",
+    "Zelenskyy accused the US of delaying promised Patriot missiles as Trump pushes Kyiv toward concessions and floats a Putin-Xi summit without Ukraine.",
+    "Indonesian stocks rebounded after a historic rout triggered by MSCI's threat to downgrade the market over investability concerns.",
+    "China's economy grew 4.5% in the third quarter, beating forecasts as AI-driven electronics exports boosted factory output."
+  ],
+  "market_analysis": "Wall Street rebounded on Monday as chip and AI-linked stocks bounced back from the prior week's steep losses, lifting the Nasdaq Composite 1.11% and the S&P 500 0.41%, while the Dow Jones slipped 0.07%. The VIX volatility gauge fell 7.75% to 18.44 and the US 10-year yield rose 4 basis points to 5.14%.\n\nAsian markets were broadly lower: the Nikkei fell 1.15%, the Hang Seng 0.95% and South Korean chipmakers dropped on a yield spike and a weak trading debut from data-centre builder Elice. Indonesian stocks were a bright spot, rebounding after authorities moved to avert an MSCI downgrade. European benchmarks also fell, with the DAX down 1.18%, the FTSE 100 down 1.08% and the Euro Stoxx 50 down 0.96%, against a backdrop of unrest in France and Italy. Oil prices diverged: WTI crude dropped 4.78% while Brent held near a five-month high on Middle East tensions; gold and bitcoin were little changed and the dollar index slipped 0.21%.\n\nUS and European futures point to a flat-to-cautious open, with S&P 500 futures up 0.06% and Nasdaq 100 futures down 0.21%. No major economic data is scheduled in Germany today. Netflix reports earnings, the first of a busy week of tech results that will test whether the AI trade's rebound can hold.",
+  "mover_notes": {
+    "WDC": "Rose as chip and AI-linked stocks rebounded broadly on Wall Street.",
+    "SNDK": "Gained along with other memory-chip and AI-linked names in a broad tech rebound.",
+    "DDOG": "Advanced as AI-linked stocks bounced back after the prior week's selloff.",
+    "AMZN": "Rose amid the AI stock rebound and expanded data-centre partnerships, including with 3M.",
+    "PLTR": "Gained as AI-linked stocks led Monday's Wall Street rebound."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Credit markets flash warning signs over AI debt",
+      "summary": "Default-insurance trading on AI-linked debt has surged as investors hedge against a potential bust, according to the FT. SoftBank's credit-default swaps hit a four-year high amid concerns over AI-related funding strain. Microsoft's decision to end its Nscale data-centre deal has exposed fault lines in AI infrastructure financing, and Oracle bonds are edging toward junk territory. South Korean data-centre builder Elice plunged more than 30% on its Seoul trading debut, adding to concerns about AI valuations.",
+      "why_it_matters": "Rising hedging activity and credit stress around AI infrastructure financing suggest investors are increasingly pricing in default risk tied to the AI investment boom.",
+      "headline_ids": ["h003", "h066", "h102", "h052", "h010", "h148", "h127", "h227", "h094"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France imposes curfews after worst rioting in years",
+      "summary": "France's government imposed partial curfews in Paris and other cities after a weekend of nationwide rioting and looting linked to protests over the cost of living and school funding. More than 2,400 people were arrested nationwide, and luxury retailers including Louis Vuitton and Hermès were among those looted. Authorities asked online marketplaces such as Vinted, eBay and Amazon to crack down on resale of stolen goods. Italy separately deployed troops to Milan after two days of its own unrest.",
+      "why_it_matters": "The unrest adds to political pressure on President Macron's weakened government and is weighing on European markets, which fell broadly on Monday.",
+      "headline_ids": ["h267", "h243", "h293", "h072", "h199", "h234", "h149", "h150", "h050", "h238", "h195", "h232"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Zelenskyy accuses US of delaying missiles as Trump pushes for concessions",
+      "summary": "Ukrainian President Zelenskyy said the US is delaying delivery of Patriot air-defense missiles already paid for by European allies, as Russia continued striking Ukraine's power grid. Trump has said Zelenskyy should find someone else to negotiate and has floated a summit with Putin and Xi on the war that would exclude Zelenskyy. Ukraine's foreign minister warned that such a three-way summit would only encourage Russia to prolong the war.",
+      "why_it_matters": "Fraying US support and a possible Trump-Putin-Xi summit without Ukraine's involvement could reshape the war's trajectory and test Western unity.",
+      "headline_ids": ["h097", "h110", "h031", "h226", "h290", "h249", "h254", "h207", "h175", "h138", "h295"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Indonesian stocks rebound after historic rout over MSCI downgrade threat",
+      "summary": "Indonesian equities bounced back after their worst rout in nearly four decades, triggered by MSCI's threat to cut the market to standalone status over investability concerns. The Indonesia Stock Exchange moved to expel tightly held stocks from its benchmark, and Bank Indonesia faces pressure to raise rates to support the rupiah. Indonesia's economy, once seen as a model of stability, is under growing strain as President Prabowo's policies shake investor confidence.",
+      "why_it_matters": "A potential MSCI downgrade could trigger passive-fund outflows from one of Southeast Asia's largest markets, with knock-on effects for regional risk sentiment.",
+      "headline_ids": ["h004", "h008", "h099", "h108", "h186"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China's economy grows faster than expected on AI-driven exports",
+      "summary": "China's GDP grew 4.5% year-on-year in the third quarter, beating forecasts, as factory output was lifted by strong electronics exports tied to the AI boom. Industrial output grew much faster than consumer spending. The People's Bank of China is reportedly considering shifting its policy-rate benchmark to the overnight reverse-repo rate, a move analysts say would effectively lower borrowing costs.",
+      "why_it_matters": "Resilient Chinese growth and potential monetary easing could support global demand even as other emerging markets face stress.",
+      "headline_ids": ["h032", "h070", "h091", "h067", "h123"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Jio Platforms targets India's biggest-ever IPO",
+      "summary": "Jio Platforms, the telecom arm of Reliance Industries, is seeking a $107 billion valuation in what would be India's largest-ever IPO in rupee terms. The company plans to raise up to $3.2 billion, with anchor bids from investors including BlackRock and Singapore's GIC topping $26 billion. The listing comes amid a broader stock market downturn and tougher competition in India's telecom sector.",
+      "why_it_matters": "A successful listing would be a milestone for India's capital markets and a test of investor appetite amid a broader Asian market downturn.",
+      "headline_ids": ["h009", "h141"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Saudi Arabia postpones investor conference as Houthi attacks escalate",
+      "summary": "Saudi Arabia postponed its flagship \"Davos in the Desert\" investment conference to 2027 as Iran-backed Houthi militants escalated missile and drone attacks on the kingdom following a deadly airport strike earlier this month. Riyadh has also ordered government staff to work from home as a precaution. Separately, Houthi forces struck Yemeni government forces and a military camp, killing at least 53 people in some of the deadliest attacks of the renewed war.",
+      "why_it_matters": "Escalating Houthi attacks threaten regional stability and could deter the foreign investment Saudi Arabia is courting for its economic diversification plans.",
+      "headline_ids": ["h024", "h128", "h133", "h266", "h286"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Australian MP critically injured in car attack outside office",
+      "summary": "Independent Australian lawmaker Helen Haines lost a leg after a car allegedly did a U-turn and struck her twice outside her electorate office in Wangaratta. Police are treating the incident, which prompted activation of a counterterrorism team, as deliberate. The attack has intensified concerns among Australian politicians about rising threats to their safety.",
+      "why_it_matters": "The incident has raised alarm about political violence against elected officials in Australia and prompted lawmakers to reassess their personal security.",
+      "headline_ids": ["h030", "h034", "h074", "h080", "h114", "h118", "h200", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump's approval falls to record low as midterms near",
+      "summary": "A Reuters/Ipsos poll found President Trump's approval rating fell to a record-low 31%, roughly two weeks before the US midterm elections. A separate Washington Post-ABC poll put his approval at 33%. Trump rallied in Kansas in support of a Republican senator facing an unexpectedly competitive race, where he used an antisemitic term and warned the US would \"burn\" like France if Democrats win.",
+      "why_it_matters": "Weak approval ratings and the president's rhetoric are heightening Republican concerns about losing seats in the midterms, which could reshape the policy outlook for the rest of Trump's term.",
+      "headline_ids": ["h268", "h109", "h043", "h093", "h106", "h116", "h117", "h272"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Alberta votes on path toward separating from Canada",
+      "summary": "Voters in the oil-rich Canadian province of Alberta cast ballots in a referendum on whether to pursue separation from Canada. Prime Minister Mark Carney had urged Albertans to reject the move, warning of threats to Canadian unity. The vote is expected to fail, but observers say the separatist movement is likely to outlast the result.",
+      "why_it_matters": "A strong separatist showing, even in defeat, would signal deepening regional discontent and complicate Carney's push to maintain national unity.",
+      "headline_ids": ["h044", "h077", "h164", "h183", "h193"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Netflix reports earnings today, a first test of this week's heavy tech earnings slate after last week's AI-driven volatility.",
+    "Markets will watch for further developments in France, where curfews remain in place after the weekend's rioting.",
+    "Indonesian authorities and MSCI remain in focus as investors assess whether measures taken so far will avert a market downgrade."
+  ]
+}
