@@ -1,0 +1,102 @@
+{
+  "headline": "Musk eyes $3.5tn SpaceX-Tesla merger as Ukraine, Iran tensions escalate",
+  "at_a_glance": [
+    "Elon Musk confirmed SpaceX and Tesla have formed special committees to explore a merger that could form a $3.5 trillion company.",
+    "A US envoy is set to meet Putin in Russia as Trump presses Ukraine toward a peace deal with Moscow.",
+    "Italy deployed 500 troops to Milan and France braced for fresh unrest after a weekend of European riots over living costs.",
+    "Israeli PM Netanyahu is pushing to resume strikes on Iran, though Trump has ruled out action before the US midterms.",
+    "A drone strike on a market in Sudan's disputed Abyei region killed more than 150 people."
+  ],
+  "market_analysis": "US stocks rose on Tuesday, with the Dow Jones leading gains at +1.02% to 52,495.88, outperforming the S&P 500 (+0.28% to 7,712.57) and the Nasdaq Composite (-0.02% to 26,424.82). Strong profit reports from Equifax and Hasbro, among other companies, and gains in healthcare stocks drove the advance, while stronger-than-expected tech earnings eased concerns over the AI trade following last week's selloff. The VIX fell 6.13% to 17.31 and the US 10-year yield slipped 2 basis points to 5.12%, even as Goldman Sachs said risk appetite for stocks remains near its weakest level since March.\n\nAsian markets were mixed to higher on Wednesday, with the Nikkei 225 up 0.80% as strong US earnings buoyed sentiment, while the Hang Seng fell 0.35% and the Shanghai Composite fell 0.31%. European benchmarks closed lower on Tuesday, with the DAX down 0.06%, the FTSE 100 down 0.29% and the Euro Stoxx 50 down 0.38%. Oil was mixed, with WTI crude down 2.75% to $98.99 and Brent crude up 1.35% to $110.26 amid ongoing attacks near the Strait of Hormuz.\n\nUS futures point to a higher open, with S&P 500 futures up 0.29% and Nasdaq 100 futures up 0.74%. In Europe/Berlin time, UK CPI data for September is due at 08:00, with inflation forecast to rise to 3.4% from 3.1%. Meta and Tesla report quarterly earnings today.",
+  "mover_notes": {
+    "EFX": "Shares rose after a strong quarterly profit report.",
+    "HAS": "Shares rose after a strong quarterly profit report."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Musk confirms SpaceX-Tesla merger talks",
+      "summary": "Elon Musk said SpaceX and Tesla have each formed special committees to study a possible merger, calling the tie-up a \"good idea\" with \"a lot of merit\" given the companies' complementary work on AI. SpaceX reported a profit and issued upbeat guidance, with revenue more than doubling on growth in its Starlink and AI businesses. Musk also said the companies' joint chip venture, Terafab, is targeting 2028 for volume production. News of the potential deal, which could form a company worth $3.5 trillion, lifted Tesla's stock.",
+      "why_it_matters": "A combination of this scale would reshape two of the most closely watched companies in markets and tie Tesla's fortunes more closely to SpaceX's AI and satellite businesses.",
+      "headline_ids": ["h016", "h069", "h115", "h139", "h156", "h182", "h273"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US envoy to meet Putin as Trump presses Ukraine on peace deal",
+      "summary": "US envoy Steve Witkoff is set to meet Russian President Vladimir Putin as President Trump presses Ukraine to reach a peace settlement, saying \"I don't care how it's done.\" Ukrainian President Volodymyr Zelensky said the US has resumed sharing intelligence on Russian missile strikes after an apparent suspension last week, and that an early-warning system now \"works\" following a call with Secretary of State Marco Rubio. Trump also said he asked Putin to release American detainee Stephen Hubbard. Relations between Trump and Zelensky remain tense despite what Ukrainian officials described as \"constructive\" talks in Oslo with Witkoff and Jared Kushner.",
+      "why_it_matters": "The outcome of US mediation and the status of intelligence-sharing directly affect Ukraine's ability to defend against Russian strikes and the prospects for ending the war.",
+      "headline_ids": ["h068", "h194", "h200", "h229", "h280", "h288", "h289"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Protests and troop deployments spread across Europe",
+      "summary": "Italy's government approved deploying 500 additional soldiers to Milan and tougher security measures, including harsher penalties for violent protesters, after weekend riots left more than 100 police officers injured and shops looted. France braced for fresh protests this weekend, with Prime Minister Sébastien Lecornu promising a \"massive\" police presence after riots left more than 3,000 businesses damaged, including a historic town hall set alight in Limoges. In Portugal, cost-of-living protesters returned to camps in Lisbon and Porto after police cleared them and arrested 55 people. Across the continent, protesters have cited high living costs, housing shortages and strained public services.",
+      "why_it_matters": "Sustained unrest across multiple European countries over living costs and housing could pressure governments into policy responses and add political risk in markets watching the region.",
+      "headline_ids": ["h027", "h152", "h098", "h031", "h267", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Netanyahu pushes to resume strikes on Iran",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu is pushing to resume strikes against Iran, having made plans for an extensive operation earlier this month that were held off after Donald Trump ruled out an attack before the US midterm elections. The US said reaching a peace deal with Tehran remains \"extremely difficult\" while attacks near the Strait of Hormuz continue, and Iran said Saudi Arabia and the Houthis have not responded to a mediation offer. Netanyahu faces elections of his own next week.",
+      "why_it_matters": "A resumption of Israeli strikes on Iran could disrupt shipping through the Strait of Hormuz and add to volatility in oil markets.",
+      "headline_ids": ["h057", "h067", "h145", "h214", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Drone strike on Sudan-South Sudan border market kills over 150",
+      "summary": "A drone strike on a market in Abyei, a disputed region on the Sudan-South Sudan border, killed more than 150 people.",
+      "why_it_matters": "The strike underscores the continuing violence in the contested Abyei region, which both Sudan and South Sudan claim.",
+      "headline_ids": ["h010", "h296"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI data center boom faces growing investor scrutiny",
+      "summary": "Shares in Australian data center operator NextDC plunged 40% after it cut its earnings forecast, citing power supply delays at its Melbourne facility amid local opposition. South Korean AI computing supplier Elice swung sharply, recovering much of a 32% trading-debut slump after upbeat US tech earnings lifted sentiment, while Bloomberg reported that data center firm DayOne is weighing delaying or shrinking its US IPO amid data-center volatility. Separately, data centers' power and water use has become a bipartisan issue ahead of the US midterm elections.",
+      "why_it_matters": "Swings in data center stocks and IPO plans signal investors are becoming more selective about which AI infrastructure bets can generate durable profits.",
+      "headline_ids": ["h009", "h012", "h083", "h118", "h178"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Netflix shares fall despite earnings beat",
+      "summary": "Netflix reported third-quarter revenue up 12% and beat Wall Street's earnings expectations, but shares fell after the company forecast a fourth consecutive quarter of slowing sales growth and flagged weaker advertising revenue guidance. Co-CEO Ted Sarandos acknowledged \"some investor concern about our view hours growth\" and said \"we could do better,\" citing intense streaming competition and stagnant viewership, particularly in the US and Canada.",
+      "why_it_matters": "Slowing subscriber engagement at the dominant streaming platform raises questions about growth across the wider streaming industry.",
+      "headline_ids": ["h017", "h047", "h141", "h150", "h181"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Ambani launches India's biggest-ever IPO",
+      "summary": "Indian billionaire Mukesh Ambani launched Jio Platforms' initial public offering, which opened for public bids in a record $3.2 billion sale and could value the low-cost broadband provider at up to £81 billion. The offering has already drawn $854 million from anchor investors including BlackRock, Fidelity and Capital Group. It is India's biggest-ever IPO and comes despite a broader downturn in the country's stock market.",
+      "why_it_matters": "The IPO's reception will test investor appetite for Indian equities at a time when the broader market is under pressure.",
+      "headline_ids": ["h030", "h094", "h172"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Food importer sues Trump over Canada tariffs",
+      "summary": "A New Jersey food importer filed a lawsuit challenging President Trump's 50% tariffs on Canadian goods, arguing the White House exceeded its authority and bypassed Congress by using a Depression-era law, causing \"immediate harm to American businesses.\" It is the latest in a series of legal challenges to the administration's tariff policy.",
+      "why_it_matters": "A successful challenge could force changes to tariffs that affect the cost of Canadian imports for US businesses.",
+      "headline_ids": ["h001", "h206", "h224", "h282"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Ebola outbreak reaches Nigeria as Kenya cases rise",
+      "summary": "Nigeria confirmed its first case of the current Ebola outbreak, in a woman in the capital Abuja who had traveled from Uganda, while Kenya's case count reached nine. The outbreak began in the Democratic Republic of Congo in mid-May and has now spread into Western Africa. Africa CDC chief Jean Kaseya described it as an \"extremely serious threat\" and urged greater international support, and the US has advised its citizens to reconsider travel to Kenya.",
+      "why_it_matters": "The outbreak's spread into Nigeria, Africa's most populous country, raises the risk of wider regional transmission.",
+      "headline_ids": ["h021", "h026", "h138", "h151", "h263"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "UK CPI data for September is due at 08:00 Berlin time, with inflation forecast to rise to 3.4% from 3.1%.",
+    "Meta and Tesla report quarterly earnings after the US market close.",
+    "Markets will watch for further details on the proposed SpaceX-Tesla merger as the companies' special committees begin their review."
+  ]
+}
