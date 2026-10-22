@@ -1,0 +1,46 @@
+Gulf tensions escalate as Meta's $25bn fine and Tesla-SpaceX merger talk rattle markets
+Daily Briefing · Thursday, 22 October 2026
+
+AT A GLANCE
+- The US ordered diplomats out of Saudi Arabia and nearby Gulf states after Houthi attacks killed one person at a Saudi airport.
+- Russia agreed to resume three-way Ukraine talks with Kyiv and Washington, even as missiles struck Kyiv overnight, wounding six.
+- A New Mexico court fined Meta $25 billion over Cambridge Analytica-era privacy violations, its largest penalty to date.
+- Meta and Tesla both beat earnings estimates, and Musk confirmed SpaceX and Tesla are exploring a merger that could exceed $3 trillion.
+- China's CSI 300 index entered a bear market, down 20% from its June peak, as Alibaba shares posted their steepest drop in two months.
+
+MARKETS
+S&P 500: 7,757.17 (+0.58%) as of Wed 21 Oct
+Nasdaq Composite: 26,702.86 (+1.05%) as of Wed 21 Oct
+Dow Jones: 52,856.09 (+0.69%) as of Wed 21 Oct
+S&P 500 futures: 7,746.50 (-0.69%) as of Thu 22 Oct
+Nasdaq 100 futures: 29,604.25 (-1.34%) as of Thu 22 Oct
+VIX volatility: 16.68 (-3.64%) as of Wed 21 Oct
+US 10-year yield: 5.15% (+3 bp) as of Wed 21 Oct
+DAX: 25,645.04 (+1.35%) as of Wed 21 Oct
+FTSE 100: 10,752.90 (+0.19%) as of Wed 21 Oct
+Euro Stoxx 50: 6,207.52 (+1.40%) as of Wed 21 Oct
+Nikkei 225: 63,288.98 (-2.06%) as of Thu 22 Oct
+Hang Seng: 22,971.93 (-2.87%) as of Thu 22 Oct
+Shanghai Composite: 3,679.86 (-0.89%) as of Thu 22 Oct
+EUR/USD: 1.1246 (+0.17%) as of Thu 22 Oct
+USD/JPY: 157.71 (-0.35%) as of Thu 22 Oct
+US dollar index: 101.58 (-0.20%) as of Thu 22 Oct
+WTI crude oil: 98.69 (+1.59%) as of Thu 22 Oct
+Brent crude oil: 110.92 (+1.93%) as of Thu 22 Oct
+Gold: 4,106.50 (-1.05%) as of Thu 22 Oct
+Bitcoin: 82,823.01 (-0.14%) as of Thu 22 Oct
+
+TOP STORIES
+- US pulls diplomats from Saudi Arabia as Houthi attacks raise fears of wider Gulf conflict: A widening conflict involving Gulf oil infrastructure threatens energy supply routes and has already pushed oil prices higher, which could feed through to global inflation.
+- Russia agrees to resume Ukraine talks, but missiles still hit Kyiv overnight: Renewed diplomatic contact raises hopes of de-escalation, but continued strikes on both capitals show fighting is still intensifying even as talks are discussed.
+- Drone strike kills more than 150 in Sudan's civil war, UN warns of wider crisis: Rising civilian casualties and growing use of drones signal an escalation that the UN says risks destabilizing the broader region.
+- Meta fined $25 billion in New Mexico over Cambridge Analytica-era privacy case: The record fine raises the financial and legal stakes for Meta over how it handles user data, and could influence other pending privacy litigation against the company.
+- Meta beats Q3 estimates, bets on Muse AI assistant and creates new share class: A credible new revenue line beyond advertising, paired with a large AI investment push, could reshape how investors value Meta relative to other AI-spending megacaps.
+- Tesla and SpaceX beat earnings as Musk confirms merger talks: A merger of this scale would be among the largest in history and would concentrate an unusual share of global rocket, EV and AI capacity under one person's control.
+- China's stock market slides into bear territory as tech selloff deepens: A deepening selloff in the world's second-largest economy, combined with fading AI-trade enthusiasm, adds to pressure on global risk appetite.
+- French bond yields hit 24-year high as unrest and budget worries persist: Rising borrowing costs for one of the eurozone's largest economies, tied to political and fiscal instability, could spill over into wider European bond and currency markets.
+- Critical PHP security flaw triggers global website shutdowns: A flaw affecting the majority of the world's websites creates a broad window for exploitation by bad actors until systems are patched.
+- AI-trade jitters resurface as CoreWeave credit stress and haven demand grow: Stress in a key AI-infrastructure financier is an early signal of how sensitive markets have become to any crack in the AI investment narrative.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-22/
+Data as of 07:01 CEST. Not investment advice.
