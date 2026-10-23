@@ -1,0 +1,46 @@
+Tech sell-off deepens, oil surges on Middle East tensions
+Daily Briefing · Friday, 23 October 2026
+
+AT A GLANCE
+- Wall Street's AI-driven sell-off deepened; Nasdaq posted its worst day since June on Meta's negative free cash flow and OpenAI's valuation cut.
+- Oil surged to five-month highs after Iran said seven tankers were damaged in the Strait of Hormuz and Houthi attacks hit Saudi Arabia.
+- A 7.0-magnitude earthquake killed at least 16 people and injured dozens in China's Tibet region, collapsing hundreds of homes.
+- Trump said Musk restored Starlink access for Ukraine after reports the service had been slowed during the war with Russia.
+- Protest movements target entrenched leaders this weekend: Serbia's Vucic and Brazil's presidential runoff both go to votes Sunday.
+
+MARKETS
+S&P 500: 7,663.43 (-1.21%) as of Thu 22 Oct
+Nasdaq Composite: 26,008.86 (-2.60%) as of Thu 22 Oct
+Dow Jones: 52,867.98 (+0.02%) as of Thu 22 Oct
+S&P 500 futures: 7,693.25 (-0.15%) as of Fri 23 Oct
+Nasdaq 100 futures: 29,129.25 (-0.04%) as of Fri 23 Oct
+VIX volatility: 19.03 (+14.09%) as of Thu 22 Oct
+US 10-year yield: 4.95% (-19 bp) as of Thu 22 Oct
+DAX: 25,371.75 (-1.07%) as of Thu 22 Oct
+FTSE 100: 10,725.00 (-0.26%) as of Thu 22 Oct
+Euro Stoxx 50: 6,087.01 (-1.94%) as of Thu 22 Oct
+Nikkei 225: 62,238.06 (-1.06%) as of Fri 23 Oct
+Hang Seng: 23,066.79 (+0.58%) as of Fri 23 Oct
+Shanghai Composite: 3,614.12 (-1.20%) as of Fri 23 Oct
+EUR/USD: 1.1211 (-0.21%) as of Fri 23 Oct
+USD/JPY: 157.01 (-0.71%) as of Fri 23 Oct
+US dollar index: 101.69 (+0.08%) as of Fri 23 Oct
+WTI crude oil: 100.35 (+0.88%) as of Fri 23 Oct
+Brent crude oil: 114.00 (+0.73%) as of Fri 23 Oct
+Gold: 4,018.00 (-1.04%) as of Fri 23 Oct
+Bitcoin: 81,551.22 (-2.93%) as of Fri 23 Oct
+
+TOP STORIES
+- Global tech sell-off deepens on AI-spending doubts: The reversal shows investors are reassessing the scale and financing of AI infrastructure spending that has underpinned much of this year's market gains.
+- Oil surges to five-month highs on Middle East supply fears: A sustained escalation around the Strait of Hormuz, a key chokepoint for global oil flows, risks pushing energy costs higher worldwide.
+- Magnitude-7 earthquake kills at least 16 in Tibet: The quake is one of the strongest to hit the remote Himalayan region in five years, according to state media.
+- Trump says Musk restored Ukraine's Starlink access after slowdown reports: Starlink is a critical tool for Ukraine's military operations, including intercepting missiles and drones, making any disruption to the service strategically significant.
+- France extends Paris curfew and restricts protests after riots: The restrictions mark a significant tightening of civil liberties in response to domestic unrest in one of Europe's largest economies.
+- Serbia heads to snap election seen as referendum on Vucic: The outcome will shape whether one of the Balkans' most entrenched leaders, an ally of both Trump and Putin, retains power.
+- Brazil's presidential runoff goes down to the wire: The result will determine the direction of Latin America's largest economy and democracy for the coming years.
+- PHP security flaw triggers global rush to patch websites: The flaw's reach across government and business websites highlights how a single underlying software vulnerability can create widespread disruption.
+- Japan's core inflation tops BOJ target, firming rate-hike bets: A BOJ rate hike would mark a shift in one of the world's last major low-rate regimes, with potential knock-on effects for global bond and currency markets.
+- Moderna shares plunge despite positive melanoma vaccine data: The reaction illustrates how pre-positioned investor expectations can outweigh clinical results in determining short-term stock moves.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-23/
+Data as of 07:01 CEST. Not investment advice.

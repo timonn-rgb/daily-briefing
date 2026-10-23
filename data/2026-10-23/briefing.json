@@ -1,0 +1,102 @@
+{
+  "headline": "Tech sell-off deepens, oil surges on Middle East tensions",
+  "at_a_glance": [
+    "Wall Street's AI-driven sell-off deepened; Nasdaq posted its worst day since June on Meta's negative free cash flow and OpenAI's valuation cut.",
+    "Oil surged to five-month highs after Iran said seven tankers were damaged in the Strait of Hormuz and Houthi attacks hit Saudi Arabia.",
+    "A 7.0-magnitude earthquake killed at least 16 people and injured dozens in China's Tibet region, collapsing hundreds of homes.",
+    "Trump said Musk restored Starlink access for Ukraine after reports the service had been slowed during the war with Russia.",
+    "Protest movements target entrenched leaders this weekend: Serbia's Vucic and Brazil's presidential runoff both go to votes Sunday."
+  ],
+  "market_analysis": "Wall Street sold off sharply on Thursday on renewed AI-spending doubts. The S&P 500 fell 1.21% and the Nasdaq Composite dropped 2.60% in its worst session since June, led by Meta, down nearly 7% after AI spending pushed its free cash flow negative. OpenAI cut its funding-round valuation target to $1.25 trillion from an earlier $1.4 trillion pitch. The VIX jumped 14% and the 10-year Treasury yield tumbled 19 basis points to 4.95%, its sharpest drop since the 2023 banking stress, as investors sought havens. Oil rallied after Iran said seven tankers were damaged in the Strait of Hormuz.\n\nAsian markets followed Wall Street lower Friday: the Nikkei fell 1.06% and the Shanghai Composite 1.20%, as Chinese AI-model stocks extended a roughly $150 billion rout. The Hang Seng bucked the trend, up 0.58%. Japanese bonds and the yen rallied on haven demand. European benchmarks closed lower Thursday, with the Euro Stoxx 50 down 1.94% and the DAX off 1.07%. US futures point to a steadier open, with S&P 500 futures down 0.15%.\n\nNo major economic data or watch-list earnings are due in Europe today. In Asia, Japan's core inflation accelerated to 2.1% in September, firming expectations for a near-term Bank of Japan rate hike. Oil stays in focus after Brent topped $113 a barrel this week on the Hormuz tanker attacks and Houthi strikes on Saudi Arabia, while gold has slipped below $4,000 an ounce.",
+  "mover_notes": {
+    "MRNA": "Shares fell sharply after data on its melanoma cancer vaccine leaked early, triggering a 'sell-the-news' reaction despite the vaccine cutting recurrence or death risk by 42%.",
+    "LRCX": "Shares fell after a weaker-than-expected forecast added to broader AI-spending concerns hitting chip stocks."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Global tech sell-off deepens on AI-spending doubts",
+      "summary": "US stocks fell sharply on Thursday, with the Nasdaq Composite posting its worst day since June after Meta shares sank nearly 7% on AI spending pushing free cash flow negative. OpenAI trimmed its funding-round valuation target to $1.25 trillion from an earlier $1.4 trillion pitch, while Calpers cut its Magnificent Seven holdings and CoreWeave's bond spreads widened. The sell-off spread to Asia, where Chinese AI-model stocks extended a roughly $150 billion rout, even as European and US futures pointed to a steadier Friday.",
+      "why_it_matters": "The reversal shows investors are reassessing the scale and financing of AI infrastructure spending that has underpinned much of this year's market gains.",
+      "headline_ids": ["h004", "h016", "h024", "h008", "h205", "h130", "h165", "h141", "h090", "h114"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Oil surges to five-month highs on Middle East supply fears",
+      "summary": "Iran said seven tankers were damaged in the Strait of Hormuz, adding to attacks on shipping and infrastructure in Saudi Arabia that have pushed oil prices to their highest in five months. Brent crude topped $113 a barrel this week after Trump hinted at renewed strikes on Iran, and his envoy Mike Waltz said the US is prepared for a long stand-off with Tehran. Shipping workers in the region have reported disruption to trade.",
+      "why_it_matters": "A sustained escalation around the Strait of Hormuz, a key chokepoint for global oil flows, risks pushing energy costs higher worldwide.",
+      "headline_ids": ["h038", "h059", "h119", "h139", "h272", "h285", "h187"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Magnitude-7 earthquake kills at least 16 in Tibet",
+      "summary": "A 7.0-magnitude earthquake struck China's Tibet region, killing at least 16 people, injuring dozens and collapsing hundreds of homes, according to state media. Search and rescue efforts are under way, with at least seven aftershocks recorded. Reuters reported the injury toll had risen to 65 while the death toll remained at 16.",
+      "why_it_matters": "The quake is one of the strongest to hit the remote Himalayan region in five years, according to state media.",
+      "headline_ids": ["h036", "h042", "h052", "h083", "h088", "h129", "h149", "h226"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump says Musk restored Ukraine's Starlink access after slowdown reports",
+      "summary": "President Trump said Elon Musk restored Ukraine's access to Starlink, after the Wall Street Journal had reported Musk ordered a slowdown of the service. Trump declined to say whether he and Musk had discussed the matter. A Democratic senator is probing Ukraine's earlier loss of Starshield service, and a former US defense official said the slowdown had helped Russia.",
+      "why_it_matters": "Starlink is a critical tool for Ukraine's military operations, including intercepting missiles and drones, making any disruption to the service strategically significant.",
+      "headline_ids": ["h022", "h112", "h159", "h176", "h209", "h225", "h284", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France extends Paris curfew and restricts protests after riots",
+      "summary": "French authorities extended a nightly curfew in parts of Paris through Monday morning following a weekend of violence and looting. President Macron tightened curbs on protests, blaming the hard left for the unrest, and Marseille and Lyon have banned demonstrations unless organized by unions. Several top museums will be closed on Saturday.",
+      "why_it_matters": "The restrictions mark a significant tightening of civil liberties in response to domestic unrest in one of Europe's largest economies.",
+      "headline_ids": ["h260", "h269", "h271", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Serbia heads to snap election seen as referendum on Vucic",
+      "summary": "Serbia votes Sunday in a snap election that student-led protesters hope will end President Aleksandar Vucic's 14-year hold on power. Tens of thousands rallied in Belgrade ahead of the vote, with about 150,000 people joining one demonstration according to organizers. The vote follows two years of student-led protests.",
+      "why_it_matters": "The outcome will shape whether one of the Balkans' most entrenched leaders, an ally of both Trump and Putin, retains power.",
+      "headline_ids": ["h066", "h089", "h132", "h168"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Brazil's presidential runoff goes down to the wire",
+      "summary": "Brazil holds a presidential runoff on Sunday between far-right candidate Flavio Bolsonaro and left-wing incumbent Luiz Inacio Lula da Silva, with the latest polls showing the race tied. The contest has narrowed since an acrimonious debate last weekend. Lula has reportedly started using a cell phone for the first time in his campaign after a setback in the first round.",
+      "why_it_matters": "The result will determine the direction of Latin America's largest economy and democracy for the coming years.",
+      "headline_ids": ["h105", "h145", "h183", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "PHP security flaw triggers global rush to patch websites",
+      "summary": "A critical security flaw in PHP, a programming language underpinning much of the web, prompted governments and businesses worldwide to scramble to patch vulnerable systems, leaving some websites offline. The flaw was reportedly uncovered using AI. Reuters separately outlined steps users can take to stay safe online amid AI-supercharged hacking.",
+      "why_it_matters": "The flaw's reach across government and business websites highlights how a single underlying software vulnerability can create widespread disruption.",
+      "headline_ids": ["h020", "h033", "h039", "h182", "h239"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Japan's core inflation tops BOJ target, firming rate-hike bets",
+      "summary": "Japan's core inflation accelerated to 2.1% in September, the highest level this year, matching the forecast from economists polled by Reuters. The reading, which strips out fresh food prices, exceeded the Bank of Japan's target. It cements expectations for a near-term interest rate increase from the central bank.",
+      "why_it_matters": "A BOJ rate hike would mark a shift in one of the world's last major low-rate regimes, with potential knock-on effects for global bond and currency markets.",
+      "headline_ids": ["h012", "h143"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Moderna shares plunge despite positive melanoma vaccine data",
+      "summary": "Moderna shares fell and the company shed about $24 billion in market value after data on its mRNA cancer vaccine, developed with Merck, leaked ahead of schedule. The full data showed the vaccine cut the risk of melanoma death or recurrence by 42%. Despite the positive results, investors reacted with a 'sell-the-news' retreat.",
+      "why_it_matters": "The reaction illustrates how pre-positioned investor expectations can outweigh clinical results in determining short-term stock moves.",
+      "headline_ids": ["h175", "h202", "h217", "h247", "h249"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Serbia holds a snap election Sunday widely framed as a referendum on Aleksandar Vucic's 14-year rule.",
+    "Brazil's presidential runoff between Flavio Bolsonaro and Luiz Inacio Lula da Silva takes place Sunday, with polls showing a tied race.",
+    "Markets will watch whether the AI-driven tech sell-off that hit the Nasdaq extends into Friday's session, with Japan's inflation data keeping a Bank of Japan rate hike in focus."
+  ]
+}
