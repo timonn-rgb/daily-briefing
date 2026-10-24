@@ -1,0 +1,103 @@
+{
+  "headline": "Oil surges past $117 on Iran war fears as markets fall, France braces for new unrest",
+  "at_a_glance": [
+    "Oil surged past $117 and Wall Street fell as fears grew of renewed US strikes on Iran and attacks on Americans.",
+    "Moody's kept France's credit rating unchanged as the government braces for new protests after last week's riots.",
+    "A shooting near Paris that killed one and wounded five is being investigated as a racist, terrorist attack.",
+    "Israel heads toward an election framed as a referendum on Netanyahu as West Bank violence killed four people.",
+    "Gunmen killed seven people at a church funeral in Jordan, while Russia and Ukraine agreed a local ceasefire."
+  ],
+  "market_analysis": "US stocks closed lower to end a rocky week: the Dow fell more than 600 points (-1.23%) to 52,215.16, the S&P 500 lost 0.52% to 7,623.68 and the Nasdaq Composite slipped 0.21% to 25,955.34, as a renewed surge in oil prices stoked inflation worries just days before the Federal Reserve's next decision. The VIX rose 2.21% to 19.45 and the 10-year Treasury yield ticked up to 4.99%. Chipmakers posted their steepest weekly drop since November, with AI-linked stocks under particular pressure from rising credit risk in the data-center buildout. Among S&P 500 names, Crown Castle, CrowdStrike, Palo Alto Networks, Schlumberger and Halliburton led gainers, while Bloom Energy, Comfort Systems, Globe Life, AT&T and T-Mobile led losses.\n\nAsian markets were mixed: the Nikkei 225 fell 0.34% to 62,693.16, while the Hang Seng rose 0.69% to 23,093.37 and the Shanghai Composite gained 0.89% to 3,690.48. European benchmarks fell in tandem with Wall Street, with the DAX down 0.75% to 25,181.65, the FTSE 100 off 0.32% to 10,690.40 and the Euro Stoxx 50 down 0.31% to 6,068.22, with France's political and fiscal troubles adding to the pressure even after Moody's held its credit rating steady.\n\nNo economic data or watch-list earnings are due today, but next week brings a Federal Reserve meeting, a batch of megacap earnings and a key inflation report. The Bank of Canada is expected to raise rates to 2.50% on October 28, and the UK chancellor delivers the Budget midweek. Brent crude ($116.72) and WTI ($103.27) remain near six-month highs on fears of renewed US-Israel strikes on Iran.",
+  "mover_notes": {
+    "BE": "Shares fell despite beating earnings estimates by 36%, as investors questioned the durability of its AI-driven, data-center demand rally.",
+    "T": "Shares fell as SpaceX's reported talks with cell-tower owners renewed concerns about Starlink's mobile ambitions pressuring telecom carriers.",
+    "TMUS": "Shares fell for the same reason as AT&T, with shareholders reacting to reports of SpaceX's mobile ambitions via Starlink."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Oil surges past $117 as fears grow of renewed US strikes on Iran",
+      "summary": "Brent crude rose above $117 a barrel and WTI topped $103, the highest levels in roughly six months, after Tehran threatened retaliatory strikes on Gulf refineries and data centers. US officials said intelligence shows Iran is in \"advanced stages\" of planning attacks on Americans, prompting Washington to order diplomats and other staff to leave Saudi Arabia and reduce staffing at embassies across the region. President Trump said the US \"may launch another little Epic Fury\" operation against Iran, while a Saudi-led coalition said it shot down a Houthi ballistic missile aimed at Riyadh. Reuters also reported that Iran has detailed plans to strike undersea cables in the Gulf if the war resumes.",
+      "why_it_matters": "A reescalation of the US-Iran conflict threatens Gulf energy supply routes and has already pushed oil prices to six-month highs, feeding global inflation concerns ahead of next week's Federal Reserve meeting.",
+      "headline_ids": ["h017", "h222", "h233", "h255", "h196", "h246", "h206", "h114", "h060", "h067", "h070", "h075", "h111", "h199", "h231", "h232"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "France braces for new protests as Moody's holds credit rating steady",
+      "summary": "Moody's kept France's sovereign credit rating at Aa3, giving the government some relief after a week of unrest, assuming a deficit-reducing 2027 budget is adopted. More than 70,000 police officers are being deployed across the country ahead of a new day of protest, a week after nationwide riots in which Limoges' city hall was destroyed. French borrowing costs have risen as debt and political risks mount, with the country described as \"running out of money, patience and answers.\"",
+      "why_it_matters": "Continued political and fiscal instability in the eurozone's second-largest economy raises the risk of contagion to European bond markets.",
+      "headline_ids": ["h002", "h023", "h030", "h033", "h043", "h119", "h147", "h160", "h126"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Gunman kills one, wounds five in racially motivated shooting near Paris",
+      "summary": "A gunman opened fire from a car at multiple locations in Trappes and Verrière, southwest of Paris, killing one person and wounding five others, including a 12-year-old girl. President Macron condemned the attack as a \"terrorist and racist act.\" The suspect was arrested, and antiterrorism prosecutors are investigating a possible racial or religious motive.",
+      "why_it_matters": "The attack adds to tensions in France at a moment of heightened unrest and heavy security deployment nationwide.",
+      "headline_ids": ["h068", "h176", "h215", "h249", "h257"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israel heads toward a referendum on Netanyahu as West Bank violence flares",
+      "summary": "For the first time since the October 7 attacks, Israelis are preparing to vote in an election widely seen as a referendum on Prime Minister Netanyahu, who polls show running neck-and-neck against centrist challenger Gadi Eisenkot. The vote comes as Palestinian gunmen killed two Israeli soldiers in a West Bank attack that also left two attackers dead; Netanyahu vowed to launch a major offensive in response. Israel's military raided at least 15 towns in the northern West Bank, and officials promised demolitions and forced displacement in Hebron. Polling cited in the coverage shows about three-quarters of Jewish first-time voters identify as right or center-right.",
+      "why_it_matters": "The election outcome will shape Israel's approach to the West Bank and its wider regional conflicts, including with Iran.",
+      "headline_ids": ["h026", "h031", "h035", "h059", "h073", "h096", "h168", "h198", "h239", "h296", "h297"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia and Ukraine agree local ceasefire as Starlink restrictions persist",
+      "summary": "Russia and Ukraine agreed a localized ceasefire in the Russian-occupied city of Oleshky, brokered by Melania Trump, to allow in relief aid after residents reportedly had to eat garden weeds to survive. President Zelenskiy said Ukrainian, Russian and US negotiators will meet in Abu Dhabi in early November for wider peace talks. Separately, Ukraine says SpaceX continues to restrict Starlink and Starshield service, hampering its military operations against Russia, and Kyiv is seeking alternatives with Nokia and satellite maker ICEYE. A retired US general said the restrictions have hurt Ukraine's counter-drone capability and its early-warning system against ballistic missiles.",
+      "why_it_matters": "The ceasefire and planned talks mark a rare diplomatic opening in the war, while the Starlink dispute shows how a private company's decisions can directly affect a nation's military capability.",
+      "headline_ids": ["h089", "h090", "h234", "h244", "h251", "h277", "h280", "h273", "h005", "h097", "h130", "h152", "h264", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Gunmen kill seven at church funeral in Jordan",
+      "summary": "Two masked gunmen opened fire at an Orthodox church funeral in Karak, southern Jordan, killing at least seven people and wounding around 40 others. Officials said the attack was a terrorist act motivated by extremist ideology, and a manhunt is under way. Jordan's king vowed \"the harshest retaliation.\"",
+      "why_it_matters": "The attack is one of the deadliest incidents of sectarian violence in Jordan in recent memory and raises security concerns in a country seen as a regional stability anchor.",
+      "headline_ids": ["h080", "h086", "h129", "h186", "h247", "h271"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US executives say sanctioned Russian firm secretly controlled Alaska gas project",
+      "summary": "Former executives of the Polar Train LNG venture told the Financial Times that Russian energy giant Novatek, which is under US sanctions, financed and controlled the strategic $25 billion Alaska LNG project without Washington's approval. The executives said they quit over the alleged secret Russian involvement.",
+      "why_it_matters": "If confirmed, the financing would represent a breach of US sanctions on Novatek and raise questions about Russian influence over a strategic American energy project.",
+      "headline_ids": ["h001", "h028"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI buildout shows cracks as neocloud credit risk mounts and Solidigm pulls IPO",
+      "summary": "Stocks of AI-linked \"neocloud\" providers slumped this week, credit default swap spreads widened, and chip-equipment maker Solidigm withdrew its planned IPO. S&P Global Ratings warned that data centers face potential credit downgrades due to local moratoriums and project cancellations driven by public opposition. Chipmakers posted their steepest weekly drop since November. Separately, Amazon's CEO said the company's cloud capacity is sold out through 2027, even as some California cities have halted new data center projects over scaling concerns.",
+      "why_it_matters": "Rising credit and financing risk in the AI infrastructure buildout could ripple through broader markets given how concentrated recent stock gains have been in AI-related names.",
+      "headline_ids": ["h082", "h164", "h173", "h242", "h265", "h227", "h261", "h128"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Trump eases some Canada tariffs in bid to help Republican senator",
+      "summary": "The White House dropped some tariffs on Canadian goods while adding others, after Senator Susan Collins of Maine lobbied for the change ahead of a tough re-election race. The administration described the move as \"replacing\" rather than simply removing tariffs, with new terms taking effect from October 30. Collins faces a competitive midterm race in a state where the trade war has angered voters.",
+      "why_it_matters": "The tariff reversal shows how domestic midterm politics are directly shaping US trade policy toward a major trading partner.",
+      "headline_ids": ["h004", "h100", "h158", "h170", "h200", "h203", "h212", "h283", "h285", "h289"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Pentagon designates Confucius Institutes a US national security threat",
+      "summary": "The US Defense Department designated Chinese-funded cultural centers on American university campuses, known as Confucius Institutes, as a threat to national security. Defense Secretary Pete Hegseth alleged the centers operate in disguise on US campuses.",
+      "why_it_matters": "The designation adds to escalating US-China tensions over education, technology and influence operations.",
+      "headline_ids": ["h003", "h087"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "France has deployed more than 70,000 police officers for a new day of protest, testing whether last weekend's unrest recurs.",
+    "Israelis are preparing to vote in an election framed as a referendum on Prime Minister Netanyahu.",
+    "Oil markets remain on edge for signs of renewed US or Israeli strikes on Iran over the weekend."
+  ]
+}
