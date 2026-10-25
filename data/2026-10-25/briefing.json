@@ -1,0 +1,99 @@
+{
+  "headline": "France protests escalate, Brazil heads to runoff, Mideast tensions push up oil",
+  "at_a_glance": [
+    "Nearly 1,000 arrested as hundreds of thousands protested across France for a second weekend; French bond yields hit a 24-year high.",
+    "Brazil holds its presidential runoff Sunday between Lula and Flávio Bolsonaro, with polls showing the race statistically tied.",
+    "Thousands of Israelis rallied against Netanyahu ahead of Tuesday's election; Israel's army displaced about 1,200 Palestinians in a Hebron operation.",
+    "US officials warn Iran is in the 'advanced stages' of planning attacks on Americans; embassies have tightened security and Houthis struck Saudi oil sites.",
+    "Volkswagen's Audi will build a $4.2 billion factory in Georgia; Trump touted the deal at a midterm campaign rally."
+  ],
+  "market_analysis": "US stocks fell on Friday, with the S&P 500 down 0.52%, the Nasdaq Composite down 0.21% and the Dow Jones down 1.23%, as the VIX volatility index rose 2.21% to 19.45 and the 10-year Treasury yield added 3 basis points to 4.99%. Oil prices moved sharply, with WTI crude up 3.82% to $103.27 amid Houthi attacks on Saudi oil facilities and intelligence warnings that Iran is planning attacks on Americans, while Brent crude fell 1.30% to $111.70. Gold slipped 1.29% to $4,007.90.\n\nIn Europe, the DAX, FTSE 100 and Euro Stoxx 50 all closed lower on Friday, down 0.75%, 0.32% and 0.31% respectively, with French unrest pushing bond yields to a 24-year high after a second weekend of mass protests. In Asia, the Nikkei 225 slipped 0.34% while the Hang Seng and Shanghai Composite gained 0.69% and 0.89%. The dollar index rose 0.20% and the euro weakened 0.27% against the dollar to 1.1204.\n\nNo major economic data releases or earnings from the watch list are scheduled for today. Markets will instead track the outcomes of weekend elections in Brazil and Serbia, further developments in the French protests, and the Middle East, where Riyadh's airport may reopen Sunday after Houthi attacks and tension over Iran's intentions continues.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "France hit by second weekend of mass protests and clashes",
+      "summary": "Hundreds of thousands of people marched across France for a second consecutive weekend, with the Interior Ministry estimating about 410,000 participants nationwide, including 110,000 in Paris. Clashes broke out after nightfall, with police firing tear gas and water cannon, and almost 1,000 people were arrested. Authorities deployed around 70,000 police officers to prevent a repeat of the previous weekend's looting and violence. Similar cost-of-living protests also turned violent in Italy, Spain, Belgium and Albania.",
+      "why_it_matters": "The unrest has pushed French government bond yields to a 24-year high as investors weigh risks to the budget and growth, and continued instability could weigh on wider European sentiment.",
+      "headline_ids": ["h019", "h034", "h064", "h109", "h141", "h146", "h154", "h202", "h225", "h298", "h195", "h235", "h223"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Brazil votes in knife-edge Lula-Bolsonaro runoff",
+      "summary": "Brazilians vote Sunday in a runoff between leftist incumbent Luiz Inácio Lula da Silva and Flávio Bolsonaro, with polls showing the two statistically tied. Both candidates held final rallies on Saturday; more than one million Lula supporters gathered on Rio's Copacabana beach, while Bolsonaro also drew large crowds. Nearly 159 million Brazilians are eligible to vote. Crime and public safety have become central themes of Bolsonaro's campaign.",
+      "why_it_matters": "The outcome will determine whether Latin America's largest economy continues under a left-wing government or shifts to the right, with implications for the region's political and economic direction.",
+      "headline_ids": ["h068", "h115", "h130", "h137", "h143", "h149", "h267", "h278", "h293"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israelis rally against Netanyahu as West Bank crackdown continues",
+      "summary": "Thousands of Israelis rallied against Prime Minister Benjamin Netanyahu in Tel Aviv and elsewhere ahead of Tuesday's general election, demanding accountability for failures preceding the October 7, 2023 Hamas-led attack. Polls show Netanyahu and his rivals in a tight race. Israel's military pressed ahead with an operation in Hebron in the occupied West Bank, displacing around 1,200 Palestinians, days after two Israeli soldiers were killed there. Israel's central bank separately rejected a Netanyahu proposal to use cryptocurrency to evade sanctions.",
+      "why_it_matters": "The election will decide whether Netanyahu remains in power after years of war, with consequences for Israeli policy toward the Palestinians and the wider Middle East.",
+      "headline_ids": ["h066", "h077", "h116", "h128", "h148", "h196", "h206", "h217", "h184"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US warns Iran is in 'advanced stages' of planning attacks on Americans",
+      "summary": "US intelligence officials said Iran is in the \"advanced stages\" of planning attacks against Americans ahead of the US midterm elections, according to a memo from the Director of National Intelligence. The US has ordered diplomats and other federal staff to leave Saudi Arabia and is drawing down personnel at other regional missions. American embassies have tightened security in response. Iran's president has separately blamed the US for the failure of an interim nuclear deal and urged a new attempt at negotiations.",
+      "why_it_matters": "Heightened fears of an Iranian attack add to Middle East instability and are among the factors contributing to this week's rise in oil prices.",
+      "headline_ids": ["h008", "h027", "h129", "h234", "h257", "h016"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthis strike Saudi oil facilities and airports",
+      "summary": "Yemen's Houthi rebels said they launched new attacks on Saudi oil facilities and airports, including strikes reported in Aden, and fired ballistic missiles at coastguard sites. The attacks had disrupted operations at Riyadh's main airport, which Saudi Arabia said may reopen as early as Sunday. The Houthis also renewed warnings against using the airport.",
+      "why_it_matters": "Attacks on Gulf oil infrastructure raise the risk of supply disruptions, a factor likely contributing to this week's rise in crude oil prices.",
+      "headline_ids": ["h103", "h144", "h150", "h183", "h204"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Volkswagen's Audi to build $4.2 billion plant in Georgia",
+      "summary": "Volkswagen's Audi division will build a new $4.2 billion factory in Georgia and expand a facility in South Carolina, President Trump announced at a campaign rally in the state. Audi currently imports all its cars from Europe or Mexico and has been hit hard by US tariffs. Trump defended his use of tariffs at the rally, saying they have made the US richer, as he campaigns ahead of the midterm elections.",
+      "why_it_matters": "The investment marks a shift of European auto production to the US and illustrates how tariffs are reshaping manufacturers' supply-chain decisions.",
+      "headline_ids": ["h001", "h063", "h065", "h090", "h174"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Musk and Ukraine clash over Starlink after service disruption",
+      "summary": "Ukraine's military said Starlink and Starshield satellite service, used for drone communications and other military operations, has been restored to normal speeds after more than a week of disruptions. Elon Musk, whose company SpaceX owns Starlink, said he had been behind the restriction and accused Ukraine of violating the service's terms. Ukrainian officials said the slowdown had hampered Kyiv's ability to defend itself against Russian strikes.",
+      "why_it_matters": "The dispute highlights Ukraine's dependence on a privately controlled satellite network for frontline military operations against Russia.",
+      "headline_ids": ["h006", "h007", "h010", "h100", "h136", "h166", "h181", "h192", "h203"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Serbia votes as student movement challenges Vucic",
+      "summary": "Serbians voted Sunday in a snap parliamentary election pitting longtime leader Aleksandar Vucic against a student-led anti-corruption movement that grew out of two years of protests. Polls showed a tight race between Vucic's party and the student movement, which is seeking to end his long grip on the Balkan country.",
+      "why_it_matters": "The vote could end over a decade of rule by Vucic's party, with implications for Serbia's political direction and its relations with the EU and Russia.",
+      "headline_ids": ["h024", "h030", "h039", "h084"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Kim Jong Un visits China as the two countries deepen trade ties",
+      "summary": "North Korean leader Kim Jong Un visited China, his first trip there in over a year, crossing the border on a newly opened bridge. Kim inaugurated the new cross-border bridge and made a war memorial visit, according to state media, as the two countries move to deepen trade ties.",
+      "why_it_matters": "The visit signals strengthening ties between North Korea and its most important economic partner, with trade links warming despite Pyongyang's continued international isolation.",
+      "headline_ids": ["h020", "h048", "h081", "h122", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Credit-market stress and AI-stock rotation unsettle investors",
+      "summary": "Investors in riskier corporate debt described a \"total meltdown\" in parts of the credit market this week, according to one fund manager, as a selloff unsettled the sector. Separately, concerns about the sustainability of AI-related spending have rattled some Wall Street investors, prompting a rotation into defensive stocks.",
+      "why_it_matters": "Growing caution around AI valuations and stress in high-yield credit are emerging risks for broader market sentiment heading into the new week.",
+      "headline_ids": ["h253", "h233"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Brazil's presidential runoff between Lula and Flávio Bolsonaro, with polls showing the race tied.",
+    "Serbia's parliamentary election, where Vucic's party faces a challenge from the student-led opposition movement.",
+    "Developments in the Middle East, including whether Riyadh's airport reopens after Houthi attacks and rising concern over a potential Iranian attack."
+  ]
+}
