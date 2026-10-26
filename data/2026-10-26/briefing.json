@@ -1,0 +1,99 @@
+{
+  "headline": "Lula wins fourth term in Brazil; Serbia's Vucic ousted; oil falls on Saudi risk",
+  "at_a_glance": [
+    "Brazil's Lula wins a historic fourth term; Bolsonaro refuses to concede and investors brace for a selloff in Brazilian assets.",
+    "Serbia's Vucic concedes to a student-led protest movement after 12 years in power, following record election turnout.",
+    "Venezuela's opposition leader Machado returns from exile, as markets await this week's Fed decision and megacap tech earnings.",
+    "Oil fell over 2% on Saudi attack risk and demand concerns, with Brent and WTI both down sharply again.",
+    "Israel holds a pivotal election this week, while France's unrest continues and Marine Le Pen launches her 2027 presidential bid."
+  ],
+  "market_analysis": "US stocks closed last week lower, extending a stretch of selling in AI-linked names: the S&P 500 fell 0.52%, the Nasdaq Composite slipped 0.21%, and the Dow dropped 1.23%, while the VIX rose to 19.45 and the US 10-year yield ticked up to 4.99%. Oil fell more than 2% on concerns about further attacks on Saudi energy infrastructure weighed against demand destruction, with Brent and WTI both lower again this morning.\n\nIn Asia, the Nikkei 225 eased 0.35% and the Shanghai Composite was little changed, while Hong Kong's Hang Seng gained 0.49%. European benchmarks - the DAX, FTSE 100 and Euro Stoxx 50 - closed last week lower, but US futures point to a firmer open, with S&P 500 futures up 0.25% and Nasdaq 100 futures up 0.21%.\n\nThis week's focus is the Federal Reserve's policy decision on Wednesday and megacap earnings from Alphabet, Microsoft and Amazon, seen as a test for the AI trade after last week's pullback. Brazilian assets are expected to come under pressure after Lula's re-election, and the UK Budget on October 28 is also in view.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Brazil's Lula wins historic fourth term",
+      "summary": "Luiz Inácio Lula da Silva defeated right-wing challenger Flávio Bolsonaro in Brazil's presidential runoff, winning 51.76% of the vote after trailing in the first round. Bolsonaro has refused to concede and is seeking to have the result annulled. The win ends a string of right-wing victories across Latin America. Investors expect Brazilian stocks and the real to fall in reaction to the result.",
+      "why_it_matters": "The outcome reshapes the political balance in Latin America and is being read in Washington as a setback for US influence in the region, while markets brace for volatility in Brazilian assets.",
+      "headline_ids": ["h009", "h048", "h068", "h069", "h079", "h090", "h103", "h107", "h142", "h163", "h170", "h174"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Serbia's Vucic concedes after student-led movement wins election",
+      "summary": "Aleksandar Vucic, Serbia's leader for 12 years, conceded defeat in a snap parliamentary election after a student-led protest movement won a majority. Turnout was close to 70%, the highest since Yugoslavia's breakup in 1992. The movement grew out of nearly two years of anti-corruption demonstrations.",
+      "why_it_matters": "The result ends over a decade of Vucic's rule and could shift Serbia's foreign policy, including its relations with the EU.",
+      "headline_ids": ["h003", "h017", "h089", "h130", "h148", "h184", "h255"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Venezuelan opposition leader Machado returns from exile",
+      "summary": "María Corina Machado, the Nobel Peace Prize-winning opposition leader, returned to Venezuela after nearly 10 months in exile, drawing large crowds in Caracas. Her return comes about a month after the US government seized President Nicolás Maduro. She is pressing the interim leadership for new elections.",
+      "why_it_matters": "Her return raises the stakes for Venezuela's political transition and could affect whether and when new elections take place.",
+      "headline_ids": ["h001", "h002", "h039", "h043", "h106", "h129"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israel heads into a pivotal election",
+      "summary": "Israel is holding what is described as one of its most important elections in its history, after three years of regional war. Prime Minister Benjamin Netanyahu faces former general Gadi Eisenkot as his main challenger, in a vote centered on security and democracy. Israeli media have reported friction between Netanyahu and his military chief over Iran policy just before the vote.",
+      "why_it_matters": "The outcome will shape Israel's approach to Iran and Gaza, and its relations with Washington, at a sensitive regional moment.",
+      "headline_ids": ["h030", "h045", "h060", "h077", "h150", "h194", "h223", "h225", "h240"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France's unrest continues as Le Pen launches 2027 campaign",
+      "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France over the weekend, with extra security deployed to avoid a repeat of earlier looting. Marine Le Pen used a rally in Orléans to formally launch her presidential campaign, pledging to revive oil prospecting. The unrest has already pushed French bond yields to a 24-year high.",
+      "why_it_matters": "Continued instability and a strengthened far-right challenger add to uncertainty around France's budget and borrowing costs.",
+      "headline_ids": ["h013", "h029", "h154", "h236", "h264", "h268", "h272", "h281"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Oil falls as Saudi attack risk and demand concerns weigh",
+      "summary": "Oil prices fell more than 2% as traders weighed the risk of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand. Saudi Arabia said it intercepted missiles and drones from Iran-backed Houthi forces, who claimed separate strikes on energy sites including East-West oil pumping stations. Saudi Arabia reopened Riyadh's airport despite continuing Houthi threats and said it would store oil in Singapore to bolster Asian supply security.",
+      "why_it_matters": "Continued attacks on Gulf energy infrastructure keep a geopolitical risk premium in oil markets even as prices fall on demand worries.",
+      "headline_ids": ["h007", "h024", "h081", "h094", "h137", "h195", "h232"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed decision and megacap earnings headline a pivotal market week",
+      "summary": "US stock futures rose as traders looked to recover from the S&P 500's losing week, with the Federal Reserve's policy decision due Wednesday. Alphabet, Microsoft and Amazon are among roughly 160 S&P 500 companies reporting this week, seen as a critical test for the artificial intelligence trade after a recent pullback in AI-linked stocks. Copper extended last week's decline as AI stocks came under renewed pressure ahead of the Fed meeting.",
+      "why_it_matters": "The combination of a Fed decision and megacap tech earnings could determine whether the recent AI-stock selloff stabilizes or deepens.",
+      "headline_ids": ["h005", "h026", "h091", "h224", "h242"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK Budget preview: investors want 'do no harm' from Healey",
+      "summary": "Chancellor John Healey will present the UK Budget on October 28, with large bond investors reportedly hoping for reassurance rather than changes to fiscal rules. Healey is separately reported to be preparing to roughly double spending on ending rough sleeping, with an extra £432 million allocated. A cabinet split has also emerged over the Rosebank North Sea oilfield decision.",
+      "why_it_matters": "How the Budget balances new spending against fiscal credibility will be watched closely by gilt investors already wary of UK debt levels.",
+      "headline_ids": ["h056", "h122", "h167", "h192", "h212", "h257"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "SpaceX closes $40 billion debt deal for AI chips",
+      "summary": "Elon Musk said SpaceX has closed $40 billion in debt financing to purchase GPUs, as the company expands an AI business that rents out access to advanced chips. Musk predicted a shakeout among so-called neocloud providers. The financing adds to a wave of AI-infrastructure investment, alongside Tesla's own AI ambitions tied to a possible SpaceX merger.",
+      "why_it_matters": "Large debt-funded bets on AI infrastructure raise questions about financing risk if the growth in AI spending slows.",
+      "headline_ids": ["h010", "h135", "h262", "h061"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "China's Communist Party opens fifth plenum",
+      "summary": "China's ruling Communist Party opened its fifth plenum, a closed-door meeting of top officials running from October 26 to 29, expected to focus on strengthening party control and ideology, including Xi Jinping's anti-corruption campaign. Xi is believed to be preparing to secure a fourth term in 2027. Analysts have questioned whether the long-running purges are about corruption or about loyalty.",
+      "why_it_matters": "The plenum's decisions on governance and economic direction will shape policy signals for the world's second-largest economy.",
+      "headline_ids": ["h088", "h125", "h151", "h211"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "The Federal Reserve's policy decision is due Wednesday, a key event for US markets this week.",
+    "Alphabet, Microsoft and Amazon are among the megacap companies reporting earnings this week, a test for the AI trade.",
+    "The UK Budget is due on October 28, with gilt investors watching for any changes to fiscal rules."
+  ]
+}
