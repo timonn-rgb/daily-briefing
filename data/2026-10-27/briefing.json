@@ -1,0 +1,103 @@
+{
+  "headline": "Anthropic IPO filing lifts AI stocks as Israel votes, Brazil's currency slides",
+  "at_a_glance": [
+    "Anthropic filed for an IPO disclosing $80bn in first-half losses and 900% revenue retention, reigniting the AI trade and lifting chip and optical stocks worldwide.",
+    "Israelis voted in their first election since the October 7, 2023 attacks, with polls showing Netanyahu's coalition at risk of losing its majority.",
+    "Brazil's currency had its worst day in over 25 years after Lula won re-election; Bolsonaro's party conceded but he was ordered to surrender his passport.",
+    "Oil prices fell as renewed US-Iran diplomatic efforts and Saudi-Iran-Turkey-Pakistan talks eased fears of a wider Middle East conflict.",
+    "Microsoft offered buyouts to 60,000 employees and Meta announced a $95 billion stock offering, both tied to the costs of AI infrastructure expansion."
+  ],
+  "market_analysis": "US stocks rose on Monday, with the S&P 500 up 0.70%, the Nasdaq Composite up 0.82% and the Dow Jones up 0.28%, driven by renewed optimism in the AI trade after Anthropic's IPO filing, which also lifted optical and chip-related names such as Lumentum. The VIX fell 5.45% to 18.39, and the 10-year Treasury yield held near 4.99%.\n\nIn Asia on Tuesday, the Nikkei 225 rose 1.56% as chip-linked stocks tracked the AI rally, while the Hang Seng fell 0.57% and the Shanghai Composite fell 0.37%. European benchmarks closed higher on Monday, with the DAX up 0.91%, the FTSE 100 up 0.72% and the Euro Stoxx 50 up 0.79%. Oil fell further, with Brent down 5.14% and WTI down 0.87%, as diplomatic efforts around Middle East conflicts continued.\n\nToday, US index futures are little changed, with S&P 500 futures up 0.01% and Nasdaq 100 futures down 0.22%. No German economic data is scheduled, but earnings are due from Visa and Coca-Cola. The Bank of Japan is expected to hold rates this week while signaling a hawkish tilt toward a hike in December or January, and the UK's Chancellor Healey delivers his first budget on Wednesday. Gold held near $4,023.80 ahead of this week's Federal Reserve rate decision.",
+  "mover_notes": {
+    "LITE": "Rose as optical stocks rallied following Anthropic's IPO filing and renewed optimism in the AI trade.",
+    "COHR": "Rose along with other optical stocks amid the rally tied to Anthropic's IPO filing.",
+    "DASH": "Fell amid reports it is in advanced talks to acquire Instacart for about $17 billion."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic files for IPO, warning of AI's 'existential risks'",
+      "summary": "Anthropic filed a Form S-1 for an initial public offering that could value the AI company in the trillions, revealing roughly $80 billion in first-half losses alongside 900% revenue retention. Its roughly 355-page prospectus also warns of what it calls catastrophic and existential risks posed by artificial intelligence. Separately, Wall Street banks and Blackstone are arranging $63 billion to finance Broadcom AI chips for Anthropic. The filing reignited the AI trade, lifting chip, optical and AI-infrastructure stocks on Wall Street and in Asia, with Anthropic set to list on Nasdaq under the ticker ANT.",
+      "why_it_matters": "The IPO is a test of whether AI valuations can be sustained after recent doubts about the AI trade, with ripple effects already visible in chip, semiconductor and optical stocks across US and Asian markets.",
+      "headline_ids": ["h023", "h094", "h161", "h179", "h212", "h227", "h280", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israelis vote in first election since the October 7 attacks",
+      "summary": "Israel held a general election on Tuesday, its first since the October 7, 2023 Hamas attack and the wars in Gaza, Lebanon and Iran that followed. Prime Minister Benjamin Netanyahu's coalition faced a tight race against an opposition bloc led by former military chief Gadi Eisenkot, with most polling suggesting his coalition could lose its majority. Arab parties were projected to play a kingmaker role. The vote is widely described as one of the most consequential in Israel's history.",
+      "why_it_matters": "The result will determine whether Netanyahu remains in power after three years of regional war and could shape Israel's policy toward Iran, Gaza and the West Bank.",
+      "headline_ids": ["h030", "h042", "h060", "h071", "h073", "h078", "h144", "h199"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Lula wins Brazil's presidency; currency suffers worst day in 25 years",
+      "summary": "Luiz Inácio Lula da Silva won a fourth term as Brazil's president, defeating Flávio Bolsonaro in a runoff after trailing in the first round and in prediction markets. Brazil's currency and stocks plunged, with the real recording its worst single-day drop in more than 25 years amid investor concern about fiscal management under Lula. Bolsonaro's Liberal Party conceded, but Brazil's Supreme Court banned him from leaving the country and ordered him to surrender his passport over a separate money-laundering investigation. World leaders congratulated Lula on the win.",
+      "why_it_matters": "The result bucks a rightward political shift across Latin America and raises market concern about Brazil's fiscal trajectory, while denying Trump a regional ally.",
+      "headline_ids": ["h006", "h022", "h075", "h177", "h189", "h257", "h263", "h265", "h293"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Oil falls as diplomatic efforts ease Middle East supply fears",
+      "summary": "Oil prices fell further as renewed diplomatic efforts to end the US-Israeli war with Iran reduced concerns about supply disruption. Separately, senior officials from Saudi Arabia, Turkey, Pakistan and Iran agreed to continue talks aimed at preventing a wider regional war, even as Saudi forces reported intercepting further Houthi missiles and drones. Brent crude fell 5.14% and WTI fell 0.87% in the latest session.",
+      "why_it_matters": "Lower oil prices ease cost pressure on consumers and businesses globally, including transit operators that had faced higher fuel bills from the Iran war.",
+      "headline_ids": ["h003", "h074", "h156", "h188", "h229"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Microsoft offers buyouts to 60,000 employees in AI efficiency push",
+      "summary": "Microsoft is offering voluntary buyouts to around 60,000 employees as it tries to balance a rapid build-out of AI infrastructure with capital efficiency. The company is seeking to contain costs even as it continues heavy investment in AI data centers and computing capacity.",
+      "why_it_matters": "The move signals that even leading AI investors are tightening costs elsewhere, a sign of the financial strain large-scale AI spending is placing on big tech balance sheets.",
+      "headline_ids": ["h014", "h243"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Meta plans $95 billion stock offering to fund AI expansion",
+      "summary": "Meta announced plans for a two-part fundraising of $95 billion to cover its AI spending. The announcement came as Elon Musk warned that funding could dry up for hundreds of smaller AI startups facing collapse. Chipmakers including Nvidia, AMD and Broadcom could participate in part of Meta's $35 billion stock-related offering.",
+      "why_it_matters": "The scale of the fundraising underscores how capital-intensive the AI buildout has become, and highlights a widening gap between well-funded giants and smaller AI firms.",
+      "headline_ids": ["h184", "h244"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "DoorDash in talks to buy Instacart for about $17 billion",
+      "summary": "DoorDash is in advanced talks to acquire grocery delivery rival Instacart in a deal that would value Instacart at roughly $17 billion, according to a source. Analysts say the deal would help DoorDash keep pace with Walmart and Amazon in grocery delivery. DoorDash shares fell 6.1% in the last session.",
+      "why_it_matters": "A combination would consolidate the US grocery and food delivery market, intensifying competition with Walmart and Amazon.",
+      "headline_ids": ["h240", "h242"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK Chancellor Healey to deliver first budget Wednesday",
+      "summary": "UK Chancellor John Healey will present his first budget on Wednesday, a key test for Prime Minister Andy Burnham's Labour government as it tries to maintain its position in the polls. Planned measures include shielding low-income pensioners from income tax changes, scrapping a penalty that hit unpaid carers who exceeded earning limits, and cutting tariffs on some food staples. The budget comes as UK shop price inflation rose to its highest level since 2024.",
+      "why_it_matters": "The budget will shape UK household finances and is seen as a test of investor confidence in Burnham's new government.",
+      "headline_ids": ["h029", "h035", "h072", "h138", "h215", "h016"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bank of Japan expected to hold rates but signal hawkish shift",
+      "summary": "The Bank of Japan is expected to keep interest rates unchanged this week, according to a CNBC survey, but all respondents expect it to set the stage for a rate hike in December or January as inflation and wages continue to rise. The yen weakened further, with USD/JPY trading at 157.75.",
+      "why_it_matters": "A hawkish signal from the BOJ could affect global bond and currency markets given Japan's role as a major source of capital flows.",
+      "headline_ids": ["h015", "h037"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Local Ukraine ceasefire begins as UN says Russian strikes were war crimes",
+      "summary": "A localized ceasefire brokered by US First Lady Melania Trump began in the Russian-occupied Ukrainian town of Oleshky, where about 2,000 people have been stranded amid shortages of food and medicine, to allow evacuations and aid deliveries. Russia continued attacks elsewhere, including a strike on Kyiv that killed one person and injured 10. Separately, a UN-backed panel said Russia's strikes on Ukraine's energy grid, which cut off heat and power on cold days, amounted to war crimes and were intended to cause civilian suffering.",
+      "why_it_matters": "The ceasefire offers a narrow humanitarian opening even as the broader war continues, while the UN findings add to the documented case for war crimes accountability.",
+      "headline_ids": ["h012", "h098", "h123", "h197", "h209", "h218"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Visa and Coca-Cola report earnings today, offering a read on consumer spending and payments trends.",
+    "The Bank of Japan's policy decision this week will be watched for signals on a possible December or January rate hike.",
+    "Markets are positioning ahead of this week's Federal Reserve rate decision, with gold holding near $4,000 an ounce."
+  ]
+}
