@@ -1,0 +1,101 @@
+{
+  "headline": "Israel election deadlock, Fed decision looms, Jio and SK Hynix drive Asia rally",
+  "at_a_glance": [
+    "Israel's election ended in deadlock, with Netanyahu's and Eisenkot's blocs both short of a majority and Arab parties making record gains.",
+    "The Federal Reserve announces its rate decision today, with markets expecting rates held at 4.00% amid scrutiny of future guidance.",
+    "Jio Platforms shares surged over 21% on their trading debut after India's largest-ever IPO raised $3.2 billion.",
+    "SK Hynix shares jumped more than 10% after third-quarter profit beat estimates, fueling a broader Asian chip rally.",
+    "Oil prices rose after Houthi attacks on a Saudi Arabian refinery added to Middle East supply concerns."
+  ],
+  "market_analysis": "Wall Street extended its rally for a second session on Tuesday: the S&P 500 rose 0.60%, the Nasdaq Composite gained 1.18% and the Dow added 0.03%, lifted by semiconductor shares as the AI trade regained favor. The VIX fell 4.73% to 17.52 and the 10-year Treasury yield ticked up 1 basis point to 4.99%. Boeing shares slid after the company flagged a disappointing cash-flow outlook and said it will not meaningfully ramp up 737 Max production until late 2027.\n\nIn Asia on Wednesday, the Nikkei 225 rose 1.32% and the Shanghai Composite gained 0.71% after Chinese state funds bought stocks to support a slumping market; the Hang Seng added 0.18%. South Korea's SK Hynix jumped more than 10% after third-quarter profit beat estimates, driving a broader Asian chip rally. In Europe, the DAX rose 0.71% and the Euro Stoxx 50 gained 0.79%, helped by a weaker euro and a 27% jump in UBS profit, while the FTSE 100 fell 0.75% ahead of the UK budget.\n\nToday's focus is the Federal Reserve's rate decision at 19:00 CET, with markets expecting rates held at 4.00% and attention on the press conference for signals on future moves. The UK chancellor presents the autumn budget at 13:30, and Microsoft, Alphabet and FedEx report earnings. Oil edged higher after Houthi attacks on a Saudi Arabian refinery raised supply concerns, while gold slipped toward $4,000 an ounce ahead of the Fed decision.",
+  "mover_notes": {
+    "BA": "Shares fell after Boeing gave a disappointing cash-flow update and said it won't significantly ramp up 737 Max production until late 2027."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Israel's election ends in deadlock",
+      "summary": "Israel's parliamentary election, the first since the October 7, 2023 Hamas attacks, ended with exit polls and early results showing Prime Minister Benjamin Netanyahu's bloc and opposition leader Gadi Eisenkot's bloc both short of the 61 seats needed for a majority. Arab parties recorded their strongest showing in years, with projections of around 18 Knesset seats combined, putting them in a potential kingmaker position. Netanyahu called a coalition with Arab parties 'shameful,' while Eisenkot said voters chose change. Vote counting could take days, and forming a government may take weeks.",
+      "why_it_matters": "The deadlock prolongs uncertainty over Israel's leadership and policy direction on the war in Gaza and relations with Iran, with implications for regional stability.",
+      "headline_ids": ["h015", "h030", "h034", "h066", "h072", "h094", "h109", "h117", "h143", "h146", "h151", "h192"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed decision due today, rate hold expected",
+      "summary": "The Federal Reserve announces its interest rate decision today at 19:00 CET, followed by the FOMC statement and a press conference. Markets widely expect the Fed to hold its benchmark rate at 4.00%, unchanged from the prior meeting. Investors are watching Fed Chair Kevin Warsh's comments after he rejected traditional forward guidance. Gold edged lower toward $4,000 an ounce and copper traded near a two-week high as traders positioned ahead of the decision.",
+      "why_it_matters": "The rate decision and accompanying guidance will shape expectations for borrowing costs, bond yields and equity valuations heading into year-end.",
+      "headline_ids": ["h010", "h042", "h131", "h175", "h264"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic IPO splits investor opinion",
+      "summary": "Investors are digesting Anthropic's IPO filing, which could rank among the largest public offerings ever and has drawn comparisons to Alphabet and Berkshire Hathaway given the company's $131.7 billion cash pile. New exchange-traded derivatives called 'perps' are letting investors bet on private AI companies including Anthropic and OpenAI. Reactions are split, with some investors calling the listing a 'generational moment' and others warning it could prove to be 'speculative fiction.' The offering comes as hyperscalers including Oracle, Alphabet and Amazon prepare earnings updates that markets will watch for signs of AI spending sustainability.",
+      "why_it_matters": "The IPO's reception will be read as a referendum on the durability of the AI investment boom that has driven much of this year's market gains.",
+      "headline_ids": ["h006", "h018", "h169", "h204", "h218", "h248", "h254", "h255", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Jio Platforms surges in India's biggest-ever IPO",
+      "summary": "Shares of Jio Platforms, the telecoms arm of Mukesh Ambani's Reliance group, surged more than 21% on their trading debut in Mumbai. The company raised about $3.2 billion by offering 270 million shares at 1,119 rupees apiece, making it India's largest-ever IPO at a $108 billion valuation. Jio is backed by Meta and Google. The debut offered relief to an Indian stock market that had been hit by the war in Iran.",
+      "why_it_matters": "The successful listing signals continued investor appetite for India's technology and telecoms sector despite a broader run of weak outcomes for the country's megadeals.",
+      "headline_ids": ["h004", "h008", "h033", "h065", "h078"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "SK Hynix earnings beat fuels Asian chip rally",
+      "summary": "Shares of South Korean chipmaker SK Hynix soared more than 10% after third-quarter profit sharply beat estimates, with the company also pledging to return $25 billion to investors. The earnings beat drove a broader rally in Asian technology stocks, with the Nikkei 225 and Shanghai Composite among the gainers. The move extended a recovery in the AI trade after a period in which investors had turned more cautious on semiconductor and data center stocks.",
+      "why_it_matters": "As a bellwether for memory-chip demand tied to AI infrastructure, SK Hynix's results are being read as evidence of continued strength in AI-related spending.",
+      "headline_ids": ["h002", "h090", "h162"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China's 'national team' buys stocks to shore up market",
+      "summary": "China's 'national team' of state-linked funds and brokers bought stocks to shore up a market that has been falling as investors turn away from the AI trade. Despite the support, the market has continued to decline, according to reporting on the rescue effort. The intervention comes as a Hong Kong-listed IPO, Suzhou Dongshan Precision, served as a test of investor appetite for AI-linked listings.",
+      "why_it_matters": "Repeated state intervention highlights fragility in Chinese investor sentiment toward AI-related equities and raises questions about the market's ability to stabilize on its own.",
+      "headline_ids": ["h011", "h144", "h285"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Oil rises on Houthi attack and Iran war risk",
+      "summary": "Oil prices rose after Houthi attacks on a Saudi Arabian refinery raised concerns about a prolonged Middle East conflict, with WTI crude up 1.70%. Prices were also supported by a Wall Street Journal report that the US told Gulf countries to prepare for a short, intense military campaign against Iran after next week's midterm elections. Separately, Gulf states are working on a multipart peace deal aimed at reopening the Strait of Hormuz and lifting sanctions on Iran in exchange for Houthi withdrawal from parts of Yemen. Iran has also threatened a South Korean shipping group over transits through Hormuz.",
+      "why_it_matters": "Any disruption to Gulf shipping lanes or a resumption of US-Iran conflict could sharply affect global oil supply and prices.",
+      "headline_ids": ["h003", "h040", "h048", "h163", "h276"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK chancellor delivers first autumn budget",
+      "summary": "UK Chancellor John Healey presents his first autumn budget today, with the government signaling only modest policies amid what he has called a 'difficult moment' for the economy. Expected measures include changes to minimum wage rates, though 18-20 year-olds will not get a bigger increase, and help with energy bills and the cost of living. The Bank of England is separately expected to begin a short, precautionary tightening cycle in November, according to its October forecast.",
+      "why_it_matters": "The budget will set UK fiscal policy for the year ahead and is being closely watched for its effect on household finances and business confidence.",
+      "headline_ids": ["h041", "h050", "h121", "h153", "h236", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Flávio Bolsonaro flees Brazil after election defeat",
+      "summary": "Brazilian senator Flávio Bolsonaro left Brazil for the United States after losing Sunday's presidential election to incumbent Luiz Inácio Lula da Silva, missing a deadline to hand over his passports under a money-laundering probe. The US State Department said it will issue visas to Bolsonaro and his family. Bolsonaro reportedly arrived in Miami. President Lula called the departure 'shameful,' while Bolsonaro's party has accepted the election result even though Bolsonaro himself has not conceded.",
+      "why_it_matters": "The episode adds friction to US-Brazil relations and raises questions about accountability following Brazil's presidential transition.",
+      "headline_ids": ["h092", "h106", "h114", "h133", "h158", "h164", "h261", "h281"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Ukraine ceasefire holds as European leaders call Putin",
+      "summary": "A local ceasefire in Russian-occupied Oleshky in Ukraine's Kherson region, brokered with input from Melania Trump, was extended with no breaches reported by either side, allowing stranded residents to be evacuated. Separately, the leaders of Finland and Norway held a rare call with Russian President Vladimir Putin as part of efforts to advance talks to end the war, a move that drew criticism from Denmark's prime minister for lacking coordination with allies. Washington is also discussing a return of US oil majors to Russia and potentially lifting sanctions on Russia's sovereign investment fund as part of broader peace efforts.",
+      "why_it_matters": "Diverging approaches among European allies toward engaging Putin could complicate a unified Western strategy for ending the war in Ukraine.",
+      "headline_ids": ["h160", "h190", "h195", "h219", "h233", "h242", "h245", "h262", "h298"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "The Federal Reserve announces its interest rate decision at 19:00 CET, with a hold at 4.00% expected.",
+    "Microsoft, Alphabet and FedEx report earnings today, a key test for the AI-driven market rally.",
+    "The UK chancellor delivers the autumn budget at 13:30 CET amid pressure to address the cost-of-living crisis."
+  ]
+}
