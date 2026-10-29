@@ -1,0 +1,99 @@
+{
+  "headline": "Alphabet slumps on AI spending fears; Fed holds rates; Spain mourns 68",
+  "at_a_glance": [
+    "Alphabet shares sank 10% on AI capex concerns and weak earnings, pulling Nasdaq 100 futures down ahead of Thursday's US open.",
+    "The Federal Reserve held rates steady at 3.75%-4%; Chairman Warsh flagged more data ahead of a December decision.",
+    "A high-speed train crash in Toledo, Spain, killed at least 68 people, the country's second fatal rail accident this year.",
+    "Israel's election left Netanyahu's bloc and the opposition both short of a majority, setting up difficult coalition talks.",
+    "Flavio Bolsonaro fled Brazil for the US after his election defeat, calling himself the country's true president-elect."
+  ],
+  "market_analysis": "Wall Street closed higher on Wednesday as the Federal Reserve held its benchmark rate steady at 3.75%-4%, with the S&P 500 up 0.28%, the Nasdaq up 0.27% and the Dow up 0.19%; the 10-year Treasury yield rose to 5.05%. After the close, Alphabet shares sank about 10% on a rare top-and-bottom-line earnings miss and unchanged 2026 capex guidance pointing to a sharp increase in 2027, while Microsoft jumped roughly 4% on a 48% Azure revenue beat. Those moves have pulled Nasdaq 100 futures down 0.91% and S&P 500 futures down 0.23% ahead of Thursday's open.\n\nIn Asia, the Nikkei rose 1.06% while the Hang Seng fell 0.16% and the Shanghai Composite fell 0.64%, as the Alphabet-led tech selloff weighed on sentiment and Samsung Electronics shares slid despite record quarterly profit. European benchmarks closed higher Wednesday, with the DAX up 0.44%, the FTSE 100 up 0.07% and the Euro Stoxx 50 up 0.05%.\n\nToday's focus is the ECB's rate decision at 14:15 CET, expected to hold its main refinancing rate at 2.65%, followed by a press conference. US Advance third-quarter GDP (forecast 3.2%) and the Core PCE price index (forecast 0.3% m/m) are due at 13:30 CET. Brent crude fell 4.51% on easing fears of a wider Middle East conflict, and gold slipped 0.29% ahead of the US inflation data. Amazon, Eli Lilly and Mastercard report earnings today.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Alphabet shares sink 10% as AI spending concerns rattle tech",
+      "summary": "Alphabet reported lower-than-expected third-quarter earnings and revenue, its first miss on both lines in nearly four years. The company kept 2026 capital expenditure guidance unchanged but signaled a significant increase in 2027 capex, fueling investor concern about returns on AI spending. Shares fell as much as 10% in after-hours and premarket trading. The selloff dragged Nasdaq 100 futures lower and weighed on Asian tech shares including Samsung.",
+      "why_it_matters": "As one of the largest AI spenders, Alphabet's results raise doubts about whether heavy AI capital expenditure across the tech sector will generate sufficient returns, a question weighing on global equity markets.",
+      "headline_ids": ["h008", "h011", "h023", "h147", "h205", "h228", "h236", "h057", "h131"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Microsoft jumps on Azure growth despite 60,000 buyout offers",
+      "summary": "Microsoft reported quarterly revenue of $92.3bn, up 19%, and profit of $36.6bn, beating Wall Street estimates on 48% growth in Azure cloud revenue. Shares rose about 4% in after-hours trading to a record high. The results came days after Microsoft offered buyouts to 60,000 employees as part of cost-cutting. The company said data center delays limited its capital expenditure in the quarter.",
+      "why_it_matters": "Microsoft's results show it containing AI infrastructure costs while still growing, offering a contrasting signal to investors worried about AI spending after Alphabet's earnings.",
+      "headline_ids": ["h021", "h156", "h177", "h190", "h207", "h221"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed holds rates steady; Warsh signals changes ahead",
+      "summary": "The Federal Reserve kept its benchmark rate unchanged at 3.75%-4%, despite what officials described as a lack of progress on inflation. Chairman Kevin Warsh said an \"information-rich\" period before the December meeting would help determine next steps, and announced the Fed will hold fewer rate-setting meetings in future years. Treasury Secretary Scott Bessent said it would not \"necessarily\" be a mistake if the Fed hikes again. Wall Street closed higher after the decision, and gold eased.",
+      "why_it_matters": "The Fed's pause leaves policy direction into December's meeting uncertain, with markets now watching inflation data for signs of whether a rate hike is back on the table.",
+      "headline_ids": ["h025", "h026", "h027", "h196", "h198", "h203", "h251", "h258", "h273", "h274", "h279", "h296"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Spain's second deadly train crash this year kills 68",
+      "summary": "A high-speed train collided with a stopped train in Toledo province, south of Madrid, killing at least 68 people and injuring around 100. The transport minister said a train was ordered to proceed in error despite a technical failure that had halted all services. It is Spain's second fatal rail crash this year, and the country has begun a three-day mourning period. Far-right demonstrators clashed with police at protests in Madrid over the crash.",
+      "why_it_matters": "The crash has raised questions about rail safety oversight in Spain and comes ahead of a national election, adding political pressure on the government.",
+      "headline_ids": ["h002", "h010", "h030", "h050", "h092", "h103", "h117", "h227", "h238", "h265", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israel's election ends in deadlock, coalition talks loom",
+      "summary": "With nearly 90% of votes counted, Prime Minister Benjamin Netanyahu's right-wing bloc led but fell short of a majority in the 120-seat Knesset, as did the opposition alliance led by Gadi Eisenkot. Arab-majority parties made historic gains, winning a projected 19 seats, positioning them as potential kingmakers. Both blocs now face difficult coalition negotiations with no clear path to a government. Analysts said Netanyahu could remain as caretaker prime minister during the talks.",
+      "why_it_matters": "Prolonged coalition negotiations could affect Israel's policy toward Iran and the wider region, including the possibility of renewed military action while a caretaker government is in place.",
+      "headline_ids": ["h044", "h054", "h056", "h060", "h062", "h063", "h075", "h132", "h176", "h180", "h181", "h191", "h272", "h276", "h286", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Flávio Bolsonaro flees Brazil to US, disputes election loss",
+      "summary": "Flávio Bolsonaro, defeated in Brazil's presidential run-off by incumbent Luiz Inácio Lula da Silva, left Brazil for the United States after being asked to surrender his passport amid a money-laundering investigation. He traveled via Argentina and Ecuador before landing in Miami. He has since called himself Brazil's \"true president-elect\" and repeated unsubstantiated fraud claims. A US judge separately rejected a Trump administration bid to set aside tens of thousands of California ballots, saying it would \"wreak havoc\" on the ongoing midterm elections.",
+      "why_it_matters": "Bolsonaro's flight and fraud claims add to political instability in Brazil, Latin America's largest economy, while he faces multiple domestic investigations.",
+      "headline_ids": ["h016", "h033", "h034", "h035", "h064", "h142", "h182", "h211", "h235", "h241", "h252", "h253"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK Budget raises taxes on banks and landlords for £100 handouts",
+      "summary": "Chancellor John Healey's first Budget raises taxes on banks and landlords to fund one-off £100 payments to 20 million households, along with low-carbon upgrade loans and an end to standing charges on energy bills. Healey described the measures as a response to \"global economic storms\" driving up energy and living costs. The opposition said the chancellor had kicked decisions down the road, raising the prospect of an early election. Tariffs on more than 100 imported food items, including garlic and gherkins, are also being removed.",
+      "why_it_matters": "The tax increases and household support shape the UK's fiscal position and consumer spending power, a factor markets watch alongside the Bank of England's policy path.",
+      "headline_ids": ["h004", "h028", "h032", "h051", "h058", "h065", "h076", "h193", "h287"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea fires about 10 ballistic missiles toward the sea",
+      "summary": "North Korea launched roughly 10 short-range ballistic missiles off its east coast, South Korea's military said. The launch came days after North Korean leader Kim Jong Un visited China, and amid heightened tension on the Korean peninsula following a landmine blast last month that Seoul blames on Pyongyang.",
+      "why_it_matters": "Repeated North Korean missile tests keep regional security tensions elevated, a region the Fed's chairman has cited as a leading indicator for global supply chains.",
+      "headline_ids": ["h077", "h093", "h094", "h095"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Jio Platforms' blockbuster debut fuels India IPO pipeline",
+      "summary": "Shares of Jio Platforms, controlled by billionaire Mukesh Ambani, surged on their market debut, making it India's second most valuable company. The listing drew high delivery volumes, pointing to sticky investor demand, and is expected to pave the way for more large Indian companies to go public. Some investors in Asia have had difficulty accessing shares in the offering.",
+      "why_it_matters": "A successful mega-listing could encourage more large Indian firms to pursue IPOs, deepening the country's capital markets.",
+      "headline_ids": ["h007", "h039", "h045", "h106", "h129"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Data breach exposes details of over 41,000 US Homeland Security staff",
+      "summary": "Information on more than 41,000 employees and contractors of the US Department of Homeland Security, including names, titles, agencies and offices, was exposed in a data breach. The leak was published by the non-profit group Distributed Denial of Secrets and is the third such government data disclosure in the past month, following breaches at the FBI and Defense Department.",
+      "why_it_matters": "Repeated breaches of US security agency personnel data raise concerns about the safety of government employees and the security of federal systems.",
+      "headline_ids": ["h009", "h101", "h157"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "The ECB announces its rate decision at 14:15 CET, with a hold expected at 2.65%, followed by a press conference at 14:45.",
+    "US Advance Q3 GDP and the Core PCE price index are released at 13:30 CET, both closely watched after the Fed's pause.",
+    "Amazon, Eli Lilly and Mastercard report earnings today, continuing a heavy week of large-cap results."
+  ]
+}
