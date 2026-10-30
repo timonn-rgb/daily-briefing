@@ -1,0 +1,103 @@
+{
+  "headline": "Tech-led Wall Street selloff spreads to Asia as Binance hack, Israel vote add pressure",
+  "at_a_glance": [
+    "Wall Street's AI-driven tech selloff deepened after Alphabet's historic $500bn drop, Amazon's cash burn and Intel's guidance miss; Asian and European markets diverged sharply overnight.",
+    "Binance suffered a record $6.3bn security breach, with North Korea-linked hackers blamed; Bitcoin fell and about $3bn in assets were frozen or recovered.",
+    "Israel's election left Netanyahu's bloc and the opposition both short of a majority, setting up weeks of coalition bargaining.",
+    "ECB President Christine Lagarde said she will step down nine months early to speak freely on world affairs.",
+    "The Bank of Japan held rates, declaring its 2% inflation target met for the first time since 2013; the yen strengthened."
+  ],
+  "market_analysis": "Wall Street fell for a second straight session as a wave of big-tech earnings fed fears that AI spending is outpacing returns. Alphabet lost nearly $500bn in market value in its worst day ever after flagging that AI search summaries are denting ad revenue; Amazon posted negative free cash flow of $42.4bn despite 39% AWS growth; Intel dropped more than 20% on a weak PC demand outlook; and ServiceNow fell 27% on disappointing results. The S&P 500 slipped 0.30%, the Nasdaq Composite 1.38%; a stronger-than-expected 3.4% third-quarter GDP reading and a 6bp drop in the 10-year yield did little to offset the mood, while the VIX rose.\n\nEuropean equities closed higher Thursday, with the DAX up 1.31% and the Euro Stoxx 50 up 0.64%, before the ECB's Christine Lagarde announced she would step down early. Asian markets diverged Friday: the Nikkei 225 slumped 2.41% as the tech selloff and a Bank of Japan ETF-sale move weighed on sentiment, even as the BOJ held rates and said its 2% inflation goal had been met for the first time since 2013; Hong Kong's Hang Seng rose 1.77% while Shanghai eased 0.38%.\n\nFutures point to a weaker US open, with S&P 500 futures down 0.91% and Nasdaq 100 futures down 1.96%. Exxon Mobil and AbbVie report earnings today. Bitcoin fell 3.61% after the Binance hack, gold eased to $4,008.80, and WTI crude rose 1.47% on Strait of Hormuz tanker-attack risks while Brent slipped 2.08%.",
+  "mover_notes": {
+    "NOW": "ServiceNow shares plunged 27% to their worst day ever after underwhelming third-quarter results revived AI disruption fears.",
+    "GOOGL": "Alphabet fell nearly 13% for its worst day ever after an earnings miss showed AI search summaries cutting into core ad revenue.",
+    "GOOG": "Alphabet fell nearly 13% for its worst day ever after an earnings miss showed AI search summaries cutting into core ad revenue."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "AI spending fears deepen Wall Street's tech-stock rout",
+      "summary": "Alphabet shares tumbled nearly 13% for their worst day ever, erasing about $500bn in value, after the company admitted its AI search summaries are cutting into advertising revenue despite maintaining its spending guidance. Amazon shares fell after posting negative free cash flow of $42.4bn and a cautious sales forecast, even though AWS revenue grew 39%. Intel dropped more than 20% after blaming a PC market slowdown for weak guidance, and ServiceNow had its worst day ever, down 27%, on disappointing results. The selloff pushed the S&P 500 down 0.30% and the Nasdaq Composite down 1.38%, and spread to Asia, where the Nikkei 225 fell 2.41%.",
+      "why_it_matters": "The results are the clearest signal yet that investors are questioning whether heavy AI infrastructure spending by the largest tech companies will pay off, a question now weighing on markets well beyond the US.",
+      "headline_ids": ["h008", "h018", "h022", "h023", "h086", "h184", "h188", "h231", "h239", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Binance hit by biggest crypto hack on record, $6.3bn affected",
+      "summary": "Binance, the world's largest crypto exchange, said a security breach affected an estimated $6.3bn in assets, which analysts described as potentially the largest hack in crypto history. The exchange halted withdrawals and said it had recovered or frozen about $3bn, pledging to cover all losses. Blockchain analytics firms attributed the attack to a North Korean hacking unit known as TraderTraitor. Bitcoin and other cryptocurrency prices fell after the news.",
+      "why_it_matters": "A breach of this scale at the leading exchange raises fresh questions about security across the crypto industry and comes as North Korean state-linked groups continue to target digital-asset platforms for funding.",
+      "headline_ids": ["h003", "h006", "h036", "h040", "h084", "h095", "h116", "h162"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israel's election leaves no governing majority",
+      "summary": "Final results showed Prime Minister Benjamin Netanyahu's bloc winning 53 seats and the opposition, led by Gadi Eisenkot, winning 48, with neither side reaching the 61 needed for a majority. Netanyahu's Likud party alleged foreign interference and said Arab-led parties had helped 'steal' the election, an accusation those parties and opposition figures rejected. Arab party groupings emerged as potential kingmakers in the coalition talks ahead. Israel now faces weeks of coalition bargaining to form a government.",
+      "why_it_matters": "The deadlock prolongs political uncertainty in Israel and gives smaller and Arab-led parties unusual leverage over who ultimately governs.",
+      "headline_ids": ["h046", "h132", "h183", "h197", "h201", "h203", "h288"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "ECB's Lagarde to step down nine months early",
+      "summary": "Christine Lagarde said she will leave the presidency of the European Central Bank ahead of schedule, saying she wants the freedom to speak out on world affairs beyond monetary policy. Her departure, nine months before her term was due to expire in October 2027, allows EU leaders to choose her successor before France's presidential election. Lagarde has led the ECB through multiple crises during her term. She is seen as a possible candidate to run the World Economic Forum.",
+      "why_it_matters": "Her early exit sets up a leadership contest at the eurozone's central bank at a sensitive moment for European politics and ahead of a French election.",
+      "headline_ids": ["h027", "h074", "h099", "h264"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bank of Japan holds rates, says inflation target finally met",
+      "summary": "The Bank of Japan kept interest rates unchanged and declared that its underlying inflation target of 2% has been met for the first time since it set the goal in 2013. The central bank also accelerated sales of its exchange-traded fund holdings, a move Japanese equities absorbed without disruption. The yen extended gains against the dollar following the decision. Separately, Tokyo core inflation data for October came in above the BOJ's target.",
+      "why_it_matters": "Confirmation that Japan has durably exited deflation raises expectations of a rate increase as soon as December, a shift markets will watch closely given Japan's role in global funding markets.",
+      "headline_ids": ["h007", "h037", "h050", "h112", "h178"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US economy grew 3.4% in the third quarter",
+      "summary": "The US economy expanded at a 3.4% annualized pace in the third quarter, its fastest growth in a year, driven by robust consumer spending and AI-related investment. The reading contrasts with surveys showing many voters rate the economy poorly. The data arrived in the same week as heavy earnings-driven volatility in AI-linked stocks.",
+      "why_it_matters": "Strong headline growth complicates the picture for policymakers and voters alike, since it sits alongside weak sentiment and a stock market rattled by AI spending concerns.",
+      "headline_ids": ["h260", "h285"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Localized Ukraine truce holds as Pentagon urges Europe to tone down Russia rhetoric",
+      "summary": "A localized ceasefire around the Russian-held town of Oleshky held for a third day, allowing an aid convoy and mission to enter the area. Reuters reported the Pentagon has told European governments to cool their rhetoric on Russia. Separately, Russian President Vladimir Putin said Moscow seeks better ties with Europe and that the conflict will produce no winners, while a Russian drone strike elsewhere killed 14 people on a Ukrainian rail platform and six others died in further attacks.",
+      "why_it_matters": "The mixed signals, a local truce alongside continued strikes elsewhere, and reported US pressure on European allies, point to unresolved tension over how the war and any peace process should proceed.",
+      "headline_ids": ["h032", "h081", "h051", "h182", "h230"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea pushes drone and missile buildup",
+      "summary": "Kim Jong Un called for rapid expansion of North Korea's drone technology and observed weapons tests that included attack drones, cruise missiles and rocket launchers, urging 'absolute superiority' in drones. South Korea said it would respond firmly to North Korean breaches of its border. The tests come as a blockchain analytics firm attributed the Binance hack to a North Korean hacking unit.",
+      "why_it_matters": "Pyongyang's weapons push and alleged involvement in a major cyber theft add to security concerns in the region and point to new sanctions-evading revenue streams for the regime.",
+      "headline_ids": ["h077", "h102", "h165", "h253"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Spain's train crash death toll rises to 69",
+      "summary": "The death toll from Wednesday's train collision in Spain rose to 69 as the search for victims continued. Leaked audio recordings suggested one train had been given clearance to move even though another had stalled on the same track. The disaster is the second deadly train crash in Spain this year, prompting questions about the safety and age of the country's rail system ahead of a national election.",
+      "why_it_matters": "A second major rail disaster in a year raises pressure on Spain's government over infrastructure safety just as the country heads toward a national election.",
+      "headline_ids": ["h012", "h227", "h270", "h295"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump cancels midterm rallies as Alaska Senate dispute escalates",
+      "summary": "President Trump cancelled campaign rallies in Kansas and Iowa, opting instead for remote 'tele-rallies' in nearly 20 states as the US midterm elections near. The Justice Department escalated its investigation into dueling Senate candidacies in Alaska, where Republican Dan Sullivan faces Democrat Mary Peltola amid allegations that Democratic operatives recruited a same-named spoiler candidate. Peltola denied knowing about the spoiler candidate. The episode comes as recent election losses by Trump-aligned leaders elsewhere have raised questions about his influence abroad.",
+      "why_it_matters": "Legal disputes over a potentially pivotal Senate race, combined with questions about Trump's global political influence, add uncertainty to a midterm election that could determine control of Congress.",
+      "headline_ids": ["h038", "h137", "h147", "h155", "h248"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Exxon Mobil and AbbVie report earnings, offering a fresh read on energy and pharma demand after a volatile week for US corporate results.",
+    "US index futures point to a lower open, with S&P 500 and Nasdaq 100 futures both down sharply after the global tech selloff.",
+    "Oil markets stay in focus after Iranian tanker attacks in the Strait of Hormuz, with WTI crude up and Brent crude down on the month."
+  ]
+}

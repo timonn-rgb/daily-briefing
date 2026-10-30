@@ -1,0 +1,46 @@
+Tech-led Wall Street selloff spreads to Asia as Binance hack, Israel vote add pressure
+Daily Briefing · Friday, 30 October 2026
+
+AT A GLANCE
+- Wall Street's AI-driven tech selloff deepened after Alphabet's historic $500bn drop, Amazon's cash burn and Intel's guidance miss; Asian and European markets diverged sharply overnight.
+- Binance suffered a record $6.3bn security breach, with North Korea-linked hackers blamed; Bitcoin fell and about $3bn in assets were frozen or recovered.
+- Israel's election left Netanyahu's bloc and the opposition both short of a majority, setting up weeks of coalition bargaining.
+- ECB President Christine Lagarde said she will step down nine months early to speak freely on world affairs.
+- The Bank of Japan held rates, declaring its 2% inflation target met for the first time since 2013; the yen strengthened.
+
+MARKETS
+S&P 500: 7,720.39 (-0.30%) as of Thu 29 Oct
+Nasdaq Composite: 26,184.72 (-1.38%) as of Thu 29 Oct
+Dow Jones: 52,342.56 (-0.25%) as of Thu 29 Oct
+S&P 500 futures: 7,683.75 (-0.91%) as of Fri 30 Oct
+Nasdaq 100 futures: 28,981.75 (-1.96%) as of Fri 30 Oct
+VIX volatility: 17.20 (+1.71%) as of Thu 29 Oct
+US 10-year yield: 4.99% (-6 bp) as of Thu 29 Oct
+DAX: 26,039.68 (+1.31%) as of Thu 29 Oct
+FTSE 100: 10,722.10 (+0.26%) as of Thu 29 Oct
+Euro Stoxx 50: 6,207.07 (+0.64%) as of Thu 29 Oct
+Nikkei 225: 63,101.29 (-2.41%) as of Fri 30 Oct
+Hang Seng: 23,364.11 (+1.77%) as of Fri 30 Oct
+Shanghai Composite: 3,637.44 (-0.38%) as of Fri 30 Oct
+EUR/USD: 1.1188 (+0.29%) as of Fri 30 Oct
+USD/JPY: 157.60 (-0.15%) as of Fri 30 Oct
+US dollar index: 101.84 (-0.20%) as of Fri 30 Oct
+WTI crude oil: 103.50 (+1.47%) as of Fri 30 Oct
+Brent crude oil: 112.49 (-2.08%) as of Fri 30 Oct
+Gold: 4,008.80 (-0.56%) as of Fri 30 Oct
+Bitcoin: 78,330.17 (-3.61%) as of Fri 30 Oct
+
+TOP STORIES
+- AI spending fears deepen Wall Street's tech-stock rout: The results are the clearest signal yet that investors are questioning whether heavy AI infrastructure spending by the largest tech companies will pay off, a question now weighing on markets well beyond the US.
+- Binance hit by biggest crypto hack on record, $6.3bn affected: A breach of this scale at the leading exchange raises fresh questions about security across the crypto industry and comes as North Korean state-linked groups continue to target digital-asset platforms for funding.
+- Israel's election leaves no governing majority: The deadlock prolongs political uncertainty in Israel and gives smaller and Arab-led parties unusual leverage over who ultimately governs.
+- ECB's Lagarde to step down nine months early: Her early exit sets up a leadership contest at the eurozone's central bank at a sensitive moment for European politics and ahead of a French election.
+- Bank of Japan holds rates, says inflation target finally met: Confirmation that Japan has durably exited deflation raises expectations of a rate increase as soon as December, a shift markets will watch closely given Japan's role in global funding markets.
+- US economy grew 3.4% in the third quarter: Strong headline growth complicates the picture for policymakers and voters alike, since it sits alongside weak sentiment and a stock market rattled by AI spending concerns.
+- Localized Ukraine truce holds as Pentagon urges Europe to tone down Russia rhetoric: The mixed signals, a local truce alongside continued strikes elsewhere, and reported US pressure on European allies, point to unresolved tension over how the war and any peace process should proceed.
+- North Korea pushes drone and missile buildup: Pyongyang's weapons push and alleged involvement in a major cyber theft add to security concerns in the region and point to new sanctions-evading revenue streams for the regime.
+- Spain's train crash death toll rises to 69: A second major rail disaster in a year raises pressure on Spain's government over infrastructure safety just as the country heads toward a national election.
+- Trump cancels midterm rallies as Alaska Senate dispute escalates: Legal disputes over a potentially pivotal Senate race, combined with questions about Trump's global political influence, add uncertainty to a midterm election that could determine control of Congress.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-10-30/
+Data as of 07:01 CET. Not investment advice.
