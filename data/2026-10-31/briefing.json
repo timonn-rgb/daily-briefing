@@ -1,0 +1,103 @@
+{
+  "headline": "Tech stocks tumble, record $6.3bn Binance hack, and Iran tensions lift oil",
+  "at_a_glance": [
+    "Wall Street had its worst session since June as AI-spending fears hit tech; Nasdaq fell 2.86%, S&P 500 fell 1.82%, and Intel had its worst day since the 1970s.",
+    "Hackers linked to North Korea stole $6.3bn from Binance, the largest crypto theft on record; Binance says it will cover customer losses.",
+    "Mines set four tankers ablaze in the Strait of Hormuz, intensifying the Iran war and pushing Brent crude up 2.40% to $117.64.",
+    "The US approved a $2.1bn sale of Patriot missiles to Ukraine, one of the biggest steps in arms support since 2025.",
+    "Poland deployed riot police after its president suspended the constitutional court's chief judge, deepening a rule-of-law standoff."
+  ],
+  "market_analysis": "Wall Street had its worst session since June on Friday as anxiety over ballooning AI spending intensified. The S&P 500 fell 1.82% to 7,580.07 and the Nasdaq Composite dropped 2.86% to 25,437.00, its lowest close in more than two months, while the VIX volatility index jumped 12.91% to 19.42. Intel had its worst day since the 1970s after weak results, OpenAI cut its funding target by $10bn, and S&P Global revised Meta's outlook to negative on capital-spending and cash-flow concerns. The 10-year Treasury yield eased 6 basis points to 4.93%.\n\nAsian markets were mixed: the Nikkei 225 fell 2.12% tracking the US tech rout and the Shanghai Composite lost 1.44%, while Hong Kong's Hang Seng rose 1.46%. In Europe, the DAX slipped 0.85% and the Euro Stoxx 50 fell 1.22%, while London's FTSE 100 edged up 0.07%. Oil rose on renewed Iran-linked attacks on tankers in the Strait of Hormuz, with Brent crude up 2.40% to $117.64 and WTI up 2.08% to $104.12. Gold fell 3.29% to its lowest in a year, and bitcoin was little changed at $77,158.50 despite the record Binance hack.\n\nNo economic data or watch-list earnings are scheduled for today. Markets will track further fallout from the Binance hack and the AI-spending selloff, plus comments from Federal Reserve officials after Presidents Alberto Musalem and Lorie Logan both signalled the Fed may need to resume raising rates. US midterm elections on Tuesday, with early voting already above the 2022 record, are also in focus.",
+  "mover_notes": {
+    "INTC": "Shares fell after Intel posted its worst day since the 1970s, with investors citing weak PC demand, rising memory-chip prices and AI server chip shortfalls.",
+    "RDDT": "Reddit shares plunged after the company gave weak fourth-quarter guidance and said third-quarter search referral traffic had fallen sharply.",
+    "GPN": "Shares jumped after Reuters reported private equity firm CD&R is exploring a deal to take the payments processor private."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "AI spending fears trigger worst tech selloff since June",
+      "summary": "US tech stocks suffered their sharpest drop since June as investors questioned whether massive artificial-intelligence spending will pay off. Intel shares had their worst day since the 1970s on weak results, wiping about $12bn off the US government's stake in the company, and the broader chip sector followed it lower. OpenAI cut its funding target by $10bn to about $20bn, and S&P Global revised Meta's outlook to negative over its capex and cash-flow trajectory. Reports also surfaced that Anthropic could receive a junk rating after its planned IPO, adding to concerns about the industry's borrowing spree.",
+      "why_it_matters": "The selloff signals growing investor skepticism about the AI capital-spending boom that has powered the stock market's gains, and any further unwinding could ripple through broader indices and credit markets.",
+      "headline_ids": ["h008", "h011", "h013", "h014", "h107", "h115", "h123", "h207", "h212", "h217", "h284", "h287"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "North Korea-linked hackers steal record $6.3bn from Binance",
+      "summary": "Hackers believed to be linked to North Korea stole about $6.3bn from crypto exchange Binance, in what is considered the largest crypto theft on record. Binance said an engineer's laptop was compromised, that roughly $3bn of the funds has been frozen, and that it will cover customer losses. Investigators described a 'cat and mouse' race to recover the funds before they can be laundered. President Trump said the US government was looking into whether North Korea was responsible.",
+      "why_it_matters": "The theft underscores persistent security vulnerabilities at crypto exchanges and highlights how crypto theft has become a major source of foreign currency for North Korea's isolated economy.",
+      "headline_ids": ["h002", "h010", "h012", "h017", "h078", "h093", "h153", "h155", "h157", "h174", "h188", "h198", "h209", "h256", "h264", "h292"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Mine attacks set four tankers ablaze in Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guard said four tankers caught fire after being struck by mines in the Strait of Hormuz, including one carrying 27 Indian crew members. It was reported as the first known successful use of such mines in the waterway since the US-Iran war began. Tanker operators are continuing to transit the strait despite the escalation, drawn by sharply higher freight rates. Trump said the conflict with Iran would be 'wrapped up soon.'",
+      "why_it_matters": "The Strait of Hormuz carries a large share of global seaborne oil trade, and further attacks there could escalate the war and keep pushing up oil and freight prices.",
+      "headline_ids": ["h019", "h033", "h062", "h111", "h191", "h218", "h276", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US approves $2.1bn Patriot missile sale to Ukraine",
+      "summary": "The US approved a proposed $2.1bn sale of 500 Patriot PAC-3 interceptor missiles to Ukraine, one of the most significant steps in supplying defensive weapons to Kyiv since Trump took office in 2025. Ukrainian President Zelenskyy welcomed the decision but warned delivery could take years. Russia's foreign minister Sergey Lavrov called Zelenskyy's comments unhelpful and said Russia's position was unchanged.",
+      "why_it_matters": "Patriot interceptors are described as the only effective weapon against Russian ballistic missiles, so the sale could affect Ukraine's ability to defend its cities, though the long delivery timeline limits any near-term impact.",
+      "headline_ids": ["h006", "h076", "h096", "h227", "h253", "h254"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US midterm elections loom over jittery investors",
+      "summary": "With US midterm elections on Tuesday, early voting has already surpassed the 2022 record, with more than 48.5 million ballots cast. Investors are weighing whether the vote could shift control of Congress, though some commentary notes inflation, interest rates, AI spending and the Iran war are seen as more important market drivers than the election itself. Wall Street is also bracing for a busy week of earnings, including Apple and AMD, alongside the monthly jobs report.",
+      "why_it_matters": "A change in control of Congress could affect the direction of fiscal and regulatory policy for the rest of Trump's term, though markets are described as more focused on AI spending, rates and the Iran war.",
+      "headline_ids": ["h003", "h048", "h072", "h244", "h257", "h230", "h154"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed officials signal possible return to rate hikes",
+      "summary": "Federal Reserve Presidents Alberto Musalem and Lorie Logan both indicated the Fed may need to resume raising interest rates, offering early insight into the central bank's next moves. Separate commentary noted that more interest-rate hikes are seen as needed to fight inflation.",
+      "why_it_matters": "A pivot back toward rate hikes would mark a reversal for markets that had been pricing in a less restrictive Fed, and could pressure both bond and equity prices.",
+      "headline_ids": ["h171", "h184"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Riot police deployed as Poland's top court crisis escalates",
+      "summary": "Polish riot police faced off with protesters outside the Constitutional Tribunal in Warsaw after the government suspended the court's chief judge, Bogdan Swieczkowski, as part of a long-running dispute over the court's legitimacy. President Karol Nawrocki cut short a trip to Senegal to join the protests, while Prime Minister Donald Tusk defended the move as necessary to 'restore the rule of law.' The escalation follows the suspension of two senior justices and moves toward criminal charges against them.",
+      "why_it_matters": "The standoff deepens a rule-of-law dispute between Poland's president and government ahead of a parliamentary election next year, and highlights ongoing tensions over judicial independence within the EU.",
+      "headline_ids": ["h055", "h074", "h092", "h114", "h118", "h120", "h225", "h238", "h288"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Canada and EU unveil new alliance as old order unravels",
+      "summary": "Canada and the European Union announced the 'Alliance for the Future' at a summit in Montreal, describing it as open to other like-minded countries in a world 'shaken by new storms.' Canadian Prime Minister Mark Carney said Canada is seeking an 'associate membership' with the EU to diversify ties beyond the US, despite some German pushback on the term. The move is framed as part of Canada's effort to reduce American influence over its economy and foreign policy.",
+      "why_it_matters": "The initiative signals a broader realignment among traditional US allies as confidence in the transatlantic relationship under Trump weakens, with potential implications for trade and diplomatic ties involving the EU.",
+      "headline_ids": ["h016", "h049", "h193", "h202"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "No clear winner in Israel election",
+      "summary": "Final results from Israel's election showed no outright winner, with Prime Minister Benjamin Netanyahu's party and allies taking 53 seats, short of the majority needed to govern. The main opposition bloc, led by Gadi Eisenkot, won 48 seats. Commentary noted Netanyahu has lost his majority but remains difficult to defeat politically.",
+      "why_it_matters": "A prolonged coalition-formation process in Israel could add uncertainty to the country's political direction amid ongoing regional conflicts.",
+      "headline_ids": ["h024", "h034"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "BP, Chevron and Exxon post bumper profits on war-driven refining margins",
+      "summary": "BP's quarterly profit hit an 18-year high of $8.46bn, which climate campaigners criticized as 'obscene,' as the Middle East war pushed up oil and gas prices. Chevron and Exxon hit all-time highs as refining margins surged, with global diesel prices climbing after Ukraine and Iran struck refineries in Russia and the Middle East. Exxon and Chevron's profits beat analyst forecasts.",
+      "why_it_matters": "The results show how the Ukraine and Iran conflicts are redistributing profits toward oil majors through higher refining margins, even as higher fuel costs weigh on consumers and other businesses.",
+      "headline_ids": ["h021", "h022", "h271"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US midterm elections take place Tuesday, with early voting already surpassing the 2022 record turnout.",
+    "Further comments from Federal Reserve officials after Presidents Musalem and Logan signalled a possible return to rate hikes.",
+    "Any escalation in the Strait of Hormuz after mine attacks set four tankers on fire, which has already pushed oil prices higher."
+  ]
+}
