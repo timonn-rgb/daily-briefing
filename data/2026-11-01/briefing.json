@@ -1,0 +1,99 @@
+{
+  "headline": "Tech-led selloff deepens on AI fears as Europe's weekend protests turn violent",
+  "at_a_glance": [
+    "US stocks fell sharply Friday as AI spending fears intensified; the Nasdaq dropped 2.86% and OpenAI trimmed its funding target.",
+    "The FBI blamed North Korea for the record $6.3bn Binance hack; the exchange says it has covered 90% of losses.",
+    "Youth-led protests over living costs turned violent in Germany and France, with rioting in Frankfurt and clashes across French cities.",
+    "US midterm elections near with record early voting; control of Congress remains close heading into Tuesday's vote.",
+    "Poland's Tusk vowed to press on with a contested overhaul of the constitutional court despite protests and opposition accusations."
+  ],
+  "market_analysis": "US stocks sold off sharply in Friday's session (Oct 30), with the S&P 500 down 1.82% to 7,580.07, the Nasdaq Composite down 2.86% to 25,437.00, and the Dow Jones down 1.09% to 51,770.31. The decline was led by renewed fears over the scale of AI-related spending after OpenAI cut its fundraising target to around $20 billion and reports highlighted heavy debt levels at data-center operators. Intel shares plunged 28.6% and Datadog fell 11.5%, while investors rotated into bonds, pushing the VIX up 12.91% to 19.42 and the 10-year Treasury yield down 6 basis points to 4.93%.\n\nEuropean markets were mixed Friday: the DAX fell 0.85% and the Euro Stoxx 50 fell 1.22%, while the FTSE 100 edged up 0.07%. France's outlook was also cut by Fitch after data showed an unexpected third-quarter contraction. In Asia, the Nikkei 225 dropped 2.12% in tandem with US tech weakness, while the Hang Seng rose 1.46% and the Shanghai Composite fell 1.44%. Oil prices diverged, with WTI up 2.08% to $104.12 and Brent down 1.26% to $113.43, as OPEC+ agreed in principle to hold output steady in December. Gold fell 3.29% to $3,898.90, and bitcoin added 0.73% over the weekend to $77,765.\n\nNo economic data releases or watch-list earnings are scheduled today. Markets will reopen Monday still digesting Friday's selloff, with attention turning to Tuesday's US midterm elections, described by Bloomberg as a policy wildcard for AI-heavy Asian markets. Binance is due to resume withdrawals on Sunday after covering 90% of its $6.3 billion hack losses, following the FBI's attribution of the theft to North Korean hackers.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "AI bubble fears drive deeper Wall Street selloff",
+      "summary": "Wall Street's main indexes fell sharply Friday, led by the Nasdaq's 2.86% drop, as investors grew more cautious about the scale of AI-related spending. OpenAI cut its fundraising target to about $20 billion with a lower valuation goal of $1.25 trillion, according to people familiar with the deal. Reports also highlighted the large amounts of debt held by data-center operators, fueling concern that an AI spending bubble could burst. Investors rotated into bonds, pushing the 10-year Treasury yield down 6 basis points to 4.93%.",
+      "why_it_matters": "A pullback in AI-related spending or valuations could ripple through the broader market given how concentrated recent gains have been in a small number of tech stocks.",
+      "headline_ids": ["h007", "h010", "h074", "h260", "h269"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "FBI blames North Korea for record $6.3bn Binance hack",
+      "summary": "The FBI said North Korean state-linked hackers, identified as the group \"TraderTraitor,\" were behind the theft of $6.3 billion from crypto exchange Binance, the largest hack in the industry's history. Binance said it has covered about 90% of the losses and plans to resume withdrawals on Sunday, subject to security checks. The same group was previously linked to a $1.5 billion hack of exchange Bybit last year.",
+      "why_it_matters": "The scale of the theft and its state-sponsored origin are likely to intensify scrutiny of security practices across crypto exchanges and add to pressure around North Korea's cyber activity.",
+      "headline_ids": ["h006", "h031", "h057", "h069", "h116", "h130", "h133", "h284"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Gen Z-led protests turn violent across Germany",
+      "summary": "Youth-led demonstrations over the cost of living and education funding took place in cities across Germany on Saturday, drawing tens of thousands of people under the banner \"GenZ regelt!\" Police said the day was largely peaceful but turned violent in the evening, with looting and rioting reported in Frankfurt and unrest also in Berlin, Hamburg and Cologne.",
+      "why_it_matters": "The unrest echoes similar youth-led protests spreading across Europe and adds pressure on Germany's government over living costs and education spending.",
+      "headline_ids": ["h003", "h096", "h182", "h211", "h265", "h219"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France protests enter third weekend as violence flares",
+      "summary": "Around 320,000 people demonstrated across France on Saturday over the cost of living and public services, in a third consecutive weekend of youth-led protests, according to the interior ministry; organizers put the number at nearly half a million. Largely peaceful marches in Paris and other cities gave way to clashes between police and masked rioters after dark, with more than 290 people arrested nationwide.",
+      "why_it_matters": "Repeated large-scale unrest adds political pressure on the French government, which is already facing a credit-rating setback after Fitch's outlook downgrade.",
+      "headline_ids": ["h004", "h030", "h071", "h138", "h147", "h151", "h194", "h291"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US heads into midterm elections with record early turnout",
+      "summary": "More than 50 million Americans have already cast ballots ahead of Tuesday's midterm elections, a record for early voting, with Democrats outnumbering Republicans in states that track party registration. Control of the House and Senate remains close in the final days of campaigning. Political advertising in the final push includes dueling ads over candidates' ties to Jeffrey Epstein.",
+      "why_it_matters": "The outcome will shape fiscal and regulatory policy, including the approach to AI and tech spending that markets have been watching closely.",
+      "headline_ids": ["h257", "h288", "h280", "h276", "h282"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Poland's Tusk presses on with top court overhaul",
+      "summary": "Polish Prime Minister Donald Tusk said he would not back down from an overhaul of the country's Constitutional Tribunal, after judges backed by his government suspended the tribunal's chief justice. The opposition has accused Tusk of staging an institutional coup, and riot police have been deployed amid continuing protests.",
+      "why_it_matters": "The standoff over judicial independence is a central test of the rule of law in one of the EU's largest member states.",
+      "headline_ids": ["h083", "h119", "h158", "h193", "h225"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Ukrainian evacuees from occupied Oleshky reunite with families",
+      "summary": "Hundreds of residents of the Russian-occupied Ukrainian city of Oleshky crossed into Ukrainian-held territory during a rare local ceasefire, reuniting with relatives after enduring months without reliable food, water or electricity. Some evacuees said they had resorted to eating garden weeds to survive. Those involved described the operation as a harrowing, hours-long journey.",
+      "why_it_matters": "The evacuation highlights the humanitarian toll of Russia's occupation in southern Ukraine even as the broader war continues.",
+      "headline_ids": ["h142", "h169", "h201", "h249", "h266", "h273"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran war fears persist despite renewed diplomatic push",
+      "summary": "Qatari mediators held more than 12 hours of talks in Tehran aimed at restarting direct US-Iran negotiations and avoiding a resumption of American-led attacks on Iran, according to a source. Iran's Supreme Leader warned the US and Israel against further strikes, saying any response would have no \"geographic limits.\" Diplomats from both countries said a negotiated end to the conflict remains possible.",
+      "why_it_matters": "A breakdown in the talks risks reigniting direct military conflict in the Middle East, with implications for oil markets and shipping in the Gulf.",
+      "headline_ids": ["h011", "h047", "h152", "h184", "h240"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "G20 foreign ministers end Atlanta talks without consensus",
+      "summary": "G20 foreign ministers concluded their meeting in Atlanta, hosted by US Secretary of State Marco Rubio, without agreement on key issues. Rubio defended Washington's decision to include Russia in this year's G20 meetings despite criticism from the EU and other allies, calling dialogue the only way to end the war in Ukraine.",
+      "why_it_matters": "The lack of consensus underscores continuing divisions among major economies over how to handle Russia diplomatically while its war in Ukraine continues.",
+      "headline_ids": ["h001", "h156", "h168"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fitch downgrades France's credit outlook",
+      "summary": "Rating agency Fitch issued an unscheduled downgrade of France's outlook. The move came hours after data showed an unexpected contraction in third-quarter economic output.",
+      "why_it_matters": "A weaker credit outlook for the euro area's second-largest economy could raise its borrowing costs and add to pressure on French bond markets.",
+      "headline_ids": ["h017"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "US midterm elections on Tuesday will test control of Congress and could reshape policy toward AI, energy and trade.",
+    "Binance is scheduled to resume withdrawals on Sunday after covering 90% of the $6.3bn hack losses.",
+    "Markets reopen Monday following Friday's sharp tech-led selloff, with no major economic data or watch-list earnings due."
+  ]
+}

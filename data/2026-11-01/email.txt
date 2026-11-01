@@ -1,0 +1,46 @@
+Tech-led selloff deepens on AI fears as Europe's weekend protests turn violent
+Daily Briefing · Sunday, 01 November 2026
+
+AT A GLANCE
+- US stocks fell sharply Friday as AI spending fears intensified; the Nasdaq dropped 2.86% and OpenAI trimmed its funding target.
+- The FBI blamed North Korea for the record $6.3bn Binance hack; the exchange says it has covered 90% of losses.
+- Youth-led protests over living costs turned violent in Germany and France, with rioting in Frankfurt and clashes across French cities.
+- US midterm elections near with record early voting; control of Congress remains close heading into Tuesday's vote.
+- Poland's Tusk vowed to press on with a contested overhaul of the constitutional court despite protests and opposition accusations.
+
+MARKETS
+S&P 500: 7,580.07 (-1.82%) as of Fri 30 Oct
+Nasdaq Composite: 25,437.00 (-2.86%) as of Fri 30 Oct
+Dow Jones: 51,770.31 (-1.09%) as of Fri 30 Oct
+S&P 500 futures: 7,614.00 (-1.81%) as of Fri 30 Oct
+Nasdaq 100 futures: 28,534.00 (-3.48%) as of Fri 30 Oct
+VIX volatility: 19.42 (+12.91%) as of Fri 30 Oct
+US 10-year yield: 4.93% (-6 bp) as of Fri 30 Oct
+DAX: 25,818.21 (-0.85%) as of Fri 30 Oct
+FTSE 100: 10,729.80 (+0.07%) as of Fri 30 Oct
+Euro Stoxx 50: 6,131.31 (-1.22%) as of Fri 30 Oct
+Nikkei 225: 63,290.11 (-2.12%) as of Fri 30 Oct
+Hang Seng: 23,294.42 (+1.46%) as of Fri 30 Oct
+Shanghai Composite: 3,599.02 (-1.44%) as of Fri 30 Oct
+EUR/USD: 1.1183 (+0.24%) as of Fri 30 Oct
+USD/JPY: 157.80 (-0.02%) as of Fri 30 Oct
+US dollar index: 101.88 (-0.16%) as of Fri 30 Oct
+WTI crude oil: 104.12 (+2.08%) as of Fri 30 Oct
+Brent crude oil: 113.43 (-1.26%) as of Fri 30 Oct
+Gold: 3,898.90 (-3.29%) as of Fri 30 Oct
+Bitcoin: 77,764.99 (+0.73%) as of Sun 1 Nov
+
+TOP STORIES
+- AI bubble fears drive deeper Wall Street selloff: A pullback in AI-related spending or valuations could ripple through the broader market given how concentrated recent gains have been in a small number of tech stocks.
+- FBI blames North Korea for record $6.3bn Binance hack: The scale of the theft and its state-sponsored origin are likely to intensify scrutiny of security practices across crypto exchanges and add to pressure around North Korea's cyber activity.
+- Gen Z-led protests turn violent across Germany: The unrest echoes similar youth-led protests spreading across Europe and adds pressure on Germany's government over living costs and education spending.
+- France protests enter third weekend as violence flares: Repeated large-scale unrest adds political pressure on the French government, which is already facing a credit-rating setback after Fitch's outlook downgrade.
+- US heads into midterm elections with record early turnout: The outcome will shape fiscal and regulatory policy, including the approach to AI and tech spending that markets have been watching closely.
+- Poland's Tusk presses on with top court overhaul: The standoff over judicial independence is a central test of the rule of law in one of the EU's largest member states.
+- Ukrainian evacuees from occupied Oleshky reunite with families: The evacuation highlights the humanitarian toll of Russia's occupation in southern Ukraine even as the broader war continues.
+- Iran war fears persist despite renewed diplomatic push: A breakdown in the talks risks reigniting direct military conflict in the Middle East, with implications for oil markets and shipping in the Gulf.
+- G20 foreign ministers end Atlanta talks without consensus: The lack of consensus underscores continuing divisions among major economies over how to handle Russia diplomatically while its war in Ukraine continues.
+- Fitch downgrades France's credit outlook: A weaker credit outlook for the euro area's second-largest economy could raise its borrowing costs and add to pressure on French bond markets.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-01/
+Data as of 07:01 CET. Not investment advice.
