@@ -1,0 +1,91 @@
+{
+  "headline": "Tech sell-off eases, oil drops on Iran talks ahead of US midterms",
+  "at_a_glance": [
+    "US midterm elections take place Tuesday, with control of Congress at stake and Wall Street tracking the outcome for policy signals.",
+    "Qatari-led talks continue to de-escalate US-Iran tensions as two tankers hit mines in the Strait of Hormuz.",
+    "Wall Street futures rise as the global tech sell-off eases; Apple reports earnings later today under new CEO John Ternus.",
+    "Binance posts $3.64 billion in outflows after a record $6.3 billion hack blamed on North Korea; bitcoin holds steady.",
+    "Oil prices drop sharply on Iran diplomacy hopes while the Bank of England is expected to raise rates to 4%."
+  ],
+  "market_analysis": "US stocks fell sharply in Friday's session, with the S&P 500 down 1.82%, the Nasdaq Composite down 2.86% and the Dow Jones down 1.09%, as the Nasdaq posted its worst month in over a year amid a global AI-related sell-off. The VIX volatility index jumped 12.91% to 19.42, while the 10-year Treasury yield eased 6 basis points to 4.93%.\n\nEuropean markets also retreated on Friday, with the DAX down 0.85%, the Euro Stoxx 50 down 1.22% and the FTSE 100 roughly flat. Asian markets traded higher on Monday as risk appetite stabilized: the Hang Seng rose 0.78% and the Shanghai Composite gained 1.09%, while the Nikkei 225 was little changed. US and European futures pointed higher Monday, with S&P 500 futures up 0.52% and Nasdaq 100 futures up 0.98%.\n\nOil fell further, with WTI down 3.42% and Brent down 6.66%, as markets grew more hopeful that US-Iran diplomacy could avoid a new round of strikes after Tuesday's US midterm elections. Gold rose 0.64% and bitcoin gained 1.06% despite the Binance hack fallout. Apple reports earnings later today, no economic data is scheduled in Europe, and the Bank of England is expected to announce a rate decision this week.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "US heads into pivotal midterm elections",
+      "summary": "US voters go to the polls Tuesday in midterm elections that will decide control of Congress. Campaigning intensified over the weekend with rallies in Iowa and Kansas, and cost-of-living concerns featured prominently among voters. Polls point to a possible Democratic surge, though forecasters caution that past polling has proven unreliable. Stock futures ticked higher as investors looked past the vote toward a busy week of earnings and jobs data.",
+      "why_it_matters": "The outcome will shape the balance of power in Washington for the remainder of the president's term and could influence trade, tax and regulatory policy that affects global markets.",
+      "headline_ids": ["h007", "h048", "h058", "h065", "h076", "h105", "h107", "h138", "h192", "h259"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Gulf states brace for possible new US-Iran escalation",
+      "summary": "Qatari mediators held a third day of talks aimed at ending the US-Iran conflict, while Gulf diplomats warned that renewed fighting could be more damaging than previous rounds. Iran's navy said two tankers caught fire after hitting mines in the Strait of Hormuz. Oil prices fell as markets grew more hopeful that diplomacy, rather than renewed strikes after the US midterms, would prevail. Iran warned that a resumed war with the US could last longer than the previous conflict.",
+      "why_it_matters": "A reopening of the Strait of Hormuz or a new round of strikes would have an immediate effect on global oil supply and prices.",
+      "headline_ids": ["h009", "h020", "h053", "h055", "h142", "h159", "h174", "h227", "h266", "h295"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Global tech sell-off eases as Apple reports",
+      "summary": "US equity futures rose Monday after the Nasdaq posted its worst month in more than a year, with Asian stocks and US futures stabilizing after last week's slump in tech shares. Apple is due to report earnings later Monday, the first results call for new CEO John Ternus, at a time when memory-chip prices have risen and consumer spending has softened. Some investors said they are now more worried about an AI-linked correction than about inflation.",
+      "why_it_matters": "Apple's results and the broader tech rebound will set the tone for how much further an AI-driven slowdown in big tech stocks could extend into November.",
+      "headline_ids": ["h004", "h033", "h111", "h132", "h144", "h145", "h190", "h208"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Binance outflows top $3.6bn after record crypto hack",
+      "summary": "Binance recorded $3.64 billion in net outflows, equal to 2.1% of its total assets, after resuming withdrawals following a $6.3 billion hack that the FBI attributed to North Korea. The exchange said it would cover about 90% of the losses and reported that outflows were stabilizing. Bitcoin was little changed, up 1.06% on the day.",
+      "why_it_matters": "The incident is described as the largest cyber theft in history and will add to scrutiny of exchange security as regulators weigh crypto oversight.",
+      "headline_ids": ["h002", "h022", "h056", "h082", "h246", "h258"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Bulgaria set to re-elect Kremlin-friendly president",
+      "summary": "Acting President Iliana Yotova took an early lead in Bulgaria's presidential runoff, with initial results and exit polls pointing to her becoming the country's first elected female head of state. Her win is expected to consolidate the Kremlin-friendly stance of Prime Minister Rumen Radev's government.",
+      "why_it_matters": "A Yotova victory would strengthen a Ukraine-skeptic line within a euro-area member state, with implications for EU unity on Russia policy.",
+      "headline_ids": ["h014", "h064", "h220", "h262"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "German cost-of-living protests turn violent",
+      "summary": "Protests over the cost of living in Berlin, Hamburg, Frankfurt and Cologne turned violent, with shops looted and clashes with police, on the same day hundreds of thousands also protested in France. German ministers vowed a tough response to the Frankfurt riots and looting.",
+      "why_it_matters": "Social unrest tied to living costs adds pressure on German and European policymakers already managing weak growth and inflation concerns.",
+      "headline_ids": ["h026", "h221", "h247", "h298", "h299"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Kherson ceasefire ends as Russia and Ukraine trade hacking claims",
+      "summary": "A rare localized humanitarian ceasefire in Ukraine's Kherson region, which had allowed civilian evacuations from Russian-occupied Oleshky, expired, and both sides braced for renewed fighting. Russian strikes cut power to thousands in Ukraine, while Ukraine and Russia accused each other of hacking their emergency air-raid alert apps to send false warnings. Ukraine said it would stop striking Russian refineries if the US supplies Patriot missiles.",
+      "why_it_matters": "The end of the truce and renewed strikes on energy infrastructure point to an escalation of the war heading into winter, with implications for European energy markets.",
+      "headline_ids": ["h018", "h094", "h109", "h118", "h196", "h199", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bank of England expected to raise rates to 4%",
+      "summary": "The Bank of England is poised to raise interest rates to 4% in its fight against inflation, though Governor Andrew Bailey has cautioned against rushing to judgment about the risks, and the bank may push back against expectations of further hikes.",
+      "why_it_matters": "A rate rise would mark a shift in UK monetary policy and could influence sentiment across European markets this week.",
+      "headline_ids": ["h045", "h156"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "South Korea unveils record AI-focused budget",
+      "summary": "President Lee Jae Myung presented a record-breaking 2027 budget proposal with major investments in artificial intelligence and other technology, part of a vow to make bold AI investment.",
+      "why_it_matters": "The spending signals intensifying state-backed competition in AI among major Asian economies, alongside US and Chinese investment.",
+      "headline_ids": ["h039", "h099"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Apple reports quarterly earnings today, the first under new CEO John Ternus.",
+    "The Bank of England is expected to announce an interest rate decision this week, with markets watching for a move to 4%.",
+    "US midterm elections take place Tuesday, with investors watching the outcome for signals on trade and fiscal policy."
+  ]
+}
