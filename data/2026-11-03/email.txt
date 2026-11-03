@@ -1,0 +1,45 @@
+US election day, Iran strikes, Binance hack and tech selloff dominate markets
+Daily Briefing · Tuesday, 03 November 2026
+
+AT A GLANCE
+- Americans vote in high-stakes midterm elections; Democrats are favored to retake the House, with Senate control contested.
+- US forces struck Iran's Qeshm Island overnight even as both sides signaled progress toward a negotiated settlement.
+- North Korea denied involvement in the record $6.3 billion Binance hack as investigators trace the stolen funds.
+- A cyberattack hit supermarket freezer systems across seven European countries, forcing stores to discard spoiled food.
+- Wall Street's tech-led selloff continued; Apple fell on a weak margin forecast while Marvell and Lumentum shares were punished.
+
+MARKETS
+S&P 500: 7,541.40 (-0.51%) as of Mon 2 Nov
+Nasdaq Composite: 25,164.31 (-1.07%) as of Mon 2 Nov
+Dow Jones: 51,983.98 (+0.41%) as of Mon 2 Nov
+S&P 500 futures: 7,561.75 (-0.17%) as of Tue 3 Nov
+Nasdaq 100 futures: 28,117.75 (-0.03%) as of Tue 3 Nov
+VIX volatility: 21.15 (+8.91%) as of Mon 2 Nov
+US 10-year yield: 4.89% (-3 bp) as of Mon 2 Nov
+DAX: 25,981.09 (+0.63%) as of Mon 2 Nov
+FTSE 100: 10,761.30 (+0.29%) as of Mon 2 Nov
+Euro Stoxx 50: 6,176.06 (+0.73%) as of Mon 2 Nov
+Nikkei 225: 63,081.86 (-0.33%) as of Mon 2 Nov
+Hang Seng: 23,462.31 (+0.29%) as of Tue 3 Nov
+Shanghai Composite: 3,587.43 (-1.39%) as of Tue 3 Nov
+EUR/USD: 1.1196 (+0.35%) as of Tue 3 Nov
+USD/JPY: 157.85 (+0.11%) as of Tue 3 Nov
+US dollar index: 101.74 (-0.01%) as of Tue 3 Nov
+WTI crude oil: 97.27 (+0.84%) as of Tue 3 Nov
+Brent crude oil: 105.55 (+0.74%) as of Tue 3 Nov
+Gold: 3,931.70 (-0.95%) as of Tue 3 Nov
+Bitcoin: 76,464.18 (-2.28%) as of Tue 3 Nov
+
+TOP STORIES
+- Americans vote in pivotal midterm elections: The outcome will determine whether Trump faces a divided Congress for the remainder of his term, shaping prospects for his legislative agenda and investor expectations for fiscal policy.
+- US strikes Iran's Qeshm Island amid push for a deal: Continued US-Iran military exchanges in the Strait of Hormuz, a critical oil shipping chokepoint, keep global energy markets sensitive to headline risk despite talk of a negotiated end to the conflict.
+- North Korea denies role in record Binance hack: If confirmed, it would be among the largest crypto thefts on record and one of North Korea's largest known funding sources for weapons programs, intensifying pressure on exchanges' security practices.
+- Russian strikes kill 26 at Ukraine aid centre: The attack underscores how fragile recent ceasefire efforts remain, even as Washington pushes a fresh diplomatic track and European allies prepare for a possible post-ceasefire support role.
+- Cyberattack disrupts supermarket freezers across Europe: Repeated, coordinated attacks on refrigeration systems highlight vulnerabilities in food supply chains and have prompted a formal EU security investigation.
+- Apple shares fall despite stronger revenue: As one of the most heavily weighted Nasdaq and S&P 500 stocks, Apple's margin warning adds to broader concerns about AI-related cost pressures weighing on big tech earnings.
+- Marvell to buy Lumentum in $115bn AI deal; shares fall: The market's negative reaction signals investor skepticism about deal terms even amid continued enthusiasm for AI infrastructure spending.
+- Palantir's commercial revenue overtakes government business: The shift toward commercial revenue is seen as a test of whether AI-driven enterprise demand can sustain valuations after a recent selloff in AI-linked stocks.
+- Australia raises rates to highest since 2008: The hike adds to the cost of borrowing for Australian mortgage holders and signals that some central banks are still tightening even as other major economies weigh the pace of future moves.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-03/
+Data as of 07:01 CET. Not investment advice.

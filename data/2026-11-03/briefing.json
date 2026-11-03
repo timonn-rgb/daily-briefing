@@ -1,0 +1,95 @@
+{
+  "headline": "US election day, Iran strikes, Binance hack and tech selloff dominate markets",
+  "at_a_glance": [
+    "Americans vote in high-stakes midterm elections; Democrats are favored to retake the House, with Senate control contested.",
+    "US forces struck Iran's Qeshm Island overnight even as both sides signaled progress toward a negotiated settlement.",
+    "North Korea denied involvement in the record $6.3 billion Binance hack as investigators trace the stolen funds.",
+    "A cyberattack hit supermarket freezer systems across seven European countries, forcing stores to discard spoiled food.",
+    "Wall Street's tech-led selloff continued; Apple fell on a weak margin forecast while Marvell and Lumentum shares were punished."
+  ],
+  "market_analysis": "US stocks opened November lower on Monday as investors continued selling AI-linked technology shares: the S&P 500 fell 0.51% and the Nasdaq Composite dropped 1.07%, while the Dow Jones rose 0.41% as money rotated into non-tech names. Apple shares slid after forecasting a holiday-quarter margin drop despite beating revenue estimates, and Marvell and Lumentum both tumbled on investor skepticism about their $115 billion merger. The VIX volatility index jumped 8.91% to 21.15, and the 10-year Treasury yield eased 3 basis points to 4.89%. Brent crude, which had plunged more than 6% on hopes of an Iran breakthrough, steadied near $105.55.\n\nIn Europe, the DAX, FTSE 100 and Euro Stoxx 50 all traded higher. Asian markets were mixed as the tech selloff deepened overnight: the Nikkei 225 and Shanghai Composite fell while the Hang Seng edged up. Gold slipped 0.95% and bitcoin dropped 2.28%, against a backdrop of midterm and Middle East uncertainty.\n\nToday's focus is the US midterm elections, a high-impact event on the economic calendar with control of Congress at stake. AMD reports earnings, offering another read on AI chip demand after recent volatility. US equity futures were little changed overnight.",
+  "mover_notes": {
+    "LITE": "Lumentum shares fell after shareholders criticized the terms of its $115 billion all-stock merger agreement with Marvell.",
+    "MRVL": "Marvell shares dropped as investors questioned the cost and terms of its $115 billion deal to acquire Lumentum.",
+    "INTC": "Intel shares remained under pressure as its foundry turnaround faces a critical test after October's 45% stock plunge."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Americans vote in pivotal midterm elections",
+      "summary": "Voters across the US are casting ballots today in midterm elections widely seen as a referendum on President Trump, whose approval rating is near a career low according to a Reuters/Ipsos poll. Prediction markets give Democrats a roughly 74% chance of winning the Senate, and they are widely projected to retake the House. The Supreme Court on Monday rejected a Trump administration bid to force California to set aside about 20,000 disputed ballots, a setback for the administration's push against alleged noncitizen voting. Campaign spending for the cycle is projected to reach nearly $12 billion, the most expensive midterms on record.",
+      "why_it_matters": "The outcome will determine whether Trump faces a divided Congress for the remainder of his term, shaping prospects for his legislative agenda and investor expectations for fiscal policy.",
+      "headline_ids": ["h007", "h039", "h056", "h064", "h092", "h158", "h218", "h284", "h289"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US strikes Iran's Qeshm Island amid push for a deal",
+      "summary": "The US military carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, described by officials as defensive measures, even as Vice President Vance expressed hope for a negotiated settlement with Tehran. Iranian state media reported explosions on the island and in Bandar Lengeh. Iran's president said contacts over ending the war are continuing after the latest round of talks finished without a breakthrough, while officials said Iran could reopen the Strait of Hormuz within two days as part of a potential deal. Oil prices, which fell sharply on Monday on hopes of a breakthrough, were steady to higher on Tuesday.",
+      "why_it_matters": "Continued US-Iran military exchanges in the Strait of Hormuz, a critical oil shipping chokepoint, keep global energy markets sensitive to headline risk despite talk of a negotiated end to the conflict.",
+      "headline_ids": ["h009", "h079", "h100", "h120", "h150", "h181", "h296", "h033"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "North Korea denies role in record Binance hack",
+      "summary": "North Korea rejected US and FBI allegations that it was behind the theft of more than $6.3 billion from crypto exchange Binance, calling the accusation \"absurd rhetoric\" and a \"provocation.\" Blockchain researchers say the stolen tokens have been split into small packages across networks in an apparent effort to evade tracing, and experts expect laundering the funds could take months. Binance has begun reopening withdrawals for more assets on affected networks.",
+      "why_it_matters": "If confirmed, it would be among the largest crypto thefts on record and one of North Korea's largest known funding sources for weapons programs, intensifying pressure on exchanges' security practices.",
+      "headline_ids": ["h016", "h041", "h095", "h114", "h189", "h241"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russian strikes kill 26 at Ukraine aid centre",
+      "summary": "Russian bombing killed at least 26 people, including aid workers and emergency responders, at a humanitarian aid centre in a school in southern Ukraine's Zaporizhzhia region. The strike came hours after a rare ceasefire ended. The US is set to mediate the first trilateral talks between Russia and Ukraine since February, to be held in Abu Dhabi next week, and roughly 2,800 European troops will rehearse a potential Ukraine deployment in Poland later this month.",
+      "why_it_matters": "The attack underscores how fragile recent ceasefire efforts remain, even as Washington pushes a fresh diplomatic track and European allies prepare for a possible post-ceasefire support role.",
+      "headline_ids": ["h013", "h142", "h184", "h287", "h163", "h136"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Cyberattack disrupts supermarket freezers across Europe",
+      "summary": "A suspected cyberattack caused freezer and refrigerator temperatures to rise as high as 50C at supermarket chains in seven European countries, forcing stores to discard large quantities of spoiled food. The EU described the incident as a \"deliberate attempt to disrupt\" the bloc's food supply. It is the second such wave of disruptions after an earlier incident in France, and European and US military officials are investigating.",
+      "why_it_matters": "Repeated, coordinated attacks on refrigeration systems highlight vulnerabilities in food supply chains and have prompted a formal EU security investigation.",
+      "headline_ids": ["h022", "h031", "h034", "h293"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Apple shares fall despite stronger revenue",
+      "summary": "Apple reported stronger-than-expected fiscal Q4 revenue in new CEO John Ternus's first earnings report, but shares fell after the company forecast a drop in holiday-quarter margins due to rising memory costs. Services growth is also slowing and China revenue missed estimates. The stock's decline added to pressure on the Nasdaq, which opened November with losses as investors sold tech shares.",
+      "why_it_matters": "As one of the most heavily weighted Nasdaq and S&P 500 stocks, Apple's margin warning adds to broader concerns about AI-related cost pressures weighing on big tech earnings.",
+      "headline_ids": ["h014", "h017", "h260", "h156", "h197"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Marvell to buy Lumentum in $115bn AI deal; shares fall",
+      "summary": "Marvell Technology agreed to an all-stock deal to acquire optical component maker Lumentum, a tie-up valued at about $115 billion tied to AI infrastructure demand. Shares of both companies fell sharply on Monday, with Lumentum down 18.6% and Marvell down 12.7%, as shareholders of both companies criticized the deal's terms. The deal is expected to close in the first half of 2028.",
+      "why_it_matters": "The market's negative reaction signals investor skepticism about deal terms even amid continued enthusiasm for AI infrastructure spending.",
+      "headline_ids": ["h026", "h193", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Palantir's commercial revenue overtakes government business",
+      "summary": "Palantir reported that its US commercial revenue jumped 148% to $984 million in the quarter, surpassing government revenue of $953 million for the first time. The company forecast strong quarterly revenue ahead on AI demand, beating estimates, though some analysts flagged a deceleration in US commercial contract growth. Shares fell despite the earnings beat.",
+      "why_it_matters": "The shift toward commercial revenue is seen as a test of whether AI-driven enterprise demand can sustain valuations after a recent selloff in AI-linked stocks.",
+      "headline_ids": ["h020", "h153", "h190", "h276"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Australia raises rates to highest since 2008",
+      "summary": "The Reserve Bank of Australia raised its cash rate to 4.85%, the fifth increase this year and the highest level since the 2008 financial crisis, as inflation remains above target. The decision matched economists' expectations polled by Reuters.",
+      "why_it_matters": "The hike adds to the cost of borrowing for Australian mortgage holders and signals that some central banks are still tightening even as other major economies weigh the pace of future moves.",
+      "headline_ids": ["h008", "h010", "h038", "h087"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US midterm election results will be reported throughout the day, with control of the House and Senate at stake.",
+    "AMD reports earnings today, a closely watched read on AI chip demand after recent volatility in tech shares.",
+    "Markets will watch for any further developments in US-Iran talks after overnight strikes on Qeshm Island."
+  ]
+}
