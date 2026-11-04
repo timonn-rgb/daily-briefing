@@ -1,0 +1,91 @@
+{
+  "headline": "Democrats sweep US Congress; AI stocks slide in US, Asia, Europe",
+  "at_a_glance": [
+    "Democrats swept control of both chambers of Congress in the US midterms, a historic rebuke of Trump and the Republican Party.",
+    "Global stock futures and Asian markets fell as traders bet a Democratic Congress could slow the AI investment boom.",
+    "Iran's Revolutionary Guard says tankers caught fire near the Strait of Hormuz as Gulf states brace for renewed war.",
+    "North Korea fired missiles after denying blame for the record $6.3 billion Binance crypto hack.",
+    "Oracle canceled a $7 billion AI deal with Tencent under US pressure; AMD surged and Apple slipped on earnings."
+  ],
+  "market_analysis": "The S&P 500 snapped a three-day losing streak on Tuesday, rising 0.36%, while the Nasdaq Composite added 0.83% as semiconductor stocks rebounded, led by AMD's 8% jump after its data-center revenue nearly doubled. The Dow Jones fell 0.38%, weighed down by Apple's decline after its earnings disappointed on margins. The VIX eased slightly to 20.83, and the 10-year Treasury yield rose 6 basis points to 4.95%.\n\nOvernight, as Democrats won control of both chambers of the US Congress in the midterm elections, S&P 500 futures fell 0.42% and Nasdaq 100 futures dropped 0.53% on bets that tighter regulatory scrutiny could slow the AI buildout. The dollar index fell 0.43% and gold rose 1.66% to 4,005.90 as investors sought safety, while bitcoin gained 1.33%. Asian markets were mixed: the Nikkei 225 dropped 1.97% on the tech-driven selloff, while the Hang Seng and Shanghai Composite rose 1.01% and 1.17% respectively. European equity futures pointed lower after Tuesday's declines in the DAX (-0.45%), FTSE 100 (-1.14%) and Euro Stoxx 50 (-0.51%).\n\nNo economic data releases or watch-list earnings are scheduled for today. Attention stays on the final count for control of the US House and on whether AI- and semiconductor-related stocks stabilize after the overnight slide tied to the midterm results.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Economy & Policy",
+      "title": "Democrats sweep US midterms, take control of Congress",
+      "summary": "Democrats won control of both chambers of the US Congress in the 2026 midterms, flipping Senate seats in Texas, Ohio, North Carolina, South Carolina, Maine, Kansas and Iowa. Democrats also won governor's races in Texas, Ohio, Iowa and California, with Keisha Lance Bottoms becoming Georgia's first Black woman governor. Trump told the New York Times he would accept the results and said he intends to work with Democrats. Vote counting in several House races was still underway.",
+      "why_it_matters": "The result gives Democrats the power to block much of Trump's remaining legislative agenda and increases the likelihood of tighter scrutiny of the AI and tech industry, a shift markets reacted to immediately.",
+      "headline_ids": ["h009", "h063", "h080", "h155", "h067", "h066", "h068", "h116", "h122", "h006", "h134", "h055"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Strait of Hormuz tensions escalate amid fears of renewed Iran war",
+      "summary": "Iran's Revolutionary Guard said four tankers caught fire after hitting mines near the Strait of Hormuz. Trump confirmed US forces struck an Iranian anti-aircraft facility, while Iran called the US response to a proposed Hormuz plan \"unconvincing.\" Gulf Arab states stepped up mediation efforts, fearing a renewed and potentially worse round of fighting between the US and Iran. Oil prices rose on the uncertainty.",
+      "why_it_matters": "Escalation in the Strait of Hormuz, through which a large share of global oil shipments pass, could disrupt energy markets and supply chains well beyond the region.",
+      "headline_ids": ["h019", "h113", "h142", "h149", "h173", "h241", "h249"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "North Korea fires missiles after denying role in $6.3bn Binance hack",
+      "summary": "Binance said hackers used fake job interviews and an AI tool to steal $6.3 billion in crypto assets, the largest such heist on record, though the exchange says it has replenished 98% of the affected funds. The US blamed North Korea for the hack. North Korea denied responsibility, called the accusation evidence of a \"hostile policy,\" and launched multiple missiles toward the sea in protest.",
+      "why_it_matters": "The incident highlights security risks in crypto custody, and North Korea's missile tests add to tension with the US and Japan at a sensitive diplomatic moment.",
+      "headline_ids": ["h031", "h034", "h040", "h054", "h090", "h197", "h251", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump says US will cut $3.8 billion in annual military aid to Israel",
+      "summary": "President Trump told reporters the US plans to end its roughly $3.8 billion annual military aid package to Israel by the end of the year, while saying the US would continue selling Israel weapons. He said Democratic candidates had used US support for Israel against Republicans in the midterm campaign.",
+      "why_it_matters": "A reduction in US military aid would mark a shift in a decades-long pillar of US-Israel relations and could affect the security balance in the Middle East.",
+      "headline_ids": ["h193", "h213"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
+      "summary": "Oracle canceled a $7 billion AI-related deal with China's Tencent, reportedly under pressure from the Trump administration, as Washington increases scrutiny of US AI infrastructure companies doing business with Chinese tech firms.",
+      "why_it_matters": "The cancellation signals growing US restrictions on AI-related business with China, adding friction for US tech firms with Chinese partners.",
+      "headline_ids": ["h104"],
+      "single_source": true
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI-linked earnings diverge: AMD and Super Micro jump, Apple and Meta spend heavily",
+      "summary": "AMD shares jumped 8% after third-quarter results showed data-center revenue nearly doubling on AI chip demand, though its OpenAI and Meta chip deals triggered a $1 billion quarterly charge. Super Micro forecast quarterly revenue above estimates on strong AI server demand. Apple shares fell after its gross margin outlook and services revenue growth disappointed investors. Meta raised $15 billion in a bond sale, part of a planned $20-25 billion raise, to fund its AI infrastructure spending.",
+      "why_it_matters": "The mixed results show continued heavy capital spending on AI infrastructure even as some investors start questioning near-term returns.",
+      "headline_ids": ["h023", "h172", "h192", "h279", "h245", "h195", "h263", "h036", "h244"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "CVS Health moves to split its $117bn pharmacy and insurance empire",
+      "summary": "CVS Health is planning to split its pharmacy and insurance businesses into two separate companies, according to the Wall Street Journal. The move comes amid political pressure on pharmacy benefit managers and health insurers.",
+      "why_it_matters": "A breakup would reshape one of the largest US healthcare companies and could set a precedent for other vertically integrated health firms.",
+      "headline_ids": ["h250", "h254"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Spain's transport minister resigns after deadly train crash",
+      "summary": "Spain's transport minister, Óscar Puente, resigned six days after a high-speed rail crash south of Madrid that killed at least 69 people and injured dozens more. It was the second deadly high-speed rail accident in Spain in less than a year.",
+      "why_it_matters": "The resignation reflects political fallout from infrastructure safety failures and raises questions about oversight of Spain's rail network.",
+      "headline_ids": ["h024", "h253", "h271", "h297"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Supermarket cyberattacks disrupt stores across Germany, UK and other EU countries",
+      "summary": "The EU said cyberattacks on supermarkets in at least 11 countries, including Germany, Romania and the UK, are \"not isolated,\" though officials said there is no confirmed state actor behind them. US and European officials, including the US military, are investigating a wave of disruptions, with some blaming cyberattacks for problems including issues at grocery stores. Shops across Europe were affected again this week.",
+      "why_it_matters": "Repeated disruptions to grocery supply chains expose vulnerabilities in critical retail infrastructure across Europe, including in the reader's home market.",
+      "headline_ids": ["h043", "h156"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Final control of the US House remains undecided as vote counting continues after the Senate flipped to Democrats.",
+    "Markets will watch whether AI and semiconductor stocks stabilize after the overnight futures selloff tied to the midterm results.",
+    "Developments around the Strait of Hormuz and Iran remain in focus amid fears of renewed conflict in the Gulf."
+  ]
+}
