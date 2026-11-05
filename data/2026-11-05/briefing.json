@@ -1,0 +1,93 @@
+{
+  "headline": "Democrats sweep Congress, Wall Street rallies as oil tumbles and AI stocks wobble",
+  "at_a_glance": [
+    "Democrats swept control of both chambers of Congress in the US midterms, triggering Wall Street's best session since April 2025.",
+    "AI and data-center stocks fell on fears a Democratic Congress could slow the buildout, while hyperscalers and Apple rallied.",
+    "Oil fell for a fourth day after VP Vance linked Republicans' losses to the Iran war, fueling de-escalation hopes.",
+    "Hong Kong activist Joshua Wong was sentenced to 10 more years in prison for foreign collusion under the national security law.",
+    "German politician Hubert Aiwanger was found dead in a Berlin hotel; police have opened an investigation."
+  ],
+  "market_analysis": "US stocks had their best session since April 2025 — the Dow rose 3.03%, the S&P 500 1.58% and the Nasdaq 1.44% — after Democrats swept control of Congress in Tuesday's midterms. Apple, Amazon, Google, Meta and Microsoft rallied on reduced policy uncertainty, while AI and data-center stocks fell on fears a Democratic Congress could slow the buildout. Oil extended its slide after VP Vance blamed Republicans' losses on the Iran war, fueling de-escalation hopes. The VIX fell 20% to 16.61 and the 10-year yield eased 6bp to 4.89%.\n\nIn Asia Thursday, the Nikkei fell 2.14% on further AI-related chip weakness, the Hang Seng jumped 2.98% on a rotation into Chinese tech and renewables, and the Shanghai Composite slipped 0.37%. Europe closed higher Wednesday, tracking Wall Street: the DAX rose 2.22%, the FTSE 100 1.79% and the Euro Stoxx 50 1.97%. Gold climbed 1.23% to a two-week high near $4,123, bitcoin gained 3.89% to $80,356, and the dollar eased as EUR/USD rose 0.50% to 1.1264.\n\nUS futures point to a pause today, with S&P 500 futures down 0.34% and Nasdaq 100 futures down 1.32% as the post-election rotation is digested. The main event is the Bank of England's rate decision at 13:00 Berlin time, with a hike to 4.00% from 3.75% expected, followed by Governor Bailey's remarks at 13:30. No watch-list earnings are due today.",
+  "mover_notes": {
+    "VST": "Fell along with other power and data-center-linked energy stocks on fears a Democratic Congress could slow the AI data-center buildout, though analysts called the drop an 'excessive knee-jerk' reaction."
+  },
+  "stories": [
+    {
+      "section": "Economy & Policy",
+      "title": "Democrats sweep control of Congress",
+      "summary": "Democrats flipped seven Senate seats, nearly 30 House districts and five governorships in Tuesday's US midterm elections, taking full control of Congress. Hakeem Jeffries is poised to become the first Black Speaker of the House, while House Republican leader Mike Johnson said he will not seek re-election to his leadership post. Democrats say they plan to focus on affordability and reining in President Trump, including on tariffs and the Iran war. The result ends unified Republican government for the remainder of Trump's term.",
+      "why_it_matters": "A divided Washington makes major legislative changes harder to pass and could reopen fights over the debt ceiling, taxes and tariffs, with implications that extend beyond the US.",
+      "headline_ids": ["h019", "h022", "h026", "h205", "h239", "h257"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI and data-center stocks slide on regulatory fears, hyperscalers rally",
+      "summary": "Shares in chipmakers and data-center-linked companies fell after the Democratic sweep raised concerns a Democratic Congress could add scrutiny or slow the AI data-center buildout. At the same time, Apple, Amazon, Google, Meta and Microsoft rose as investors judged the outcome reduced broader policy uncertainty. The divergence extended into Thursday's Asian session, where chip stocks fell further while Hong Kong tech and renewable-energy names continued to rally. Some analysts described the reaction in power and data-center stocks as an overreaction, noting new officials are unlikely to halt already-funded projects.",
+      "why_it_matters": "The split signals investors are repricing which parts of the AI buildout face political risk, a rotation that could keep volatility elevated in chip and power stocks tied to data centers.",
+      "headline_ids": ["h004", "h012", "h028", "h113", "h224", "h232"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Oil extends slide as Iran war de-escalation hopes grow",
+      "summary": "Oil prices fell for a fourth consecutive day, with Brent dropping more than 8% in the prior session, after Vice President JD Vance blamed Republicans' midterm losses on public anger over the Iran war. Vance's remarks fed investor expectations that Washington will dial back military involvement in Iran, lowering the risk of supply disruption. WTI crude has fallen below $90 a barrel and Brent below $100. The decline has also eased inflation concerns in oil-importing economies such as India.",
+      "why_it_matters": "Lower oil prices ease inflation pressure for importing economies and reduce one source of market volatility, but the move hinges on whether de-escalation actually follows the political signal.",
+      "headline_ids": ["h013", "h027", "h052", "h074", "h203"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Tankers catch fire in Strait of Hormuz as South Korea boosts naval presence",
+      "summary": "Iran's Revolutionary Guard said two tankers and a tugboat caught fire in the Strait of Hormuz. Separately, South Korea said it will expand its anti-piracy naval unit's operations closer to the strait, deploying maritime patrol aircraft and an explosive-ordnance team to help keep the waterway open, while ruling out direct military involvement. The moves come after President Trump pressed Seoul to help secure the strait amid continuing tension from the Iran war. Seoul said it will seek parliamentary approval to extend its unit's operating area to about 650km from the strait.",
+      "why_it_matters": "The Strait of Hormuz carries a large share of global oil shipments, so incidents and naval build-ups there are watched closely for their potential to disrupt energy supplies and prices.",
+      "headline_ids": ["h007", "h079", "h106", "h117", "h127"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Hong Kong activist Joshua Wong jailed for 10 more years",
+      "summary": "A Hong Kong court sentenced pro-democracy activist Joshua Wong to 10 years in prison in his second national security case, after he pleaded guilty in September to seeking foreign sanctions against Hong Kong and China. Wong, 30, became a global face of Hong Kong's pro-democracy movement. The sentence comes just two months before he was due to be released from a prior term. He was convicted of collusion with foreign powers under Beijing's national security law.",
+      "why_it_matters": "The sentencing underscores the continued use of the national security law against prominent dissidents and is likely to draw renewed international criticism of Hong Kong's and Beijing's human rights record.",
+      "headline_ids": ["h001", "h008", "h010", "h084", "h105"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "German politician Hubert Aiwanger found dead in Berlin hotel",
+      "summary": "Hubert Aiwanger, Bavaria's deputy state premier and a prominent German politician, was found dead in a Berlin hotel room, police said. German police and prosecutors have opened an investigation into the death of the 55-year-old. No cause of death has been confirmed.",
+      "why_it_matters": "Aiwanger was a senior figure in Bavarian and German politics, and the unexplained death of a sitting state deputy leader is likely to draw significant domestic political attention.",
+      "headline_ids": ["h016", "h182"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bank of England expected to raise rates for first time in three years",
+      "summary": "The Bank of England is expected to raise its main interest rate to 4.00% from 3.75% at today's decision, which would be its first hike in more than three years, according to most analysts. The announcement, alongside the Monetary Policy Report and the MPC vote breakdown, is due at 13:00 Berlin time, followed by a speech from Governor Andrew Bailey at 13:30. The pound has already risen to its highest level against a basket of currencies since the Brexit referendum a decade ago.",
+      "why_it_matters": "A rate hike would mark a shift in the BoE's policy stance after years of holding or cutting rates, with direct implications for UK borrowing costs, the pound and European market sentiment.",
+      "headline_ids": ["h164", "h169", "h080"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israel's Herzog opens coalition talks as Netanyahu's position weakens",
+      "summary": "Israeli President Isaac Herzog began two days of talks with party leaders to decide whether Prime Minister Benjamin Netanyahu or a rival can first attempt to form a government, after Netanyahu's bloc lost its majority in recent elections. Netanyahu has cited unproven foreign-interference concerns about the vote, while Herzog's move to proceed with talks is seen as a setback to those efforts. Israeli opposition figures said the US Democratic sweep of Congress adds further pressure on Netanyahu, whom they described as having become a political liability.",
+      "why_it_matters": "A change in Israel's government, combined with a less favorable US Congress, could affect the country's diplomatic and military relationships, including over the war in Gaza.",
+      "headline_ids": ["h036", "h116", "h128", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "France braces for nationwide strikes amid stalled budget talks",
+      "summary": "France is set for a day of strikes and demonstrations, with more than 220 protests planned across the country, as parliamentary talks over next year's budget remain deadlocked. Hospital workers, air-traffic controllers and rail staff are among those expected to join the action, extending more than a month of protests over the cost of living. Unions have called a nationwide strike alongside the marches.",
+      "why_it_matters": "Prolonged budget deadlock and strikes add pressure on the French government and could further delay fiscal consolidation, a point of interest for euro-area markets.",
+      "headline_ids": ["h039", "h044", "h048"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "The Bank of England announces its rate decision at 13:00 Berlin time, with a hike to 4.00% expected alongside Governor Bailey's press conference.",
+    "Markets will watch whether the AI and data-center sell-off seen in Asia extends into European and US trading.",
+    "No watch-list earnings are due today, so attention stays on further reaction to the US midterm results and Iran-related oil moves."
+  ]
+}

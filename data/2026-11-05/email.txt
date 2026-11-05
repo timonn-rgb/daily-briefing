@@ -1,0 +1,45 @@
+Democrats sweep Congress, Wall Street rallies as oil tumbles and AI stocks wobble
+Daily Briefing · Thursday, 05 November 2026
+
+AT A GLANCE
+- Democrats swept control of both chambers of Congress in the US midterms, triggering Wall Street's best session since April 2025.
+- AI and data-center stocks fell on fears a Democratic Congress could slow the buildout, while hyperscalers and Apple rallied.
+- Oil fell for a fourth day after VP Vance linked Republicans' losses to the Iran war, fueling de-escalation hopes.
+- Hong Kong activist Joshua Wong was sentenced to 10 more years in prison for foreign collusion under the national security law.
+- German politician Hubert Aiwanger was found dead in a Berlin hotel; police have opened an investigation.
+
+MARKETS
+S&P 500: 7,688.62 (+1.58%) as of Wed 4 Nov
+Nasdaq Composite: 25,736.51 (+1.44%) as of Wed 4 Nov
+Dow Jones: 53,356.12 (+3.03%) as of Wed 4 Nov
+S&P 500 futures: 7,694.50 (-0.34%) as of Thu 5 Nov
+Nasdaq 100 futures: 28,189.50 (-1.32%) as of Thu 5 Nov
+VIX volatility: 16.61 (-20.26%) as of Wed 4 Nov
+US 10-year yield: 4.89% (-6 bp) as of Wed 4 Nov
+DAX: 26,437.67 (+2.22%) as of Wed 4 Nov
+FTSE 100: 10,829.20 (+1.79%) as of Wed 4 Nov
+Euro Stoxx 50: 6,265.71 (+1.97%) as of Wed 4 Nov
+Nikkei 225: 60,859.86 (-2.14%) as of Thu 5 Nov
+Hang Seng: 24,631.45 (+2.98%) as of Thu 5 Nov
+Shanghai Composite: 3,672.36 (-0.37%) as of Thu 5 Nov
+EUR/USD: 1.1264 (+0.50%) as of Thu 5 Nov
+USD/JPY: 157.91 (-0.35%) as of Thu 5 Nov
+US dollar index: 101.26 (-0.24%) as of Thu 5 Nov
+WTI crude oil: 87.66 (-0.52%) as of Thu 5 Nov
+Brent crude oil: 94.58 (-0.04%) as of Thu 5 Nov
+Gold: 4,123.30 (+1.23%) as of Thu 5 Nov
+Bitcoin: 80,356.50 (+3.89%) as of Thu 5 Nov
+
+TOP STORIES
+- Democrats sweep control of Congress: A divided Washington makes major legislative changes harder to pass and could reopen fights over the debt ceiling, taxes and tariffs, with implications that extend beyond the US.
+- AI and data-center stocks slide on regulatory fears, hyperscalers rally: The split signals investors are repricing which parts of the AI buildout face political risk, a rotation that could keep volatility elevated in chip and power stocks tied to data centers.
+- Oil extends slide as Iran war de-escalation hopes grow: Lower oil prices ease inflation pressure for importing economies and reduce one source of market volatility, but the move hinges on whether de-escalation actually follows the political signal.
+- Tankers catch fire in Strait of Hormuz as South Korea boosts naval presence: The Strait of Hormuz carries a large share of global oil shipments, so incidents and naval build-ups there are watched closely for their potential to disrupt energy supplies and prices.
+- Hong Kong activist Joshua Wong jailed for 10 more years: The sentencing underscores the continued use of the national security law against prominent dissidents and is likely to draw renewed international criticism of Hong Kong's and Beijing's human rights record.
+- German politician Hubert Aiwanger found dead in Berlin hotel: Aiwanger was a senior figure in Bavarian and German politics, and the unexplained death of a sitting state deputy leader is likely to draw significant domestic political attention.
+- Bank of England expected to raise rates for first time in three years: A rate hike would mark a shift in the BoE's policy stance after years of holding or cutting rates, with direct implications for UK borrowing costs, the pound and European market sentiment.
+- Israel's Herzog opens coalition talks as Netanyahu's position weakens: A change in Israel's government, combined with a less favorable US Congress, could affect the country's diplomatic and military relationships, including over the war in Gaza.
+- France braces for nationwide strikes amid stalled budget talks: Prolonged budget deadlock and strikes add pressure on the French government and could further delay fiscal consolidation, a point of interest for euro-area markets.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-05/
+Data as of 07:01 CET. Not investment advice.
