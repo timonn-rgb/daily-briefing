@@ -1,0 +1,105 @@
+{
+  "headline": "AI-driven global sell-off deepens as Democrats' midterm sweep rattles markets",
+  "at_a_glance": [
+    "Wall Street's AI-stock rout deepened overnight, with the S&P 500 down 4.36% and the Nasdaq down 5.52% in their worst session since April 2025.",
+    "Asian markets extended the sell-off Friday: Japan's Nikkei 225 entered a bear market and South Korean stocks hit a nine-month low.",
+    "Democrats' sweep of the US midterms raised fears of tighter AI and data-center regulation, a key driver of the tech-stock slide.",
+    "Hoax bomb threats disrupted dozens of flights across Europe this week, forcing emergency landings and diversions.",
+    "US October jobs data and a speech by Bank of Japan Governor Ueda are due later today, alongside continuing Iran-US tensions."
+  ],
+  "market_analysis": "US stocks suffered their worst session since April 2025 on Thursday, with the S&P 500 falling 4.36% to 7,353.73, the Nasdaq Composite dropping 5.52% to 24,315.00, and the Dow Jones losing 3.44% to 51,523.06. The sell-off was driven by fears that a Democratic sweep of the US midterm elections will bring tougher scrutiny of AI data-center buildouts, compounding existing doubts about AI spending. The VIX volatility index jumped 69.66% to 28.18, and the 10-year Treasury yield eased 6 basis points to 4.84%.\n\nThe rout extended into Friday's Asian session: the Nikkei 225 fell 5.72% and entered a bear market, the Hang Seng dropped 1.15% and the Shanghai Composite lost 1.02%. In Europe, the DAX, FTSE 100 and Euro Stoxx 50 each slipped around 0.4-0.6% on Thursday. US futures were mixed early Friday, with S&P 500 futures roughly flat and Nasdaq 100 futures up 0.81%.\n\nToday's focus is the US October jobs report at 14:30 CET, with forecasts of 65,000 non-farm payrolls, 0.3% average hourly earnings growth and a 4.2% unemployment rate. Bank of Japan Governor Ueda is due to speak at 17:00 CET. WTI and Brent crude both rose over 1% on renewed US-Iran tension, while gold fell 1.43% and bitcoin dropped 6.10%. No companies on the watch list report earnings today.",
+  "mover_notes": {
+    "AMD": "Fell as part of the broad Nasdaq sell-off driven by AI-spending concerns that pushed the tech-heavy index into correction territory.",
+    "MU": "Dropped with other chipmakers as the Nasdaq sell-off tied to AI-spending doubts hit semiconductor stocks broadly.",
+    "WDC": "Declined alongside other memory and storage chipmakers caught in the broader AI-driven tech sell-off.",
+    "LITE": "Fell with other chip-related names as the Nasdaq slid into correction territory on AI-spending worries.",
+    "SNDK": "Dropped amid the broader sell-off in chip and memory stocks tied to AI-spending concerns."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Global stock sell-off deepens as AI trade unwinds",
+      "summary": "US stocks suffered their worst session since April 2025 on Thursday, with the S&P 500 losing an estimated $2.9 trillion in market value in its largest one-day drop on record and the Nasdaq Composite entering correction territory. The sell-off, which wiped roughly $1 trillion from the 'Magnificent Seven' tech stocks, was driven by deepening doubts about the scale and profitability of AI spending. The rout extended into Friday's Asian session, where Japan's Nikkei 225 fell below 60,000 for the first time since May and entered a bear market, while South Korean stocks hit a nine-month low and the Taiwan dollar weakened past 33 per US dollar.",
+      "why_it_matters": "A sustained unwind of the AI trade would hit the valuations that have driven much of this year's global equity gains and could ripple into financing for the broader data-center buildout.",
+      "headline_ids": ["h011", "h019", "h142", "h207", "h177", "h009", "h154", "h138", "h133", "h225"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Democrats sweep US midterms, flipping control of Congress",
+      "summary": "Democrats won control of Congress in Tuesday's US midterm elections, with the party exceeding 250 House seats and flipping districts in states including Ohio, Arizona and North Carolina. Senate Democrats have vowed to block any attempt by President Trump to appoint a further right-leaning Supreme Court justice. Analysts are divided on how much the shift in Congress will change US policy given Trump's remaining executive powers, and pollsters are examining why they underestimated the scale of the Democratic win.",
+      "why_it_matters": "A Democratic-controlled Congress is expected to launch investigations into the administration and could complicate Trump's legislative agenda for the remainder of his term.",
+      "headline_ids": ["h041", "h057", "h060", "h062", "h032", "h211", "h236"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Democrats' win fuels fears of tighter AI data-center rules",
+      "summary": "Democratic lawmakers who won in Tuesday's midterms, including progressives, called for a national moratorium on new data-center construction as part of a broader push to rein in the AI buildout. Microsoft has tightened its oversight of so-called neocloud data-center projects, and lender ING has put $500 million of data-center loans up for sale. Texas's incoming Democratic governor said the state would pass laws to shield citizens from data centers, even as Google pressed ahead with a planned $17 billion data center in Wyoming.",
+      "why_it_matters": "Tighter regulation or financing scrutiny of data centers could slow the infrastructure buildout that has underpinned AI-related corporate spending and stock valuations.",
+      "headline_ids": ["h022", "h235", "h090", "h165", "h276", "h064"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Lawmakers summon Nvidia's Huang over China spying concerns",
+      "summary": "Top Republican lawmakers have asked Nvidia chief executive Jensen Huang to brief Congress after reports that he was the target of a Chinese spying effort. The New York Times reported that President Trump was briefed about the intelligence findings roughly a year ago.",
+      "why_it_matters": "Scrutiny of Nvidia's China ties adds a geopolitical risk for the company whose chips are central to the global AI buildout.",
+      "headline_ids": ["h020", "h140"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran-US tensions keep oil markets on edge",
+      "summary": "Oil prices rose Friday as investors weighed the risk of renewed US-Iran military escalation following the US midterm elections, even as regional mediators led by Qatar pushed for an interim deal to end the war. One energy analyst said renewed conflict could push both Brent and WTI crude futures above $100 a barrel, while another said the chance of an early US-Iran agreement is now low, arguing Tehran sees Trump as politically weakened. Iraq's top diplomat has urged armed groups not to join any Iranian retaliation against US attacks, as Baghdad tries to stay out of the conflict.",
+      "why_it_matters": "A further escalation between the US and Iran could disrupt oil supply through the Gulf and push energy prices sharply higher.",
+      "headline_ids": ["h008", "h010", "h065", "h084", "h058", "h042", "h166"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Hoax bomb threats disrupt dozens of European flights",
+      "summary": "A new wave of bomb threats disrupted dozens of flights across Europe this week, with at least 34 flights affected according to one count, forcing emergency landings, diversions and security checks in countries including Italy, Poland and Spain. Officials have called the threats malicious hoaxes, and one report said the disruptions are raising fears of hybrid warfare. The BBC reported there is no hard evidence so far linking the threats to Russia, Iran or any proxy group.",
+      "why_it_matters": "Repeated, unexplained disruption to European air travel raises security concerns for passengers and infrastructure across the continent.",
+      "headline_ids": ["h023", "h026", "h033", "h204", "h237", "h257", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bank of England raises interest rates to 4%",
+      "summary": "The Bank of England raised its base interest rate to 4% from 3.75%, its first increase in more than three years, citing the need to combat rising inflation. The bank's governor signaled that a further rate increase could follow in the near future.",
+      "why_it_matters": "A higher UK policy rate affects borrowing costs for households and businesses and is being announced amid an ongoing cost-of-living crisis.",
+      "headline_ids": ["h027"],
+      "single_source": true
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Hong Kong activist Joshua Wong sentenced to 10 more years",
+      "summary": "Hong Kong pro-democracy activist Joshua Wong was sentenced to an additional 10 years in prison, according to AP News, NYT World and Bloomberg Politics.",
+      "why_it_matters": "The sentence is a further sign of the tightening legal crackdown on Hong Kong's pro-democracy movement.",
+      "headline_ids": ["h001"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Paraguay's president resigns amid bank-collapse scandal",
+      "summary": "Paraguayan President Santiago Peña resigned after lawmakers voted to impeach him amid a banking collapse described as the country's worst financial crisis in decades. Peña had apologized for failing to prevent the collapse of Ueno Bank, which triggered the political crisis, and remains under investigation and faces possible removal from office.",
+      "why_it_matters": "The collapse of the government adds political instability to a South American economy already dealing with a major banking failure.",
+      "headline_ids": ["h038", "h087", "h144", "h263"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump says Russia-Ukraine deal is 'near' after meeting Putin envoy",
+      "summary": "President Trump said a Russia-Ukraine deal is close after meeting Putin's envoy Kirill Dmitriev at the White House, though he gave no specifics and did not meet with visiting Ukrainian officials. Ukrainian President Zelenskiy said Ukraine must adapt to new US political realities and resolve the issue of Patriot air-defense supplies. Russia and Ukraine continued to exchange airstrikes even as a US envoy described renewed security talks as productive.",
+      "why_it_matters": "Any US-brokered deal would shape the future of the war and European security, though the lack of Ukrainian involvement in the latest talks raises questions about the terms on the table.",
+      "headline_ids": ["h158", "h184", "h210", "h240", "h181", "h198"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US October non-farm payrolls, unemployment rate and wage data are released at 14:30 CET, with markets watching for signs of labor-market weakness after the tech-stock sell-off.",
+    "Bank of Japan Governor Ueda is scheduled to speak at 17:00 CET following the Nikkei's drop into bear-market territory.",
+    "Markets will watch for any further escalation in US-Iran tensions, which has already pushed oil prices higher this week."
+  ]
+}

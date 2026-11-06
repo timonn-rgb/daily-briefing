@@ -1,0 +1,46 @@
+AI-driven global sell-off deepens as Democrats' midterm sweep rattles markets
+Daily Briefing · Friday, 06 November 2026
+
+AT A GLANCE
+- Wall Street's AI-stock rout deepened overnight, with the S&P 500 down 4.36% and the Nasdaq down 5.52% in their worst session since April 2025.
+- Asian markets extended the sell-off Friday: Japan's Nikkei 225 entered a bear market and South Korean stocks hit a nine-month low.
+- Democrats' sweep of the US midterms raised fears of tighter AI and data-center regulation, a key driver of the tech-stock slide.
+- Hoax bomb threats disrupted dozens of flights across Europe this week, forcing emergency landings and diversions.
+- US October jobs data and a speech by Bank of Japan Governor Ueda are due later today, alongside continuing Iran-US tensions.
+
+MARKETS
+S&P 500: 7,353.73 (-4.36%) as of Thu 5 Nov
+Nasdaq Composite: 24,315.00 (-5.52%) as of Thu 5 Nov
+Dow Jones: 51,523.06 (-3.44%) as of Thu 5 Nov
+S&P 500 futures: 7,382.00 (-0.01%) as of Fri 6 Nov
+Nasdaq 100 futures: 26,968.75 (+0.81%) as of Fri 6 Nov
+VIX volatility: 28.18 (+69.66%) as of Thu 5 Nov
+US 10-year yield: 4.84% (-6 bp) as of Thu 5 Nov
+DAX: 26,325.01 (-0.43%) as of Thu 5 Nov
+FTSE 100: 10,782.70 (-0.43%) as of Thu 5 Nov
+Euro Stoxx 50: 6,231.54 (-0.55%) as of Thu 5 Nov
+Nikkei 225: 57,581.21 (-5.72%) as of Fri 6 Nov
+Hang Seng: 24,512.48 (-1.15%) as of Fri 6 Nov
+Shanghai Composite: 3,652.25 (-1.02%) as of Fri 6 Nov
+EUR/USD: 1.1199 (-0.32%) as of Fri 6 Nov
+USD/JPY: 157.81 (-0.35%) as of Fri 6 Nov
+US dollar index: 101.78 (+0.22%) as of Fri 6 Nov
+WTI crude oil: 91.53 (+1.12%) as of Fri 6 Nov
+Brent crude oil: 99.69 (+1.42%) as of Fri 6 Nov
+Gold: 4,054.80 (-1.43%) as of Fri 6 Nov
+Bitcoin: 75,501.74 (-6.10%) as of Fri 6 Nov
+
+TOP STORIES
+- Global stock sell-off deepens as AI trade unwinds: A sustained unwind of the AI trade would hit the valuations that have driven much of this year's global equity gains and could ripple into financing for the broader data-center buildout.
+- Democrats sweep US midterms, flipping control of Congress: A Democratic-controlled Congress is expected to launch investigations into the administration and could complicate Trump's legislative agenda for the remainder of his term.
+- Democrats' win fuels fears of tighter AI data-center rules: Tighter regulation or financing scrutiny of data centers could slow the infrastructure buildout that has underpinned AI-related corporate spending and stock valuations.
+- Lawmakers summon Nvidia's Huang over China spying concerns: Scrutiny of Nvidia's China ties adds a geopolitical risk for the company whose chips are central to the global AI buildout.
+- Iran-US tensions keep oil markets on edge: A further escalation between the US and Iran could disrupt oil supply through the Gulf and push energy prices sharply higher.
+- Hoax bomb threats disrupt dozens of European flights: Repeated, unexplained disruption to European air travel raises security concerns for passengers and infrastructure across the continent.
+- Bank of England raises interest rates to 4%: A higher UK policy rate affects borrowing costs for households and businesses and is being announced amid an ongoing cost-of-living crisis.
+- Hong Kong activist Joshua Wong sentenced to 10 more years: The sentence is a further sign of the tightening legal crackdown on Hong Kong's pro-democracy movement.
+- Paraguay's president resigns amid bank-collapse scandal: The collapse of the government adds political instability to a South American economy already dealing with a major banking failure.
+- Trump says Russia-Ukraine deal is 'near' after meeting Putin envoy: Any US-brokered deal would shape the future of the war and European security, though the lack of Ukrainian involvement in the latest talks raises questions about the terms on the table.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-06/
+Data as of 07:01 CET. Not investment advice.
