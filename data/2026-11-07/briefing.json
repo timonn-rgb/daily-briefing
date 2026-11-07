@@ -1,0 +1,102 @@
+{
+  "headline": "Markets steady after historic AI selloff as Washington reshuffles post-midterms",
+  "at_a_glance": [
+    "Wall Street rebounded Friday after a historic AI-driven selloff wiped $5.7 trillion from global markets this week, though the recovery was feeble.",
+    "Donald Trump named hardline aide Stephen Miller as White House chief of staff, replacing Susie Wiles, days after Republicans' historic midterm defeat.",
+    "Paraguay's President Santiago Peña was impeached, removed from office and placed under house arrest after the collapse of Ueno Bank froze millions of accounts.",
+    "The US carried out new strikes on Iran's Qeshm island as Trump claimed progress in negotiations to end the conflict.",
+    "A coordinated wave of bomb hoaxes disrupted European flights and newsrooms again Friday, with investigators probing a possible Russian link."
+  ],
+  "market_analysis": "US stocks staged a tepid rebound on Friday, a day after a historic sell-off driven by fears over AI spending that at one point wiped as much as $5.7 trillion off global equity values this week. The S&P 500 rose 0.31% and the Nasdaq Composite gained 1.09%, led by a rebound in chip stocks including AMD, while the Dow Jones slipped 0.46%. The VIX volatility index fell 9.01%, though analysts described the scale of the recovery as feeble compared with past rebounds from severe sell-offs. A stronger-than-expected October jobs report, which added 165,000 positions and pushed unemployment down to 4.1%, reinforced expectations that the Federal Reserve will raise interest rates, and the US 10-year yield rose to 4.86%.\n\nEuropean markets fell on Friday as the sell-off spread overseas, with the DAX down 1.92%, the FTSE 100 down 1.01% and the Euro Stoxx 50 down 0.98%. Asian markets were hit harder, with Japan's Nikkei 225 tumbling 5.96% and Hong Kong's Hang Seng and Shanghai's Composite also lower. Oil fell for the week on easing fears of an Iran escalation, while gold slipped even as China extended its gold-buying streak to two years.\n\nNo major economic data releases are scheduled in Europe today, leaving Berkshire Hathaway's earnings as the main item on the watch list. Fed policymakers are weighing a rate hike following the jobs report, and markets will be watching whether the tentative rebound in AI and chip stocks extends into next week or gives way to renewed selling.",
+  "mover_notes": {
+    "ABNB": "Airbnb shares surged after the company reported accelerating growth and raised its outlook.",
+    "AMD": "AMD shares rebounded along with other chipmakers as dip buyers returned after this week's tech selloff."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Wall Street's AI-driven selloff eases, but rebound called feeble",
+      "summary": "US stocks staged a tepid rebound on Friday, a day after a historic sell-off tied to fears over AI spending wiped out as much as $5.7 trillion in global market value this week. The Nasdaq 100 rose 1.4% and chip stocks including AMD rebounded, but analysts said the recovery's size was feeble compared with past rebounds from severe sell-offs. The rout was fueled in part by concerns that Democrats' decisive midterm election victory could slow AI development and bring more regulation. Markets in Asia and Europe fell further as the selloff spread overseas.",
+      "why_it_matters": "The scale of the pullback underscores how reliant equity markets have become on the AI investment theme, and a sustained pullback could ripple through financing for data centers and broader tech spending.",
+      "headline_ids": ["h007", "h011", "h013", "h016", "h197", "h201"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Paraguay's president impeached and arrested after bank collapse",
+      "summary": "Paraguay's Senate voted to impeach and remove President Santiago Peña on Friday, and he was placed under house arrest minutes later. The crisis stems from the collapse of Ueno Bank, a lender with close ties to his administration, which froze accounts affecting about 60% of the country's population. Pedro Alliana was sworn in as the new president. Peña could now face criminal charges over his alleged role in the bank's collapse.",
+      "why_it_matters": "The sudden removal of a sitting president over a banking collapse highlights the risks of close ties between governments and politically connected lenders, and leaves millions of frozen depositors in limbo.",
+      "headline_ids": ["h002", "h031", "h069", "h084", "h086", "h105", "h128", "h129", "h138", "h169", "h174", "h226"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump names immigration hardliner Stephen Miller as chief of staff",
+      "summary": "President Trump named longtime aide Stephen Miller, the architect of his hardline immigration crackdown, as his new White House chief of staff, replacing Susie Wiles. The shake-up came three days after Democrats won decisive control of the House and Senate in the midterm elections. Wiles, the first woman to hold the chief of staff role, is moving to Trump's political operation. Some Republicans, including Marjorie Taylor Greene, warned the move could hurt the party's 2028 chances.",
+      "why_it_matters": "The choice of a hardline immigration figure to run the West Wing points to continued confrontation with the incoming Democratic Congress rather than a shift toward compromise.",
+      "headline_ids": ["h012", "h017", "h091", "h092", "h107", "h115", "h130", "h136", "h156", "h158", "h168", "h176", "h183", "h214", "h266"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US strikes Iran's Qeshm island as diplomacy continues",
+      "summary": "The US military carried out a new round of what Trump called 'minor' strikes on Iran's Qeshm island on Friday, days after an earlier attack was made public. Iran has stepped up attacks on shipping in the Persian Gulf and Strait of Hormuz, including a missile strike on a Greek-owned tanker that killed one crew member. Trump said there had been 'a lot of progress' in negotiations with Tehran, and Qatar's prime minister urged both sides not to wait for a 'perfect moment' to reach a deal.",
+      "why_it_matters": "Continued military strikes alongside active diplomacy point to an unresolved conflict that still threatens shipping and oil flows through a key global chokepoint.",
+      "headline_ids": ["h065", "h072", "h085", "h114", "h146", "h292"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Coordinated bomb hoaxes disrupt European flights and newsrooms again",
+      "summary": "A fresh wave of bomb threats disrupted dozens of flights and several newsrooms in Ireland and the UK on Friday, part of a coordinated campaign that has targeted European aviation and broadcasters for days. No explosives have been found, and affected aircraft landed safely. European security agencies are investigating whether the hoaxes originated from pro-Kremlin activists or hacking groups in Russia.",
+      "why_it_matters": "A sustained, coordinated hoax campaign adds to anxiety in Europe over hybrid attacks and strains aviation and media security resources even without any physical device being found.",
+      "headline_ids": ["h018", "h022", "h023", "h044", "h198", "h231", "h278"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US presses China on Busan trade deal as sanctions dispute escalates",
+      "summary": "Washington warned Beijing it must 'immediately' meet its commitments under the Busan trade deal, particularly on increasing supply of rare earths and other critical products and on agricultural purchases. China's commerce ministry responded by vowing to hit back against new US sanctions on two Chinese companies, saying it reserves the right to take 'necessary measures.' The exchange comes ahead of planned Trump-Xi meetings.",
+      "why_it_matters": "Renewed friction over the Busan deal's implementation threatens a fragile trade truce between the world's two largest economies, with rare earths supply a particular flashpoint for global manufacturers.",
+      "headline_ids": ["h003", "h061", "h088", "h148", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US jobs report beats forecasts, reinforcing rate-hike expectations",
+      "summary": "The US economy added 165,000 jobs in October, beating forecasts, and the unemployment rate fell to 4.1%. The hiring rebound reinforced expectations that the Federal Reserve will raise interest rates, and the US 10-year yield ticked up to 4.86%. Reuters noted that the average length of unemployment for jobless workers surpassed 27 weeks in October, the highest outside the pandemic period in a decade.",
+      "why_it_matters": "A stronger-than-expected labor market reduces the odds of near-term rate cuts and could add pressure to the AI-linked stocks that had already been selling off on rate concerns.",
+      "headline_ids": ["h006", "h162", "h175", "h211", "h229", "h251"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Tesla to end Cybertruck production, shift focus to Cybercab",
+      "summary": "Tesla will wind down Cybertruck production in Texas next year, Elon Musk said, redirecting capacity toward the Cybercab, a planned driverless robotaxi. The angular pickup, launched with much hype, never achieved mass-market sales and was subject to repeated recalls. Separately, long-time Tesla backer Scottish Mortgage Investment Trust has sold its remaining Tesla stake and cut its SpaceX holding to 11.1% of assets.",
+      "why_it_matters": "The end of Cybertruck production marks a retreat from one of Musk's highest-profile consumer product bets and underscores investor doubts about parts of Tesla's growth story.",
+      "headline_ids": ["h009", "h026", "h028", "h163", "h267", "h294", "h296"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI data center backlash grows as financing strains emerge",
+      "summary": "Protesters broke into a Microsoft data center construction site in Amsterdam, part of a wider European backlash against the social and environmental impact of the AI building boom. Microsoft is also winding down its use of 'neocloud' partners and an Oracle deal for rented AI cloud capacity, focusing instead on its own data centers. Separately, ING is reportedly seeking buyers for about $500 million of data center loans, including debt tied to a New Mexico Stargate site. In the US midterms, voters rejected data center development in 40 of 41 ballot measures addressing the issue.",
+      "why_it_matters": "Growing public resistance and signs of strain in data-center financing could slow the infrastructure buildout that has underpinned the AI investment boom.",
+      "headline_ids": ["h020", "h021", "h027", "h030", "h070", "h256", "h271", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "US believes Nvidia CEO had ties to alleged Chinese spy",
+      "summary": "US intelligence officials believe Nvidia CEO Jensen Huang had a romantic relationship with a woman who was working for a Chinese spy agency, which had recruited her to gather information on him, according to the New York Times. American officials reportedly warned the Trump administration about the relationship.",
+      "why_it_matters": "The allegation touches the chief executive of the world's most valuable chipmaker at a moment of intense US-China tension over semiconductor technology and export controls.",
+      "headline_ids": ["h079", "h094"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Berkshire Hathaway (BRK-B) reports earnings today, the only scheduled release on the watch list.",
+    "Markets will watch whether Friday's rebound in AI and chip stocks holds or whether the selloff resumes next week.",
+    "Investors will watch for further developments in the Iran conflict and the investigation into Europe's coordinated bomb-hoax campaign."
+  ]
+}
