@@ -1,0 +1,99 @@
+{
+  "headline": "Israel taps Eisenkot over Netanyahu; Krakow shooting kills six; AI selloff hits Asia",
+  "at_a_glance": [
+    "Israel's president tapped opposition leader Gadi Eisenkot to try to form a government, a setback for Netanyahu after an inconclusive election.",
+    "A gunman with far-right views killed six people in Krakow's market square; Poland's prime minister called it an act of terrorism.",
+    "US forces expanded a naval blockade of Iran and disabled a vessel in the Gulf of Oman as tensions in the region rose further.",
+    "Asian and European stocks fell sharply as investors unwound AI-linked trades following last week's US midterm elections.",
+    "Paraguay's former president was charged with corruption after the collapse of a bank with close ties to his administration."
+  ],
+  "market_analysis": "US stocks were mixed in Friday's session: the S&P 500 rose 0.31% and the Nasdaq Composite gained 1.09%, lifted by gainers including Coherent (+13.6%), Airbnb (+11.7%) and AMD (+11.0%), while the Dow Jones fell 0.46% as Axon (-18.2%) and Microchip Technology (-10.0%) led decliners. The VIX eased 9.0% to 25.64 but remains elevated, and the 10-year Treasury yield ticked up 2 basis points to 4.86%.\n\nAsian markets sold off sharply, with the Nikkei 225 down 5.96% and the Hang Seng and Shanghai Composite both lower, as investors unwound AI-related positions in the wake of last week's US midterm elections, which brought fresh scrutiny of data-center capital spending. European benchmarks also fell, with the DAX down 1.92%, the FTSE 100 down 1.01% and the Euro Stoxx 50 down 0.98%.\n\nNo economic data releases or watch-list earnings are scheduled in Europe today. Markets will instead track developments in the Gulf, where the US is expanding a naval blockade of Iran and reported disabling a vessel that tried to breach it, plus any further reaction to Berkshire Hathaway's accelerated buybacks reported over the weekend. Oil held relatively steady, with WTI up 0.34% and Brent up 0.03%, while gold slipped 0.94% and bitcoin was little changed.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Israel's president gives Eisenkot first shot at forming government",
+      "summary": "Israeli President Isaac Herzog has given opposition leader and former military chief Gadi Eisenkot the first mandate to form a government, a setback for Prime Minister Benjamin Netanyahu after last month's election left the Knesset deadlocked with neither bloc securing a majority. Eisenkot, who leads an anti-Netanyahu alliance, now has 28 days to try to assemble a coalition. Commentators note the obstacles to a successful coalition remain substantial given the fragmented result.",
+      "why_it_matters": "A change of government in Israel would end Netanyahu's record-long tenure and could shift the country's approach to the region at a time of high regional tension.",
+      "headline_ids": ["h001", "h006", "h107", "h119", "h138", "h140", "h151", "h167", "h190", "h191", "h195"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Krakow shooting leaves six dead, Tusk calls it terrorism",
+      "summary": "A gunman opened fire from a car in Krakow's main market square, killing six people — including a British tourist — and wounding at least 16, before being shot and hospitalized; three more bodies were later found at his home. Polish authorities say the attacker held \"ultranationalistic\" and far-right views, and Prime Minister Donald Tusk described the attack as an act of terrorism. Tusk urged politicians not to exploit the incident.",
+      "why_it_matters": "The attack adds to a string of security incidents unsettling Europe and raises questions about far-right extremism as a driver of mass violence.",
+      "headline_ids": ["h002", "h084", "h092", "h108", "h124", "h132", "h148", "h157", "h161", "h265", "h269", "h270", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US expands naval blockade of Iran, disables vessel in Gulf of Oman",
+      "summary": "The US military is expanding its naval blockade of Iran and has launched a task force to restrict Iranian land-based supply routes, while reporting it fired on and disabled a commercial vessel in the Gulf of Oman that tried to breach the blockade. Explosions were reported on Qeshm Island and in southern Iran after Trump said the US carried out \"minor strikes,\" and Iran said it has lifted its self-imposed limit on missile ranges. Qatar is separately pushing a plan that could see Iran allow UN nuclear inspectors back in exchange for reopening the Strait of Hormuz.",
+      "why_it_matters": "Escalation around the Strait of Hormuz and Gulf shipping routes is a direct risk to oil supply and prices, a key variable for global markets.",
+      "headline_ids": ["h003", "h007", "h022", "h023", "h030", "h074", "h079", "h103", "h133", "h143", "h150", "h160", "h216"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "More than 50 killed in deadliest 24 hours of Yemen war",
+      "summary": "Airstrikes near Yemen's capital killed more than 50 people over 24 hours, according to the Houthi-run health ministry, in one of the deadliest days since fighting between the Houthis and the Saudi-backed government reignited in August. Saudi Arabia has not commented on the strikes, which Houthi authorities attribute to a Saudi-led coalition.",
+      "why_it_matters": "Renewed intensity in the Yemen conflict adds another front of instability in a region already on edge over Iran, with civilians bearing the heaviest toll.",
+      "headline_ids": ["h059", "h123", "h244", "h247"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "AI-trade unwind drags on Asian and global markets",
+      "summary": "Last week's Democratic sweep in the US midterms has triggered a reassessment of the AI trade, with investors unwinding AI-linked positions and rotating into previously out-of-favor Chinese and Indian stocks. The shift comes as the incoming Congress signals scrutiny of data-center buildouts, with Anthropic's pending IPO arriving into that backlash. The slump contributed to sharp declines across Asian markets, and analysts also flagged implications for renewable-energy stocks given the new political makeup.",
+      "why_it_matters": "A reversal in the AI trade that has driven much of this year's equity gains would have outsized effects on global indices given how concentrated markets have become in AI-related names.",
+      "headline_ids": ["h104", "h017", "h020", "h283", "h235", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Berkshire Hathaway doubles buybacks as profit falls",
+      "summary": "Berkshire Hathaway accelerated its share buybacks to $9.6 billion in the third quarter, more than doubling repurchases even as operating profit fell, dragged down by a slowdown in its insurance business; quarterly operating income dropped 5.8% year-on-year.",
+      "why_it_matters": "The scale of buybacks signals Berkshire's own view that its stock is undervalued even as underlying earnings soften, a data point watched closely by value investors.",
+      "headline_ids": ["h011", "h013", "h166", "h243"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "New Zealand election leaves no clear winner",
+      "summary": "New Zealand's general election produced no decisive winner, with the National party emerging as the largest in parliament but the shape of the next government unsettled; weeks of coalition negotiations are expected. Analysts describe a low national mood and faith in politics, with voters deserting the major parties in the country's tightest election in years.",
+      "why_it_matters": "Prolonged coalition uncertainty could delay policy decisions in New Zealand and adds to a broader pattern of fragmented election outcomes among developed democracies this year.",
+      "headline_ids": ["h089", "h091", "h106", "h155", "h219", "h263"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "South Africa's ANC suffers worst-ever election result",
+      "summary": "South Africa's African National Congress suffered its worst-ever performance in local elections, with near-final results showing its lowest vote share ever, as voters blamed the party for failing municipal services including water and electricity shortages. Commentators say the result turns the once-dominant liberation-era party into what is now just \"any other political party.\"",
+      "why_it_matters": "A diminished ANC changes the balance of power in Africa's most industrialized economy and could reshape governance of its largest cities.",
+      "headline_ids": ["h036", "h218"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Paraguay's ex-president charged after bank collapse",
+      "summary": "Paraguay's former president Santiago Peña has been charged with corruption and ordered held before trial, after being impeached and removed from office over the collapse of Ueno Bank, a lender with close ties to his administration, which left millions of people unable to access their money. Prosecutors are investigating alleged breach of trust and related offenses. The crisis has also created an opening for former president Horacio Cartes to reassert influence.",
+      "why_it_matters": "The collapse of a major bank and the fall of a sitting president underscore financial-sector fragility in Paraguay and could unsettle investor confidence in the country.",
+      "headline_ids": ["h008", "h109", "h121", "h184", "h202", "h205", "h236", "h264", "h288"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France sees mass protests as Mélenchon launches 2027 bid",
+      "summary": "More than 140,000 people rallied across France against rising living costs, with police firing tear gas in Paris and Lyon amid continuing Yellow Vest-linked protests. Separately, far-left leader Jean-Luc Mélenchon launched his fourth presidential campaign ahead of France's 2027 election, pledging to raise the minimum wage, cap prices on essential foods, restore the retirement age to 60 and renew his call to leave NATO.",
+      "why_it_matters": "Sustained social unrest combined with a strengthening far-left challenger adds to political uncertainty in the eurozone's second-largest economy ahead of 2027.",
+      "headline_ids": ["h159", "h169", "h182", "h189", "h198", "h220", "h228", "h231"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Gadi Eisenkot has 28 days to try to assemble a coalition after being given the first mandate to form Israel's next government.",
+    "No economic data or watch-list earnings are scheduled today, so markets will track Gulf shipping tensions after US forces disabled a vessel trying to breach the Iran blockade.",
+    "Investors will watch whether the AI-trade unwind that hit Asian and European stocks on Friday carries into the new week."
+  ]
+}
