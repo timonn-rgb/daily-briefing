@@ -1,0 +1,99 @@
+{
+  "headline": "Nvidia probes CEO Huang over China spy claims as Asia stocks rebound",
+  "at_a_glance": [
+    "Nvidia opened an investigation into CEO Jensen Huang's affair with a woman US officials suspect of being a Chinese spy; Trump defended him.",
+    "Democrats' sweeping US midterm win sent Asian and US tech shares lower last week on AI-slowdown fears; Asia rebounded Monday.",
+    "China's October producer prices rose 5.7%, a four-year high, while consumer inflation slowed, and Beijing extended its US tariff truce to January.",
+    "Iran tensions persist: Trump calls new US strikes 'highly unlikely' if talks progress, as a drone attack halted Iraq's Khor Mor gas field.",
+    "A gunman killed six people in Krakow, Poland; officials say he held far-right views, as Chancellor Merz moves to nominate Germany's first woman president."
+  ],
+  "market_analysis": "US stocks were mixed in Friday's session: the S&P 500 rose 0.31% and the Nasdaq Composite gained 1.09% on renewed AI and tech earnings optimism, while the Dow Jones fell 0.46%. The VIX volatility index dropped 9.01% and the US 10-year yield rose 2 basis points to 4.86%. Among S&P 500 movers, Coherent, Airbnb, AMD, Vistra and AppLovin led gainers, while Axon, Microchip Technology, Charter Communications, Insulet and Dexcom were the biggest decliners.\n\nAsian markets rebounded on Monday after last week's tech-led selloff tied to AI-slowdown concerns following the Democrats' sweeping US midterm win: the Nikkei 225 rose 2.42%, the Shanghai Composite gained 0.44% and the Hang Seng added 0.12%. European benchmarks had closed lower on Friday, with the DAX down 1.92%, the FTSE 100 off 1.01% and the Euro Stoxx 50 down 0.98%. US index futures point to a higher open, with S&P 500 futures up 0.42% and Nasdaq 100 futures up 0.19%, even as Nvidia's board investigates a reported relationship between CEO Jensen Huang and a woman suspected of spying for China.\n\nChina's October producer prices rose 5.7% year-on-year, the highest in more than four years, while consumer inflation growth slowed, and Beijing extended its suspension of an additional 24% tariff on US goods to January. Berkshire Hathaway reports earnings today, and no major economic data is scheduled on the local calendar. Gold climbed 1.43% to $4,133.20 as oil fell (WTI -0.66%, Brent -1.26%), while Bitcoin dropped 1.84% and the euro slipped 0.58% against the dollar to $1.1163.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia investigates CEO Huang over alleged Chinese spy affair",
+      "summary": "Nvidia's board opened an independent investigation after reports that CEO Jensen Huang had an extramarital affair with a woman US intelligence officials suspect of being a Chinese spy. Huang admitted to the affair, apologized, and said he would cooperate fully with the inquiry; the company said he will remain CEO. President Trump called Huang \"honorable\" and said he had not discussed the allegations with him, while a Chinese state-run newspaper dismissed the spy claim as fabricated. Nvidia shares fell about 3% in after-hours and perpetual futures trading.",
+      "why_it_matters": "The episode adds uncertainty around the stock most closely tied to the AI trade, which was already volatile after last week's broader tech selloff.",
+      "headline_ids": ["h008", "h030", "h067", "h099", "h110", "h133", "h161", "h170", "h172", "h192", "h198", "h210", "h217", "h235", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Democrats' midterm sweep stirs AI-trade jitters, lifts Treasuries",
+      "summary": "Asian and US tech shares sold off sharply last week after Democrats' sweeping victory in the US midterm elections raised investor concerns, including from UBS CEO Sergio Ermotti, about a potential slowdown in AI data-center construction under the new Congress. Treasuries rallied as traders rotated into bonds, and cryptocurrencies slid to two-month lows. Asian markets rebounded on Monday, led by Taiwan, as the AI-related jitters eased. FT analysts noted the political shift could also give China a \"window to catch up\" on AI.",
+      "why_it_matters": "A shift in US political control toward a party seen as more cautious on AI infrastructure spending could affect capital flows into the sector that has driven much of this year's market gains.",
+      "headline_ids": ["h044", "h081", "h122", "h136", "h229", "h232", "h281"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China factory-gate inflation hits 4-year high; tariff truce extended",
+      "summary": "China's producer price index rose 5.7% year-on-year in October, the highest in more than four years and above the 5.3% economists had expected, while consumer inflation growth moderated, reflecting weak domestic demand even as energy costs rise. China extended its suspension of an additional 24% tariff on US goods for another two months, prolonging the trade truce until January and keeping a 10% baseline rate in place. Beijing also extended its suspension of port fees on US-linked ships.",
+      "why_it_matters": "The inflation split points to cost pressure on producers without matching consumer demand, while the tariff extension removes a near-term risk of renewed US-China trade escalation.",
+      "headline_ids": ["h005", "h036", "h069", "h079", "h112", "h141"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump says new Iran strikes 'highly unlikely' as regional attacks continue",
+      "summary": "President Trump said renewed US strikes on Iran are \"highly unlikely\" if nuclear talks progress, though he warned he could still act; Secretary of State Rubio said Iran's negotiating demands remain \"outrageous and ridiculous\" and saw no breakthrough. A drone attack halted production at Iraq's Khor Mor gas field, cutting power to more than 70% of Iraqi Kurdistan, and Saudi Arabia said it intercepted missiles after Houthi strikes damaged an Aramco building in Riyadh. Iran said no unauthorized vessels transited the Strait of Hormuz after it destroyed navigation aids there.",
+      "why_it_matters": "Continued instability around the Strait of Hormuz and Gulf energy infrastructure poses a risk to oil supply and shipping, with Brent and WTI crude already falling in recent trading.",
+      "headline_ids": ["h010", "h016", "h075", "h082", "h124", "h127", "h151", "h195", "h249", "h262", "h264", "h290", "h296"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Poland mourns six killed in Krakow mass shooting",
+      "summary": "Poland is mourning the victims of a mass shooting in Krakow's Main Market Square that killed six people; authorities say the 24-year-old attacker, who had also killed his family beforehand, held far-right views. Two police officers, Jakub Kulik and Artur Morański, were wounded while pursuing and detaining the gunman and have been hailed as heroes for preventing further casualties. Investigators are still working to determine the attacker's motive.",
+      "why_it_matters": "The attack has heightened security concerns in Europe and adds to a string of recent incidents, including cyberattacks and bomb threats, testing the continent's resilience.",
+      "headline_ids": ["h001", "h203", "h220", "h237", "h247", "h254", "h256", "h271", "h277"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Merz backs Ilse Aigner as Germany's first woman president",
+      "summary": "Chancellor Friedrich Merz has backed Ilse Aigner, speaker of the Bavarian state parliament and a member of the CSU, to become Germany's first female president, a move that all but secures her path to the country's highest office next year.",
+      "why_it_matters": "The nomination would mark a symbolic first for Germany's largely ceremonial but influential head-of-state role.",
+      "headline_ids": ["h007", "h278"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Pope Leo rebukes Milei's austerity measures in Argentina",
+      "summary": "Pope Leo XIV, on the Argentina leg of his Latin America tour, told President Javier Milei that economic growth must benefit everyone and that leaders should know the limits of power, delivering a pointed critique of Milei's austerity policies. The visit, the first papal trip to Argentina in nearly four decades, comes amid tension between Milei's government and the Catholic Church over social welfare. The Pope also urged Milei to maintain Latin American unity as Argentina and Brazil endure strained relations.",
+      "why_it_matters": "The remarks add a prominent voice of international criticism to the debate over Milei's economic program as Argentina manages the social costs of austerity.",
+      "headline_ids": ["h066", "h126", "h144", "h159", "h199", "h200", "h231", "h234"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Netanyahu rival Eisenkot given mandate to form Israeli government",
+      "summary": "Israeli President Isaac Herzog gave opposition leader and former military chief Gadi Eisenkot the first chance to form the next government, but Eisenkot faces a difficult path with no clear majority among a divided opposition. He will have up to six weeks to build a coalition while Prime Minister Benjamin Netanyahu remains a formidable political force.",
+      "why_it_matters": "The outcome will shape Israel's leadership and policy direction at a time of continued regional tension in the Middle East.",
+      "headline_ids": ["h012", "h158", "h241", "h245", "h255"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "At least 21 dead as migrant boat sinks off Senegal",
+      "summary": "A boat carrying migrants sank off the coast of Senegal near Kebemer; the Senegalese government reported at least 21 dead while other reports cited at least 34 deaths, and only one survivor had been found as of Sunday with an unknown number still missing. The vessel was on the Atlantic migration route from West Africa toward Europe, and authorities on El Hierro in the Canary Islands separately declared an emergency over a rise in migrant boat arrivals.",
+      "why_it_matters": "The sinking underscores the continued danger of the Atlantic migration route to Europe.",
+      "headline_ids": ["h017", "h268", "h293"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Estonia accuses Russia of state-sponsored terrorism over hybrid attacks",
+      "summary": "Estonia has accused Russia of state-sponsored terrorism in connection with a wave of hacking and disruption across Europe, including cyberattacks on supermarket refrigeration systems and a string of bomb threats affecting infrastructure such as passenger flights. European countries are investigating who was behind the hacking of supermarket fridges across the continent last week.",
+      "why_it_matters": "The incidents are testing Europe's ability to withstand disruption to everyday infrastructure and add to tensions with Russia over hybrid warfare.",
+      "headline_ids": ["h003", "h052"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Berkshire Hathaway (BRK-B) reports earnings today.",
+    "G7 foreign ministers meet in Paris to discuss Ukraine peace talks and Iran, with Secretary of State Rubio attending.",
+    "World leaders gather in Turkey as the COP31 UN climate summit opens this week."
+  ]
+}
