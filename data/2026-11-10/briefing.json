@@ -1,0 +1,102 @@
+{
+  "headline": "Markets rally despite Nvidia scandal as Ukraine and Iran tensions ease",
+  "at_a_glance": [
+    "Wall Street rallied sharply Monday, with the S&P 500, Nasdaq and Dow all up more than 2%, recovering most of last week's losses.",
+    "Nvidia's board is investigating CEO Jensen Huang after he admitted an affair with a woman alleged to be a Chinese spy; shares fell and shareholders sued.",
+    "Trump said the war with Iran is 'effectively over' and further strikes are unlikely, helping push oil prices lower.",
+    "Russia, Ukraine and the US resumed trilateral peace talks in Abu Dhabi, with expectations for a breakthrough described as low.",
+    "China's trade surplus topped $1 trillion for a second straight year as October exports surged 35%."
+  ],
+  "market_analysis": "Wall Street staged a broad rebound on Monday, with the S&P 500 up 2.35%, the Nasdaq Composite up 2.74% and the Dow up 2.15%, recovering most of last week's losses. The rally was led by a resurgent tech trade, even as Nvidia shares fell after the company said it was investigating CEO Jensen Huang's affair with an alleged Chinese spy; peers AMD and Broadcom drew attention as possible beneficiaries. Oil fell as President Trump said further US strikes on Iran would not be necessary, with WTI down 1.06% and Brent down 0.99%. The VIX volatility index dropped 22.31%.\n\nAsian markets extended the advance on Tuesday, with the Nikkei 225 up 3.33%, the Hang Seng up 0.50% and the Shanghai Composite up 0.28%, as lower oil prices and renewed semiconductor buying lifted sentiment; SoftBank shares surged 13%. European indices also closed higher Monday, with the DAX up 1.73%, the Euro Stoxx 50 up 1.94% and the FTSE 100 up 1.02%. S&P 500 and Nasdaq 100 futures point to further gains Tuesday.\n\nAttention now turns to the October US CPI report at 14:30 CET, forecast to show headline inflation at 0.3% and core inflation at 0.2%, both down from last month's readings of 0.6% and 0.3% respectively. No companies on the watch list report earnings today. Gold rose 0.43% to $4,132.10 as markets awaited the inflation data, the dollar index was little changed, and the euro gained 0.73% against the dollar.",
+  "mover_notes": {
+    "NVDA": "Shares fell after the company's board opened an investigation into CEO Jensen Huang's alleged affair with a suspected Chinese spy.",
+    "AMD": "Shares rose as investors viewed chipmakers like AMD as possible beneficiaries of Nvidia's scandal amid renewed semiconductor buying."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Nvidia's board investigates CEO Huang over alleged Chinese spy affair",
+      "summary": "Nvidia's board opened an investigation into CEO Jensen Huang after he admitted to an extramarital affair with a woman alleged to be a Chinese intelligence agent. Nvidia shares fell sharply, wiping hundreds of billions of dollars off the company's value. Shareholders have sued Huang and Nvidia over the disclosures, and President Trump said the FBI is reviewing the matter while voicing support for Huang. The episode has also drawn new scrutiny to a related, now-transferred US Commerce Department inquiry into chip reseller Megaspeed.",
+      "why_it_matters": "The scandal raises succession and governance questions at a company central to the AI boom, and is likely to intensify US political pressure for tighter restrictions on China's access to AI chips.",
+      "headline_ids": ["h001", "h008", "h020", "h023", "h025", "h028", "h036", "h039", "h128", "h159", "h175", "h184", "h187", "h190", "h199", "h224", "h234", "h247", "h257", "h293"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia, Ukraine and US resume trilateral peace talks in Abu Dhabi",
+      "summary": "Russian, Ukrainian and US delegations began a new round of trilateral talks in Abu Dhabi aimed at ending the war, the first such meeting since February. US officials said they are seeking a 'final end' to the conflict, including a long-term security architecture between Moscow and Europe, though a ceasefire is not on the table. European diplomats pressed Secretary of State Rubio for a role in the negotiations, and India held talks with both Russia and Ukraine ahead of the meeting. Zelenskyy said Russia is suffering record losses, while Russian strikes on Dnipro river bridges are reportedly aimed at cutting Ukraine in half.",
+      "why_it_matters": "A durable settlement would reshape European security arrangements and defense spending, but expectations for a breakthrough remain low given unresolved security-guarantee disputes.",
+      "headline_ids": ["h009", "h057", "h060", "h085", "h105", "h130", "h162", "h163", "h167", "h182", "h246", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump signals Iran war 'effectively over' as oil prices fall",
+      "summary": "President Trump said the war with Iran is 'effectively over' militarily and that further US strikes are unlikely, though he said the US remains 'locked and loaded.' The comments followed a meeting with Qatar's prime minister and came as Trump said Qatar and Saudi Arabia favor a peaceful resolution. Iranian officials dismissed the 'effectively over' characterization as 'fake news.' Oil prices extended declines on the de-escalation signals.",
+      "why_it_matters": "Lower perceived war risk is pulling oil prices down, which has supported equity sentiment, though renewed escalation could reverse the move quickly.",
+      "headline_ids": ["h043", "h078", "h124", "h129", "h148", "h174", "h201", "h204", "h220", "h233", "h251", "h255", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China's trade surplus tops $1 trillion for a second straight year",
+      "summary": "China's trade surplus surpassed $1 trillion for the first ten months of 2026, putting it on course for an annual record, as October exports surged 35.2% from a year earlier, beating forecasts for a 33.5% rise. Imports also grew at their fastest pace in five years. The widening surplus is intensifying trade tensions with partner countries.",
+      "why_it_matters": "A surplus of this size raises the likelihood of further trade friction and tariff responses from major trading partners, including the US and Europe.",
+      "headline_ids": ["h005", "h010", "h053", "h094", "h107"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Republican lawmaker moves to impeach Defense Secretary Hegseth",
+      "summary": "Kentucky Republican Rep. Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth over his handling of military operations against Iran, setting up a vote expected this week. Trump and Secretary of State Rubio defended Hegseth, with Trump criticizing the impeachment effort. The move comes days after Republicans suffered a heavy defeat in the midterm elections, and some newly elected Democrats say they also want accountability from Hegseth.",
+      "why_it_matters": "A vote on impeaching a sitting defense secretary, even if expected to fail, underscores continuing political fallout from the Iran war ahead of a Democratic-controlled Congress in January.",
+      "headline_ids": ["h021", "h132", "h151", "h178", "h181", "h210", "h219", "h230", "h294"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "France blames Iran for cyberattack on supermarket refrigeration systems",
+      "summary": "French Foreign Minister Jean-Noel Barrot blamed Iran's Islamic Revolutionary Guard Corps for an October cyberattack that took over refrigeration controllers at roughly 700 retail sites, spoiling millions of dollars of food. The Paris prosecutor has opened a probe into the IRGC's Shahid Kaveh cyber unit. French officials have vowed retaliation.",
+      "why_it_matters": "The attack signals a widening front of state-linked cyber sabotage against European critical infrastructure, raising security and retaliation risks between France and Iran.",
+      "headline_ids": ["h014", "h029", "h221", "h260", "h291", "h299"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "South Africa's ANC suffers historic setback in local elections",
+      "summary": "South Africa's governing ANC secured just 30% of the vote in local elections, its worst-ever result, accelerating a shift toward coalition politics. Coalition talks are now underway among the parties.",
+      "why_it_matters": "Continued erosion of ANC dominance could reshape South African economic policy as coalition negotiations determine the country's political direction.",
+      "headline_ids": ["h241", "h263"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Boeing, Qantas and PepsiCo announce fresh job cuts",
+      "summary": "Boeing said it will cut 5% of its commercial airplane workforce as production increases take longer than expected. Qantas will outsource 850 local jobs, mostly to India, through a deal with Accenture aimed at modernizing its IT systems. PepsiCo plans to cut about 1,000 jobs across North America as it tries to revive sales in its home market.",
+      "why_it_matters": "The cuts add to signs of cost-cutting pressure across aviation, manufacturing and consumer goods even as broader equity markets rally.",
+      "headline_ids": ["h013", "h016", "h030", "h138", "h281"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic releases new frontier AI models as IPO buzz builds",
+      "summary": "Anthropic unveiled new Fable and Mythos frontier models, its first releases since CEO Dario Amodei's earlier call for an industry slowdown, as competition in AI intensifies ahead of an expected IPO. A nearly $70 billion IPO plan was reported to have briefly circulated to banks before being retracted.",
+      "why_it_matters": "The timing underscores how competitive pressure in AI is pushing labs to keep shipping new models amid public debate about slowing down, with implications for how investors might value an eventual Anthropic listing.",
+      "headline_ids": ["h031", "h073", "h140", "h290"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Poland holds silent march to honor Krakow shooting victims",
+      "summary": "Thousands joined a 'March of Silence' in Krakow, including President Karol Nawrocki and Prime Minister Donald Tusk, to honor victims of Saturday's mass shooting that killed six people. The gunman, whose three family members were found dead at their home, later died in hospital. The shooting has also become a point of political dispute, with the government blaming the far right for inspiring the gunman while the opposition accuses the government of lax security.",
+      "why_it_matters": "The attack and its political aftermath are testing social cohesion in a country that prizes its reputation for safety, with potential implications for Poland's domestic politics.",
+      "headline_ids": ["h034", "h041", "h050", "h172", "h222", "h287"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US October CPI data, due at 14:30 CET, will test whether the market's tech-led rally can withstand an inflation surprise.",
+    "Trilateral Russia-Ukraine-US talks continue in Abu Dhabi, with no ceasefire expected to be on the table.",
+    "Nvidia's board investigation into CEO Jensen Huang remains in focus amid shareholder lawsuits and political scrutiny."
+  ]
+}

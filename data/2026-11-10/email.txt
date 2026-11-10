@@ -1,0 +1,46 @@
+Markets rally despite Nvidia scandal as Ukraine and Iran tensions ease
+Daily Briefing · Tuesday, 10 November 2026
+
+AT A GLANCE
+- Wall Street rallied sharply Monday, with the S&P 500, Nasdaq and Dow all up more than 2%, recovering most of last week's losses.
+- Nvidia's board is investigating CEO Jensen Huang after he admitted an affair with a woman alleged to be a Chinese spy; shares fell and shareholders sued.
+- Trump said the war with Iran is 'effectively over' and further strikes are unlikely, helping push oil prices lower.
+- Russia, Ukraine and the US resumed trilateral peace talks in Abu Dhabi, with expectations for a breakthrough described as low.
+- China's trade surplus topped $1 trillion for a second straight year as October exports surged 35%.
+
+MARKETS
+S&P 500: 7,549.94 (+2.35%) as of Mon 9 Nov
+Nasdaq Composite: 25,253.14 (+2.74%) as of Mon 9 Nov
+Dow Jones: 52,389.75 (+2.15%) as of Mon 9 Nov
+S&P 500 futures: 7,593.00 (+0.25%) as of Tue 10 Nov
+Nasdaq 100 futures: 28,041.25 (+0.10%) as of Tue 10 Nov
+VIX volatility: 19.92 (-22.31%) as of Mon 9 Nov
+US 10-year yield: 4.86% (+0 bp) as of Mon 9 Nov
+DAX: 26,267.19 (+1.73%) as of Mon 9 Nov
+FTSE 100: 10,782.90 (+1.02%) as of Mon 9 Nov
+Euro Stoxx 50: 6,290.45 (+1.94%) as of Mon 9 Nov
+Nikkei 225: 60,730.10 (+3.33%) as of Tue 10 Nov
+Hang Seng: 24,572.15 (+0.50%) as of Tue 10 Nov
+Shanghai Composite: 3,671.01 (+0.28%) as of Tue 10 Nov
+EUR/USD: 1.1228 (+0.73%) as of Tue 10 Nov
+USD/JPY: 158.04 (-0.16%) as of Tue 10 Nov
+US dollar index: 101.68 (+0.03%) as of Tue 10 Nov
+WTI crude oil: 85.93 (-1.06%) as of Tue 10 Nov
+Brent crude oil: 91.65 (-0.99%) as of Tue 10 Nov
+Gold: 4,132.10 (+0.43%) as of Tue 10 Nov
+Bitcoin: 74,678.57 (+0.13%) as of Tue 10 Nov
+
+TOP STORIES
+- Nvidia's board investigates CEO Huang over alleged Chinese spy affair: The scandal raises succession and governance questions at a company central to the AI boom, and is likely to intensify US political pressure for tighter restrictions on China's access to AI chips.
+- Russia, Ukraine and US resume trilateral peace talks in Abu Dhabi: A durable settlement would reshape European security arrangements and defense spending, but expectations for a breakthrough remain low given unresolved security-guarantee disputes.
+- Trump signals Iran war 'effectively over' as oil prices fall: Lower perceived war risk is pulling oil prices down, which has supported equity sentiment, though renewed escalation could reverse the move quickly.
+- China's trade surplus tops $1 trillion for a second straight year: A surplus of this size raises the likelihood of further trade friction and tariff responses from major trading partners, including the US and Europe.
+- Republican lawmaker moves to impeach Defense Secretary Hegseth: A vote on impeaching a sitting defense secretary, even if expected to fail, underscores continuing political fallout from the Iran war ahead of a Democratic-controlled Congress in January.
+- France blames Iran for cyberattack on supermarket refrigeration systems: The attack signals a widening front of state-linked cyber sabotage against European critical infrastructure, raising security and retaliation risks between France and Iran.
+- South Africa's ANC suffers historic setback in local elections: Continued erosion of ANC dominance could reshape South African economic policy as coalition negotiations determine the country's political direction.
+- Boeing, Qantas and PepsiCo announce fresh job cuts: The cuts add to signs of cost-cutting pressure across aviation, manufacturing and consumer goods even as broader equity markets rally.
+- Anthropic releases new frontier AI models as IPO buzz builds: The timing underscores how competitive pressure in AI is pushing labs to keep shipping new models amid public debate about slowing down, with implications for how investors might value an eventual Anthropic listing.
+- Poland holds silent march to honor Krakow shooting victims: The attack and its political aftermath are testing social cohesion in a country that prizes its reputation for safety, with potential implications for Poland's domestic politics.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-10/
+Data as of 07:01 CET. Not investment advice.
