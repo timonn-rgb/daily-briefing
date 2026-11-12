@@ -1,0 +1,46 @@
+Nvidia board weighs ousting Huang as AI shares swing; Ukraine agrees prisoner swap
+Daily Briefing · Thursday, 12 November 2026
+
+AT A GLANCE
+- Nvidia's board met overnight to weigh ousting CEO Jensen Huang over an alleged affair with a suspected Chinese spy; shares sank about 8%.
+- Wall Street rallied Wednesday, S&P 500 up 1.31% and Nasdaq up 1.60% on CoreWeave's earnings, before US futures reversed lower overnight on the Nvidia news.
+- Russia and Ukraine agreed to a large prisoner exchange as US-brokered peace talks ended without a major breakthrough; US envoys then headed to Moscow.
+- Tens of thousands joined Spain's first general strike in 14 years over housing costs; clashes erupted in Barcelona, with protests spreading to Madrid.
+- Israeli strikes hit Gaza's Nasser Hospital again, killing at least six people and injuring 20, despite the 2025 cease-fire.
+
+MARKETS
+S&P 500: 7,619.38 (+1.31%) as of Wed 11 Nov
+Nasdaq Composite: 25,466.19 (+1.60%) as of Wed 11 Nov
+Dow Jones: 52,486.49 (+0.49%) as of Wed 11 Nov
+S&P 500 futures: 7,603.25 (-0.49%) as of Thu 12 Nov
+Nasdaq 100 futures: 28,158.25 (-1.11%) as of Thu 12 Nov
+VIX volatility: 17.49 (-10.12%) as of Wed 11 Nov
+US 10-year yield: 5.00% (+2 bp) as of Wed 11 Nov
+DAX: 26,662.77 (+1.20%) as of Wed 11 Nov
+FTSE 100: 10,835.50 (+0.78%) as of Wed 11 Nov
+Euro Stoxx 50: 6,393.39 (+1.04%) as of Wed 11 Nov
+Nikkei 225: 60,706.17 (-0.89%) as of Thu 12 Nov
+Hang Seng: 24,061.68 (-1.05%) as of Thu 12 Nov
+Shanghai Composite: 3,659.61 (-0.57%) as of Thu 12 Nov
+EUR/USD: 1.1084 (-0.76%) as of Thu 12 Nov
+USD/JPY: 159.70 (+0.63%) as of Thu 12 Nov
+US dollar index: 102.98 (+0.07%) as of Thu 12 Nov
+WTI crude oil: 85.53 (-1.16%) as of Thu 12 Nov
+Brent crude oil: 91.68 (-1.16%) as of Thu 12 Nov
+Gold: 3,984.10 (-0.41%) as of Thu 12 Nov
+Bitcoin: 73,553.05 (-0.23%) as of Thu 12 Nov
+
+TOP STORIES
+- Nvidia board weighs ousting CEO Jensen Huang: Huang has been the public face of the AI boom and an opponent of strict chip export controls to China; his departure would create a leadership vacuum at the roughly $4 trillion company and could unsettle the AI trade that has driven much of this year's market gains.
+- AI trade whipsaws as CoreWeave rally gives way to Nvidia selloff: The swing shows how closely broad market sentiment has become tied to a handful of AI-related stocks, meaning a leadership shock at Nvidia can move indexes well beyond the chip sector.
+- Russia and Ukraine agree prisoner swap as peace talks end without breakthrough: A prisoner swap offers a rare concrete result after months of inconclusive talks, but the absence of a breakthrough and Ukraine's worsening power crisis underline how far a durable settlement remains.
+- Spain's first general strike in 14 years turns violent: The unrest highlights how housing affordability has become a flashpoint in major European economies, with elections now looming as a test of public anger.
+- Israeli strikes on Gaza hospital kill at least six: Repeated strikes on hospitals raise questions about the durability of the Gaza cease-fire and could further strain humanitarian conditions in the territory.
+- Iran and Israel tensions escalate amid talk of a strike: A renewed escalation between Israel and Iran, layered on unresolved talks, raises the risk of a wider regional conflict that could again disrupt oil markets and shipping through the Gulf.
+- Democrat Scott Colom's Mississippi Senate win widens Democratic majority: The result further narrows Republican control of the Senate, a shift that could affect the pace of confirmations and legislation during the lame-duck session and beyond.
+- EU and UK set to delay 10% tariff on electric cars: A delay would ease near-term cost pressure on European automakers already facing competition from Chinese EV makers, though it leaves the underlying trade dispute unresolved.
+- France backs Spain's candidate for ECB presidency: The outcome of the ECB leadership race will shape the direction of euro-area monetary policy for years, a matter of direct relevance to a Germany-based reader.
+- US Treasury Secretary relocates to military base over Iran threat: A direct threat against a senior US official underscores how personal and acute tensions with Iran have become, even as diplomatic talks continue.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-12/
+Data as of 07:01 CET. Not investment advice.

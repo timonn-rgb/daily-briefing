@@ -1,0 +1,102 @@
+{
+  "headline": "Nvidia board weighs ousting Huang as AI shares swing; Ukraine agrees prisoner swap",
+  "at_a_glance": [
+    "Nvidia's board met overnight to weigh ousting CEO Jensen Huang over an alleged affair with a suspected Chinese spy; shares sank about 8%.",
+    "Wall Street rallied Wednesday, S&P 500 up 1.31% and Nasdaq up 1.60% on CoreWeave's earnings, before US futures reversed lower overnight on the Nvidia news.",
+    "Russia and Ukraine agreed to a large prisoner exchange as US-brokered peace talks ended without a major breakthrough; US envoys then headed to Moscow.",
+    "Tens of thousands joined Spain's first general strike in 14 years over housing costs; clashes erupted in Barcelona, with protests spreading to Madrid.",
+    "Israeli strikes hit Gaza's Nasser Hospital again, killing at least six people and injuring 20, despite the 2025 cease-fire."
+  ],
+  "market_analysis": "Wall Street's three major averages rallied on Wednesday, with the S&P 500 gaining 1.31%, the Nasdaq Composite 1.60% and the Dow Jones 0.49%, as CoreWeave surged more than 24% for its best day since April 2025 on a strong third-quarter report. The rally lifted chip and AI-infrastructure names such as Micron and Lumentum and pushed the VIX down 10.12% to 17.49, while the 10-year Treasury yield edged up 2 basis points to 5.00%.\n\nThat calm did not last: Nvidia shares fell roughly 8-9% in after-hours trading late Wednesday on reports its board was meeting to consider removing CEO Jensen Huang, dragging Nasdaq-100 futures down 1.11% and S&P 500 futures down 0.49% ahead of Thursday's US open. European benchmarks had closed higher Wednesday — the DAX up 1.20%, the FTSE 100 up 0.78% and the Euro Stoxx 50 up 1.04% — but Asian markets slipped on Thursday as the Nvidia news weighed on AI-linked stocks, with the Nikkei down 0.89%, the Hang Seng down 1.05% and the Shanghai Composite down 0.57%.\n\nIn currencies and commodities, gold and oil both eased, with WTI and Brent crude each down 1.16% and gold off 0.41%, while the dollar index ticked up 0.07%. The only scheduled data of note for European investors today is UK GDP growth for the month, due at 08:00 Berlin time and forecast flat versus a 0.1% rise previously; there are no earnings from the watch list. The main focus for markets remains Nvidia's board decision on Huang's future and its knock-on effects across AI-related stocks.",
+  "mover_notes": {
+    "MU": "Rose after CoreWeave's strong earnings and debt discipline sparked a broad rally across AI-trade chip stocks.",
+    "LITE": "Gained along with other AI-trade names after CoreWeave's results eased investor concerns about AI spending."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia board weighs ousting CEO Jensen Huang",
+      "summary": "Nvidia's board met late into Wednesday night to decide whether to remove co-founder and CEO Jensen Huang, days after reports surfaced of a relationship with a subordinate and earlier reports that he had an affair with a woman US intelligence suspects of being a Chinese spy. Nvidia shares fell roughly 8-9% in after-hours and early Thursday trading, and the company has hired an outside law firm to investigate the relationship. Lawmakers from both parties are calling for Huang to testify and for records on Nvidia's chip exports to China to be preserved, while rivals AMD, Broadcom and Alphabet were seen as potential beneficiaries if Nvidia's leadership is disrupted.",
+      "why_it_matters": "Huang has been the public face of the AI boom and an opponent of strict chip export controls to China; his departure would create a leadership vacuum at the roughly $4 trillion company and could unsettle the AI trade that has driven much of this year's market gains.",
+      "headline_ids": ["h002", "h013", "h014", "h039", "h091", "h099", "h117", "h124", "h151", "h251"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI trade whipsaws as CoreWeave rally gives way to Nvidia selloff",
+      "summary": "All three major US stock averages rallied Wednesday, led by a more than 24% surge in CoreWeave after a strong third-quarter report that eased some investor doubts about AI spending, which also lifted chipmakers Micron and Lumentum. Nasdaq briefly erased the prior week's losses. But the mood reversed after the close as Nvidia's after-hours slide on the Huang news dragged Nasdaq-100 futures lower and pulled Asian AI-linked shares down on Thursday, with Japan's Nikkei, Hong Kong's Hang Seng and China's Shanghai Composite all falling.",
+      "why_it_matters": "The swing shows how closely broad market sentiment has become tied to a handful of AI-related stocks, meaning a leadership shock at Nvidia can move indexes well beyond the chip sector.",
+      "headline_ids": ["h001", "h020", "h156", "h250", "h260", "h275", "h143", "h089"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia and Ukraine agree prisoner swap as peace talks end without breakthrough",
+      "summary": "Russia and Ukraine agreed to a large-scale prisoner exchange as a second day of US-brokered peace talks in Abu Dhabi ended without a major breakthrough; Ukrainian President Volodymyr Zelenskyy said progress depends on Washington's approach to Russia. US envoys Steve Witkoff and Jared Kushner then traveled to Moscow to meet President Vladimir Putin, before planning to fly to Ireland for talks with Ukrainian officials. Separately, US Secretary of State Marco Rubio and Chinese Foreign Minister Wang Yi discussed a possible three-way summit involving Putin. Meanwhile Ukraine's power grid is close to critical after Russian strikes, leaving many households with only a few hours of electricity a day.",
+      "why_it_matters": "A prisoner swap offers a rare concrete result after months of inconclusive talks, but the absence of a breakthrough and Ukraine's worsening power crisis underline how far a durable settlement remains.",
+      "headline_ids": ["h025", "h029", "h130", "h258", "h276", "h034", "h044"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Spain's first general strike in 14 years turns violent",
+      "summary": "Hundreds of thousands of workers across Spain joined the country's first general strike in 14 years on Wednesday, called by major unions over housing costs and the rising cost of living. Marches in Barcelona and Madrid turned into clashes, with protesters hurling fireworks at police and setting rubbish bins on fire. The strike and ensuing housing protests come as Spain heads toward snap elections on November 29.",
+      "why_it_matters": "The unrest highlights how housing affordability has become a flashpoint in major European economies, with elections now looming as a test of public anger.",
+      "headline_ids": ["h017", "h027", "h192", "h236", "h252", "h263"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israeli strikes on Gaza hospital kill at least six",
+      "summary": "An Israeli strike hit the surgery and intensive care areas of Nasser Hospital in Khan Younis, killing at least six people and injuring about 20, according to Gaza's civil defence agency, despite the 2025 cease-fire. Among the victims were a surgeon and a disabled patient, a witness said. It was at least the second strike on the same hospital reported within the period covered.",
+      "why_it_matters": "Repeated strikes on hospitals raise questions about the durability of the Gaza cease-fire and could further strain humanitarian conditions in the territory.",
+      "headline_ids": ["h050", "h103", "h155", "h205", "h224"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran and Israel tensions escalate amid talk of a strike",
+      "summary": "Israel's security cabinet ordered the military to step up preparations for a possible attack on Iran, according to Israeli media, prompting Iran to warn of expanded retaliation. Saudi Arabia said it intercepted missiles and drones fired by Yemen's Houthi group, who denied targeting Mecca, after debris fell in the Mecca region. Iran's chief negotiator told Al Jazeera the \"ball is in the US court\" in the latest round of talks, and Iran's IRGC chief said sanctions would not stop its missile programme. Fighting in Yemen has also intensified, displacing more than 320,000 people since August, according to the WHO.",
+      "why_it_matters": "A renewed escalation between Israel and Iran, layered on unresolved talks, raises the risk of a wider regional conflict that could again disrupt oil markets and shipping through the Gulf.",
+      "headline_ids": ["h096", "h078", "h170", "h186", "h084"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Democrat Scott Colom's Mississippi Senate win widens Democratic majority",
+      "summary": "Democrat Scott Colom defeated Republican incumbent Cindy Hyde-Smith in Mississippi, becoming the state's first Black senator since Reconstruction and the first Democrat elected to the seat since 1982. The win, called by AP eight days after the midterm election once provisional and mail-in ballots were resolved, flips an eighth Senate seat for Democrats from last week's midterms. Colom won despite Mississippi having voted for Donald Trump by more than 22 percentage points in 2024.",
+      "why_it_matters": "The result further narrows Republican control of the Senate, a shift that could affect the pace of confirmations and legislation during the lame-duck session and beyond.",
+      "headline_ids": ["h012", "h024", "h033", "h045", "h093", "h097", "h165", "h173", "h199", "h200", "h215", "h220", "h245", "h247"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "EU and UK set to delay 10% tariff on electric cars",
+      "summary": "The European Union and the United Kingdom are set to delay a planned 10% tariff on electric vehicles, the FT reported. European carmakers had warned that the levy would leave them more exposed to competition from Chinese manufacturers.",
+      "why_it_matters": "A delay would ease near-term cost pressure on European automakers already facing competition from Chinese EV makers, though it leaves the underlying trade dispute unresolved.",
+      "headline_ids": ["h057"],
+      "single_source": true
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "France backs Spain's candidate for ECB presidency",
+      "summary": "France has signalled support for Pablo Hernández de Cos, the Spanish candidate for the presidency of the European Central Bank, giving his bid momentum as Paris and Berlin look toward a wider package deal on central bank leadership, the FT reported.",
+      "why_it_matters": "The outcome of the ECB leadership race will shape the direction of euro-area monetary policy for years, a matter of direct relevance to a Germany-based reader.",
+      "headline_ids": ["h056"],
+      "single_source": true
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US Treasury Secretary relocates to military base over Iran threat",
+      "summary": "US Treasury Secretary Scott Bessent has relocated from his home in the Washington area to a military base after an Iranian threat against his life, the New York Times reported. Bessent has been a driving force behind the US push to cripple Iran's economy through sanctions.",
+      "why_it_matters": "A direct threat against a senior US official underscores how personal and acute tensions with Iran have become, even as diplomatic talks continue.",
+      "headline_ids": ["h031"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "UK GDP data for the month, due at 08:00 Berlin time, is forecast to show no growth after a 0.1% rise previously.",
+    "Nvidia's board decision on CEO Jensen Huang's future and how Thursday's trading session reacts to Wednesday's after-hours share slide.",
+    "Whether momentum from the Russia-Ukraine prisoner exchange and US-China talks on a possible three-way summit with Putin leads to further progress."
+  ]
+}
