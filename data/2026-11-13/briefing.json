@@ -1,0 +1,99 @@
+{
+  "headline": "Nvidia's Huang faces Congress over China ties; Ukraine talks advance, Gaza hospital hit",
+  "at_a_glance": [
+    "Nvidia CEO Jensen Huang resigned amid an affair scandal involving an alleged Chinese spy; CFO Colette Kress is interim CEO.",
+    "Congress summoned Huang and Commerce Secretary Lutnick to testify on Nvidia's China chip exports and espionage concerns.",
+    "US envoys met Putin in Moscow and Zelensky in Dublin; Europe will join the next round of Ukraine peace talks.",
+    "An Israeli strike on a Gaza hospital killed six people, including a doctor and a child, medics said.",
+    "A Microsoft outage took down Outlook, Teams and other 365 services worldwide for about ten hours."
+  ],
+  "market_analysis": "US stocks fell Thursday as Nvidia's leadership crisis rattled Wall Street: the S&P 500 lost 0.35%, the Nasdaq Composite 0.39% and the Dow 0.36%, after shares swung sharply on Jensen Huang's resignation before paring losses. The VIX volatility index jumped 6.92% to 18.70, and the US 10-year Treasury yield rose 11 basis points to 5.10% as traders raised bets on further Federal Reserve rate hikes.\n\nAsian markets were mixed on Friday: the Nikkei 225 rose 0.71%, while the Hang Seng fell 1.32% and the Shanghai Composite slipped 0.29%. European benchmarks closed higher Thursday, with the DAX up 0.41%, the FTSE 100 up 0.25% and the Euro Stoxx 50 up 0.09%. US futures point to a softer open, with S&P 500 futures down 0.07% and Nasdaq 100 futures down 0.27%.\n\nThe day's main data point is US Core PPI and PPI for October, due at 14:30 in Berlin, which markets expect could reinforce the Fed-hike bets already pushing the dollar near a 19-month high and the yen toward 160 per dollar. Gold rose 0.38% on bargain hunting after touching a one-year low, while bitcoin fell 8.08%. No earnings are due today from the watch list.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia CEO Jensen Huang resigns amid affair scandal",
+      "summary": "Jensen Huang stepped down as Nvidia's chief executive on Thursday after revelations of extramarital affairs, including one with a woman US officials say is a suspected Chinese spy. Chief Financial Officer Colette Kress was named interim CEO while the board searches for a permanent replacement. Nvidia shares fell before paring losses, and the stock is on track for its longest weekly losing streak since 2012, with roughly $1.6 trillion wiped off its market value since early October. Investors said the broader AI boom driving Nvidia's business should outlast Huang's departure.",
+      "why_it_matters": "Nvidia has been the most valuable driver of the AI investment boom, so uncertainty over its leadership and governance could ripple through global tech and AI-related markets.",
+      "headline_ids": ["h001", "h004", "h006", "h008", "h011", "h014", "h025", "h162", "h256"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Congress summons Huang and Lutnick over chip export controls",
+      "summary": "The Senate Banking Committee has called on Jensen Huang and Commerce Secretary Howard Lutnick to testify over Nvidia's chip sales to China and what the government knew about Huang's relationship with a woman US officials suspect of espionage for China. Lawmakers including Senator Tim Scott and Representative Gregory Meeks want to know when Huang was told of the espionage concerns and why export controls weren't tightened sooner. The US Justice Department said it has not concluded that the woman, Alice Huang, was in fact a Chinese spy. The scrutiny comes days before a planned Trump-Xi summit.",
+      "why_it_matters": "The episode could affect US export-control policy toward China's access to advanced AI chips and shape next week's Trump-Xi talks.",
+      "headline_ids": ["h006", "h012", "h135", "h140", "h158", "h172", "h182", "h185", "h271"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "US envoys shuttle between Putin and Zelensky on Ukraine talks",
+      "summary": "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow and then President Volodymyr Zelensky in Dublin, with both sides agreeing that European countries will join the next round of Russia-Ukraine talks. Kushner said Washington is working toward what he called the war's \"largest prisoner exchange.\" Putin took a hard line, warning Russia would target any foreign troops deployed to Ukraine, while Ukraine said Starlink service was disrupted again. Zelensky welcomed Europe's inclusion in the process.",
+      "why_it_matters": "Expanding the talks to include Europe could shape the terms of any eventual settlement and Ukraine's future security guarantees.",
+      "headline_ids": ["h033", "h071", "h113", "h114", "h118", "h130", "h131", "h193", "h214"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Global Microsoft outage disrupts Outlook and Teams for hours",
+      "summary": "A Microsoft outage disrupted Outlook, Teams, Copilot and other 365 services for about ten hours on Thursday, affecting users in roughly 74 countries and territories. Microsoft said the disruption was caused by elevated infrastructure issues and ruled out a cyberattack. Businesses, schools, courts and government agencies were affected, including in Australia, where officials said services were pushed back to \"a time before email.\"",
+      "why_it_matters": "The outage shows how dependent governments, schools and businesses worldwide have become on a single cloud provider's services.",
+      "headline_ids": ["h019", "h058", "h066", "h068", "h078", "h079", "h081", "h267"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israeli strike on Gaza hospital kills six, including a doctor and child",
+      "summary": "An Israeli strike on Nasser Hospital in southern Gaza killed six people, including a doctor and a child, Gaza's Health Ministry said; medics said 11 people died in Israeli fire across Gaza on Thursday. It was described as the deadliest single strike since Israel's elections last month. A British volunteer surgeon filmed the aftermath of the strike.",
+      "why_it_matters": "The strike adds to civilian casualties in Gaza and keeps pressure on international mediators as a broader Middle East settlement remains unresolved.",
+      "headline_ids": ["h024", "h090", "h231", "h297"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran says it struck US radar in Bahrain as Trump drops Iran deal push",
+      "summary": "Iran's Revolutionary Guards said they targeted a US early-warning radar site in Bahrain, calling it retaliation for an attack on a telecoms tower in Iran. President Trump said the US \"does not need a deal with Iran\" and told Vice President JD Vance to instead focus on \"corruption and crime\" in Democratic-led US cities, while Gulf allies reportedly urged Washington to pause further strikes on Iran.",
+      "why_it_matters": "Continued strikes between Iran and the US risk further disruption to Gulf oil infrastructure and shipping.",
+      "headline_ids": ["h089", "h101", "h167", "h020", "h116", "h251"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Mercedes-Benz halts future investment in Germany",
+      "summary": "Mercedes-Benz said it will halt all future investments in Germany and warned that plant closures are an option, as its standoff with unions over cutting labor costs escalates. The move marks an escalation in the carmaker's dispute over reducing costs at its German operations.",
+      "why_it_matters": "A halt in investment by one of Germany's largest manufacturers would be a signal of strain in the country's industrial base and labor relations.",
+      "headline_ids": ["h279"],
+      "single_source": true
+    },
+    {
+      "section": "Other",
+      "title": "US disrupts North Korean $400 million crypto scam",
+      "summary": "The FBI said the US has disrupted a North Korean scheme that used fake video meetings and deepfakes to steal more than $400 million in cryptocurrency from over 900 victims over 18 months. The US has seized servers linked to the scam and moved to seize $1.2 billion that was taken from the Binance exchange.",
+      "why_it_matters": "The case underscores the scale of state-linked cybercrime targeting crypto markets and the growing use of AI deepfakes in fraud.",
+      "headline_ids": ["h069", "h102", "h243"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic's IPO about six times oversubscribed",
+      "summary": "Anthropic's initial public offering is roughly six times oversubscribed, Bloomberg News reported. The listing comes as the Nvidia leadership crisis tests broader confidence in the AI trade, with commentators raising questions about the company's prospects ahead of the IPO.",
+      "why_it_matters": "Strong demand for Anthropic's IPO suggests investor appetite for AI investments remains intact despite the turmoil at Nvidia.",
+      "headline_ids": ["h247", "h057", "h178"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Indonesia's vice president resigns amid credentials scandal",
+      "summary": "Indonesian Vice President Gibran Rakabuming Raka resigned after questions were raised about his eligibility and academic credentials. Gibran, the son of former President Joko Widodo, was seen as a symbol of the political partnership that helped elevate President Prabowo Subianto to power.",
+      "why_it_matters": "The resignation signals the fading influence of former President Jokowi's political network within Prabowo's government.",
+      "headline_ids": ["h013", "h183", "h196"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "US Core PPI and PPI data are due at 14:30 Berlin time and could reinforce bets on further Federal Reserve rate hikes.",
+    "Congress has summoned Jensen Huang and Commerce Secretary Howard Lutnick to testify on Nvidia's China chip exports.",
+    "Next week's Trump-Xi summit looms over the AI chip export-control debate reignited by the Nvidia affair scandal."
+  ]
+}

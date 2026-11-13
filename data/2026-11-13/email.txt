@@ -1,0 +1,46 @@
+Nvidia's Huang faces Congress over China ties; Ukraine talks advance, Gaza hospital hit
+Daily Briefing · Friday, 13 November 2026
+
+AT A GLANCE
+- Nvidia CEO Jensen Huang resigned amid an affair scandal involving an alleged Chinese spy; CFO Colette Kress is interim CEO.
+- Congress summoned Huang and Commerce Secretary Lutnick to testify on Nvidia's China chip exports and espionage concerns.
+- US envoys met Putin in Moscow and Zelensky in Dublin; Europe will join the next round of Ukraine peace talks.
+- An Israeli strike on a Gaza hospital killed six people, including a doctor and a child, medics said.
+- A Microsoft outage took down Outlook, Teams and other 365 services worldwide for about ten hours.
+
+MARKETS
+S&P 500: 7,592.40 (-0.35%) as of Thu 12 Nov
+Nasdaq Composite: 25,366.09 (-0.39%) as of Thu 12 Nov
+Dow Jones: 52,297.09 (-0.36%) as of Thu 12 Nov
+S&P 500 futures: 7,609.75 (-0.07%) as of Fri 13 Nov
+Nasdaq 100 futures: 28,306.75 (-0.27%) as of Fri 13 Nov
+VIX volatility: 18.70 (+6.92%) as of Thu 12 Nov
+US 10-year yield: 5.10% (+11 bp) as of Thu 12 Nov
+DAX: 26,771.88 (+0.41%) as of Thu 12 Nov
+FTSE 100: 10,863.10 (+0.25%) as of Thu 12 Nov
+Euro Stoxx 50: 6,398.98 (+0.09%) as of Thu 12 Nov
+Nikkei 225: 61,250.85 (+0.71%) as of Fri 13 Nov
+Hang Seng: 23,692.46 (-1.32%) as of Fri 13 Nov
+Shanghai Composite: 3,645.27 (-0.29%) as of Fri 13 Nov
+EUR/USD: 1.1061 (-0.31%) as of Fri 13 Nov
+USD/JPY: 159.95 (+0.14%) as of Fri 13 Nov
+US dollar index: 103.19 (+0.02%) as of Fri 13 Nov
+WTI crude oil: 88.35 (-0.44%) as of Fri 13 Nov
+Brent crude oil: 95.71 (-0.11%) as of Fri 13 Nov
+Gold: 3,900.20 (+0.38%) as of Fri 13 Nov
+Bitcoin: 67,986.13 (-8.08%) as of Fri 13 Nov
+
+TOP STORIES
+- Nvidia CEO Jensen Huang resigns amid affair scandal: Nvidia has been the most valuable driver of the AI investment boom, so uncertainty over its leadership and governance could ripple through global tech and AI-related markets.
+- Congress summons Huang and Lutnick over chip export controls: The episode could affect US export-control policy toward China's access to advanced AI chips and shape next week's Trump-Xi talks.
+- US envoys shuttle between Putin and Zelensky on Ukraine talks: Expanding the talks to include Europe could shape the terms of any eventual settlement and Ukraine's future security guarantees.
+- Global Microsoft outage disrupts Outlook and Teams for hours: The outage shows how dependent governments, schools and businesses worldwide have become on a single cloud provider's services.
+- Israeli strike on Gaza hospital kills six, including a doctor and child: The strike adds to civilian casualties in Gaza and keeps pressure on international mediators as a broader Middle East settlement remains unresolved.
+- Iran says it struck US radar in Bahrain as Trump drops Iran deal push: Continued strikes between Iran and the US risk further disruption to Gulf oil infrastructure and shipping.
+- Mercedes-Benz halts future investment in Germany: A halt in investment by one of Germany's largest manufacturers would be a signal of strain in the country's industrial base and labor relations.
+- US disrupts North Korean $400 million crypto scam: The case underscores the scale of state-linked cybercrime targeting crypto markets and the growing use of AI deepfakes in fraud.
+- Anthropic's IPO about six times oversubscribed: Strong demand for Anthropic's IPO suggests investor appetite for AI investments remains intact despite the turmoil at Nvidia.
+- Indonesia's vice president resigns amid credentials scandal: The resignation signals the fading influence of former President Jokowi's political network within Prabowo's government.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-13/
+Data as of 07:01 CET. Not investment advice.
