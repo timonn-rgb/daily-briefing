@@ -1,0 +1,46 @@
+Nvidia scandal deepens, FAA grounds US flights, Microsoft outage lingers
+Daily Briefing · Saturday, 14 November 2026
+
+AT A GLANCE
+- Nvidia's stock lost $1.7 trillion over six weeks as the Jensen Huang scandal fuels political scrutiny of US export policy.
+- A nationwide FAA ground stop grounded US flights for hours; disruption and cancellations are set to continue through the weekend.
+- Microsoft is still restoring Outlook and Teams two days into a global outage that hit businesses and public services worldwide.
+- Trump will hold a first three-way summit with Xi and Putin in China next week on nuclear arms and the Iran war.
+- Hot US inflation data and hawkish Fed remarks pushed the 10-year Treasury yield to 5.15%, its worst week since Trump's 'Liberation Day'.
+
+MARKETS
+S&P 500: 7,561.67 (-0.40%) as of Fri 13 Nov
+Nasdaq Composite: 25,136.27 (-0.91%) as of Fri 13 Nov
+Dow Jones: 52,347.55 (+0.10%) as of Fri 13 Nov
+S&P 500 futures: 7,583.00 (-0.42%) as of Fri 13 Nov
+Nasdaq 100 futures: 28,034.75 (-1.23%) as of Fri 13 Nov
+VIX volatility: 19.30 (+3.21%) as of Fri 13 Nov
+US 10-year yield: 5.15% (+5 bp) as of Fri 13 Nov
+DAX: 26,749.95 (-0.08%) as of Fri 13 Nov
+FTSE 100: 10,902.60 (+0.36%) as of Fri 13 Nov
+Euro Stoxx 50: 6,386.86 (-0.19%) as of Fri 13 Nov
+Nikkei 225: 61,142.35 (+0.53%) as of Fri 13 Nov
+Hang Seng: 23,637.60 (-1.55%) as of Fri 13 Nov
+Shanghai Composite: 3,634.35 (-0.59%) as of Fri 13 Nov
+EUR/USD: 1.1050 (-0.41%) as of Fri 13 Nov
+USD/JPY: 159.88 (+0.09%) as of Fri 13 Nov
+US dollar index: 103.41 (+0.23%) as of Fri 13 Nov
+WTI crude oil: 88.56 (-0.20%) as of Fri 13 Nov
+Brent crude oil: 95.84 (+0.02%) as of Fri 13 Nov
+Gold: 3,886.30 (+0.03%) as of Fri 13 Nov
+Bitcoin: 67,247.11 (-5.74%) as of Sat 14 Nov
+
+TOP STORIES
+- Nvidia CEO scandal fallout widens, hits markets and Washington: Nvidia is the bellwether for the AI trade and a major driver of recent market gains, so instability at the top and renewed scrutiny of US chip-export policy toward China carry risk for broader equity markets and US-China tech relations.
+- FAA ground stop halts US flights nationwide; disruption to last through weekend: The episode exposed vulnerabilities in America's aging air-traffic infrastructure and is likely to intensify political pressure for the roughly $50 billion in upgrades officials say are needed.
+- Microsoft outage stretches into second day, disrupting services worldwide: Repeated large-scale cloud outages raise questions about concentration risk in critical digital infrastructure that underpins public services and commerce globally.
+- Trump to hold first three-way summit with Xi and Putin: A first-ever joint meeting of the US, Chinese and Russian leaders could reshape discussions on nuclear arms control and the Iran conflict, with implications for global security alignments.
+- Europe assembles five-nation team to represent it in Ukraine talks: Securing a formal role in the talks determines how much influence European governments, including Germany, will have over any settlement affecting the continent's security.
+- Wall Street banks pitch investors on Anthropic's IPO roadshow: A listing of this scale would be a major test of investor appetite for AI valuations after a volatile few weeks for AI-linked stocks.
+- Hot producer prices and hawkish Fed comments drive up bond yields: Persistent inflation pressure and a more hawkish Fed tone raise the prospect of higher-for-longer interest rates, a key risk for equity and bond markets heading into year-end.
+- Germany grants intelligence agency sweeping new powers: The expanded powers reflect growing German concern over Russian-linked threats and mark a shift toward a more assertive domestic security posture.
+- SpaceX Starship reaches orbit but loses booster in catch attempt: The setback is a test of SpaceX's push toward full rocket reusability, a technology central to lowering launch costs for future space missions.
+- Republicans suffer fresh midterm losses, deepening pressure on Trump agenda: A string of Republican losses, including in traditionally safe seats, could shift the political calculus in Washington on economic and immigration policy ahead of 2027.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-14/
+Data as of 07:01 CET. Not investment advice.

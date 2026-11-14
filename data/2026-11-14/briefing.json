@@ -1,0 +1,101 @@
+{
+  "headline": "Nvidia scandal deepens, FAA grounds US flights, Microsoft outage lingers",
+  "at_a_glance": [
+    "Nvidia's stock lost $1.7 trillion over six weeks as the Jensen Huang scandal fuels political scrutiny of US export policy.",
+    "A nationwide FAA ground stop grounded US flights for hours; disruption and cancellations are set to continue through the weekend.",
+    "Microsoft is still restoring Outlook and Teams two days into a global outage that hit businesses and public services worldwide.",
+    "Trump will hold a first three-way summit with Xi and Putin in China next week on nuclear arms and the Iran war.",
+    "Hot US inflation data and hawkish Fed remarks pushed the 10-year Treasury yield to 5.15%, its worst week since Trump's 'Liberation Day'."
+  ],
+  "market_analysis": "Wall Street's Nasdaq fell 0.91% on Friday as Nvidia extended its declines and dragged chip stocks lower (AMD fell 8.8% as investors reassessed the AI trade), even though the index notched its best week since August; the Dow added 0.10% while the S&P 500 slipped 0.40%. Hotter-than-expected inflation data (producer prices +0.3% in October, pushing the annual rate to 6.5%, a near four-year high) and hawkish comments from Fed officials pushed the 10-year Treasury yield up 5bp to 5.15%, handing Treasuries their worst week since Trump's \"Liberation Day\". The VIX rose 3.21% to 19.30.\n\nIn Asia, Japan's Nikkei rose 0.53% while Hong Kong's Hang Seng (-1.55%) and Shanghai's Composite (-0.59%) fell after China's securities regulator warned of a \"global asset repricing\" risk. European markets were mixed, with London's FTSE 100 up 0.36% while the DAX (-0.08%) and Euro Stoxx 50 (-0.19%) edged lower. The dollar firmed (dollar index +0.23%), the euro slipped to 1.1050, and bitcoin dropped 5.74% to $67,247 amid reports investors are freeing up cash ahead of Anthropic's IPO.\n\nNo economic data or watch-list earnings are scheduled for today. US markets are closed for the weekend after Friday's nationwide FAA ground stop disrupted air travel and a two-day Microsoft outage affected businesses worldwide; both remain in focus as recovery continues. Attention is also turning to next week's Trump-Xi-Putin summit in China and the continuing roadshow for Anthropic's IPO.",
+  "mover_notes": {
+    "AMD": "Shares fell 8.8% as investors reassessed the AI chip trade following Nvidia CEO Jensen Huang's resignation."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia CEO scandal fallout widens, hits markets and Washington",
+      "summary": "Nvidia's stock extended its decline after CEO Jensen Huang resigned amid revelations of extramarital affairs, including one with a woman reportedly tied to a Chinese spy case; shares have lost $1.7 trillion in market value over six consecutive weekly declines, the longest losing streak since 2012. Reuters reported Huang misled the company's top lawyer about the affair, and Nvidia has approached Arm CEO Rene Haas as a possible successor. The scandal has also drawn in Washington: Treasury Secretary Scott Bessent said Commerce Secretary Howard Lutnick's department failed to restrict chip exports to a firm linked to the affair, and officials said the issue will not be raised when Trump meets Chinese President Xi Jinping next week. The broader chip sector felt the spillover, with AMD shares falling 8.8% as investors reassessed the AI trade without Huang.",
+      "why_it_matters": "Nvidia is the bellwether for the AI trade and a major driver of recent market gains, so instability at the top and renewed scrutiny of US chip-export policy toward China carry risk for broader equity markets and US-China tech relations.",
+      "headline_ids": ["h006", "h007", "h025", "h100", "h116", "h151", "h181", "h182", "h230", "h269", "h274", "h291"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "FAA ground stop halts US flights nationwide; disruption to last through weekend",
+      "summary": "The FAA issued a rare nationwide ground stop on Friday afternoon after a telecommunications failure disrupted air traffic control communications, grounding all departing US flights for more than four hours. Officials, including Transportation Secretary Sean Duffy, said there was no evidence of a cyberattack and blamed overloaded, outdated systems. More than 1.5 million passengers were affected, with knock-on delays reaching international travel, including US-bound flights from Australia. Airlines and officials warned cancellations would continue into the weekend even after the ground stop was lifted.",
+      "why_it_matters": "The episode exposed vulnerabilities in America's aging air-traffic infrastructure and is likely to intensify political pressure for the roughly $50 billion in upgrades officials say are needed.",
+      "headline_ids": ["h001", "h072", "h073", "h077", "h081", "h082", "h088", "h096", "h132", "h172", "h184"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Microsoft outage stretches into second day, disrupting services worldwide",
+      "summary": "A global Microsoft outage affecting Outlook, Teams and other 365 services continued into its second day, with the company apologizing and reporting only gradual recovery. The disruption hit hospitals, schools, police forces and businesses in the UK and elsewhere, and analysts in Australia warned of a potentially billion-dollar economic impact. Experts said the extended outage is a reminder of how heavily governments and businesses depend on a small number of big technology providers.",
+      "why_it_matters": "Repeated large-scale cloud outages raise questions about concentration risk in critical digital infrastructure that underpins public services and commerce globally.",
+      "headline_ids": ["h010", "h015", "h018", "h019", "h020", "h109", "h120", "h168", "h218", "h256"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump to hold first three-way summit with Xi and Putin",
+      "summary": "The White House said Trump will hold an unprecedented trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines of the APEC summit in China next week. Officials said the agenda includes the Iran war and cutting nuclear arsenals, though a senior US official does not expect any agreement to emerge from the talks.",
+      "why_it_matters": "A first-ever joint meeting of the US, Chinese and Russian leaders could reshape discussions on nuclear arms control and the Iran conflict, with implications for global security alignments.",
+      "headline_ids": ["h058", "h066", "h113", "h119", "h136", "h208"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Europe assembles five-nation team to represent it in Ukraine talks",
+      "summary": "European Council President Antonio Costa said Europe will send a team including the UK, France, Germany, Italy and Poland, plus EU representatives, to upcoming talks on the Ukraine war. The move follows European efforts to secure a seat in discussions after the US held direct talks with Ukraine and Russia. The EU's foreign policy chief, Kaja Kallas, separately warned against \"walking into the traps\" she said Russia is setting in the negotiations.",
+      "why_it_matters": "Securing a formal role in the talks determines how much influence European governments, including Germany, will have over any settlement affecting the continent's security.",
+      "headline_ids": ["h164", "h209", "h244", "h266", "h280", "h294"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Wall Street banks pitch investors on Anthropic's IPO roadshow",
+      "summary": "Investment banks including Goldman Sachs are on a roadshow pitching what could become the largest public offering ever, as Anthropic prepares for a planned $1.5 trillion listing. Reuters reported investors are flocking to the deal but questioning the durability of Anthropic's AI lead, while CEO Dario Amodei said he is \"not super fussed\" about broader tech-stock turbulence ahead of the listing. Separately, bitcoin fell below $69,000, with some reports linking the drop to investors freeing up cash ahead of the IPO.",
+      "why_it_matters": "A listing of this scale would be a major test of investor appetite for AI valuations after a volatile few weeks for AI-linked stocks.",
+      "headline_ids": ["h008", "h146", "h166", "h205", "h220", "h279"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Hot producer prices and hawkish Fed comments drive up bond yields",
+      "summary": "US wholesale prices rose 0.3% in October, pushing the annual producer price index to 6.5%, its highest in nearly four years. Chicago Fed President Austan Goolsbee said the central bank \"has definitely got work to do\" on inflation, while Fed Governor Philip Jefferson said he is taking his policy cues from inflation data. The data and comments helped push the 10-year Treasury yield up 5 basis points to 5.15%, giving Treasuries their worst week since Trump's \"Liberation Day\".",
+      "why_it_matters": "Persistent inflation pressure and a more hawkish Fed tone raise the prospect of higher-for-longer interest rates, a key risk for equity and bond markets heading into year-end.",
+      "headline_ids": ["h022", "h024", "h128", "h186"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Germany grants intelligence agency sweeping new powers",
+      "summary": "Germany's parliament passed legislation granting its intelligence services expanded powers, months after a thwarted attack at Leipzig-Halle airport that Berlin linked to Russia.",
+      "why_it_matters": "The expanded powers reflect growing German concern over Russian-linked threats and mark a shift toward a more assertive domestic security posture.",
+      "headline_ids": ["h061"],
+      "single_source": true
+    },
+    {
+      "section": "Business & Tech",
+      "title": "SpaceX Starship reaches orbit but loses booster in catch attempt",
+      "summary": "SpaceX launched its Starship megarocket on a test flight intended to catch both the Super Heavy booster and the upper-stage spacecraft at its Starbase, Texas launch site. The booster exploded over the Gulf of Mexico during the catch attempt, while the upper-stage spacecraft continued into orbit, where it was expected to circle Earth about 14 times over 22 hours before planned reuse.",
+      "why_it_matters": "The setback is a test of SpaceX's push toward full rocket reusability, a technology central to lowering launch costs for future space missions.",
+      "headline_ids": ["h004", "h005", "h084", "h092", "h129", "h139"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Republicans suffer fresh midterm losses, deepening pressure on Trump agenda",
+      "summary": "Democrat Eileen Laubacher defeated Republican Lauren Boebert in a Colorado House race, while Democrat Jon Kreiss-Tomkins became Alaska's first Democratic governor since 1998. In Kansas, Democrat Holscher won the governor's race amid backlash over data center development. Secretary of State Marco Rubio acknowledged that \"people are struggling\" economically following what AP described as a GOP midterm wipeout, and Senate Democratic leader Chuck Schumer faces a leadership challenge from Senator Chris Van Hollen.",
+      "why_it_matters": "A string of Republican losses, including in traditionally safe seats, could shift the political calculus in Washington on economic and immigration policy ahead of 2027.",
+      "headline_ids": ["h036", "h106", "h133", "h154", "h191", "h197", "h295"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Flight cancellations and delays are expected to continue through the weekend as airlines recover from Friday's nationwide FAA ground stop.",
+    "Microsoft says it is continuing to restore Outlook, Teams and other 365 services following its second day of global outages.",
+    "Investment banks continue their roadshow for Anthropic's planned $1.5 trillion IPO ahead of Trump's trilateral summit with Xi and Putin next week."
+  ]
+}
