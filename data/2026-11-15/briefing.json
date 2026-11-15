@@ -1,0 +1,99 @@
+{
+  "headline": "Ukraine peace diplomacy intensifies as US flight chaos eases and Nvidia turmoil persists",
+  "at_a_glance": [
+    "US floated NATO membership for Ukraine in exchange for ceding Donbas; Zelenskyy says he will put the proposal to the public.",
+    "Trump, Putin and Xi plan an unprecedented joint meeting at next week's APEC summit in China, expected to cover nuclear arms reduction.",
+    "A nationwide US flight ground stop, the longest in 25 years, was traced to aging telecom equipment; air travel should normalize Sunday.",
+    "Nvidia's leadership crisis deepened: investors urged the board to consider Jensen Huang's return, and Musk warned of lost deals.",
+    "Italy fined Meta $887 million for accessing Android users' photos without informing them; Meta said it would appeal."
+  ],
+  "market_analysis": "Friday's US session was weighed down by continued fallout from Nvidia's leadership crisis, with chipmakers and hardware names including AMD, Dell, Cisco, Coherent and Sandisk among the S&P 500's biggest losers. The Nasdaq Composite fell 0.91% and the S&P 500 fell 0.40%, while the Dow Jones eked out a 0.10% gain as investors rotated into defensive sectors. The VIX volatility index rose 3.21% and the US 10-year yield climbed to 5.15%. Despite Friday's losses, the S&P 500 still closed the week up 2.5% and the Nasdaq up 2.3%, according to CNBC.\n\nIn Asia, the Nikkei 225 rose 0.53% while the Hang Seng fell 1.55% and the Shanghai Composite fell 0.59%. In Europe, the FTSE 100 gained 0.36%, while the DAX slipped 0.08% and the Euro Stoxx 50 fell 0.19%. Bitcoin extended its slide over the weekend, dropping 5.78% to $64,301.24, its lowest level of the year amid what Bloomberg described as a slow-motion selloff.\n\nNo economic data or earnings from the watch list are due today. This week brings US retail sales data and Federal Reserve minutes, continued speculation over a Bank of England rate rise, the COP31 climate talks, and the planned Trump-Putin-Xi meeting at the APEC summit in China as Ukraine peace diplomacy continues.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "US floats NATO membership for Ukraine in exchange for Donbas withdrawal",
+      "summary": "The US floated the idea of Ukraine ceding the Donbas region in exchange for NATO membership, President Zelenskyy said, adding he would put the proposal to the Ukrainian public. US envoy Jared Kushner said the Trump administration wants to see direct talks between Russia and European allies as part of the peace push. French President Macron warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. Zelenskyy also said a new European security framework floated by the US could end up benefiting Putin.",
+      "why_it_matters": "The proposal and the diplomatic maneuvering around it could shape the terms on which the war ends, with direct implications for European security.",
+      "headline_ids": ["h001", "h024", "h172", "h182", "h202", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump, Putin and Xi plan historic joint meeting at APEC summit",
+      "summary": "Trump, Putin and Xi plan an unprecedented joint meeting on the sidelines of the APEC summit in China next week, the White House and Kremlin said. Trump is expected to discuss the \"reduction of nuclear weapons\" during the talks. China's Xi is reported to be wary of hosting a broader Trump-Putin \"Yalta\"-style meeting.",
+      "why_it_matters": "A first-of-its-kind three-way summit between the US, Russia and China could influence both the Ukraine war's endgame and global nuclear arms policy.",
+      "headline_ids": ["h198", "h249", "h275"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Tensions rise around the Gulf and Strait of Hormuz",
+      "summary": "Iran's navy said three tankers caught fire after hitting mines in the Strait of Hormuz. Iran also said it had attacked a US base in Bahrain, prompting Bahrain to issue its first threat alerts since September. Separately, a Saudi-led coalition said it intercepted missiles aimed at Riyadh and drones in the Eastern Province, and shot down Houthi drones amid escalating fighting in Yemen.",
+      "why_it_matters": "Escalation around the Hormuz shipping chokepoint and Gulf threat alerts carries risk for oil markets and regional stability.",
+      "headline_ids": ["h048", "h074", "h075", "h123", "h154"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Nationwide US flight ground stop traced to aging telecom equipment",
+      "summary": "The FAA ordered a nationwide ground stop on Friday, the longest in 25 years and the biggest disruption since 9/11, canceling roughly 16,000 flights. Officials traced the failure to aging telecommunications equipment, including a router installed by contractor L3Harris during a system upgrade, though the FAA said the root cause remains unknown. Transport Secretary Sean Duffy asked Congress for $30 billion to upgrade aviation infrastructure. The FAA said air travel should normalize by Sunday.",
+      "why_it_matters": "The incident exposed long-standing vulnerabilities in US air-traffic infrastructure and adds pressure for infrastructure investment.",
+      "headline_ids": ["h008", "h014", "h072", "h083", "h145", "h146", "h152", "h153", "h175", "h194", "h195", "h205", "h215", "h225", "h262", "h263", "h269", "h273", "h274", "h289"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia leadership crisis deepens",
+      "summary": "Jensen Huang resigned from Nvidia following reports of multiple affairs, including one with a suspected Chinese spy. Two investors holding about $2.13 billion of Nvidia stock are calling for a deliberate leadership search and urged the board to consider Huang's return. Elon Musk said Nvidia will lose \"critical\" deals without Huang. Washington agencies are divided over the fallout, with the Treasury wanting to blacklist a Singapore company at the heart of the scandal while the Commerce Department did not act.",
+      "why_it_matters": "The leadership uncertainty is rattling the broader AI trade and chip stocks, a key driver of recent market swings.",
+      "headline_ids": ["h013", "h016", "h017", "h027", "h206", "h220", "h246", "h291"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Microsoft says services fully restored after global outage",
+      "summary": "Microsoft said its services were fully restored after an hourslong global outage that disrupted Outlook, Teams and other 365 products. The company apologized for the disruption, which began Thursday and lasted roughly 36 hours, hampering companies and services around the world.",
+      "why_it_matters": "The outage underscored how reliant businesses worldwide are on a small number of cloud providers.",
+      "headline_ids": ["h004", "h021", "h026"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Italy fines Meta $887 million over Android photo access",
+      "summary": "Italy fined Meta $887 million (€805 million) for accessing Android users' photo galleries through the Facebook app without informing them. Italian regulators said Meta had access to photos and multimedia content from roughly 20 million Italian users. Meta said it would appeal, calling the fine \"disproportionate.\"",
+      "why_it_matters": "The fine adds to European regulators' scrutiny of how US tech platforms handle user data.",
+      "headline_ids": ["h003", "h222", "h223", "h226"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "SpaceX catches Starship's upper stage in historic first",
+      "summary": "SpaceX caught the upper stage of its Starship rocket for the first time after it returned from orbit, landing on the arms of its launch tower in Texas. The booster recovery was aborted due to a technical issue, so the \"double catch\" the company had hoped for was not completed. SpaceX said the catch demonstrates the rocket's reusability.",
+      "why_it_matters": "Reusability is central to SpaceX's plans to cut launch costs and advance its goal of crewed missions to Mars.",
+      "headline_ids": ["h010", "h098", "h102", "h111", "h113", "h118", "h158", "h161", "h168", "h174", "h177", "h187", "h230", "h240"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Bitcoin selloff extends to lowest levels of the year",
+      "summary": "Bitcoin fell 5.78% to $64,301.24, extending a slow-motion selloff toward its lowest levels of the year. A succession of setbacks is testing the resolve of even committed crypto investors as major sources of demand weaken.",
+      "why_it_matters": "The slide reflects weakening risk appetite in a market some investors treat as a gauge of broader sentiment.",
+      "headline_ids": ["h035"],
+      "single_source": true
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Germany finalizes record €561 billion 2027 budget",
+      "summary": "Germany's 2027 federal budget proposal, totaling a record €561 billion, has been finalized and is set for a vote in parliament. The proposal sets spending priorities across defense, infrastructure, the economy and social spending, alongside a large increase in debt.",
+      "why_it_matters": "As Germany's largest-ever budget, the plan will shape fiscal policy and borrowing in the eurozone's biggest economy.",
+      "headline_ids": ["h183"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "US air travel is expected to normalize by Sunday after this week's nationwide ground stop, though officials still don't know the root cause.",
+    "Trump, Putin and Xi are due to hold an unprecedented joint meeting on the sidelines of next week's APEC summit in China.",
+    "Markets will watch for further reaction to Bitcoin's extended slide and the continued fallout from Nvidia's leadership crisis as the week opens."
+  ]
+}
