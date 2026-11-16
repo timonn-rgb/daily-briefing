@@ -1,0 +1,46 @@
+Nvidia turmoil, Asia summit and China slowdown weigh on markets before Nvidia earnings
+Daily Briefing · Monday, 16 November 2026
+
+AT A GLANCE
+- Nvidia's board faces a 10-day deadline from the US Treasury as pressure grows, backed by Elon Musk, for Jensen Huang to return as CEO.
+- Trump, Xi and Putin converge on Asia this week for summits in China and the Philippines covering trade, the Middle East, Ukraine and nuclear non-proliferation.
+- China's October data missed estimates across industrial output, retail sales and investment, deepening concerns about the slowdown in the world's second-largest economy.
+- Japan's economy unexpectedly contracted in the third quarter as high energy costs and heavy rains squeezed households, complicating interest rate plans.
+- Anthropic's IPO and Nvidia's earnings this week are being watched as tests of investor confidence in the AI trade after a sharp global tech selloff.
+
+MARKETS
+S&P 500: 7,561.67 (-0.40%) as of Fri 13 Nov
+Nasdaq Composite: 25,136.27 (-0.91%) as of Fri 13 Nov
+Dow Jones: 52,347.55 (+0.10%) as of Fri 13 Nov
+S&P 500 futures: 7,541.25 (-0.55%) as of Mon 16 Nov
+Nasdaq 100 futures: 27,710.25 (-1.16%) as of Mon 16 Nov
+VIX volatility: 19.30 (+3.21%) as of Fri 13 Nov
+US 10-year yield: 5.15% (+5 bp) as of Fri 13 Nov
+DAX: 26,749.95 (-0.08%) as of Fri 13 Nov
+FTSE 100: 10,902.60 (+0.36%) as of Fri 13 Nov
+Euro Stoxx 50: 6,386.86 (-0.19%) as of Fri 13 Nov
+Nikkei 225: 59,709.96 (-2.34%) as of Mon 16 Nov
+Hang Seng: 23,826.63 (+0.80%) as of Mon 16 Nov
+Shanghai Composite: 3,605.89 (-0.78%) as of Mon 16 Nov
+EUR/USD: 1.1023 (-0.25%) as of Mon 16 Nov
+USD/JPY: 159.46 (-0.26%) as of Mon 16 Nov
+US dollar index: 103.38 (-0.03%) as of Mon 16 Nov
+WTI crude oil: 88.67 (+0.12%) as of Mon 16 Nov
+Brent crude oil: 95.71 (-0.14%) as of Mon 16 Nov
+Gold: 3,840.50 (-1.18%) as of Mon 16 Nov
+Bitcoin: 64,396.58 (+0.42%) as of Mon 16 Nov
+
+TOP STORIES
+- Nvidia leadership crisis deepens as pressure mounts for Huang's return: The leadership vacuum at a company central to the AI trade, combined with scrutiny of US export-control compliance, adds uncertainty ahead of Nvidia's earnings this week, a report widely seen as pivotal for sentiment toward AI-related stocks.
+- Trump, Xi and Putin head to Asia for high-stakes summits: The summit brings together leaders of the world's largest economies and military powers at a moment of trade tension and ongoing wars in Ukraine and the Middle East, with outcomes likely to shape global trade policy and AI-technology competition with China.
+- China's economic slowdown deepens in October: Weaker Chinese demand is already weighing on commodity markets and regional trade partners, and comes as Beijing's stimulus measures have yet to visibly lift investment.
+- Japan's economy unexpectedly contracts in the third quarter: A surprise contraction in the world's fourth-largest economy adds a complication for policymakers at a time when growth signals from China are also weakening.
+- Houthis advance in Yemen as government forces retreat: Houthi control of the Bab al-Mandab Strait affects one of the world's busiest shipping routes, with implications for global trade and shipping costs through the Red Sea.
+- Anthropic's IPO tests appetite for the AI trade: The IPO's reception will be read as a signal of investor appetite for AI-related assets at a moment when AI stocks have been under pressure.
+- Hundreds of thousands protest in Prague over media funding plan: The size of the protest signals significant public resistance to a change that critics say could give the government more influence over public media in an EU member state.
+- Estonia to close Russia border crossings after sabotage attack: The closure marks an escalation in tensions between a NATO and EU member state and Russia, adding to concerns about hybrid warfare in the Baltic region.
+- Brussels to propose €45bn Ukraine loan: The loan plan addresses a near-term funding shortfall for Ukraine's war effort and government, a decision that requires agreement from EU member states.
+- Hong Kong developer New World's shares tumble 47%: The sharp share-price drop highlights ongoing stress among heavily indebted Chinese property developers.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-16/
+Data as of 07:01 CET. Not investment advice.

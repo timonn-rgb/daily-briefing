@@ -1,0 +1,99 @@
+{
+  "headline": "Nvidia turmoil, Asia summit and China slowdown weigh on markets before Nvidia earnings",
+  "at_a_glance": [
+    "Nvidia's board faces a 10-day deadline from the US Treasury as pressure grows, backed by Elon Musk, for Jensen Huang to return as CEO.",
+    "Trump, Xi and Putin converge on Asia this week for summits in China and the Philippines covering trade, the Middle East, Ukraine and nuclear non-proliferation.",
+    "China's October data missed estimates across industrial output, retail sales and investment, deepening concerns about the slowdown in the world's second-largest economy.",
+    "Japan's economy unexpectedly contracted in the third quarter as high energy costs and heavy rains squeezed households, complicating interest rate plans.",
+    "Anthropic's IPO and Nvidia's earnings this week are being watched as tests of investor confidence in the AI trade after a sharp global tech selloff."
+  ],
+  "market_analysis": "The S&P 500 fell 0.40% and the Nasdaq Composite dropped 0.91% in the last US session, while the Dow Jones rose 0.10%. The VIX volatility index climbed 3.21% and the US 10-year yield rose 5 basis points to 5.15%, reflecting investor caution around the AI trade. Among S&P 500 movers, AMD fell 8.8%, Dell dropped 7.2% and Cisco lost 6.2%, while Charter Communications, Steris, Global Payments, Fidelity National Information Services and Fox Corporation each gained more than 4%.\n\nAsian markets extended the pullback today: the Nikkei 225 fell 2.34% and the Shanghai Composite lost 0.78%, while the Hang Seng rose 0.80%. The slide followed weaker-than-expected Chinese October data on industrial output, retail sales and investment, and a surprise contraction in Japan's third-quarter GDP. In Europe, the DAX, FTSE 100 and Euro Stoxx 50 were little changed in the last session, but US stock futures point to a lower open, with S&P 500 futures down 0.55% and Nasdaq 100 futures down 1.16%.\n\nToday's calendar features a speech from Fed Chairman Warsh at 18:00 Berlin time, flagged as high impact, with no earnings due from the watch list. Markets remain focused on Nvidia's upcoming earnings and Anthropic's IPO this week as tests of confidence in the AI trade. Gold slipped 1.18% and the dollar firmed slightly, while WTI crude edged up 0.12% and Brent eased 0.14%.",
+  "mover_notes": {},
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia leadership crisis deepens as pressure mounts for Huang's return",
+      "summary": "Nvidia CEO Jensen Huang resigned last week after revelations of two extramarital affairs, one of them with a woman, Alice Huang, who has been accused of being a Chinese spy and was linked to the firm Megaspeed; Megaspeed says she left the company in August 2025 and calls itself a 'legitimate and lawful business.' US Treasury Secretary Scott Bessent gave Nvidia's board 10 days to demonstrate compliance with US export controls and called for an outsider to lead the company, while Commerce Secretary Howard Lutnick faces scrutiny over his sons' financial ties to the chipmaker. More than 165,000 people, including Elon Musk, have signed an open letter calling for Huang's reinstatement, and the Financial Times reported he is discussing a comeback with allies, a report that steadied Nvidia's shares. Colette Kress is currently leading the company.",
+      "why_it_matters": "The leadership vacuum at a company central to the AI trade, combined with scrutiny of US export-control compliance, adds uncertainty ahead of Nvidia's earnings this week, a report widely seen as pivotal for sentiment toward AI-related stocks.",
+      "headline_ids": ["h009", "h015", "h021", "h025", "h031", "h059", "h072", "h163", "h166", "h176", "h202", "h252", "h285"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump, Xi and Putin head to Asia for high-stakes summits",
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin are converging on Asia this week for summits in China and the Philippines, in what is being described as an unprecedented meeting of the three leaders; talks are expected to cover nuclear non-proliferation, the Middle East war, trade policy and possibly the Ukraine war. Ahead of the summit, the US and nine partner nations, including India, Singapore and the UK, signed a pledge to safeguard sensitive AI technology and infrastructure amid competition with China. Canada's Mark Carney, India's Narendra Modi and the Philippines' Ferdinand Marcos Jr. are also attending regional summits, with several leaders seeking to deepen trade ties as a hedge against US protectionism. ASEAN leaders meeting ahead of the summit failed to agree on a South China Sea code of conduct and denounced violence in Myanmar.",
+      "why_it_matters": "The summit brings together leaders of the world's largest economies and military powers at a moment of trade tension and ongoing wars in Ukraine and the Middle East, with outcomes likely to shape global trade policy and AI-technology competition with China.",
+      "headline_ids": ["h006", "h007", "h035", "h049", "h050", "h079", "h094", "h119", "h134", "h159", "h167", "h237", "h247", "h264"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "China's economic slowdown deepens in October",
+      "summary": "China's economic activity slowed more than expected in October, with industrial output, retail sales and investment all missing estimates, according to official data. BofA's Helen Qiao said the figures could signal a need for further policy easing, even as the People's Bank of China withdrew medium-term funds from the financial system, a sign of caution toward easing bets. Analysts said a deepening reliance on external demand leaves China more exposed to shocks from abroad as domestic momentum fades. Beijing has pushed to speed up budget spending to offset the weaker growth.",
+      "why_it_matters": "Weaker Chinese demand is already weighing on commodity markets and regional trade partners, and comes as Beijing's stimulus measures have yet to visibly lift investment.",
+      "headline_ids": ["h008", "h034", "h074", "h116", "h149", "h151"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Japan's economy unexpectedly contracts in the third quarter",
+      "summary": "Japan's economy unexpectedly contracted in the third quarter, shrinking at an annualised rate of 0.1% in the July-September period. Weak consumer spending, record rains and elevated energy costs — after household energy subsidies expired in September — were cited as factors. The contraction complicates the Bank of Japan's plans on interest rates.",
+      "why_it_matters": "A surprise contraction in the world's fourth-largest economy adds a complication for policymakers at a time when growth signals from China are also weakening.",
+      "headline_ids": ["h013", "h069", "h182", "h195"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthis advance in Yemen as government forces retreat",
+      "summary": "Forces aligned with Yemen's government and Saudi Arabia are retreating as Iran-backed Houthi forces advance, with Saudi-backed troops moving from the Bab al-Mandab Strait to defend the interim capital, Aden. Analysts said momentum in the civil war is tilting toward the Houthis, who have taken control of the key Red Sea waterway. Iran separately struck Bahrain. The Houthis have unilaterally released 600 war detainees.",
+      "why_it_matters": "Houthi control of the Bab al-Mandab Strait affects one of the world's busiest shipping routes, with implications for global trade and shipping costs through the Red Sea.",
+      "headline_ids": ["h001", "h014", "h123", "h204", "h257", "h259"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic's IPO tests appetite for the AI trade",
+      "summary": "Anthropic's IPO is landing this week as the AI industry looks for a bright spot after recent volatility, with its reception described as having outsized importance for a tech sector heavily invested in the AI lab. Asian shares fell on Monday as traders braced for both Nvidia's earnings and the Anthropic IPO, seen as tests of the broader tech rally. US stock futures also slipped ahead of the events.",
+      "why_it_matters": "The IPO's reception will be read as a signal of investor appetite for AI-related assets at a moment when AI stocks have been under pressure.",
+      "headline_ids": ["h002", "h029", "h087", "h160"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Hundreds of thousands protest in Prague over media funding plan",
+      "summary": "An estimated 350,000 people rallied in Prague against a government plan to scrap the licence fee funding public broadcasters and replace it with state-budget funding. Critics, including a prominent Czech TV presenter who said he would leave his job over the changes, argue the plan threatens media independence, while the government says broadcasters need to cut costs.",
+      "why_it_matters": "The size of the protest signals significant public resistance to a change that critics say could give the government more influence over public media in an EU member state.",
+      "headline_ids": ["h023", "h142", "h179", "h222", "h263", "h287", "h288"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Estonia to close Russia border crossings after sabotage attack",
+      "summary": "Estonia said it will close all its border crossings with Russia from 1 December, after Estonian authorities said Russia's intelligence service ordered a sabotage attack on a drone maker in Viimsi. Estonia's prime minister linked the attack to Tallinn's support for Ukraine.",
+      "why_it_matters": "The closure marks an escalation in tensions between a NATO and EU member state and Russia, adding to concerns about hybrid warfare in the Baltic region.",
+      "headline_ids": ["h019", "h268", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Brussels to propose €45bn Ukraine loan",
+      "summary": "The European Commission is due to propose a €45bn loan for Ukraine on Wednesday, borrowed against the EU budget, to help bridge Kyiv's funding gap for next year.",
+      "why_it_matters": "The loan plan addresses a near-term funding shortfall for Ukraine's war effort and government, a decision that requires agreement from EU member states.",
+      "headline_ids": ["h055"],
+      "single_source": true
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Hong Kong developer New World's shares tumble 47%",
+      "summary": "Shares in Hong Kong property developer New World fell 47% after the company announced a plan to raise funds via a $3.2bn rights issue, offering new stock at an 80% discount, as it moves to reduce its debts.",
+      "why_it_matters": "The sharp share-price drop highlights ongoing stress among heavily indebted Chinese property developers.",
+      "headline_ids": ["h003"],
+      "single_source": true
+    }
+  ],
+  "watch_today": [
+    "Fed Chairman Warsh speaks at 18:00 Berlin time, flagged as a high-impact event on today's economic calendar.",
+    "Markets watch for further developments around Anthropic's IPO and Nvidia's upcoming earnings this week amid the AI trade selloff.",
+    "The Trump-Xi-Putin summit week in Asia continues, with related meetings in China and the Philippines in focus for trade and diplomacy."
+  ]
+}
