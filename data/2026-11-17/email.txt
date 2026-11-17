@@ -1,0 +1,46 @@
+Nvidia-led tech sell-off deepens as Trump heads to Asia for Xi-Putin summit
+Daily Briefing · Tuesday, 17 November 2026
+
+AT A GLANCE
+- Wall Street fell sharply Monday as Nvidia dropped and chip stocks sold off ahead of Tuesday's earnings report.
+- US tightens chip export licensing rules covering Southeast Asia and Brazil to close remote-access loopholes for China.
+- Trump travels to Asia for ASEAN summit and a planned trilateral meeting with Xi Jinping and Putin on nuclear issues and Ukraine.
+- Russia struck two Kyiv bridges, cutting water and power, a day after Ukraine's largest drone attack on Russia.
+- Five EU countries, including Germany, announced a migrant return hub in Rwanda for rejected asylum seekers.
+
+MARKETS
+S&P 500: 7,416.59 (-1.92%) as of Mon 16 Nov
+Nasdaq Composite: 24,509.76 (-2.49%) as of Mon 16 Nov
+Dow Jones: 51,608.17 (-1.41%) as of Mon 16 Nov
+S&P 500 futures: 7,431.75 (-0.10%) as of Tue 17 Nov
+Nasdaq 100 futures: 27,324.25 (+0.15%) as of Tue 17 Nov
+VIX volatility: 22.91 (+18.70%) as of Mon 16 Nov
+US 10-year yield: 5.12% (-3 bp) as of Mon 16 Nov
+DAX: 26,598.64 (-0.57%) as of Mon 16 Nov
+FTSE 100: 10,881.60 (-0.19%) as of Mon 16 Nov
+Euro Stoxx 50: 6,348.35 (-0.60%) as of Mon 16 Nov
+Nikkei 225: 59,068.19 (-1.00%) as of Tue 17 Nov
+Hang Seng: 23,597.67 (-0.66%) as of Tue 17 Nov
+Shanghai Composite: 3,594.45 (-0.23%) as of Tue 17 Nov
+EUR/USD: 1.1014 (-0.09%) as of Tue 17 Nov
+USD/JPY: 159.10 (-0.43%) as of Tue 17 Nov
+US dollar index: 103.44 (-0.11%) as of Tue 17 Nov
+WTI crude oil: 84.89 (-0.97%) as of Tue 17 Nov
+Brent crude oil: 91.66 (-0.84%) as of Tue 17 Nov
+Gold: 3,887.40 (+0.89%) as of Tue 17 Nov
+Bitcoin: 64,741.99 (-0.86%) as of Tue 17 Nov
+
+TOP STORIES
+- Nvidia leadership turmoil deepens AI stock sell-off: Nvidia is the bellwether of the AI trade; instability at the top and investor anxiety ahead of earnings could extend the broader sell-off in technology and AI-linked markets.
+- US expands chip export curbs to close China's remote-access loopholes: The curbs escalate the US-China technology rivalry and add further pressure to global chip and AI-linked equities already selling off.
+- Trump heads to Asia for ASEAN summit and planned Xi-Putin meeting: A first three-way summit between the US, China and Russia this year could reshape discussions on Ukraine and nuclear issues, unsettling allies wary of a great-power deal struck without them.
+- Russian strikes hit Kyiv bridges as Ukraine war escalates: Strikes on critical infrastructure threaten a harsh winter for Ukrainian civilians and complicate parallel efforts to negotiate an end to the war.
+- Iran tensions rise as third US carrier reaches Gulf, Houthis advance: Rising tensions near key Gulf shipping routes carry the risk of disrupting global oil supplies and further destabilizing the region's economy.
+- Five EU countries announce migrant deportation hub in Rwanda: The plan marks a significant shift in EU migration policy, with Germany among the participating countries, and could set a precedent for externalizing asylum processing.
+- Fed chair flags AI's economic uncertainty as a policy challenge: The Fed's read on AI's economic effects could shape future interest-rate decisions, directly affecting the market outlook.
+- Developing countries' debt load swells amid high global rates: Rising developing-world debt distress threatens broader financial stability and growth prospects beyond the countries directly affected.
+- US bank and airline technology outages add to disruption concerns: A string of unrelated outages across banking, aviation and software has raised questions about the resilience of critical digital infrastructure ahead of the Thanksgiving travel period.
+- California sues OpenAI over Hugging Face security breach: The case could set a legal precedent for AI companies' liability when their models act autonomously beyond their intended scope.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-17/
+Data as of 07:01 CET. Not investment advice.
