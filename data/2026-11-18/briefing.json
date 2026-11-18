@@ -1,0 +1,101 @@
+{
+  "headline": "Nvidia beats and bars Huang's return; Trump, Xi, Putin meet as Gulf attacks escalate",
+  "at_a_glance": [
+    "Nvidia beat estimates and forecast $130bn in Q4 sales; its board ruled out reinstating Jensen Huang, and Reuters reported an SEC probe.",
+    "Trump, Xi and Putin held their first trilateral meeting at the APEC summit in Shenzhen, with Xi urging freer trade and Putin touting sanctions resilience.",
+    "Iran and the US exchanged strikes across the Gulf, hitting Kuwait, Bahrain and Qeshm Island, as a tanker burned in the Strait of Hormuz.",
+    "Democrats secured a 56-44 US Senate majority after Mary Peltola won Alaska, their largest net Senate gain since 2008.",
+    "Wall Street fell for a fourth session as AI-trade jitters and a surging VIX overshadowed Nvidia's beat; Anthropic's IPO may price above range."
+  ],
+  "market_analysis": "US stocks fell for a fourth straight session on Tuesday, with the S&P 500 down 1.03%, the Nasdaq Composite down 0.74% and the Dow Jones down 1.64%, closing at the S&P 500's lowest level since late July. Nike slid 6.3% even after setting a 2029 sales growth target, while Salesforce, Intuit, ServiceNow and SBA Communications also posted sharp declines. The VIX volatility index jumped 11.1% to 25.46, its fourth consecutive rise, while the 10-year Treasury yield eased 2 basis points to 5.10%.\n\nNvidia reported stronger-than-expected results after the close, doubling quarterly revenue and forecasting about $130bn in fourth-quarter sales; its board ruled out reinstating Jensen Huang as CEO. S&P 500 futures rose 0.25% and Nasdaq 100 futures gained 0.59% in response. In Asia, the Nikkei 225 rose 0.51% on strong October export data while the Hang Seng fell 1.03% and the Shanghai Composite was little changed. European markets closed sharply lower on Tuesday, with the DAX down 2.08%, the FTSE 100 down 1.76% and the Euro Stoxx 50 down 2.15%.\n\nToday's calendar includes UK CPI data at 08:00, a speech from Bank of England Governor Bailey at 16:00 and US FOMC meeting minutes at 20:00, all in Berlin time; there are no earnings from the watch list. Oil, gold and the yen weakened as the dollar firmed, while markets also watch the Trump-Xi-Putin meetings at the APEC summit in Shenzhen and Anthropic's expected Nasdaq debut on November 19.",
+  "mover_notes": {
+    "NKE": "Shares fell despite a new 2029 sales growth target meant to reassure investors."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia board refuses to reinstate Huang after blowout earnings; SEC scrutiny grows",
+      "summary": "Nvidia reported its first earnings since Jensen Huang's resignation, saying it doubled quarterly revenue and projecting about $130bn in fourth-quarter sales. The company's board chairman said Nvidia \"does not intend\" to reinstate Huang despite public campaigns for his return, including from Huang himself, who said he would be \"honoured\" to come back if asked. Reuters reported Nvidia is also facing an SEC probe following Huang's resignation over an alleged relationship with a suspected Chinese spy. Nvidia shares rose in after-hours trading on the results and outlook.",
+      "why_it_matters": "Nvidia's results and leadership uncertainty are a key driver of US futures and the broader \"AI trade,\" and regulatory scrutiny adds a new risk to a stock that underpins much of the S&P 500's recent gains.",
+      "headline_ids": ["h002", "h008", "h020", "h028", "h094", "h113", "h142", "h153", "h227"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump, Xi and Putin hold first trilateral meeting at APEC in Shenzhen",
+      "summary": "Presidents Trump, Xi and Putin met on the sidelines of the APEC summit in Shenzhen, their first trilateral encounter. Xi called for the removal of trade and investment barriers and greater cooperation on AI, while Putin used the summit to tout Russian economic resilience under sanctions and criticize a \"weakening\" Europe. The meeting came as new US chip export restrictions on China and Southeast Asia strained the fragile US-China trade truce.",
+      "why_it_matters": "The leaders' positions on trade, AI chip exports and Ukraine will shape global trade and technology policy heading into next year.",
+      "headline_ids": ["h013", "h014", "h038", "h039", "h053", "h080", "h107", "h123", "h137"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Iran and US trade strikes across the Gulf as attacks on Gulf states mount",
+      "summary": "Iran said its army struck US drone and missile installations at Kuwait's Ali Al Salem air base, part of a widening run of attacks on Gulf states that also hit Bahrain. The US responded by striking an Iranian missile launch site on Qeshm Island. Kuwaiti and Bahraini forces said they intercepted drone and missile attacks, and a tanker caught fire in the Strait of Hormuz after a reported strike. Trump said the US takes a reported Iranian plot to target Washington \"very seriously.\"",
+      "why_it_matters": "Escalating attacks around the Strait of Hormuz, a key oil shipping route, raise the risk of supply disruption even though oil prices fell on the day.",
+      "headline_ids": ["h004", "h040", "h131", "h169", "h179", "h193", "h278", "h291", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Democrats complete midterm sweep with Alaska Senate win",
+      "summary": "Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska's US Senate race, the last contest of the 2026 midterms to be called. The win gives Democrats a 56-44 Senate majority starting in January, their largest net Senate gain since 2008. Peltola becomes the first Alaska Native elected to the US Senate.",
+      "why_it_matters": "A larger Democratic Senate majority changes the political backdrop for US fiscal, regulatory and trade policy in the new year.",
+      "headline_ids": ["h012", "h069", "h096", "h102", "h103", "h105", "h109"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic set to price IPO above range ahead of Thursday Nasdaq debut",
+      "summary": "Anthropic is likely to price its IPO above the current range of $70 to $78 per share, people familiar with the matter told CNBC, ahead of its Nasdaq listing under ticker \"ANT\" on November 19. Crypto futures tied to the listing imply a valuation of about $1.7 trillion, above the roughly $1.4 trillion the company would be worth at the top of its proposed range. The Financial Times reported the IPO is set to significantly benefit a group of lesser-known venture firms.",
+      "why_it_matters": "It would be one of the largest tech IPOs in years, adding a major new AI-sector stock to public markets at a time of heightened volatility in AI-related shares.",
+      "headline_ids": ["h006", "h034", "h045", "h254"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "New US chip export curbs ripple through Southeast Asia and China",
+      "summary": "New US restrictions on advanced chip exports and computing access are weighing on Southeast Asian data-center ambitions, with Thailand's top diplomat calling the curbs a threat to its hopes of becoming a data-center hub. The rules are also designed to limit China's access to computing power it relies on heavily, and Reuters reported Trump's push for a China data-center curb is advancing despite lobbying from Amazon, Google and Meta. The restrictions come as China separately grapples with fallout from Nvidia's Huang scandal.",
+      "why_it_matters": "Export controls are reshaping where AI infrastructure investment flows across Asia and adding friction to the US-China trade relationship.",
+      "headline_ids": ["h035", "h155", "h239", "h026", "h263"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Wall Street's four-day slide deepens as AI-trade unwind continues",
+      "summary": "The S&P 500 extended its losing streak to four sessions on Tuesday, closing at its lowest level since late July, as the Nasdaq 100 fell ahead of Nvidia's results. The VIX volatility index rose for a fourth straight day, to levels of fear not seen since April, as doubts about the AI trade persisted despite Nvidia's beat. Treasuries rose for a third straight day on subdued risk appetite.",
+      "why_it_matters": "Sustained volatility and a flight to safe-haven bonds signal investors remain uneasy about AI-sector valuations even after strong earnings.",
+      "headline_ids": ["h030", "h165", "h215", "h220", "h261"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Wave of outages hits banks, airlines, Apple and a US national security network",
+      "summary": "Widespread technology outages disrupted banks, air travel, Apple services and even a classified US national security communications network, according to the NSA. Secretary of State Rubio said there is no evidence linking the outages to each other or to hostile cyberattacks, and separately said a rush to patch AI-exposed vulnerabilities may be contributing to the failures. Apple said it addressed the issues affecting Apple Pay, iCloud and other apps, which followed earlier disruptions to flights and offices.",
+      "why_it_matters": "The outages highlight the fragility of interconnected digital infrastructure that underpins finance, transport and government operations.",
+      "headline_ids": ["h029", "h042", "h085", "h092", "h174", "h196"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Critical security flaw found in Java programming language",
+      "summary": "A tech start-up used AI to uncover a critical software vulnerability in Java, one of the world's most widely used programming languages, following a similar discovery in PHP. US and South Korean authorities issued urgent advisories, and the US cybersecurity agency warned companies running Java-based systems, widely used by banks, corporations and government agencies, to update immediately.",
+      "why_it_matters": "A flaw in such a widely deployed language could affect systems across the financial sector and government, raising near-term IT security risks.",
+      "headline_ids": ["h041", "h125", "h148"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "US loses measles elimination status after 26 years",
+      "summary": "The US lost its measles elimination status after the Pan American Health Organization determined the disease is now endemic following 12 months of continuous transmission. More than 5,400 cases and 10 deaths have been reported, the most since the early 1990s. Mexico and Bolivia also lost their elimination status.",
+      "why_it_matters": "The reclassification reflects a broader decline in vaccination coverage and public health infrastructure in the Americas.",
+      "headline_ids": ["h033", "h219", "h232", "h240", "h245"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "UK CPI data at 08:00 and a speech from Bank of England Governor Bailey at 16:00 Berlin time could move GBP and European rate expectations.",
+    "The Federal Reserve releases FOMC meeting minutes at 20:00 Berlin time, which may offer clues on the pace of future policy moves.",
+    "Anthropic is expected to price its IPO ahead of its Nasdaq debut on November 19, a closely watched test of AI-sector investor appetite."
+  ]
+}

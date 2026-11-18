@@ -1,0 +1,46 @@
+Nvidia beats and bars Huang's return; Trump, Xi, Putin meet as Gulf attacks escalate
+Daily Briefing · Wednesday, 18 November 2026
+
+AT A GLANCE
+- Nvidia beat estimates and forecast $130bn in Q4 sales; its board ruled out reinstating Jensen Huang, and Reuters reported an SEC probe.
+- Trump, Xi and Putin held their first trilateral meeting at the APEC summit in Shenzhen, with Xi urging freer trade and Putin touting sanctions resilience.
+- Iran and the US exchanged strikes across the Gulf, hitting Kuwait, Bahrain and Qeshm Island, as a tanker burned in the Strait of Hormuz.
+- Democrats secured a 56-44 US Senate majority after Mary Peltola won Alaska, their largest net Senate gain since 2008.
+- Wall Street fell for a fourth session as AI-trade jitters and a surging VIX overshadowed Nvidia's beat; Anthropic's IPO may price above range.
+
+MARKETS
+S&P 500: 7,340.53 (-1.03%) as of Tue 17 Nov
+Nasdaq Composite: 24,328.38 (-0.74%) as of Tue 17 Nov
+Dow Jones: 50,759.42 (-1.64%) as of Tue 17 Nov
+S&P 500 futures: 7,377.50 (+0.25%) as of Wed 18 Nov
+Nasdaq 100 futures: 27,236.50 (+0.59%) as of Wed 18 Nov
+VIX volatility: 25.46 (+11.13%) as of Tue 17 Nov
+US 10-year yield: 5.10% (-2 bp) as of Tue 17 Nov
+DAX: 26,045.37 (-2.08%) as of Tue 17 Nov
+FTSE 100: 10,689.90 (-1.76%) as of Tue 17 Nov
+Euro Stoxx 50: 6,212.11 (-2.15%) as of Tue 17 Nov
+Nikkei 225: 59,160.63 (+0.51%) as of Wed 18 Nov
+Hang Seng: 23,265.73 (-1.03%) as of Wed 18 Nov
+Shanghai Composite: 3,588.59 (+0.11%) as of Wed 18 Nov
+EUR/USD: 1.0985 (-0.12%) as of Wed 18 Nov
+USD/JPY: 159.25 (-0.17%) as of Wed 18 Nov
+US dollar index: 103.67 (+0.17%) as of Wed 18 Nov
+WTI crude oil: 84.78 (-1.43%) as of Wed 18 Nov
+Brent crude oil: 92.56 (-0.62%) as of Wed 18 Nov
+Gold: 3,792.20 (-1.86%) as of Wed 18 Nov
+Bitcoin: 64,541.38 (-0.48%) as of Wed 18 Nov
+
+TOP STORIES
+- Nvidia board refuses to reinstate Huang after blowout earnings; SEC scrutiny grows: Nvidia's results and leadership uncertainty are a key driver of US futures and the broader "AI trade," and regulatory scrutiny adds a new risk to a stock that underpins much of the S&P 500's recent gains.
+- Trump, Xi and Putin hold first trilateral meeting at APEC in Shenzhen: The leaders' positions on trade, AI chip exports and Ukraine will shape global trade and technology policy heading into next year.
+- Iran and US trade strikes across the Gulf as attacks on Gulf states mount: Escalating attacks around the Strait of Hormuz, a key oil shipping route, raise the risk of supply disruption even though oil prices fell on the day.
+- Democrats complete midterm sweep with Alaska Senate win: A larger Democratic Senate majority changes the political backdrop for US fiscal, regulatory and trade policy in the new year.
+- Anthropic set to price IPO above range ahead of Thursday Nasdaq debut: It would be one of the largest tech IPOs in years, adding a major new AI-sector stock to public markets at a time of heightened volatility in AI-related shares.
+- New US chip export curbs ripple through Southeast Asia and China: Export controls are reshaping where AI infrastructure investment flows across Asia and adding friction to the US-China trade relationship.
+- Wall Street's four-day slide deepens as AI-trade unwind continues: Sustained volatility and a flight to safe-haven bonds signal investors remain uneasy about AI-sector valuations even after strong earnings.
+- Wave of outages hits banks, airlines, Apple and a US national security network: The outages highlight the fragility of interconnected digital infrastructure that underpins finance, transport and government operations.
+- Critical security flaw found in Java programming language: A flaw in such a widely deployed language could affect systems across the financial sector and government, raising near-term IT security risks.
+- US loses measles elimination status after 26 years: The reclassification reflects a broader decline in vaccination coverage and public health infrastructure in the Americas.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-18/
+Data as of 07:01 CET. Not investment advice.
