@@ -1,0 +1,46 @@
+Anthropic's record IPO, Trump-Xi-Putin summit, and Wall Street's losing streak
+Daily Briefing · Thursday, 19 November 2026
+
+AT A GLANCE
+- Anthropic's Nasdaq debut raised a record $81-107bn, valuing the AI lab at up to $1.5 trillion in the largest IPO ever.
+- Trump, Xi and Putin held an unprecedented trilateral meeting in Shenzhen, discussing Ukraine, Iran, nuclear arms and the Nvidia spying case.
+- The S&P 500 fell for a fifth straight session, its longest losing streak since June, amid AI-bubble jitters and a hawkish Fed.
+- The ICJ is set to rule on whether Myanmar committed genocide against the Rohingya, its first such verdict in over a decade.
+- The euro slid to an 18-month low on French political risk, while the IEA called the Middle East crisis the biggest-ever threat to energy security.
+
+MARKETS
+S&P 500: 7,323.63 (-0.23%) as of Wed 18 Nov
+Nasdaq Composite: 24,429.88 (+0.42%) as of Wed 18 Nov
+Dow Jones: 50,198.17 (-1.11%) as of Wed 18 Nov
+S&P 500 futures: 7,385.50 (+0.61%) as of Thu 19 Nov
+Nasdaq 100 futures: 27,466.50 (+1.03%) as of Thu 19 Nov
+VIX volatility: 24.56 (-3.53%) as of Wed 18 Nov
+US 10-year yield: 5.07% (-4 bp) as of Wed 18 Nov
+DAX: 25,736.24 (-1.19%) as of Wed 18 Nov
+FTSE 100: 10,551.20 (-1.30%) as of Wed 18 Nov
+Euro Stoxx 50: 6,154.39 (-0.93%) as of Wed 18 Nov
+Nikkei 225: 59,337.85 (+0.53%) as of Thu 19 Nov
+Hang Seng: 22,820.16 (-2.04%) as of Thu 19 Nov
+Shanghai Composite: 3,573.11 (-0.41%) as of Thu 19 Nov
+EUR/USD: 1.0969 (-0.22%) as of Thu 19 Nov
+USD/JPY: 159.56 (+0.03%) as of Thu 19 Nov
+US dollar index: 103.87 (+0.01%) as of Thu 19 Nov
+WTI crude oil: 82.30 (-1.15%) as of Thu 19 Nov
+Brent crude oil: 89.31 (-2.87%) as of Thu 19 Nov
+Gold: 3,740.40 (-0.04%) as of Thu 19 Nov
+Bitcoin: 63,374.27 (-2.34%) as of Thu 19 Nov
+
+TOP STORIES
+- Trump, Xi and Putin hold historic trilateral summit in Shenzhen: The meeting signals a new phase of great-power diplomacy that could shape policy on Ukraine, Iran and nuclear arms control, with knock-on effects for global markets and alliances.
+- Anthropic completes the largest IPO on record: The debut makes Anthropic one of the most valuable public companies anywhere, testing investor appetite for AI stocks after a recent tech selloff and raising fresh questions about AI safety governance at scale.
+- Nvidia navigates leadership upheaval after Jensen Huang's exit: Nvidia's leadership upheaval and the chip-security scandal add uncertainty to the AI investment cycle that has driven much of this year's stock market gains.
+- US tech outages linked to rushed AI bug-fixing: The episode shows how AI is simultaneously exposing and accelerating fixes for infrastructure vulnerabilities, raising new risks for critical systems that rely on fast, automated patching.
+- Fed officials flag a possible half-point rate hike: A larger-than-expected hike would tighten financial conditions further, with direct implications for bond yields, the dollar and equity valuations already under pressure from the tech selloff.
+- IEA: Middle East crisis is the biggest-ever threat to energy security: Continued disruption risk around the Strait of Hormuz keeps energy markets on edge and could reshape long-term investment in oil alternatives.
+- Euro slides to 18-month low on French political risk: A weaker euro driven by French political risk affects purchasing power and trade competitiveness across the eurozone, including Germany.
+- ICJ to rule on Rohingya genocide case against Myanmar: A guilty verdict would set a landmark legal precedent for international accountability and could affect Myanmar's international standing and future reparations claims.
+- Ukraine financing gap widens as allies meet and Crimea bridge is struck again: The financing gap and continued attacks on Crimea's infrastructure underscore the strain the war places on both Ukraine's finances and Russian logistics, with the EU loan a test of European unity.
+- Israeli military crosses Gaza ceasefire's "yellow line": The incursion tests the durability of the Gaza ceasefire and could trigger wider escalation if retaliation follows.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-19/
+Data as of 07:01 CET. Not investment advice.

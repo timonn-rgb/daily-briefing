@@ -1,0 +1,102 @@
+{
+  "headline": "Anthropic's record IPO, Trump-Xi-Putin summit, and Wall Street's losing streak",
+  "at_a_glance": [
+    "Anthropic's Nasdaq debut raised a record $81-107bn, valuing the AI lab at up to $1.5 trillion in the largest IPO ever.",
+    "Trump, Xi and Putin held an unprecedented trilateral meeting in Shenzhen, discussing Ukraine, Iran, nuclear arms and the Nvidia spying case.",
+    "The S&P 500 fell for a fifth straight session, its longest losing streak since June, amid AI-bubble jitters and a hawkish Fed.",
+    "The ICJ is set to rule on whether Myanmar committed genocide against the Rohingya, its first such verdict in over a decade.",
+    "The euro slid to an 18-month low on French political risk, while the IEA called the Middle East crisis the biggest-ever threat to energy security."
+  ],
+  "market_analysis": "Wall Street closed lower for a fifth straight session on Wednesday, its longest losing streak since June, as AI-bubble worries and hawkish Fed commentary weighed on sentiment. The S&P 500 fell 0.23% and the Dow dropped 1.11%, though the Nasdaq Composite gained 0.42%. Fed Governor Christopher Waller said the central bank may need to \"shock people\" with a half-point rate hike to tame inflation, while weak housing data added to the gloomy backdrop. The VIX eased to 24.56 and the 10-year Treasury yield slipped to 5.07%.\n\nAsian markets were mixed on Thursday: the Nikkei rose 0.53%, while the Hang Seng dropped 2.04%, dragged down in part by a 54% plunge in New World Development shares, and the Shanghai Composite slipped 0.41%. Reuters noted Asian stocks failed to get a lift from Anthropic's IPO pricing. European markets closed broadly lower on Wednesday, with the DAX down 1.19%, the FTSE 100 down 1.30% and the Euro Stoxx 50 down 0.93%, as the euro hit an 18-month low on French political risk.\n\nUS futures point sharply higher today, with S&P 500 futures up 0.61% and Nasdaq 100 futures up 1.03%, as Anthropic's shares are set to begin trading on the Nasdaq under ticker ANT after pricing at the top of a record-breaking IPO. Walmart reports earnings today, the only scheduled release on the watch list, and no major economic data is due in Germany. Oil eased, with Brent down 2.87%, as the IEA warned of mounting risks to Middle East energy security.",
+  "mover_notes": {
+    "PANW": "Shares jumped after Palo Alto Networks raised its annual forecast, reported strong earnings and signed a $4.5 billion deal for AI startup Applied Compute.",
+    "FCX": "Move tracks a sharp swing in copper prices, which plunged nearly 6% this week - the biggest drop since April 2025 - before steadying."
+  },
+  "stories": [
+    {
+      "section": "Geopolitics",
+      "title": "Trump, Xi and Putin hold historic trilateral summit in Shenzhen",
+      "summary": "The three leaders met on the sidelines of the APEC summit for the first-ever trilateral meeting between the US, China and Russia. Xi broke with decades of protocol to personally welcome Trump at the airport, and Trump met Putin in person for the first time in over a year. The agenda reportedly covers Ukraine, Iran, nuclear arms control and the fallout from the Nvidia-China spying case. Trump said he would like China to curb its nuclear arsenal, a request Xi is expected to resist.",
+      "why_it_matters": "The meeting signals a new phase of great-power diplomacy that could shape policy on Ukraine, Iran and nuclear arms control, with knock-on effects for global markets and alliances.",
+      "headline_ids": ["h032", "h043", "h045", "h046", "h073", "h077", "h079", "h080", "h083", "h093", "h097", "h104", "h106", "h120", "h122", "h134", "h149", "h153", "h159", "h169", "h173", "h182", "h241"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic completes the largest IPO on record",
+      "summary": "Anthropic's initial public offering raised more than $81 billion, with reports putting the upsized offering and a private placement at $107.3 billion, surpassing SpaceX as the biggest IPO ever. Shares priced at $83, valuing the AI lab at up to $1.5 trillion ahead of its Nasdaq debut Thursday under ticker ANT, with gray-market indications pointing to shares opening 20-26% higher. The company also disclosed it had activated part of its \"responsible scaling policy\" over AI safety concerns just before the listing.",
+      "why_it_matters": "The debut makes Anthropic one of the most valuable public companies anywhere, testing investor appetite for AI stocks after a recent tech selloff and raising fresh questions about AI safety governance at scale.",
+      "headline_ids": ["h004", "h017", "h018", "h039", "h062", "h071", "h081", "h123", "h198", "h235", "h291"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia navigates leadership upheaval after Jensen Huang's exit",
+      "summary": "Interim CEO Colette Kress held her first all-hands meeting since Huang's departure, urging staff to \"move forward\" and offering pay raises. Huang's exit followed a scandal over Nvidia chips reaching a China-linked military lab via Alibaba. Trump said he discussed Huang's situation \"briefly\" with Xi and suggested the US could eventually allow sales of Blackwell chips to China. Investors are also weighing new bets against AI-related corporate debt, from CoreWeave to Oracle.",
+      "why_it_matters": "Nvidia's leadership upheaval and the chip-security scandal add uncertainty to the AI investment cycle that has driven much of this year's stock market gains.",
+      "headline_ids": ["h026", "h027", "h050", "h084", "h150", "h155", "h217", "h249", "h266", "h267", "h272", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "US tech outages linked to rushed AI bug-fixing",
+      "summary": "A wave of US tech outages, including a nationwide ground stop, a Microsoft Outlook outage and a reported blackout of the NSA's communications network, has been linked to a rushed effort to patch software bugs that AI tools are finding at a rapid pace. Microsoft CEO Satya Nadella called the Outlook outage a \"perfect storm,\" while Anduril's Palmer Luckey blamed the disruptions on attackers using AI tools against outdated infrastructure. The outages have also triggered panic-buying at retailers such as Costco.",
+      "why_it_matters": "The episode shows how AI is simultaneously exposing and accelerating fixes for infrastructure vulnerabilities, raising new risks for critical systems that rely on fast, automated patching.",
+      "headline_ids": ["h033", "h035", "h040", "h113", "h199", "h205", "h211", "h236", "h271"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Fed officials flag a possible half-point rate hike",
+      "summary": "Fed Governor Christopher Waller said the central bank may need to \"shock people\" with a half-point interest rate hike as inflation stays above its 2% target. Minutes showed some policymakers favoring a bigger hike. The IMF's head separately said global inflation calls for monetary tightening in many economies. Gold has wavered near a 14-month low as markets price in a more hawkish Fed.",
+      "why_it_matters": "A larger-than-expected hike would tighten financial conditions further, with direct implications for bond yields, the dollar and equity valuations already under pressure from the tech selloff.",
+      "headline_ids": ["h036", "h127", "h230", "h296"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "IEA: Middle East crisis is the biggest-ever threat to energy security",
+      "summary": "The International Energy Agency said the Middle East crisis triggered by US and Israeli strikes on Iran in February poses the \"largest threat\" to energy security in history, though it said markets can \"manage without\" the Strait of Hormuz given enough investment. The IEA's analysis found the oil shock could accelerate adoption of alternative energy sources. Oil prices held steady as traders weighed Middle East shipping attacks against a supply surplus outlook.",
+      "why_it_matters": "Continued disruption risk around the Strait of Hormuz keeps energy markets on edge and could reshape long-term investment in oil alternatives.",
+      "headline_ids": ["h006", "h011", "h049", "h125", "h244"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Euro slides to 18-month low on French political risk",
+      "summary": "The euro's slide to an 18-month low is showing few signs of easing, traders say, as France's politically divided and fiscally stressed outlook ahead of next year's election continues to weigh on the common currency. EUR/USD traded at 1.0969, down 0.22% on the day.",
+      "why_it_matters": "A weaker euro driven by French political risk affects purchasing power and trade competitiveness across the eurozone, including Germany.",
+      "headline_ids": ["h048"],
+      "single_source": true
+    },
+    {
+      "section": "Geopolitics",
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "summary": "The International Court of Justice is set to issue its ruling on whether Myanmar is culpable for genocide against the Rohingya, the court's first genocide verdict in more than a decade. No state has ever previously been found guilty of genocide by an international court. The case centers on a campaign of violence that destroyed villages and killed or displaced Rohingya Muslims.",
+      "why_it_matters": "A guilty verdict would set a landmark legal precedent for international accountability and could affect Myanmar's international standing and future reparations claims.",
+      "headline_ids": ["h005", "h064", "h228", "h242"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Ukraine financing gap widens as allies meet and Crimea bridge is struck again",
+      "summary": "European leaders gathered in Berlin for a \"Coalition of the Willing\" summit on Ukraine, with US envoys Steve Witkoff and Jared Kushner also attending, as Kyiv faces a $27.4 billion financing gap next year. The European Commission proposed a €45 billion loan to help Ukraine cover the shortfall and bolster its defenses. Separately, Russian officials said the Crimean (Kerch) bridge was attacked again, days after earlier strikes damaged a road section of the link to the Russian mainland.",
+      "why_it_matters": "The financing gap and continued attacks on Crimea's infrastructure underscore the strain the war places on both Ukraine's finances and Russian logistics, with the EU loan a test of European unity.",
+      "headline_ids": ["h012", "h072", "h126", "h206", "h227", "h262", "h284"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Israeli military crosses Gaza ceasefire's \"yellow line\"",
+      "summary": "Israeli tanks crossed the \"yellow line\" boundary into Hamas-controlled central Gaza, the first such ground incursion since the ceasefire deal took hold. Hamas called the move a \"flagrant\" violation of the truce, while the Israeli military said it was dismantling a tunnel. Separately, a settler was filmed running over Palestinians at multiple locations in central Israel.",
+      "why_it_matters": "The incursion tests the durability of the Gaza ceasefire and could trigger wider escalation if retaliation follows.",
+      "headline_ids": ["h167", "h229", "h261"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Anthropic's shares (ticker ANT) begin trading on the Nasdaq after pricing at the top of its record-breaking IPO.",
+    "Walmart reports quarterly earnings, the only scheduled release on today's watch list.",
+    "Markets watch for further statements from the Trump-Xi-Putin trilateral meeting in Shenzhen, including on Ukraine and nuclear arms."
+  ]
+}
