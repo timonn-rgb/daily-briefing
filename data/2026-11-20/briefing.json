@@ -1,0 +1,101 @@
+{
+  "headline": "Wall Street's AI-driven selloff deepens despite record Anthropic IPO",
+  "at_a_glance": [
+    "Global stocks extended their AI-driven selloff; Wall Street booked a fifth straight decline and Asian markets had their worst week in years.",
+    "Anthropic's record $81bn IPO closed up 17% on debut but failed to revive the broader AI trade as the Nasdaq fell over 2%.",
+    "The UN's top court ruled for the first time that a country, Myanmar, committed genocide, against the Rohingya Muslim minority.",
+    "Trump, Xi and Putin held a first-ever trilateral summit at APEC with no breakthroughs on nuclear arms, Ukraine or AI rules.",
+    "Nvidia faces a California subpoena and congressional scrutiny over AI chip sales to China as its stock keeps sliding."
+  ],
+  "market_analysis": "US stocks fell sharply on Thursday, with the S&P 500 down 2.02%, the Nasdaq Composite down 2.25% and the Dow Jones down 2.19%, closing below 50,000 for the first time since June. It was the market's longest losing streak since 2024, and volatility jumped, with the VIX up 15.8%. Anthropic's record-breaking IPO, the biggest on record and raising $81 billion, saw shares close up 17% on debut, but it failed to revive the broader AI trade: Nvidia extended its slide, having lost $669 billion in market value over six sessions, and AMD fell more than 7% after a short-seller report alleged undisclosed China exposure.\n\nThe selloff deepened in Asia on Friday: the Nikkei fell nearly 5%, Hong Kong stocks are down 20% from their 2026 high, and Taiwan's benchmark posted its worst week since 1991. SoftBank dropped more than 16%. Europe closed lower Thursday (DAX -1.06%, FTSE 100 -0.93%, Euro Stoxx 50 -0.66%), and US futures point to further losses today. Investors rotated into havens: the yen led G10 currencies, Treasuries are headed for their longest rally in almost five months, and gold is set for its worst week in months.\n\nNo economic data releases or watch-list earnings are scheduled in Europe today. Japan's core inflation accelerated to a yearly high after an energy subsidy lapsed, firming up Bank of Japan rate-hike bets, while a hawkish Federal Reserve outlook continues to weigh on risk appetite alongside the AI-valuation worries.",
+  "mover_notes": {
+    "AMD": "Fell after a short seller alleged its firmware showed up at a blacklisted Chinese company; AMD said it complies with U.S. law."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "Anthropic's record IPO fails to lift broader AI trade",
+      "summary": "Anthropic's initial public offering, upsized to raise $81 billion, became the biggest IPO on record, breaking SpaceX's previous mark. Shares opened 34% higher and briefly valued the company at more than $2 trillion before closing up 17% on its first trading day. The debut turned some early employees and Anthropic's seven co-founders, whose combined paper fortunes reached more than $180 billion, into instant multi-millionaires and billionaires. Despite the blockbuster listing, the Nasdaq Composite still fell more than 2% as the broader AI trade failed to get the lift investors had hoped for.",
+      "why_it_matters": "The muted market reaction beyond Anthropic's own stock suggests investors are growing more cautious about AI valuations generally, even as the listing sets a new benchmark for AI-sector IPOs.",
+      "headline_ids": ["h224", "h268", "h229", "h291", "h176", "h021"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "AI-fueled stock selloff spreads across Asia, hits multi-year lows",
+      "summary": "A deepening selloff tied to doubts about the sustainability of AI-related valuations spread from Wall Street into Asian markets. Taiwan's benchmark posted its worst week since 1991, Hong Kong stocks fell 20% from their 2026 high, and SoftBank shares plunged more than 16%. The Nikkei 225 dropped nearly 5%, and Asian shares were on track for their worst week since 2020. Investors rotated into havens, pushing the yen higher, extending a rally in Treasuries, and weighing on copper and gold prices.",
+      "why_it_matters": "A sustained unwind of AI-related stock valuations could tighten financial conditions well beyond the technology sector and dent investor and consumer confidence globally.",
+      "headline_ids": ["h119", "h120", "h014", "h128", "h107", "h074", "h077"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "UN court rules Myanmar committed genocide against the Rohingya",
+      "summary": "The International Court of Justice found, for the first time, that a country, Myanmar, is responsible for committing genocide, in this case against the Rohingya Muslim minority. Rohingya refugees reacted with tears of joy and prayers for a return home, calling the ruling a vindication. The decision is also expected to influence a separate case accusing Israel of genocide in Gaza, a charge Israel rejects.",
+      "why_it_matters": "It is the first time the world's top court has held a state responsible for genocide, setting a legal precedent that could shape the pending case over Gaza.",
+      "headline_ids": ["h001", "h039", "h292", "h260"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump, Xi and Putin hold symbolic first trilateral summit",
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first-ever trilateral meeting, on the sidelines of the APEC summit in China. The gathering was largely symbolic, giving Putin a measure of the equal global stature he has long sought, and produced no breakthroughs on nuclear arms control, the war in Ukraine, or AI rules. Trump said reaching nuclear arms limits with China and Russia would be very hard to achieve. After Trump departed, Putin said Russia would not negotiate a ceasefire with Ukraine.",
+      "why_it_matters": "A former US ambassador to China warned the summit's friendly optics sent the wrong message to US allies, at a time of no concrete progress on arms control or Ukraine.",
+      "headline_ids": ["h146", "h124", "h102", "h154", "h186", "h214"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia faces deepening scrutiny over AI chip sales to China",
+      "summary": "California's attorney general subpoenaed Nvidia as part of a probe into whether AI chips were diverted to China, a case that follows the resignation of former CEO Jensen Huang. Separately, a House committee said US regulators approved sales of nearly 900,000 AI chips to Chinese companies over six months, with lawmakers saying some buyers have ties to China's military. Nvidia's stock has continued to slide, having lost $669 billion in market value over six trading days.",
+      "why_it_matters": "The scrutiny raises questions about the enforcement of US export controls on advanced AI chips and adds pressure on a company whose chips underpin much of the AI investment boom.",
+      "headline_ids": ["h023", "h130", "h137", "h026", "h246", "h152"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "US Senate passes energy permitting reform bill",
+      "summary": "The US Senate passed the BAAJA permitting reform bill, backed by the AI and energy industries, aimed at making it easier to build pipelines, power lines and other major infrastructure. The bill now needs to clear the House before it can reach President Trump's desk, where its prospects remain uncertain. Energy Secretary Chris Wright said he is confident Congress will pass it, calling it the administration's signature effort to spur energy investment.",
+      "why_it_matters": "Faster permitting could accelerate the energy infrastructure needed to power data centers and the broader AI buildout, though the bill still faces an uncertain path through the House.",
+      "headline_ids": ["h013", "h226", "h099"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Kushner says Trump open to NATO-like guarantees for Ukraine",
+      "summary": "US envoy Jared Kushner said President Trump is open to offering Ukraine security guarantees similar to NATO's mutual-defense clause, and that he believes Russia is comfortable with the idea. Meeting in Berlin, European leaders said they have a united negotiating position and are ready for talks with Russia on ending the war, with Germany's Chancellor Friedrich Merz saying new talks including Europe could happen soon. Russian strikes on Kyiv killed one person and damaged the Austrian and Dutch embassies.",
+      "why_it_matters": "A security-guarantee framework could become a central piece of any eventual ceasefire deal, while the continuing strikes show the conflict remains unresolved.",
+      "headline_ids": ["h073", "h110", "h147", "h135", "h257"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK and EU close in on deal to reset post-Brexit ties",
+      "summary": "British and European negotiators are finalizing a deal to reset relations a decade after Brexit, expected to be sealed at Friday's UK-EU summit. The agreement is set to include a youth mobility scheme letting up to 100,000 EU citizens move to the UK each year, alongside new arrangements on food trade and carbon emissions. Talks on food and farming reportedly went down to the wire on Thursday night.",
+      "why_it_matters": "It would mark the most significant shift in UK-EU relations since Brexit, with implications for trade frictions and labor mobility between Britain and the bloc.",
+      "headline_ids": ["h040", "h076", "h272", "h175"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Houthi attacks on Riyadh and Gulf shipping stoke oil concerns",
+      "summary": "Houthi forces escalated missile attacks on Riyadh's financial district and continued targeting ships in the Strait of Hormuz, including a strike on an already-disabled tanker that could signal a more dangerous phase for Gulf shipping. A Saudi-led coalition said it intercepted a Houthi missile aimed at southern Saudi Arabia. Oil prices gained on the resulting supply concerns.",
+      "why_it_matters": "Continued attacks on a critical Gulf shipping route raise the risk of wider regional escalation and renewed pressure on global oil supply.",
+      "headline_ids": ["h177", "h030", "h090", "h126"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Japan's core inflation hits a yearly high as subsidies lapse",
+      "summary": "Japan's core inflation accelerated in October to its highest level this year, as the expiry of an energy subsidy pushed up consumer prices. The reading nonetheless came in slightly below the 2.3% economists polled by Reuters had expected. The data cements market expectations that the Bank of Japan will raise interest rates.",
+      "why_it_matters": "Firmer rate-hike expectations in Japan could support the yen and ripple through global bond markets already unsettled by the AI-driven stock selloff.",
+      "headline_ids": ["h015", "h185"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "No major economic data releases or watch-list earnings are scheduled, so markets will likely keep taking cues from the ongoing AI-related stock selloff.",
+    "The UK-EU summit is expected to finalize a reset deal, including a youth mobility scheme and new food-trade and carbon arrangements.",
+    "Investors will watch whether Nvidia's deepening regulatory scrutiny over China chip sales further weighs on sentiment across the AI trade."
+  ]
+}

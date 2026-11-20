@@ -1,0 +1,46 @@
+Wall Street's AI-driven selloff deepens despite record Anthropic IPO
+Daily Briefing · Friday, 20 November 2026
+
+AT A GLANCE
+- Global stocks extended their AI-driven selloff; Wall Street booked a fifth straight decline and Asian markets had their worst week in years.
+- Anthropic's record $81bn IPO closed up 17% on debut but failed to revive the broader AI trade as the Nasdaq fell over 2%.
+- The UN's top court ruled for the first time that a country, Myanmar, committed genocide, against the Rohingya Muslim minority.
+- Trump, Xi and Putin held a first-ever trilateral summit at APEC with no breakthroughs on nuclear arms, Ukraine or AI rules.
+- Nvidia faces a California subpoena and congressional scrutiny over AI chip sales to China as its stock keeps sliding.
+
+MARKETS
+S&P 500: 7,175.83 (-2.02%) as of Thu 19 Nov
+Nasdaq Composite: 23,879.20 (-2.25%) as of Thu 19 Nov
+Dow Jones: 49,097.06 (-2.19%) as of Thu 19 Nov
+S&P 500 futures: 7,159.25 (-0.53%) as of Fri 20 Nov
+Nasdaq 100 futures: 26,330.00 (-1.02%) as of Fri 20 Nov
+VIX volatility: 28.44 (+15.80%) as of Thu 19 Nov
+US 10-year yield: 5.05% (-1 bp) as of Thu 19 Nov
+DAX: 25,463.81 (-1.06%) as of Thu 19 Nov
+FTSE 100: 10,452.70 (-0.93%) as of Thu 19 Nov
+Euro Stoxx 50: 6,113.86 (-0.66%) as of Thu 19 Nov
+Nikkei 225: 56,511.28 (-4.93%) as of Fri 20 Nov
+Hang Seng: 22,324.84 (-2.26%) as of Fri 20 Nov
+Shanghai Composite: 3,506.61 (-1.98%) as of Fri 20 Nov
+EUR/USD: 1.0983 (+0.10%) as of Fri 20 Nov
+USD/JPY: 159.15 (-0.15%) as of Fri 20 Nov
+US dollar index: 103.80 (-0.10%) as of Fri 20 Nov
+WTI crude oil: 82.58 (-0.76%) as of Fri 20 Nov
+Brent crude oil: 89.67 (-2.51%) as of Fri 20 Nov
+Gold: 3,547.30 (-3.75%) as of Fri 20 Nov
+Bitcoin: 61,885.71 (-1.75%) as of Fri 20 Nov
+
+TOP STORIES
+- Anthropic's record IPO fails to lift broader AI trade: The muted market reaction beyond Anthropic's own stock suggests investors are growing more cautious about AI valuations generally, even as the listing sets a new benchmark for AI-sector IPOs.
+- AI-fueled stock selloff spreads across Asia, hits multi-year lows: A sustained unwind of AI-related stock valuations could tighten financial conditions well beyond the technology sector and dent investor and consumer confidence globally.
+- UN court rules Myanmar committed genocide against the Rohingya: It is the first time the world's top court has held a state responsible for genocide, setting a legal precedent that could shape the pending case over Gaza.
+- Trump, Xi and Putin hold symbolic first trilateral summit: A former US ambassador to China warned the summit's friendly optics sent the wrong message to US allies, at a time of no concrete progress on arms control or Ukraine.
+- Nvidia faces deepening scrutiny over AI chip sales to China: The scrutiny raises questions about the enforcement of US export controls on advanced AI chips and adds pressure on a company whose chips underpin much of the AI investment boom.
+- US Senate passes energy permitting reform bill: Faster permitting could accelerate the energy infrastructure needed to power data centers and the broader AI buildout, though the bill still faces an uncertain path through the House.
+- Kushner says Trump open to NATO-like guarantees for Ukraine: A security-guarantee framework could become a central piece of any eventual ceasefire deal, while the continuing strikes show the conflict remains unresolved.
+- UK and EU close in on deal to reset post-Brexit ties: It would mark the most significant shift in UK-EU relations since Brexit, with implications for trade frictions and labor mobility between Britain and the bloc.
+- Houthi attacks on Riyadh and Gulf shipping stoke oil concerns: Continued attacks on a critical Gulf shipping route raise the risk of wider regional escalation and renewed pressure on global oil supply.
+- Japan's core inflation hits a yearly high as subsidies lapse: Firmer rate-hike expectations in Japan could support the yen and ripple through global bond markets already unsettled by the AI-driven stock selloff.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-20/
+Data as of 07:01 CET. Not investment advice.
