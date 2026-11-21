@@ -1,12 +1,12 @@
-AI stock rout pushes Wall Street into correction as Nvidia, Anthropic tumble
+AI sell-off drags Wall Street into correction; Trump threatens datacenter penalties
 Daily Briefing · Saturday, 21 November 2026
 
 AT A GLANCE
-- Nasdaq erased all 2026 gains and Wall Street entered a correction as an AI-driven tech selloff intensified, led by Nvidia and Anthropic shares.
-- Nvidia fell 14%, facing an SEC accounting probe, Huang's ouster fallout and spying allegations, while Trump urged Huang's reinstatement.
-- Trump threatened "tremendous" taxes or penalties on US tech firms building AI data centers abroad, citing competition with China.
-- The UK and EU agreed a "landmark" post-Brexit deal easing trade barriers on food, emissions trading and youth mobility.
-- COP31 climate talks in Antalya stalled into overtime as nations disagreed over a fossil-fuel phaseout in the draft deal.
+- US stocks closed in correction after Anthropic's rocky IPO debut and a sharp Nvidia sell-off; VIX jumped 26%.
+- Trump threatened 'tremendous penalties' on US firms building AI data centers abroad, with no policy details given.
+- Iran-linked tensions widened: tanker incidents near Hormuz, Houthi strikes on Saudi Arabia, and Iraqi forces entering a militia stronghold.
+- Russia faced accusations of a Poland airspace violation, a Denmark assassination plot, and a drone strike on a Baltic cargo ship.
+- The EU and UK signed a post-Brexit 'reset' deal on trade and youth mobility at a Brussels summit.
 
 MARKETS
 S&P 500: 6,910.39 (-3.70%) as of Fri 20 Nov
@@ -28,19 +28,19 @@ US dollar index: 103.81 (-0.09%) as of Fri 20 Nov
 WTI crude oil: 83.98 (+0.93%) as of Fri 20 Nov
 Brent crude oil: 92.57 (+0.64%) as of Fri 20 Nov
 Gold: 3,515.40 (-4.62%) as of Fri 20 Nov
-Bitcoin: 55,703.48 (-10.01%) as of Sat 21 Nov
+Bitcoin: 58,897.82 (+0.17%) as of Sat 21 Nov
 
 TOP STORIES
-- AI-driven tech selloff pushes Wall Street into correction: The rout signals growing investor doubt about the scale of AI-related spending and could tighten financing conditions for the broader tech sector and its suppliers.
-- Nvidia faces SEC probe and fallout from Huang's exit: Nvidia's troubles deepen uncertainty around the AI trade and US-China tech tensions; the company has already dropped below Alphabet in market value.
-- Trump threatens penalties on US firms building AI data centers abroad: If implemented, the policy could reshape where tech companies locate AI infrastructure and add a new front in US-China technology competition.
-- Trump's trilateral summit with Xi and Putin yields few concrete results: The lack of concrete outcomes leaves unresolved tensions over trade, Taiwan and technology that continue to weigh on markets and diplomacy.
-- UK and EU agree post-Brexit reset deal: The deal marks the most significant easing of UK-EU trade barriers since Brexit and could provide a modest boost to UK economic growth.
-- COP31 climate talks stall into overtime over fossil fuels: A weak outcome would mark a setback for global coordination on emissions reduction at a time of rising climate-related costs.
-- Russia-Ukraine tensions escalate with new attacks and espionage allegations: The escalation underscores the war's continued risk of spilling into NATO territory and raises diplomatic tensions between Russia and European states.
-- Saudi Arabia intercepts Houthi missiles for third straight night: Renewed Houthi attacks threaten regional oil infrastructure and shipping routes, with potential knock-on effects for energy markets.
-- CrowdStrike reportedly in talks to buy Zscaler: A deal of this size would consolidate the cybersecurity sector and signal continued dealmaking activity even as broader tech valuations fall.
-- Gen Z protests over cost of living sweep Europe: The widespread protests reflect mounting public frustration with living costs across Europe, a pressure that could shape upcoming elections and policy debates.
+- Wall Street's AI-driven sell-off pushes S&P 500 and Dow into correction: A correction across the three main US indices, led by the collapse of AI-related stocks, signals investors are reassessing the sustainability of the AI investment boom, with potential spillover to global equity and bond markets.
+- Trump threatens penalties on US companies building AI data centers abroad: An unplanned threat to penalize offshore data-center investment could disrupt AI companies' global expansion plans and adds policy uncertainty just as AI-related stocks are under heavy selling pressure.
+- Nvidia faces SEC accounting probe amid espionage allegations tied to China: Regulatory scrutiny and espionage allegations compound uncertainty at one of the most important companies in the global AI supply chain, at a moment when Nvidia stock is already under heavy pressure.
+- Iran war widens: tanker incidents near Hormuz, Houthi strikes on Saudi Arabia: Continued attacks around the Strait of Hormuz, a critical oil transit chokepoint, and the widening of Iran-linked conflicts across the region raise risks to global energy supplies and regional stability.
+- Russia accused of Poland airspace violation, Denmark assassination plot, Baltic ship attack: A cluster of incidents involving Russia — airspace violations, an alleged assassination plot on EU soil, and an attack on shipping in the Baltic — point to rising friction between Russia and NATO members well beyond Ukraine's borders.
+- EU and UK strike post-Brexit 'reset' deal on trade and youth mobility: The agreements mark the most significant effort yet to rebuild UK-EU relations since Brexit, with potential implications for trade costs and labor mobility between the two economies.
+- COP31 climate talks run into overtime as fossil-fuel phaseout remains unresolved: A deadlock on fossil-fuel phaseout language at a major UN climate summit signals continued difficulty translating global climate commitments into binding action, with implications for energy policy and investment worldwide.
+- UN talks agree to keep discussing 'killer robots' but set no binding ban: The absence of binding limits on autonomous weapons leaves a regulatory gap as militaries increasingly integrate AI into weapons systems.
+- Missouri judge approves Bayer's $7.25 billion Roundup settlement: The settlement removes a major legal overhang for Bayer, one of the world's largest chemical and pharmaceutical companies, after years of litigation costs.
+- Grand Theft Auto VI hits $3.8 billion in first-day sales, a record for entertainment: The launch underscores the video game industry's growing weight in global entertainment spending and is a significant revenue event for Take-Two Interactive.
 
 Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-21/
-Data as of 07:01 CET. Not investment advice.
+Data as of 13:35 CET. Not investment advice.
