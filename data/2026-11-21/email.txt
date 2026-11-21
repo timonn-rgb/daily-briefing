@@ -1,0 +1,46 @@
+AI stock rout pushes Wall Street into correction as Nvidia, Anthropic tumble
+Daily Briefing · Saturday, 21 November 2026
+
+AT A GLANCE
+- Nasdaq erased all 2026 gains and Wall Street entered a correction as an AI-driven tech selloff intensified, led by Nvidia and Anthropic shares.
+- Nvidia fell 14%, facing an SEC accounting probe, Huang's ouster fallout and spying allegations, while Trump urged Huang's reinstatement.
+- Trump threatened "tremendous" taxes or penalties on US tech firms building AI data centers abroad, citing competition with China.
+- The UK and EU agreed a "landmark" post-Brexit deal easing trade barriers on food, emissions trading and youth mobility.
+- COP31 climate talks in Antalya stalled into overtime as nations disagreed over a fossil-fuel phaseout in the draft deal.
+
+MARKETS
+S&P 500: 6,910.39 (-3.70%) as of Fri 20 Nov
+Nasdaq Composite: 22,617.73 (-5.28%) as of Fri 20 Nov
+Dow Jones: 48,147.33 (-1.93%) as of Fri 20 Nov
+S&P 500 futures: 6,935.00 (-3.64%) as of Fri 20 Nov
+Nasdaq 100 futures: 25,126.50 (-5.54%) as of Fri 20 Nov
+VIX volatility: 35.89 (+26.20%) as of Fri 20 Nov
+US 10-year yield: 4.91% (-14 bp) as of Fri 20 Nov
+DAX: 24,802.78 (-2.60%) as of Fri 20 Nov
+FTSE 100: 10,346.30 (-1.02%) as of Fri 20 Nov
+Euro Stoxx 50: 5,941.95 (-2.81%) as of Fri 20 Nov
+Nikkei 225: 56,436.65 (-5.06%) as of Fri 20 Nov
+Hang Seng: 22,410.80 (-1.89%) as of Fri 20 Nov
+Shanghai Composite: 3,533.79 (-1.22%) as of Fri 20 Nov
+EUR/USD: 1.0970 (-0.02%) as of Fri 20 Nov
+USD/JPY: 159.71 (+0.20%) as of Fri 20 Nov
+US dollar index: 103.81 (-0.09%) as of Fri 20 Nov
+WTI crude oil: 83.98 (+0.93%) as of Fri 20 Nov
+Brent crude oil: 92.57 (+0.64%) as of Fri 20 Nov
+Gold: 3,515.40 (-4.62%) as of Fri 20 Nov
+Bitcoin: 55,703.48 (-10.01%) as of Sat 21 Nov
+
+TOP STORIES
+- AI-driven tech selloff pushes Wall Street into correction: The rout signals growing investor doubt about the scale of AI-related spending and could tighten financing conditions for the broader tech sector and its suppliers.
+- Nvidia faces SEC probe and fallout from Huang's exit: Nvidia's troubles deepen uncertainty around the AI trade and US-China tech tensions; the company has already dropped below Alphabet in market value.
+- Trump threatens penalties on US firms building AI data centers abroad: If implemented, the policy could reshape where tech companies locate AI infrastructure and add a new front in US-China technology competition.
+- Trump's trilateral summit with Xi and Putin yields few concrete results: The lack of concrete outcomes leaves unresolved tensions over trade, Taiwan and technology that continue to weigh on markets and diplomacy.
+- UK and EU agree post-Brexit reset deal: The deal marks the most significant easing of UK-EU trade barriers since Brexit and could provide a modest boost to UK economic growth.
+- COP31 climate talks stall into overtime over fossil fuels: A weak outcome would mark a setback for global coordination on emissions reduction at a time of rising climate-related costs.
+- Russia-Ukraine tensions escalate with new attacks and espionage allegations: The escalation underscores the war's continued risk of spilling into NATO territory and raises diplomatic tensions between Russia and European states.
+- Saudi Arabia intercepts Houthi missiles for third straight night: Renewed Houthi attacks threaten regional oil infrastructure and shipping routes, with potential knock-on effects for energy markets.
+- CrowdStrike reportedly in talks to buy Zscaler: A deal of this size would consolidate the cybersecurity sector and signal continued dealmaking activity even as broader tech valuations fall.
+- Gen Z protests over cost of living sweep Europe: The widespread protests reflect mounting public frustration with living costs across Europe, a pressure that could shape upcoming elections and policy debates.
+
+Read the full briefing: https://timonn-rgb.github.io/daily-briefing/2026-11-21/
+Data as of 07:01 CET. Not investment advice.

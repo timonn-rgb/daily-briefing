@@ -1,0 +1,105 @@
+{
+  "headline": "AI stock rout pushes Wall Street into correction as Nvidia, Anthropic tumble",
+  "at_a_glance": [
+    "Nasdaq erased all 2026 gains and Wall Street entered a correction as an AI-driven tech selloff intensified, led by Nvidia and Anthropic shares.",
+    "Nvidia fell 14%, facing an SEC accounting probe, Huang's ouster fallout and spying allegations, while Trump urged Huang's reinstatement.",
+    "Trump threatened \"tremendous\" taxes or penalties on US tech firms building AI data centers abroad, citing competition with China.",
+    "The UK and EU agreed a \"landmark\" post-Brexit deal easing trade barriers on food, emissions trading and youth mobility.",
+    "COP31 climate talks in Antalya stalled into overtime as nations disagreed over a fossil-fuel phaseout in the draft deal."
+  ],
+  "market_analysis": "US stocks fell sharply Friday, with the S&P 500 down 3.70% and the Dow down 1.93%, both closing in correction territory, while the Nasdaq dropped 5.28% to erase all its 2026 gains in its worst week since the Covid-19 crash. The selloff was led by Nvidia, down 14% in its longest weekly losing streak since 2008 amid an SEC accounting probe and fallout from Jensen Huang's ouster, plus a second-day slide in newly listed Anthropic shares. The VIX jumped 26.2% to 35.89 and the 10-year Treasury yield fell 14bp to 4.91% as investors sought safety.\n\nAsian and European markets followed Wall Street lower. The Nikkei 225 fell 5.06%, the Hang Seng 1.89% and the Shanghai Composite 1.22%. In Europe, the DAX dropped 2.60%, the Euro Stoxx 50 fell 2.81% and the FTSE 100 lost 1.02%. Gold fell 4.62% to $3,515.40, and bitcoin dropped more than 10% to $55,703, tracking the broader selloff in risk assets.\n\nNo major economic data releases or watch-list earnings are scheduled today, leaving markets focused on the fallout from the AI-driven correction, Nvidia's SEC probe, and Trump's threat to penalize US tech firms that build data centers abroad.",
+  "mover_notes": {
+    "GPN": "GTCR, a private equity firm, is reportedly exploring a takeover of the payments company.",
+    "NVDA": "Shares fell amid a new SEC probe into Nvidia's accounting practices and continued fallout from ousted CEO Jensen Huang's espionage-related exit.",
+    "MU": "Part of a broader selloff in AI-linked chip stocks, which lost a combined $2.3 trillion in value this week.",
+    "AMD": "Part of the same broad AI chip-stock selloff that also hit Nvidia and Micron this week.",
+    "LITE": "Swept up in the week's broad selloff in AI-linked chip and optical-component stocks."
+  },
+  "stories": [
+    {
+      "section": "Business & Tech",
+      "title": "AI-driven tech selloff pushes Wall Street into correction",
+      "summary": "The S&P 500 and Dow Jones closed in correction territory Friday, while the Nasdaq erased all its 2026 gains in the worst week for US tech stocks since the Covid-19 crash. The declines were led by a slide in Nvidia and a second-day drop in newly public Anthropic shares. Chip stocks lost a combined $2.3 trillion in value over the week, and all 11 S&P 500 sectors finished lower for the week for the first time since April 2025. Some strategists described the pullback as a \"healthy\" correction that could reset valuations after a period of heavy AI investment.",
+      "why_it_matters": "The rout signals growing investor doubt about the scale of AI-related spending and could tighten financing conditions for the broader tech sector and its suppliers.",
+      "headline_ids": ["h002", "h003", "h006", "h008", "h092", "h105", "h107", "h108", "h128", "h129", "h131", "h141", "h143", "h176", "h207"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "Nvidia faces SEC probe and fallout from Huang's exit",
+      "summary": "Nvidia shares fell 14% Friday, their worst weekly performance since 2008, as the company faces a US SEC investigation into its accounting practices. The scrutiny follows the resignation of CEO Jensen Huang amid an espionage scandal, with a woman linked to Huang, Alice Huang, reportedly tied to Chinese firms with military connections. Huang has agreed to testify publicly before a Senate committee. President Trump called for Huang to make a \"big apology\" and return to the company, though he called the prospect unlikely.",
+      "why_it_matters": "Nvidia's troubles deepen uncertainty around the AI trade and US-China tech tensions; the company has already dropped below Alphabet in market value.",
+      "headline_ids": ["h004", "h005", "h035", "h064", "h074", "h080", "h126", "h151", "h153", "h157", "h170", "h221", "h300"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "Trump threatens penalties on US firms building AI data centers abroad",
+      "summary": "President Trump said Friday he would seek \"tremendous penalties,\" including a possible tax, on US tech companies that build AI data centers outside the country. He gave no details on how the policy would work, and officials said other members of his administration learned of the plan only during the press conference. Trump framed the move as necessary to prevent China from taking the lead in AI development. The comments came during a wide-ranging press conference after his return from Asia.",
+      "why_it_matters": "If implemented, the policy could reshape where tech companies locate AI infrastructure and add a new front in US-China technology competition.",
+      "headline_ids": ["h001", "h007", "h014", "h177", "h187", "h189", "h206", "h210", "h240"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Trump's trilateral summit with Xi and Putin yields few concrete results",
+      "summary": "President Trump returned from Asia touting \"fantastic relationships\" with China's Xi Jinping and Russia's Vladimir Putin after a first-ever trilateral meeting at the APEC summit in Shenzhen. Analysts said the talks produced little of substance on US-China trade, Taiwan or AI, though the US, China and Russia did agree to increase oil supply. Trump said he and Xi agreed that humans should remain involved in military AI decisions, and that he discussed ousted Nvidia CEO Jensen Huang with Xi.",
+      "why_it_matters": "The lack of concrete outcomes leaves unresolved tensions over trade, Taiwan and technology that continue to weigh on markets and diplomacy.",
+      "headline_ids": ["h028", "h137", "h149", "h258", "h264", "h282", "h298"],
+      "single_source": false
+    },
+    {
+      "section": "Economy & Policy",
+      "title": "UK and EU agree post-Brexit reset deal",
+      "summary": "The UK and EU struck a \"landmark\" deal covering British food exports, participation in the EU's emissions trading scheme, and a youth mobility scheme, a decade after the Brexit vote. UK officials said the agreement could add 0.5% in annual economic growth, though the question of university tuition fees for EU students remains unresolved. Analysts cautioned the deal is unlikely to immediately lower food prices for consumers.",
+      "why_it_matters": "The deal marks the most significant easing of UK-EU trade barriers since Brexit and could provide a modest boost to UK economic growth.",
+      "headline_ids": ["h018", "h026", "h167", "h208", "h251", "h253", "h255", "h279", "h280"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "COP31 climate talks stall into overtime over fossil fuels",
+      "summary": "UN climate talks in Antalya spilled into overtime as nations failed to agree on a deal, with a draft declaration omitting any mention of a fossil-fuel phaseout. The EU warned the summit risks becoming a \"fossil summit\" if commitments are left out of the final text. Disinformation and attacks on climate science were also cited as factors slowing progress. Negotiators remained divided after nearly two weeks of talks.",
+      "why_it_matters": "A weak outcome would mark a setback for global coordination on emissions reduction at a time of rising climate-related costs.",
+      "headline_ids": ["h075", "h090", "h124", "h201", "h202"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Russia-Ukraine tensions escalate with new attacks and espionage allegations",
+      "summary": "Ukrainian President Volodymyr Zelensky called Vladimir Putin a \"killer\" after Russia launched one of its largest aerial attacks of the war, days after Trump described Putin as a \"friend.\" Poland accused Russia of a \"provocation\" after objects from the attack landed in Polish territory during allied military exercises. Separately, Denmark said it had expelled a Russian diplomat and accused Moscow of plotting to assassinate a Ukrainian-American rapper using local gang members. Estonia closed border crossings with Russia following a drone-related attack.",
+      "why_it_matters": "The escalation underscores the war's continued risk of spilling into NATO territory and raises diplomatic tensions between Russia and European states.",
+      "headline_ids": ["h034", "h078", "h144", "h160", "h203", "h204", "h234", "h256", "h273", "h288"],
+      "single_source": false
+    },
+    {
+      "section": "Geopolitics",
+      "title": "Saudi Arabia intercepts Houthi missiles for third straight night",
+      "summary": "A Saudi-led coalition said it intercepted three Houthi missiles aimed at Riyadh, the third consecutive night of attacks, prompting emergency alerts in the Saudi capital. The Houthis have also threatened airlines flying to the kingdom and warned they would target Saudi ports and power stations. Saudi-led forces struck a Yemeni port in response. The escalation comes after four years of relative calm in the Yemen conflict.",
+      "why_it_matters": "Renewed Houthi attacks threaten regional oil infrastructure and shipping routes, with potential knock-on effects for energy markets.",
+      "headline_ids": ["h061", "h089", "h099", "h146", "h235", "h246"],
+      "single_source": false
+    },
+    {
+      "section": "Business & Tech",
+      "title": "CrowdStrike reportedly in talks to buy Zscaler",
+      "summary": "Cybersecurity firm CrowdStrike is in talks to acquire Zscaler, according to people familiar with the matter, in what would be one of the largest-ever deals in the sector. Zscaler shares jumped 18% on the report; the company had a market value of about $32 billion before the news. Cybersecurity companies have been pursuing acquisitions as competition in the AI era intensifies.",
+      "why_it_matters": "A deal of this size would consolidate the cybersecurity sector and signal continued dealmaking activity even as broader tech valuations fall.",
+      "headline_ids": ["h009", "h139", "h163"],
+      "single_source": false
+    },
+    {
+      "section": "Other",
+      "title": "Gen Z protests over cost of living sweep Europe",
+      "summary": "Thousands of young protesters rallied across roughly 25 European countries, including Germany, over the rising cost of living, military spending and climate concerns. In Germany, protesters demanded improvements to education, climate policy and affordability. Separately, a general strike hit Italy over living costs and public services, with workers and students protesting ahead of Prime Minister Giorgia Meloni's expected re-election bid.",
+      "why_it_matters": "The widespread protests reflect mounting public frustration with living costs across Europe, a pressure that could shape upcoming elections and policy debates.",
+      "headline_ids": ["h021", "h072", "h266", "h281", "h294", "h215"],
+      "single_source": false
+    }
+  ],
+  "watch_today": [
+    "Markets will watch whether Friday's correction stabilizes or extends, with no major US economic data or watch-list earnings scheduled today.",
+    "Nvidia's SEC accounting probe and Jensen Huang's upcoming Senate testimony remain in focus as investors assess the fallout for AI-linked stocks.",
+    "COP31 negotiators in Antalya continue overtime talks, with attention on whether a fossil-fuel phaseout survives in the final agreement."
+  ]
+}
